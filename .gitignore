@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+
+# Office / editor temp files
+~$*
+*.tmp
+*.bak
+.~lock.*#
+
+# Local build output
+/build/
+/export/
