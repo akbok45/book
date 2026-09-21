@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: Tortuga harbour front
 when: Evening
 status: draft
-words: 1445
+words: 1421
 ---
 
 <!-- BEAT: Vaz pays for the finger. Their own gear described. Outfitting. Bonesy is bought a hat, a belt, a blade. Crumble goes up the hill to Domingo. -->
@@ -20,11 +20,11 @@ Crumble carries a blade Balam had made for him the year he finished teaching him
 
 I wear hides, but not the way a man pictures when I say it. Not skins thrown over the shoulder like some hunter come down out of the hills. I wear a pirate’s coat and a pirate’s rig, cut and stitched the way any man’s is on this water, only I built mine, and I built it out of what the sea and the hunt gave me. Hide worked into the facings where the salt eats wool to nothing. Hide at the shoulders and the forearms where a blade looks to land. Hide sewn down over the canvas in panels, oiled dark, so it turns water where canvas drinks it and breathes where wool boils a man in his own sweat. It is mine, every piece of it off an animal I knew the death of, and it has kept the parts of me a man wants kept more times than I can count. To a stranger it reads as a coat that has been somewhere. That is the whole of what I want it to read as.
 
-And I do not carry a cutlass. I carry two Spanish blades, lighter than shipboard iron and quicker in a crowd. They are Toledo in shape, but the steel is older than that in its making: crucible steel, wootz by another name, high-carbon and watered in the Arab fashion, with dark lines running through it when the light catches right..
+And I do not carry a cutlass. I carry two Spanish blades, lighter than shipboard iron and quicker in a crowd. They are Toledo in shape, but the steel is older than that in its making: crucible steel, wootz by another name, high-carbon and watered in the Arab fashion, with dark lines running through it when the light catches right.
 
-I learned the Spanish sword before I even knew what tortuga was,, in rooms with swept floors and boys whose fathers had paid for them to stand straight. They called it form. Form is useful until someone is trying to kill you. I learned the rest in back rooms with dirt on the floor and coin underfoot, where steel went where it could reach and no one called it unfair until he was opened.
+I learned the Spanish sword before I even knew what Tortuga was, in rooms with swept floors and boys whose fathers had paid for them to stand straight. They called it form. Form is useful until someone is trying to kill you. I learned the rest in back rooms with dirt on the floor and coin underfoot, where steel went where it could reach and no one called it unfair until he was opened.
 
-Needless to say me and crumble where not going to be buying new swords.
+Needless to say me and Crumble were not going to be buying new swords.
 
 The gear we wanted was the plain kind a man replaces, and we went to get it. Powder, dry, off a Dutchman who kept it dry and charged for the keeping, and a fresh paper of flints to spark it. Cartridge wadding and a ball-mould and bar lead to cast our own. A coil of good hemp and a bolt of canvas for the sailmaker’s work that never ends. Pitch and oakum for her seams. Salt pork in the cask and turtle we’d take live and keep on its back in the bilge for fresh meat, and hard biscuit, and a netted sack of limes and another of oranges against the rot that loosens a man’s teeth and then takes the rest of him. A breaker of water sweetened with a little rum so it would keep. Crumble went off on his own account and came back with the things no Dutchman stocks, got from the Maya who keep to the back lanes of any port on this coast. Ground cacao pressed into hard tablets, bitter as bilge and worth more than its weight to a man on a long sail. A twist of dried chiles. Pom, the tree-blood incense the old people burn to their dead, which he did not explain and I did not ask after. Supplies are supplies, and a man’s reasons are his own.
 
@@ -41,7 +41,5 @@ We got him a belt too, broad, to take a blade, and hung a short sword on it that
 Crumble was already pulling his collar up, though it was warm. “I’m away up to find Domingo,” he said. “He’ll know if the old man left word with anyone but me. He keeps the ears of half the coast and lends them cheap to people he likes.” He looked at me. “He knew Balam. Boys together, before any of it. He goes by Domingo down here because a Maya name in a Spanish port is a thing men collect you for. To me he’s not Domingo.” He said the other name, soft, with the finish I do not have. “Don’t follow me up. He won’t open with strangers by, and the two of you are a great deal of strange.”
 
 “We’ll find a tavern and lower rum,” I said. “You’ll know us by the wreckage.”
-
-He went up the hill into the dark of the town, and I watched him go until I couldn’t, the way I always do.
 
 He went up the hill into the dark of the town, and I watched him go until I couldn’t, the way I always do.

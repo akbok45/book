@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: Tortuga, the one tavern
 when: Night
 status: draft
-words: 2193
+words: 2155
 ---
 
 <!-- BEAT: The outpost drawn. The skull on the card table, the mermaid behind the curtain. Jigsaw clocks the Spanish spy and can do nothing under the town's law. -->
@@ -35,8 +35,6 @@ Bonesy considered the curtain as we crossed to our corner.
 “I’m an honest thing. It’s worse.” He dropped onto the bench with his new hat and his new belt and the blade he had no use for, well pleased with himself. “Buy me a cup I can’t drink, Jigsaw. I like to hold a thing while I watch other men make poor decisions.”
 
 So I bought a bottle of something brown that had been other things before it was rum, and a cup he could not drink from, and we took the corner.
-
-Two swaps. The gull-in-hen’s-feathers becomes a ladyfish jumping like a tarpon, and the strokes-on-canvas becomes random coordinates on a chart. Both bolded below. The “you do not come by that face honestly” line stays as you liked it.
 
 We had not been in the corner long when I marked the one face in the room that did not belong to it.
 

@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The Spanish ship, aground on the coral
 when: Same morning
 status: draft
-words: 1561
+words: 1507
 ---
 
 <!-- BEAT: She comes in and strikes. Bonesy works the gun. Jigsaw and Crumble come down the masthead from the cliff. The deck fight and the captain. -->
@@ -25,10 +25,6 @@ The masthead stood level with the rock where we crouched, near enough to touch. 
 No one had looked up. The bow was smoke and splinters, and every eye was on it.
 
 A barracuda does its waiting before the rush. After that there is only the flash of it, and the water opening red behind.
-
-We had waited long enough.
-
-I set the first pistol to the nearest back and fired. The shot went through him and found the sailor in front of him, and both dropped into the smoke. Crumble fired twice beside me. Two more went down before the deck understood the trouble had come from behind.
 
 We had waited long enough.
 

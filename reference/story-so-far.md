@@ -28,7 +28,7 @@ The perceptive one. His domain is the physical world: water, weather, currents, 
 
 **The deeper hunger:** beneath the adventure and the gold, Jigsaw is searching for meaning. He's chased the spiritual unknown his whole life, the "door" at the bottom of the sea he stood at when he was twenty and didn't go through. He frames it as adventure but it's a search for something he can't name. He's the one who wants the codex most, which is exactly why his counsel of caution carries weight.
 
-**With Crumble:** fifteen years of brotherhood, since they ran the Mosquito Coast at sixteen. They communicate in silences and unspoken things they hand each other and never say aloud. Jigsaw watches Crumble go "until I can't."
+**With Crumble:** about seven years of brotherhood, from meeting as very young men at Tortuga, with the years they spent apart folded in the middle. They communicate in silences and unspoken things they hand each other and never say aloud. Jigsaw watches Crumble go "until I can't."
 
 **Appearance:** 6'2", razor-shaved head, scar on his face, hide-built pirate gear (hide sewn into a working coat, not worn like a hunter), twin lighter Spanish arming swords instead of a cutlass. A legend follows him from a galleon he cleared single-handed.
 

@@ -22,7 +22,7 @@ The wind hauled into the headland above the temple’s mouth, and a branch came 
 
 I had been on the windward end of what remained of a stone bench for an hour, working a knot out of a length of cord with my teeth, listening to the storm and to him. We were in the back room of an old Maya temple that had given up at the front a long time ago. The front had come down at the doorway in stones and the stones had grown over in vines, and the door was a mouth now. The chamber behind the mouth was lower than a man’s reach and four long paces deep, and at this hour of an afternoon, with the weather what it was, it was dark enough that Crumble had lit the lamp. The lamp gave us back a little of the day. It lit the carvings in the band along the walls well enough that a man could read them, if a man knew how, and Crumble did. It lit the three of us, and the three of us in that light looked like three men of dignity, which we were not.
 
-Crumble was against the south wall with a leather pouch open in his lap. He had taken a tobacco leaf out of the pouch some time before and was working a corner of it slow in the back of his cheek, the way Balam had taught him, the way the people of this country had done before the Spanish ever came and dried the leaf and rolled it into sticks. He had a chart laid across his thighs to pass the time. He had been reading it for two days. He read charts the way a priest reads a scripture, in the small steady way of a man who is not in a hurry and does not feel he is being watched. He had closed his eyes some time back without leaving the chart there, which was his way of saying he did not want to be talked to. I knew the look. I had known it fifteen years.
+Crumble was against the south wall with a leather pouch open in his lap. He had taken a tobacco leaf out of the pouch some time before and was working a corner of it slow in the back of his cheek, the way Balam had taught him, the way the people of this country had done before the Spanish ever came and dried the leaf and rolled it into sticks. He had a chart laid across his thighs to pass the time. He had been reading it for two days. He read charts the way a priest reads a scripture, in the small steady way of a man who is not in a hurry and does not feel he is being watched. He had closed his eyes some time back without leaving the chart there, which was his way of saying he did not want to be talked to. I knew the look. I had known it seven years.
 
 I should say, on Bonesy.
 
@@ -160,7 +160,7 @@ Crumble’s eyes opened.
 
 “What.”
 
-“There’s tarpon in a pool on the windward side of a half-moon island west of the Bay of Honduras. Six and seven feet of them. They slide past each other on a current the pool has got no business having. Water no deeper than my waist. They don’t turn off when a man comes up on them. I crouched on the stone nine years back and put my hand in the water. They went past my hand. They went past it slow.”
+“There’s tarpon in a pool on the windward side of a half-moon island west of the Bay of Honduras. Six and seven feet of them. They slide past each other on a current the pool has got no business having. Water no deeper than my waist. They don’t turn off when a man comes up on them. I crouched on the stone five years back and put my hand in the water. They went past my hand. They went past it slow.”
 
 The chamber went quiet the way a chamber does when the wind that has been working at it for two days finally lets up.
 
@@ -174,7 +174,7 @@ The chamber went quiet the way a chamber does when the wind that has been workin
 
 He closed his eyes again. He did not look surprised. He looked like a man who had been holding his breath without knowing it and had only just been able to let it out.
 
-I had stood at the edge of that pool nine years back. I had been twenty. The water behind the tarpon had not stopped moving the way a small shallow pool’s water stops, when the wind quits and there is no reason for it to keep on. The water had been pulling somewhere I could not see. I had stood and watched it the better part of an hour. I had got into the dinghy and gone home. I had not spoken of it to Crumble. I had not spoken of it to anyone. I had been telling myself for nine years that someday I would go back.
+I had stood at the edge of that pool five years back. I had been twenty. The water behind the tarpon had not stopped moving the way a small shallow pool’s water stops, when the wind quits and there is no reason for it to keep on. The water had been pulling somewhere I could not see. I had stood and watched it the better part of an hour. I had got into the dinghy and gone home. I had not spoken of it to Crumble. I had not spoken of it to anyone. I had been telling myself for five years that someday I would go back.
 
 Bonesy made a noise. We looked at him.
 
