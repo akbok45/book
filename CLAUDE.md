@@ -21,7 +21,7 @@ These override every craft note in `reference/craft/`. If a craft doc and this s
 
 | Character | Register | Volume |
 |---|---|---|
-| **Bonesy** | High, raspy, drawn out. Common words only, he was a peasant, not a wit. Short lines. Pauses. Pries with questions, never theses. Comma loose. Bawdy and bodily, of its century. | Loudest |
+| **Bonesy** | High, raspy, drawn out. Common words only, he was a peasant, not a wit. Short lines. Pauses. Pries with questions, never theses. Comma loose. Bawdy and bodily, and looser with the century than the other two, see the note under the ban list. | Loudest |
 | **Crumble** | Terse, controlled, a man sitting at his own wake. Grief in the hands and the jaw, never in a speech. Says it is fine and reaches for a task. Maya softening only the trusted hear. | Middle |
 | **Jigsaw** | Plain sailor's mouth, dry. Quietest in the room, loudest on the page, because we live in his head. Narration observes, withholds, then leaks personal when the wound is touched. | A notch under Crumble |
 
@@ -32,6 +32,8 @@ Rhythm test for Bonesy. Wrong, too built: *"I'm only watching the two of you not
 okay, OK, guys, yeah, yep, nope, hi, hey, cool, awesome, fine (as in "I'm fine"), deal with it, no problem, I guess, kind of, sort of, focus, contact (as a verb), teenager, boyfriend, girlfriend, definitely, basically, actually, obviously, thing.
 
 Also banned as period errors: **gun** for a hand weapon (gun means cannon, use pistol, musket, piece), **maroon** for Jigsaw's father's people (it means escaped African captives, a different people), **guerrilla** (not a word until the 1800s), **"Arrr"** and all Hollywood pirate speech.
+
+**Bonesy gets latitude on the ban list.** In his mouth only, and on register only. He can reach for a word that lands a century early, because sounding wrong in the room is what he is. What he cannot do is name an object, a trade, or an idea that did not exist yet. Rule 5 holds for every mouth in the book. *Hello, fellas* stays.
 
 ---
 

@@ -12,6 +12,9 @@ cool, awesome, fine (as "I'm fine"), deal with it, no problem, I guess, kind of,
 sort of, focus, contact (verb), teenager, boyfriend, girlfriend, definitely,
 basically, actually, obviously, thing.
 
+Bonesy is exempt on register. A word in his mouth that lands a century early
+is him, not a slip, and stays. The exemption is diction only, see pass 7.
+
 **2. "Thing".** Out of the narration entirely. Allowed in a mouth that would
 reach for it, and Bonesy would. Two standing exceptions where vagueness is the
 point: *the thing I have never been able to name*, and *the thing forty years of
@@ -35,8 +38,10 @@ after the behavior already landed it.
 somewhat, a bit, rather, quite, very, seemed to, began to, started to. Also the
 sentence that restates the one before it.
 
-**7. Period errors.** *Gun* means cannon, a hand weapon is a pistol, musket or
-piece. Not *maroon* for Jigsaw's father's people. Not *guerrilla*. No *Arrr* or
+**7. Period errors.** Applies to every mouth including Bonesy's, because this
+is the world rather than the manners. He may sound modern, he may not name an
+object, a trade or an idea that did not exist. *Gun* means cannon, a hand weapon
+is a pistol, musket or piece. Not *maroon* for Jigsaw's father's people. Not *guerrilla*. No *Arrr* or
 any Hollywood pirate speech. Check every object, food, coin and idea against
 `reference/world-1690.md`.
 

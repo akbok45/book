@@ -66,6 +66,8 @@ The things that break the spell fastest are small. Boot laces. A fair. A word li
 
 **Gun** means cannon in this century. A hand weapon is a pistol, a musket, or a piece.
 
+**Bonesy is exempt on register.** He can sound a century early and it reads as him rather than as a slip, because he is a walking dead man with no stake in how a room expects him to talk. *Hello, fellas* is his. The exemption covers diction and idiom only. He cannot name a made object, a trade, or an idea that has not been invented, because that breaks the world rather than the manners.
+
 ## 6. Feeling in behavior
 
 The rule the whole book runs on. A wound is never announced. It shows in the hands, the jaw, where the eyes go, what gets reached for.

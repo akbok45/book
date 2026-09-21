@@ -42,7 +42,9 @@ Same scene. They keep two *"because an officer is worth more breathing"*, and th
 
 **Settled: the note is deleted. Both swaps were already made in the text below it.**
 
-**8. Stage direction in present tense.** *Partly settled: the present tense line is deleted, it duplicated the sentence above it. Bonesy still says* fellas, *which is Aydin’s call.* `ch03/04-the-boat.md`: *"He crouches close, looks them over. 'Hello, fellas.'"* The rest of the book is past tense. Also *fellas* reads modern in a 1690 mouth. Bonesy would say *lads* or *boys*.
+~~**8. Stage direction in present tense.**~~
+
+**Settled: the present tense line is deleted, it duplicated the sentence above it. *Fellas* stays. Bonesy has latitude on register now, written into `CLAUDE.md` under the ban list and into `notes/style-rules.md` under rule 5.**
 
 **9. Author's aside in the narration.** `ch02/02-the-hat.md`: *"Needless to say me and crumble where not going to be buying new swords."* Lowercase name, *where* for *were*, and the register drops out of the book for one line.
 
