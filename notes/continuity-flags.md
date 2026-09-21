@@ -17,11 +17,15 @@ Fix: the line in 1.1 and the paragraph in the recap.
 `ch01/01`: *"I had stood at the edge of that pool nine years back. I had been twenty."*
 That puts him at twenty nine. The bible puts him early twenties, 23 to 25, a year older than Crumble. Either the pool was fewer years back or he was younger at it.
 
-**3. The dead on the rock.**
+~~**3. The dead on the rock.**~~
+
+**Settled: nothing is laid out on the rock. The seven dead are carried to the lip and paid into the water one at a time, then the two living go in after them. The leftover "Fixed." instruction is deleted.**
 `ch03/04-the-boat.md` carries both versions. The scene lays the eight out along the shelf *"where a man a half mile off with a glass to his eye would have no trouble at all counting"*, and then four paragraphs later: *"All eight bodies went into the water off the rock, none laid out on it. Fixed."*
 The bait works either way. Bodies in the water pull the captain in harder. Bodies on the rock let him count. Pick one and cut the other.
 
-**4. The officer kept and not used.**
+~~**4. The officer kept and not used.**~~
+
+**Settled: nobody is kept for what they know. "Because an officer is worth more breathing" is cut and replaced with the real reason, that a live man works at the surface and holds the glass. Both kept men are hamstrung and put in, the oarsman first.**
 Same scene. They keep two *"because an officer is worth more breathing"*, and then he is killed on the rock without a word asked of him. Either he gives up something first, or the line about him being worth more breathing goes.
 
 ## Draft artifacts, almost certainly accidental
@@ -38,7 +42,7 @@ Same scene. They keep two *"because an officer is worth more breathing"*, and th
 
 **Settled: the note is deleted. Both swaps were already made in the text below it.**
 
-**8. Stage direction in present tense.** `ch03/04-the-boat.md`: *"He crouches close, looks them over. 'Hello, fellas.'"* The rest of the book is past tense. Also *fellas* reads modern in a 1690 mouth. Bonesy would say *lads* or *boys*.
+**8. Stage direction in present tense.** *Partly settled: the present tense line is deleted, it duplicated the sentence above it. Bonesy still says* fellas, *which is Aydin’s call.* `ch03/04-the-boat.md`: *"He crouches close, looks them over. 'Hello, fellas.'"* The rest of the book is past tense. Also *fellas* reads modern in a 1690 mouth. Bonesy would say *lads* or *boys*.
 
 **9. Author's aside in the narration.** `ch02/02-the-hat.md`: *"Needless to say me and crumble where not going to be buying new swords."* Lowercase name, *where* for *were*, and the register drops out of the book for one line.
 
@@ -46,10 +50,15 @@ Same scene. They keep two *"because an officer is worth more breathing"*, and th
 
 - ~~`ch02/02`: *"when the light catches right.."* double period.~~ Settled.
 - ~~`ch02/02`: *"before I even knew what tortuga was,,"* double comma, and *tortuga* wants a capital.~~ Settled.
-- **Maya or Mayans.** The narration uses *the Mayans* in `ch03/01` and `ch03/02` and *the Maya* or *the old people* everywhere else. Crumble would not say Mayans. Pick one and sweep.
+- ~~**Maya or Mayans.**~~ **Settled: Mayans, everywhere the plural noun appears. One instance changed in `ch02/02`. *The old people* is left alone, it is a different locution and deliberate.**
+- **Maya as an adjective is still open.** *A Maya man*, *a Maya name*, *a Maya keeper* appear five times across `ch01/01`, `ch02/02` and `ch02/03`. The plural ruling does not settle whether these become *Mayan*.
 - `ch01/02`: *"a great many hands that thought touching it would do them good"* is fine. Noted only because the finger is called Margaret in the bible and never named in the prose. If she is to be Margaret on the page, the naming beat is not written yet.
 
 ## Bible questions still marked open
 
 - Whether the twin swords are his own from the dueling years, mended by the brotherhood blacksmith, or taken off dead men. The bible proposes the first and asks for a veto. The prose currently states neither, so nothing needs changing until it does.
 - The name of the father's secret brotherhood. Marked to be named, appears nowhere in the prose yet.
+
+## Raised by the boat rewrite
+
+- **The count of the dead.** Ten in the boat, two kept, so eight died. One of the eight, the gut-cut young one, was pitched into the lagoon during the fight and is already in the water. That leaves seven to carry up, and the scene now says seven where it used to say eight. If you want the lagoon one hauled back and paid in with the rest, the number goes back to eight.

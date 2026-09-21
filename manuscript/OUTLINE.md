@@ -25,10 +25,10 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | 3.1 | `ch03-the-cay/01-running-dark.md` | 859 | Crumble's account of the forest. The first mark and no leg drawn past it. The water left behind. Bonesy names the cay and the stone Ixchel over the spring. |
 | 3.2 | `ch03-the-cay/02-the-girl.md` | 867 | Bonesy pries at the leaving. Ixmal named. Thirst, hunger, the tunny eaten raw. Crumble's four words about going back. A sail on the rim of the sea. |
 | 3.3 | `ch03-the-cay/03-the-gate-and-the-spring.md` | 993 | The one mean gap in the reef. The spring under the cut face of Ixchel. The ship stands off like a barracuda and swings out a boat. The trap decided without a word. |
-| 3.4 | `ch03-the-cay/04-the-boat.md` | 1125 | The ambush. Ten in the boat, eight killed in it, two kept and killed on the rock where the glass can see. Bait laid. |
+| 3.4 | `ch03-the-cay/04-the-boat.md` | 1231 | The ambush. Ten in the boat, eight killed in it. The dead paid into the water one at a time off the lip, then the two kept, both hamstrung and put in after them, all of it where the glass can see. Bait laid. |
 | 3.5 | `ch03-the-cay/05-the-reef.md` | 1507 | She comes in too fast and strikes the coral. Bonesy works the one gun. The two come down the masthead from the cliff into the smoke. The deck fight and the captain from the clean rooms. |
 
-**Total drafted: 13,962 words.**
+**Total drafted: 14,069 words.**
 
 ## What comes after
 

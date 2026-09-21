@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The cove, under the palms
 when: Morning
 status: draft
-words: 1125
+words: 1231
 ---
 
-<!-- BEAT: The ambush on the boat crew. Eight dead, two kept, both killed on the rock in sight of the ship. Bait laid. -->
+<!-- BEAT: The ambush on the boat crew. Eight dead, two kept. The dead paid into the water one at a time, then the two hamstrung after them, all of it in sight of the ship. Bait laid. -->
 
 The boat came in on the slack water with the oars dipping easy, ten men in her, the morning sun bright on the steel they’d brought to take three tired pirates off a rock. They came the way a dog comes for a thrown bone, sure of the having, eyes on nothing but the prize. They did not look up.
 
@@ -30,24 +30,26 @@ It was a butchering. I will set it down as that, because I have heard men call t
 
 And we kept two.
 
-That was the cold part, the part we’d settled on the rock with a look and no words. The soft-necked officer, because an officer is worth more breathing. And one big slow oarsman who’d dropped his blade and thrown his hands up, which on another morning might have bought him something. We bound them.
+That was the cold part, the part we’d settled on the rock with a look and no words. The soft-necked officer. And one big slow oarsman who’d dropped his blade and thrown his hands up, which on another morning might have bought him something. A dead man goes down and is a number. A live one works at the surface a long while, and the man with the glass to his eye cannot put it down. We bound them.
 
 Bonesy came down off the rocks and crouched in front of the two of them, his skull a hand’s width from their faces, and looked them over the way you’d look over fish on a market slab.
 
-He crouches close, looks them over. “Hello, fellas.”
+“Hello, fellas.”
 
-The rest we hauled up. Crumble took the shoulders and I took the feet and we carried the dead up off the sand to the high shelf one by one, eight of them, and laid them out along the rock where the line was clean to the sea, where a man a half mile off with a glass to his eye would have no trouble at all counting what was left of the boat he’d sent.
+The rest we hauled up. Crumble took the shoulders and I took the feet and we carried the dead up off the sand to the high shelf one by one, seven of them, and set them in a row along the lip where the line was clean to the sea.
 
 “Then let’s give him something to watch,” said Crumble.
 
-I went to the oarsman first. He was crying. I opened his throat and sent him off the rock and he went in with barely a sound.
+We put them in the water. Not together. One, and a count, and the next, the way you pay out a line you mean a man to watch running. Each went off the lip and struck and went under and came up turning. The current along the face took them out slow. By the fourth there was a string of them standing away from the rock in good order, and a man a half mile off with a glass to his eye would have no trouble at all counting what was left of the boat he’d sent.
+
+Then the two.
+
+I went to the oarsman first. He was crying. I cut the back of both his knees and stood him up and put my boot to him, and he went off the lip with his arms going.
 
 The officer did not cry. He watched me come the way a fish holds still when a heron’s shadow crosses the water above it, still because still is all that is left to it. I cut the back of both his knees and stood him up and put my boot to him.
 
 He went in screaming. The coat filled with water and dragged him and he came up anyway, both hands beating at the surface, the ruined legs trailing dark behind him. He got his chin up once. Went under. Came up again with less in it. The coat took him on the third.
 
-I heard him stop.
-
-All eight bodies went into the water off the rock, none laid out on it. Fixed.
+I heard him stop. The oarsman went on a while after that, out past the string of the dead, and then he did not.
 
 I was already cleaning the blade.
