@@ -91,7 +91,7 @@ never did.
 
 ## Raised by thinning the Cárdenas introduction
 
-**The homeless line.** Cutting the explanatory run in 2.1 took this with it:
+~~**The homeless line.**~~ **Settled: kept, and placed in 2.4 where he has just acted, per Aydin.** It now reads *Forty years of it and no one has put him down. The not being dead is the frightening part.*, sitting between Bonesy's “That fast.” and his callback to the law. The old framing, *the thing about a man who has done that for forty years*, is gone, since it put *thing* in the narration. The clause itself is untouched. It used to read:
 
 > and the thing about a man who has done that for forty years and is not yet
 > dead is that the not being dead is the frightening part.
