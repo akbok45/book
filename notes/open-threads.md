@@ -24,3 +24,23 @@ Story and character questions still unsettled. Not errors. Decisions waiting to 
 - **The finger, called Margaret in the bible, is unnamed in the prose.** If Bonesy names her, the naming is the beat, and it should sit near the moment he objects to handing her from one gold house to the next.
 - **How the codex gate actually opens at the end of the trilogy.** The bible has it: the bond between the three is the key, so the emotional arc and the mystical mechanic are one thing. Book one only needs to plant that the locks are not locks.
 - **Curses are anomalous in this world.** Bonesy is one. Cardenas keeps occult artifacts. Somebody eventually asks how a man becomes what Bonesy is, and Bonesy does not care, which is its own answer.
+
+## Raised by chapter 4
+
+Chapter 4 stops at the edge of the pool on purpose. Everything past it is
+plot, and plot is not Claude's to decide. What the draft now needs from you:
+
+- **What is behind the water.** The outline says a cave and the first mark.
+  Nothing about what is in it, what it costs to reach, or what it gives them
+  has been written or guessed at here.
+- **Who goes in.** Jigsaw has wanted this for five years and Crumble paid
+  Domingo for it. Bonesy does not breathe, which is either the obvious answer
+  or a joke he would make about being the obvious answer.
+- **Whether the door at twenty is the same door.** The bible keeps it unnamed
+  and his own. 4.2 does not name it either, but going into the water is where
+  that stops being possible to defer.
+
+Also drafted into 4.1 and open to veto: they take the wrecked ship's Spanish
+charts, which is seamanship rather than plot, but it does hand them better
+navigation than they had for the rest of the book.
+
