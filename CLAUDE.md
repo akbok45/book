@@ -45,6 +45,7 @@ manuscript/          the book itself, one file per scene, in reading order
   ch02-tortuga/
   ch03-the-cay/
   OUTLINE.md         scene index, word counts, what happens where
+  STORYBOARD.md      what is planned, what is settled, what is blocking
 reference/
   character-bible.md the leads, the antagonist, the dead, the timeline
   story-so-far.md    plain recap of book one to date

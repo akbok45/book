@@ -30,6 +30,8 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 
 ## Chapter 4, The Half Moon
 
+**Provisional.** Drafted ahead of any plan, before `STORYBOARD.md` existed. May not survive it.
+
 | # | File | Words | What happens |
 |---|---|---|---|
 | 4.1 | `ch04-the-half-moon/01-open-water.md` | 782 | Sharks in the cove by mid morning. Stripping the wreck before the coral takes her: powder, biscuit, cordage, her glass, her charts. Water off the spring under Ixchel, a finger thick, all afternoon. Eleven days west and south. Bonesy pries at the pool and Jigsaw gives him nothing, and the narration says what he will not, that the pool was his for five years because he never went into it, and is now the only road the three of them have. Crumble asks one question and lets it alone. |
