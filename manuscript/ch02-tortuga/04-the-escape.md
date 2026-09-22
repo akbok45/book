@@ -8,7 +8,7 @@ status: draft
 words: 1371
 ---
 
-<!-- BEAT: The garrison comes down out of the fort, which the fort does not do. Jigsaw and Bonesy go down to the sloop and leave the water on the quay. The soldiers stop at the head of the front street because the money bought the fort and not the front. Jigsaw works the tide three times waiting on his brother. Crumble comes along the water from the west with nothing in his hand. -->
+<!-- BEAT: The garrison comes down out of the fort, which the fort does not do. Jigsaw and Bonesy go down to the sloop and leave the water on the quay. The soldiers stop at the head of the front street because the money bought the fort and not the front. Jigsaw works the tide three times waiting on Crumble. Crumble comes along the water from the west with nothing in his hand. -->
 
 I sat with it a while. There is a use for most of what I put my eye to and I could not find the use for this one. A man goes up a hill. Another man goes up after him. I sit in a corner with a bottle of brown and the law of this place across my lap like a dog that will have me if I stand.
 

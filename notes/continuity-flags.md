@@ -64,3 +64,28 @@ Same scene. They keep two *"because an officer is worth more breathing"*, and th
 ## Raised by the boat rewrite
 
 - **The count of the dead.** Ten in the boat, two kept, so eight died. One of the eight, the gut-cut young one, was pitched into the lagoon during the fight and is already in the water. That leaves seven to carry up, and the scene now says seven where it used to say eight. If you want the lagoon one hauled back and paid in with the rest, the number goes back to eight.
+
+## Open: the word "brother"
+
+Aydin: Jigsaw and Crumble are not brothers. The bible bears that out. Jigsaw's
+parents died of malaria and he came to Tortuga alone, Crumble trained under
+Balam, and they met at Tortuga as very young men. No blood between them.
+
+So every use in the book is figurative, which is period-sound. *The brethren*
+is what the buccaneer fraternity called itself, and `reference/world-1690.md`
+carries it. But it is in the prose once, and it reads as kinship to a reader
+who has not been told otherwise:
+
+- `ch02/03-the-clean-face.md`, last line: *And up that same hill, ahead of him,
+  my brother was walking to the one man left on the earth who was a piece of
+  Balam.*
+
+And in the reference, where it is only shorthand and harmless: *the two
+brothers are the same wound from opposite ends* in the bible, *not knowing if
+his brother lives* in the recap, *the brothers* in three more places.
+
+**Decision needed:** keep *brother* in 2.3 as a figure, since a sworn brother
+among the brethren is exactly what Crumble is to him, or sweep it and find the
+word Jigsaw would actually use. Nothing else in the prose uses it. `04-the-escape.md`
+never did.
+
