@@ -91,16 +91,23 @@ never did.
 
 ## Raised by thinning the Cárdenas introduction
 
-~~**The homeless line.**~~ **Settled: kept, and placed in 2.4 where he has just acted, per Aydin.** It now reads *Forty years of it and no one has put him down. The not being dead is the frightening part.*, sitting between Bonesy's “That fast.” and his callback to the law. The old framing, *the thing about a man who has done that for forty years*, is gone, since it put *thing* in the narration. The clause itself is untouched. It used to read:
+**The homeless line. Held, not placed.**
 
 > and the thing about a man who has done that for forty years and is not yet
 > dead is that the not being dead is the frightening part.
 
-The bible names that idea as the threat, so it is not meant to disappear. It
-went because it was a stated conclusion in the one paragraph being thinned,
-and because 2.3 already carries *an old master forty years at his trade* in a
-better place. It is in git if you want it back. If you want it kept, it wants
-a scene where he has just done something, not one where he is being described.
+Cut from 2.1 when the Cárdenas introduction was thinned. Tried in 2.4 between
+Bonesy's “That fast.” and his callback to the law, as *Forty years of it and no
+one has put him down. The not being dead is the frightening part.* Aydin: it
+does not sound good there. Pulled back out.
+
+So the idea is wanted and has nowhere yet. The bible names it as the threat,
+so it is not to be dropped. Two notes for whoever places it next:
+
+- The original framing puts *thing* in the narration, so the clause wants to
+  stand on its own wherever it lands.
+- It failed in 2.4 in the middle of a fast exchange. It may want a scene with
+  air in it rather than one accelerating toward a quay.
 
 **Pre-existing in 2.1, untouched, flagged only.** Both sit in the closing
 paragraph and neither came from this pass:

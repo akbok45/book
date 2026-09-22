@@ -16,7 +16,7 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | 2.1 | `ch02-tortuga/01-nine-days-east.md` | 351 | Nine days beating east. Crumble names Cárdenas as the owner of the robbed cellar, and the naming is all it is now. Tortuga raised on the ninth evening. |
 | 2.2 | `ch02-tortuga/02-the-hat.md` | 1421 | Vaz pays for the finger. Their own gear described at length. Outfitting for the voyage. Bonesy is bought a hat, a belt, a blade, the first things he has ever owned. Crumble goes up the hill to Domingo. |
 | 2.3 | `ch02-tortuga/03-the-clean-face.md` | 2155 | The outpost drawn, the skull on the card table, the mermaid behind the curtain. Jigsaw clocks a spy by his soft hands and works out what Cardenas will assemble from almost nothing. The town's law leaves him nothing to do. |
-| 2.4 | `ch02-tortuga/04-the-escape.md` | 935 | Four lanterns come down out of the fort gate. Jigsaw names Cárdenas as the buyer and Bonesy answers “That fast.” They go down to the sloop and leave the water breaker on the quay. Men come out of the tavern and off the decks and stand, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. |
+| 2.4 | `ch02-tortuga/04-the-escape.md` | 916 | Four lanterns come down out of the fort gate. Jigsaw names Cárdenas as the buyer and Bonesy answers “That fast.” They go down to the sloop and leave the water breaker on the quay. Men come out of the tavern and off the decks and stand, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. |
 
 ## Chapter 3, The Cay
 
@@ -28,7 +28,7 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | 3.4 | `ch03-the-cay/04-the-boat.md` | 1231 | The ambush. Ten in the boat, eight killed in it. The dead paid into the water one at a time off the lip, then the two kept, both hamstrung and put in after them, all of it where the glass can see. Bait laid. |
 | 3.5 | `ch03-the-cay/05-the-reef.md` | 1507 | She comes in too fast and strikes the coral. Bonesy works the one gun. The two come down the masthead from the cliff into the smoke. The deck fight and the captain from the clean rooms. |
 
-**Total drafted: 14,929 words.**
+**Total drafted: 14,910 words.**
 
 ## What comes after
 

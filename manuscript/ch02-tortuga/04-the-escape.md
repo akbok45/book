@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: Tortuga, the tavern step, the front street, the quay
 when: The same night, late
 status: draft
-words: 935
+words: 916
 ---
 
 <!-- BEAT: Four lanterns come down out of the fort gate. Jigsaw and Bonesy go down to the sloop and leave the water breaker on the quay. Men come out of the tavern and off the decks and stand, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. -->
@@ -51,8 +51,6 @@ Bonesy came out behind me. He does not breathe, so there is never any warning.
 Bonesy was quiet a moment. “That fast.”
 
 “The clean face went up an hour ago.”
-
-Forty years of it and no one has put him down. The not being dead is the frightening part.
 
 “I said I never had much use for that law.”
 
