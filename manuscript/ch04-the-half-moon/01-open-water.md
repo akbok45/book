@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The cay, then at sea, west and south
 when: The morning after the reef, and the days after
 status: draft
-words: 782
+words: 705
 ---
 
 <!-- BEAT: Sharks in the cove. Stripping the wreck before she goes. Water off the spring under Ixchel. Out west with a better glass and a Spanish chart. Bonesy pries at the pool. Jigsaw's private place is now the only road the three of them have, because Domingo has the rest of the course. Crumble asks the one question that matters and lets it alone. -->
@@ -17,10 +17,6 @@ She was bilged forward and settled by the head, and her stern swung a little on 
 Powder in the dry cask. Shot for the one gun. Biscuit, a cask of salt beef gone over but not gone, cordage, canvas, a spare set of blocks, and a copper kettle Bonesy took a liking to that nobody argued about. Her glass, which was better than ours by a long way. Her charts, which were Spanish and careful and worth more than the rest of it together.
 
 We took the water last and we took it slow. The spring under Ixchel came out of the rock the thickness of a man's finger and would not be hurried, and we stood a man at it in turn through the afternoon and into the dark, filling what we had.
-
-Bonesy worked the wreck longer than either of us and came off her last every time. Twice I went looking and found him standing in the wash on her lower deck where the sea had already got in, doing nothing, with the dead lying in it around him. He was not going through their pockets. I have been a year with him and I know the difference.
-
-The third time I did not go and get him.
 
 “He'll know where we were,” Crumble said. He was on the stones with the chart across his knees and had not unrolled it yet.
 

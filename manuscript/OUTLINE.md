@@ -34,10 +34,10 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 
 | # | File | Words | What happens |
 |---|---|---|---|
-| 4.1 | `ch04-the-half-moon/01-open-water.md` | 782 | Sharks in the cove by mid morning. Stripping the wreck before the coral takes her: powder, biscuit, cordage, her glass, her charts. Water off the spring under Ixchel, a finger thick, all afternoon. Eleven days west and south. Bonesy pries at the pool and Jigsaw gives him nothing, and the narration says what he will not, that the pool was his for five years because he never went into it, and is now the only road the three of them have. Crumble asks one question and lets it alone. |
+| 4.1 | `ch04-the-half-moon/01-open-water.md` | 705 | Sharks in the cove by mid morning. Stripping the wreck before the coral takes her: powder, biscuit, cordage, her glass, her charts. Water off the spring under Ixchel, a finger thick, all afternoon. Eleven days west and south. Bonesy pries at the pool and Jigsaw gives him nothing, and the narration says what he will not, that the pool was his for five years because he never went into it, and is now the only road the three of them have. Crumble asks one question and lets it alone. |
 | 4.2 | `ch04-the-half-moon/02-the-pool.md` | 699 | No landing on the windward side, so they anchor in the lee and walk over. The pool is where he left it and the tarpon are in it. He puts his hand in as he did at twenty and the big one goes past slow with its eye on him, in front of two witnesses. Crumble reads the water, says it is pulling, and asks where it goes. Jigsaw has never found out. |
 
-**Total drafted: 16,391 words.**
+**Total drafted: 16,314 words.**
 
 ## What comes after
 
