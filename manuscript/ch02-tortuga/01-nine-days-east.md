@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: At sea, beating east
 when: Nine days' passage
 status: draft
-words: 426
+words: 351
 ---
 
 <!-- BEAT: Crumble names Cardenas as the owner of the robbed fort. Tortuga raised on the ninth evening. -->
@@ -18,7 +18,7 @@ We were close-hauled and beating, and he had the tiller, and I was forward worki
 
 “That garrison was Cárdenas’s,” he said, to the horizon.
 
-I did not stop working the line. I did not need to ask which Cárdenas. There is only the one, for us. We had crossed his people twice before and carried the lesson of it on us still, Crumble in a seam of scar under his ribs and me in the habit of counting a Spanish crew twice before I believed the number. Don Mateo de Cárdenas. Forty years at the one trade, which is making the world Spanish and Christian and taking out whatever in front of him is neither, and he had been at it in Peru when he was young and at it up our way since, and the thing about a man who has done that for forty years and is not yet dead is that the not being dead is the frightening part.
+I did not stop working the line. I did not need to ask which Cárdenas. There is only the one, for us. We had crossed his people before and carried it on us still, Crumble in a seam of scar under his ribs and me in the habit of counting a Spanish crew twice before I believed the number. Don Mateo de Cárdenas.
 
 “We robbed a cellar of his,” I said.
 

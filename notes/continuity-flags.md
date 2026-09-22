@@ -89,3 +89,29 @@ among the brethren is exactly what Crumble is to him, or sweep it and find the
 word Jigsaw would actually use. Nothing else in the prose uses it. `04-the-escape.md`
 never did.
 
+## Raised by thinning the Cárdenas introduction
+
+**The homeless line.** Cutting the explanatory run in 2.1 took this with it:
+
+> and the thing about a man who has done that for forty years and is not yet
+> dead is that the not being dead is the frightening part.
+
+The bible names that idea as the threat, so it is not meant to disappear. It
+went because it was a stated conclusion in the one paragraph being thinned,
+and because 2.3 already carries *an old master forty years at his trade* in a
+better place. It is in git if you want it back. If you want it kept, it wants
+a scene where he has just done something, not one where he is being described.
+
+**Pre-existing in 2.1, untouched, flagged only.** Both sit in the closing
+paragraph and neither came from this pass:
+
+- *two men carrying things they will not set down* and *who is a hard thing to
+  be louder than*. Rule 2 puts *thing* out of the narration. The first may be
+  earning the standing vagueness exception, the second is not.
+- *We raised Tortuga on the ninth evening, the turtle-back of it black against
+  a sky going the colour of a bruise on the mend, and came into the road under
+  the last light with the canvas down to nothing, the way you come into a place
+  where everyone watching owns a glass and a grudge.* Four commas, no list. It
+  is one of the best sentences in the chapter, which is why it is flagged and
+  not cut.
+
