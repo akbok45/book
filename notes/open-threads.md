@@ -4,7 +4,10 @@ Story and character questions still unsettled. Not errors. Decisions waiting to 
 
 ## Structural
 
-- **The Tortuga escape is unwritten.** The draft cuts from the tavern straight to the boat at sea. Everything that happens in the gap is known from the recap: the garrison bought, the forest meeting, Domingo standing up out of the green, Jigsaw running for the ship not knowing if his brother lives, the water abandoned on the quay. It is the largest hole in book one and the highest value scene left to draft, because it is where Crumble is made to leave a man behind on the same night Bonesy is given a hat.
+- ~~**The Tortuga escape is unwritten.**~~ **Drafted as `ch02-tortuga/04-the-escape.md`, 1,371 words.** Jigsaw POV throughout, per the POV law. The forest stays offstage so Crumble's account in 3.1 still does its work, and 3.1 is untouched. Three calls in it are yours to keep or cut:
+  - **The front street standing.** The recap says they slip out clean because Tortuga will not allow killing in the harbour. I staged that as the soldiers stopping at the head of the front street while the men come out of the tavern and the chandlery with their cups and look up at them. The reason is yours, the staging is mine.
+  - **Jigsaw sets *bought* beside *bought*.** One sentence where he notices the officer who took his woman was a bought man too, and puts it down again. The bible says he already has some idea of the Cárdenas link, so this leaks a little of it early. Cut the sentence if you want that landing later.
+  - **He gives the tide away.** He works the sum three times, tells Bonesy the number, then waits past it. Nothing in the recap says how close they cut it.
 - **What Domingo was about to say.** The bearing from the first cave to the second mark. Whether the reader ever gets it, and from whom, sets the shape of the back half.
 
 ## Character

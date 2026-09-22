@@ -16,7 +16,7 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | 2.1 | `ch02-tortuga/01-nine-days-east.md` | 426 | Nine days beating east. Crumble names Cardenas as the owner of the robbed cellar. Tortuga raised on the ninth evening. |
 | 2.2 | `ch02-tortuga/02-the-hat.md` | 1421 | Vaz pays for the finger. Their own gear described at length. Outfitting for the voyage. Bonesy is bought a hat, a belt, a blade, the first things he has ever owned. Crumble goes up the hill to Domingo. |
 | 2.3 | `ch02-tortuga/03-the-clean-face.md` | 2155 | The outpost drawn, the skull on the card table, the mermaid behind the curtain. Jigsaw clocks a spy by his soft hands and works out what Cardenas will assemble from almost nothing. The town's law leaves him nothing to do. |
-| **2.4** | **MISSING** | 0 | **The escape.** Cardenas's money turns the French garrison. Crumble takes the forest path, gets part of the confirmation, and Domingo stands up out of the green so Crumble can run. Jigsaw runs for the ship not knowing if his brother lives. They slip out clean and leave their water on the quay. Currently the draft cuts straight from 2.3 to 3.1. |
+| 2.4 | `ch02-tortuga/04-the-escape.md` | 1371 | The garrison comes down out of the fort, which the fort does not do. Jigsaw and Bonesy go down to the sloop and leave the water breaker on the quay. The soldiers stop at the head of the front street, because the money bought the fort and not the front. Jigsaw works the tide three times waiting on his brother, and gives it away. Crumble comes along the water from the west with nothing in his hand. |
 
 ## Chapter 3, The Cay
 
@@ -28,7 +28,7 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | 3.4 | `ch03-the-cay/04-the-boat.md` | 1231 | The ambush. Ten in the boat, eight killed in it. The dead paid into the water one at a time off the lip, then the two kept, both hamstrung and put in after them, all of it where the glass can see. Bait laid. |
 | 3.5 | `ch03-the-cay/05-the-reef.md` | 1507 | She comes in too fast and strikes the coral. Bonesy works the one gun. The two come down the masthead from the cliff into the smoke. The deck fight and the captain from the clean rooms. |
 
-**Total drafted: 14,069 words.**
+**Total drafted: 15,440 words.**
 
 ## What comes after
 
