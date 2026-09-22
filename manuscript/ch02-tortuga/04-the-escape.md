@@ -5,12 +5,12 @@ pov: Jigsaw, first person, past
 place: Tortuga, the tavern step, the front street, the quay
 when: The same night, late
 status: draft
-words: 1371
+words: 939
 ---
 
-<!-- BEAT: The garrison comes down out of the fort, which the fort does not do. Jigsaw and Bonesy go down to the sloop and leave the water on the quay. The soldiers stop at the head of the front street because the money bought the fort and not the front. Jigsaw works the tide three times waiting on Crumble. Crumble comes along the water from the west with nothing in his hand. -->
+<!-- BEAT: Four lanterns come down out of the fort gate. Jigsaw and Bonesy go down to the sloop and leave the water breaker on the quay. The front comes out of the tavern and off the decks and stands, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. -->
 
-I sat with it a while. There is a use for most of what I put my eye to and I could not find the use for this one. A man goes up a hill. Another man goes up after him. I sit in a corner with a bottle of brown and the law of this place across my lap like a dog that will have me if I stand.
+I sat with it a while. A man goes up a hill. Another man goes up after him. I sit in a corner with a bottle of brown and the law of this place in my lap.
 
 Bonesy let it run a good while. For him.
 
@@ -34,15 +34,9 @@ He turned the cup he could not drink from, once, on the boards.
 
 “Men with one reason go,” Bonesy said.
 
-I did not answer that, and I did not sit with it either. I took the bottle out to the step, because a man who will not go up a hill can at least stand where he can see it.
+I did not answer that. I took the bottle out to the step, where I could see the hill.
 
-There were lights coming down it.
-
-That was nothing in itself. Men come down a hill all night in a town built on one. But these came down at a spacing. Four of them, and the gaps between them did not open and close the way gaps do when men are walking together and talking. They held. A lantern in a man’s hand swings with his own business and drifts where he drifts. Four lanterns holding their distance off one another are not four men. They are one order, carried by four.
-
-And they had come out of the fort.
-
-The governor takes his share and signs his papers and stays behind his wall. That is the arrangement. It is the whole of the arrangement, and it has held since before I was at sea, and every man on that front street has built his life on the second half of it. It did not hold that night. I stood on the step and watched it come apart at a walk.
+There were lights coming down it. Four, evenly apart, holding the spacing where men walking home would have bunched and straggled. They had come out of the fort gate.
 
 Bonesy came out behind me. He does not breathe, so there is never any warning.
 
@@ -60,7 +54,7 @@ He was quiet a moment. “I said I never had much use for it.”
 
 “I’ve a use for it now.”
 
-Above the lanterns the hill went black where the trees start, and there was nothing in the black to read. I read it anyway. I stood on that step and read nothing for longer than I had to spare, and Bonesy stood beside me and let me do it, which cost him more than it would cost another man.
+Above the lanterns the hill went black where the trees start. I stood and looked at the black for longer than I had to spare. Bonesy stood beside me and said nothing, which he can keep up about as long as a man can hold his breath.
 
 “He’ll come down to the water,” he said.
 
@@ -68,11 +62,11 @@ Above the lanterns the hill went black where the trees start, and there was noth
 
 “Then we want to be on it.”
 
-We went down the front. Not running. You do not run on that street unless you want every man on it to turn and look at what you are running from, and I did not want the front looking up that hill one breath before it had to.
+We went down the front at a walk. A man running on that street turns every head on it, and I did not want the front looking up that hill yet.
 
-She lay where we had left her, bow out, with the last of the evening’s buying still on the stones beside her. The pork was aboard. The powder was aboard, because powder goes aboard first and it goes aboard always. What stood on the stones was the breaker of water, and the netted sack of oranges, and a coil of good hemp none of us had got to.
+She lay where we had left her, bow out, with the last of the evening’s buying still on the stones beside her. The pork was aboard. The powder was aboard, because powder goes aboard first. What stood on the stones was the breaker of water, and the netted sack of oranges, and a coil of good hemp none of us had got to.
 
-A full breaker does not go onto a deck in a hurry. It wants two at the stones and a third at the rail to take the weight off them, and we had no third.
+A full breaker wants two men at the stones and a third at the rail, and we had no third.
 
 “I can get it aboard,” Bonesy said.
 
@@ -84,19 +78,19 @@ He looked at it a moment. He did not lie to me.
 
 “Then leave it.”
 
-He left it. He put the oranges over the rail and left the water standing on the quay, and neither of us said anything further about it, and I have thought about that breaker more since than I have thought about most men I have killed.
+He left it. He put the oranges over the rail and left the water standing on the stones, and I have thought about that breaker more since than I have thought about most men I have killed.
 
 They came off the hill and onto the head of the front street and stopped.
 
-There is a line at the top of that street that no man ever drew. The fort is above it. The front is below it. Everything the governor is owed goes up the hill to him and nothing of his comes down, and there is not a man alive who can tell you when that began or whose mouth it came out of first. Four lanterns stood at the head of the street and did not come past.
+Men were already coming out behind them. Out of the tavern, off the decks along the quay, out of the chandlery with the door still going. Nobody drew. They came out with their cups in their hands and stood on the stones and looked up the street, and there got to be a great many of them, and the four lights stayed where they were.
 
-And the front came out to look at them. Not armed, most of it. Not shouting. Men came out of the tavern and out of the chandlery and up off the decks along the quay, and stood on the stones with their cups still in their hands, and looked up the street at four Frenchmen with lights.
+One of the Frenchmen lifted his lantern to put it on a face and lowered it again.
 
-Cárdenas had bought the fort. He had not bought the front, and the front is what the fort stands on.
+They did not come past the chandlery.
 
 We got her lines singled and I took the tiller and we did not go.
 
-The tide was making. I had until it turned and a little after, and past that the gap out by the point goes foul and stays foul till morning. A sloop that sits in that harbour until morning is a sloop a bought garrison has the whole night to think about.
+The tide was making. I had until it turned and a little after, and past that the gap out by the point goes foul and stays foul till morning.
 
 I worked it out three times. The answer did not move. I worked it out again.
 
@@ -116,11 +110,11 @@ He let it sit. Then, quieter than he goes: “You’ve done the sum.”
 
 I told him. He said nothing to that. From him there is no louder answer.
 
-A man who has been left once will give the tide away sooner than he will let on he is giving it, because the sooner he casts off the sooner it is his own doing and not another man’s. I know the shape of that in me. The man she went to was a bought man as well. I had not set those two words beside one another until that night on the tiller, and I set them down again quickly, because there was a gap to make and I could not make it and hold that at once.
+The man who took her had bought his commission. I had not set that beside the fort until I was at the tiller with nothing to do but sit, and I put it down again, because there was a gap to make.
 
-I gave the tide away. I gave it all the way away, past the sum and out the other side of it, and I would have gone on giving it.
+I gave the tide away. I gave it all the way away, past the sum and out the other side of it.
 
-He did not come down the street. I had been watching the street, which is what a man does when he wants a man to come.
+He did not come down the street. I had been watching the street.
 
 He came along the water from the west, out of the dark past the last of the storehouses. He was wet to the thigh. He had Balam’s blade still in his hand and nothing else in it.
 
@@ -132,6 +126,6 @@ Crumble went forward and put his hand on the cable.
 
 “Let her go,” he said.
 
-We went out on the last of it. The gap by the point let us through with water under her, which was the one mercy anybody did us that night. The breaker stood on the quay where we had left it, pale on the dark stones, and it was standing there still when the town went behind the point.
+We went out on the last of it. The gap by the point let us through with water under her. The breaker stood on the quay where we had left it, pale on the dark stones, and it was standing there still when the town went behind the point.
 
-Above the town the lanterns had gone back up the hill and into the fort, in the same good order they had come down in.
+Above the town the lights had gone back up the hill and into the fort, in the same order they came down in.
