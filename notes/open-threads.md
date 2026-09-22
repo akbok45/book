@@ -6,7 +6,7 @@ Story and character questions still unsettled. Not errors. Decisions waiting to 
 
 - ~~**The Tortuga escape is unwritten.**~~ **Drafted as `ch02-tortuga/04-the-escape.md`, 1,371 words.** Jigsaw POV throughout, per the POV law. The forest stays offstage so Crumble's account in 3.1 still does its work, and 3.1 is untouched. Three calls in it are yours to keep or cut:
   - **The front street standing.** The recap says they slip out clean because Tortuga will not allow killing in the harbour. I staged that as the soldiers stopping at the head of the front street while the men come out of the tavern and the chandlery with their cups and look up at them. The reason is yours, the staging is mine.
-  - **Jigsaw sets *bought* beside *bought*.** One sentence where he notices the officer who took his woman was a bought man too, and puts it down again. The bible says he already has some idea of the Cárdenas link, so this leaks a little of it early. Cut the sentence if you want that landing later.
+  - ~~**Jigsaw sets *bought* beside *bought*.**~~ **Cut.** Aydin flagged the sentence. The Cárdenas link stays unleaked in 2.4, so *when the full link lands* is still wide open below.
   - **He gives the tide away.** He works the sum three times, tells Bonesy the number, then waits past it. Nothing in the recap says how close they cut it.
 - **What Domingo was about to say.** The bearing from the first cave to the second mark. Whether the reader ever gets it, and from whom, sets the shape of the back half.
 

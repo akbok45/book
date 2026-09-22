@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: Tortuga, the tavern step, the front street, the quay
 when: The same night, late
 status: draft
-words: 939
+words: 899
 ---
 
-<!-- BEAT: Four lanterns come down out of the fort gate. Jigsaw and Bonesy go down to the sloop and leave the water breaker on the quay. The front comes out of the tavern and off the decks and stands, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. -->
+<!-- BEAT: Four lanterns come down out of the fort gate. Jigsaw and Bonesy go down to the sloop and leave the water breaker on the quay. Men come out of the tavern and off the decks and stand, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. -->
 
 I sat with it a while. A man goes up a hill. Another man goes up after him. I sit in a corner with a bottle of brown and the law of this place in my lap.
 
@@ -62,7 +62,7 @@ Above the lanterns the hill went black where the trees start. I stood and looked
 
 “Then we want to be on it.”
 
-We went down the front at a walk. A man running on that street turns every head on it, and I did not want the front looking up that hill yet.
+We went down to the water at a walk. A man running on that street turns every head on it, and I did not want those heads going up the hill yet.
 
 She lay where we had left her, bow out, with the last of the evening’s buying still on the stones beside her. The pork was aboard. The powder was aboard, because powder goes aboard first. What stood on the stones was the breaker of water, and the netted sack of oranges, and a coil of good hemp none of us had got to.
 
@@ -108,9 +108,7 @@ He let it sit. Then, quieter than he goes: “You’ve done the sum.”
 
 “How long.”
 
-I told him. He said nothing to that. From him there is no louder answer.
-
-The man who took her had bought his commission. I had not set that beside the fort until I was at the tiller with nothing to do but sit, and I put it down again, because there was a gap to make.
+I told him. Bonesy, who has never once run out of talk, did not say anything.
 
 I gave the tide away. I gave it all the way away, past the sum and out the other side of it.
 
