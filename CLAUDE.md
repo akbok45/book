@@ -55,6 +55,7 @@ notes/
   style-rules.md     the prose laws expanded, with worked examples
   continuity-flags.md contradictions and draft artifacts awaiting a decision
   open-threads.md    plot and character questions still unsettled
+  the-crew.md        how the three are together: the lift, not only the wound
 _raw/                the original single file exports, kept as a backup. Do not edit.
 .claude/commands/    /draft, /linecheck, /continuity, /status
 tools/wordcount.sh   words per scene, chapter subtotals, stale front matter
