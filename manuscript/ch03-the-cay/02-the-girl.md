@@ -10,7 +10,7 @@ words: 867
 
 <!-- BEAT: Bonesy pries at Crumble's leaving. Ixmal named. Thirst and the tunny. Crumble's four words about going back. A sail astern. -->
 
-Bonesy lasted until the lamps of Tortuga were down under the sea behind us, and not a breath past it.
+Bonesy lasted until the lamps of Petit-Goâve were down under the sea behind us, and not a breath past it.
 
 He folded onto the thwart across from Crumble and tipped the new hat back off his brow with one finger, easy, a man settling in to enjoy himself.
 

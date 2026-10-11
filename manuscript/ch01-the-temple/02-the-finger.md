@@ -38,7 +38,7 @@ He looked at me.
 
 His jaw set. Something moved behind his eyes and was put away, and I knew the shape of it, because I’d handed it to him. I’d as good as said he’d run us at the thing half-cocked if I let him, that the man Balam made couldn’t be trusted to wait. He didn’t answer it. He let it sit in him. That is the way of us. There are things we hand each other that neither one says out loud, and they go in, and they stay in, and you find them again years later still where you put them.
 
-“So Tortuga,” he said. “It’s the wrong heading.”
+“So Petit-Goâve,” he said. “It’s the wrong heading.”
 
 “It’s the wrong heading and the right order. East before west. We get the finger to the man, we get paid, we fit her out, then we point her at your old man’s island with a full hold and a clean name. We don’t go down empty.”
 
@@ -88,7 +88,7 @@ He went still in a way he does not usually go still, the performing gone clean o
 
 But he’d heard it. I saw him hear it.
 
-“So we get her to the man,” I said, to give him somewhere to put it. “He’s at Tortuga, or his people are. We hand her over, we get paid, we fit her out, and we go.”
+“So we get her to the man,” I said, to give him somewhere to put it. “He’s at Petit-Goâve, or his people are. We hand her over, we get paid, we fit her out, and we go.”
 
 Bonesy looked down at the finger against his front.
 
@@ -108,7 +108,7 @@ We left the way you leave a place you don’t mean to see again and don’t want
 
 The storm had scrubbed the morning clean. The sky had gone that hard washed blue it goes after a blow, and the cove was so clear over the white sand you could count the links of her chain from the rocks. She sat in the pass between the two stone arms with her single mast raked back and her hull the colour of a thing built not to be seen, riding to her scope, waiting on us like she’d known all along we’d be back and had better things to think about in the meantime.
 
-I stood on the rock above her and looked past her, out the pass, south and east, the road to Tortuga.
+I stood on the rock above her and looked past her, out the pass, south and east, the road to Petit-Goâve.
 
 It was empty.
 

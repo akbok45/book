@@ -9,14 +9,14 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | 1.1 | `ch01-the-temple/01-beatriz-and-the-book.md` | 2362 | Two days into the storm in a ruined Maya temple. Bonesy courts the stone Beatriz. The failed Veracruz job laid out. Bonesy raises the priests' broken book. Crumble names Balam. Jigsaw names the tarpon pool and the door he did not go through at twenty. |
 | 1.2 | `ch01-the-temple/02-the-finger.md` | 2248 | First light. Jigsaw argues east before west, and the plan dies for want of pay. Bonesy produces the saint's finger he took in the cellar and watched them mourn for two days. Goodbye to Beatriz, no joke, no heart in the dust. |
 
-## Chapter 2, Tortuga
+## Chapter 2, Petit-Goâve
 
 | # | File | Words | What happens |
 |---|---|---|---|
-| 2.1 | `ch02-tortuga/01-nine-days-east.md` | 351 | Nine days beating east. Crumble names Cárdenas as the owner of the robbed cellar, and the naming is all it is now. Tortuga raised on the ninth evening. |
-| 2.2 | `ch02-tortuga/02-the-hat.md` | 1421 | Vaz pays for the finger. Their own gear described at length. Outfitting for the voyage. Bonesy is bought a hat, a belt, a blade, the first things he has ever owned. Crumble goes up the hill to Domingo. |
-| 2.3 | `ch02-tortuga/03-the-clean-face.md` | 2155 | The outpost drawn, the skull on the card table, the mermaid behind the curtain. Jigsaw clocks a spy by his soft hands and works out what Cardenas will assemble from almost nothing. The town's law leaves him nothing to do. |
-| 2.4 | `ch02-tortuga/04-the-escape.md` | 916 | Four lanterns come down out of the fort gate. Jigsaw names Cárdenas as the buyer and Bonesy answers “That fast.” They go down to the sloop and leave the water breaker on the quay. Men come out of the tavern and off the decks and stand, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. |
+| 2.1 | `ch02-petit-goave/01-nine-days-east.md` | 351 | Nine days beating east. Crumble names Cárdenas as the owner of the robbed cellar, and the naming is all it is now. Petit-Goâve raised on the ninth evening. |
+| 2.2 | `ch02-petit-goave/02-the-hat.md` | 1421 | Vaz pays for the finger. Their own gear described at length. Outfitting for the voyage. Bonesy is bought a hat, a belt, a blade, the first things he has ever owned. Crumble goes up the hill to Domingo. |
+| 2.3 | `ch02-petit-goave/03-the-clean-face.md` | 2155 | The outpost drawn, the skull on the card table, the mermaid behind the curtain. Jigsaw clocks a spy by his soft hands and works out what Cardenas will assemble from almost nothing. The town's law leaves him nothing to do. |
+| 2.4 | `ch02-petit-goave/04-the-escape.md` | 916 | Four lanterns come down out of the fort gate. Jigsaw names Cárdenas as the buyer and Bonesy answers “That fast.” They go down to the sloop and leave the water breaker on the quay. Men come out of the tavern and off the decks and stand, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. |
 
 ## Chapter 3, The Cay
 

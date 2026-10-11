@@ -2,6 +2,8 @@
 
 Complete single-file reference for a pirate novel set in the seventeenth century buccaneer Caribbean.
 
+**This book is set in 1670.** Moved from 1690 on 2026-10-11. Tortuga is at its height and serves as the great French haven. The outpost in chapter 2 is the smaller French post at Petit-Goâve on the coast of Hispaniola. Notes specific to 1670 are collected under *The book's year* below the timeline.
+
 ---
 
 # Pirate Story Research Bundle (1600s)
@@ -130,9 +132,10 @@ It begins with hunters, not sailors. On the large island of Hispaniola (today Ha
 - **1670.** The Treaty of Madrid: England and Spain make peace and agree to suppress piracy. Privateering against Spain is now, on paper, illegal.
 - **1671.** Morgan, either ignoring or not yet knowing of the treaty, marches across the isthmus and sacks Panama City, the greatest prize of the age. He is recalled to England, briefly in disgrace, then knighted and sent back as Lieutenant Governor of Jamaica, where he hunts his former comrades. (This single arc is one of the best true stories of the century.)
 - **1680s.** Buccaneers cross into the Pacific to raid the undefended west coast of Spanish America. William Dampier and Bartholomew Sharp lead expeditions. The era's character shifts as legal cover dries up.
-- **1688.** James II issues a proclamation for suppressing pirates and privateers in America, dated at Whitehall on 20 January, offering pardon to those who surrender. By December James has fled the throne and William III holds it. In 1690 the standing pardon comes from a king who is no longer king.
+- **1688.** James II issues a proclamation for suppressing pirates and privateers in America, dated at Whitehall on 20 January, offering pardon to those who surrender. By December James has fled the throne and William III holds it. Eighteen years after the book.
 - **1688 to 1697.** The Nine Years' War, also called the War of the Grand Alliance. England, the Dutch, and Spain stand against France. In 1690 England and Spain are allies, and the French in Saint-Domingue raid both. Ends with the Treaty of Ryswick, 1697.
 - **1692.** A massive earthquake drops most of Port Royal into the sea, killing thousands. Many read it as divine judgment on a sinful town. The great buccaneer base is finished.
+- **1697.** Martín de Ursúa takes Nojpetén, the island capital of the Itza, the last independent Maya kingdom. Until then a free Maya state stands in the forest of the Petén.
 - **1690s.** The "Pirate Round" begins. Crews sail from the Americas to the Indian Ocean and the rich Red Sea trade, basing in Madagascar. Henry Every captures the treasure ship Ganj-i-Sawai in 1695, one of the largest hauls in pirate history, and vanishes. Thomas Tew and others follow. This is the bridge from the buccaneer era into the Golden Age that follows in the 1700s.
 
 If your story is set in the heart of the buccaneer world, aim it at the 1660s or 1670s, Port Royal and the Spanish Main. If you want the pivot toward classic piracy, set it in the 1690s.
@@ -491,71 +494,21 @@ Fast lookups for drafting. Timeline, glossary, name banks, and a myth-busting ch
 | 1670 | Treaty of Madrid | Peace with Spain makes privateering illegal overnight |
 | 1671 | Morgan sacks Panama | The greatest prize of the age |
 | 1680s | Buccaneers cross to the Pacific | Quest and expedition territory |
-| 1688 | James II's pardon proclamation | The crown tidying the sea, two years before the book |
-| 1688 to 1697 | Nine Years' War | England and Spain allied against France in 1690 |
+| 1688 | James II's pardon proclamation | The crown tidying the sea, after the book |
+| 1688 to 1697 | Nine Years' War | England and Spain allied against France |
 | 1692 | Earthquake destroys Port Royal | The end of the great base, a possible climax |
+| 1697 | The Itza fall at Nojpetén | The last free Maya kingdom ends |
 | 1695 | Henry Every takes the Ganj-i-Sawai | The legendary escape, bridge to the Golden Age |
 | 1690s | The Pirate Round to the Indian Ocean | The pivot toward classic piracy |
 
-## Glossary
+### The book's year: 1670
 
-- **Articles:** the written contract a crew signed, setting shares, rules, and punishments.
-- **Boucan:** a wooden frame for smoking meat; root of "buccaneer."
-- **Brethren of the Coast:** the loose fraternity of Caribbean buccaneers.
-- **Careen:** to beach a ship and clean its hull.
-- **Cutlass:** short, heavy, curved sword for close fighting.
-- **Doubloon:** Spanish gold coin.
-- **Flibustier:** French term for a buccaneer.
-- **Grog:** rum cut with water.
-- **Hardtack:** dried biscuit, the staple ship's bread.
-- **Letter of marque:** a government license to attack enemy shipping legally.
-- **Leeward:** the sheltered side, away from the wind (say "loo-ard").
-- **Maroon:** to abandon a man on a deserted shore as punishment.
-- **Pieces of eight:** Spanish silver dollars, the common currency, cut into eight "bits."
-- **Press / pressed:** forced into service against one's will.
-- **Prize:** a captured ship or cargo.
-- **Purchase:** period word for plunder.
-- **Quarter:** mercy ("no quarter" means none given).
-- **Quartermaster:** the crew's elected representative, divided loot and kept order.
-- **Sloop:** small fast single-masted ship, the buccaneer favorite.
-- **Spanish Main:** the mainland Spanish territories and coast in the Americas.
-- **Weather gage:** the advantage of being upwind of an enemy.
-- **Windward:** the side the wind comes from.
-
-## Name banks (period-plausible)
-
-**English / Welsh / Scots hands:** Henry, Edward, Thomas, William, John, Roger, Nathaniel, Josiah, Bartholomew, Samuel, Owen, Gwyn, Rhys, Tobias, Silas, Ezekiel, Amos.
-
-**French flibustiers:** Jean, Pierre, Jacques, Michel, Guillaume, Henri, Olivier, Mathurin, Gaspard.
-
-**Dutch:** Roche, Cornelis, Dirk, Pieter, Joost, Hendrik, Willem, Bartel.
-
-**Surnames / by-names:** buccaneers often went by nicknames and aliases. Consider a place name (Bristol, Galway), a trait (Red Ned, Long Tom, One-Eyed Will), or a grim joke. A man hiding from the law would not use his real name freely.
-
-**Women:** Anne, Mary, Margaret, Elizabeth, Grace, Bess, Joan, Catherine, Bridget, Marguerite, Sarah.
-
-**Ships (period flavor):** the Adventure, the Revenge, the Fortune, the Bachelor's Delight (a real buccaneer ship), the Trinity, the Mary, the Swan, the Cygnet (real), the Speaker, the Charity, the Gift of God. Pirates liked names suggesting luck, vengeance, or dark irony.
-
-**Real places to drop in:** Port Royal, Tortuga, Hispaniola, Cartagena, Portobelo, Maracaibo, Panama, Barbados, Petit-Goave, Île-à-Vache (Cow Island), the Darien, the Bay of Campeche, New Providence (later the Golden Age hub).
-
-## Myth versus reality cheat sheet
-
-| The myth | The reality |
-|----------|-------------|
-| Walking the plank | No real evidence pirates did this. They marooned men instead. |
-| "Arrr, me hearties" | A 1950 film actor's invented accent, not historical speech. |
-| Buried treasure | Mostly myth. Pirates spent fast and died poor. The Kidd case plus Treasure Island built the legend. |
-| Chests of gold doubloons | Usual loot was cargo: cloth, sugar, tobacco, hides, cacao, plus ransom. |
-| Eyepatches everywhere | Exaggerated. Possible practical uses exist but the universal image is theatrical. |
-| The pirate uniform | Working sailors wore plain practical clothes. Finery was looted and shown off ashore. |
-| Captain as absolute tyrant | The crew elected him and could vote him out. Real power lived with the quartermaster outside battle. |
-| Lawless chaos | Crews ran on written articles, votes, and fixed shares, surprisingly democratic for the age. |
-| Pegleg pirates by the dozen | Amputation was real and common, but the cheerful pegleg image is later cartoon. |
-| Parrots on every shoulder | Sailors did bring back exotic birds to sell, so it is not impossible, just inflated. |
-
-## Sensory grab bag (drop these into scenes)
-
-Tar and hemp rope. Salt crust on everything. Sun-cracked skin. The reek of the bilge. Gunpowder smoke that stings the eyes. Rum breath. Rotting fruit and fresh-caught turtle. Wet wool and damp canvas. The constant creak and groan of timber. Bare feet gripping a wet deck. The shock of tropical heat after a European winter. The whine of mosquitoes at a river mouth. Church bells in Cartagena across the water. The clink of cut silver bits. Citrus rind against the rot of scurvy. The boom of surf on a reef in the dark, the sound that means death if the navigator was wrong.
-
----
-
+- **The hinge year.** The buccaneers are at their height and the law is turning on them in the same year. The Treaty of Madrid is signed that July. Morgan sacks Panama six months later in defiance of it.
+- **Tortuga** is the great French haven, governed with the coast of Saint-Domingue by Bertrand d'Ogeron, 1665 to 1675. In this book it is also the hub of the strange.
+- **Petit-Goâve** is a small French post on the south shore of the gulf that cuts into western Hispaniola, under hills. It grows into the main French raiders' haven later in the century. In 1670 a commandant is likelier than a governor.
+- **The French West India Company** holds the trade monopoly for the French Caribbean, 1664 to 1674.
+- **The crop is tobacco.** French Saint-Domingue grows tobacco in 1670. The sugar boom there comes after 1700.
+- **The Itza are free.** An independent Maya kingdom stands in the Petén until 1697.
+- **Firearms.** Flintlocks are in common use, alongside older matchlocks.
+- **Rum** is known in the islands from the 1650s.
+- **Ports and sides.** A ship's left side is the larboard. Port in that sense is a later usage.

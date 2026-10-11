@@ -38,7 +38,7 @@ Drafted, 16,314 words, through the edge of the pool.
 | | | |
 |---|---|---|
 | Ch 1, The Temple | 2 scenes | The failed Veracruz job, the broken book, the tarpon pool named |
-| Ch 2, Tortuga | 4 scenes | The finger sold, the hat, the spy, the garrison bought, out with no water |
+| Ch 2, Petit-Goâve | 4 scenes | The finger sold, the hat, the spy, the garrison bought, out with no water |
 | Ch 3, The Cay | 5 scenes | The cay, the spring, the ambush, the reef, the ship taken |
 | Ch 4, The Half Moon | 2 scenes | The wreck stripped, eleven days west, the pool, the water pulling |
 
@@ -73,8 +73,12 @@ What is actually established about the plot, in order, with sources.
    as the bible has it. What they see is a vision, not a man. Aydin, 2026-10-11.
 9. **Cárdenas uses magic against the peoples of the Caribbean, and his senior
    officers carry artifacts.** Aydin, 2026-10-11. Rules not yet set, below.
+10. **The book is set in 1670, and the chapter 2 outpost is Petit-Goâve.**
+    Tortuga is at its height and is saved for later. Aydin, 2026-10-11.
+11. **Cárdenas is just starting on the buccaneers.** His forty years went into
+    other conquest, on land. Aydin, 2026-10-11.
 
-That is the whole of it. Nine facts.
+That is the whole of it. Eleven facts.
 
 ---
 
@@ -188,9 +192,13 @@ officers carry artifacts. Rules still to set. Proposals:
   Maya piece has a hold on Maya. Crumble is exposed and Bonesy, a cursed Maya
   peasant, most of all. Jigsaw stands outside it until Cárdenas holds
   something of the brotherhood.
-- **This is why magic is rare.** The bible and the recap call the supernatural
-  rare and seedy. Fact 9 strains that unless the reason it is rare is him. He
-  has spent forty years gathering it up the way he gathers books.
+- **Settled: magic is rare, except in Tortuga.** Tortuga is the hub, a port
+  where the strange is common and nobody remarks on it. Aydin's comparison is
+  Mos Eisley, with the magic felt more than cast, the way the Force is. Hints,
+  not spells: more of the kind of thing the skull at cards in 2.3 already is.
+- **Proposed: the reason it is rare elsewhere is him.** He has spent forty
+  years gathering it up the way he gathers books. Tortuga is French and
+  lawless, the one place he cannot reach, so the strange pooled there.
 - **Each piece costs its carrier.** Small, bodily, visible. Gives Jigsaw
   something to clock in a room, the way he clocked the spy's hands.
 - **The bought officer carries one.** The man who took Jigsaw's woman, if he
@@ -213,34 +221,44 @@ were kept* (1.2), so any of this can be paid off by a line from him.
 
 ## Under discussion, nothing chosen
 
-### The pardon and the date
+### The date: settled at 1670
 
-Aydin asked whether to bring in an English pirate pardon to show the world
-changing, or move the book to the start of piracy.
+Aydin moved the book from 1690 to 1670 on 2026-10-11, to put Tortuga at its
+height and leave more of the Caribbean unexplored. The outpost in chapter 2 is
+now Petit-Goâve. Prose, bible, recap, rules and research are updated. What the
+move raised in the prose is in `notes/continuity-flags.md`.
 
-Recommendation: keep 1690. The pardon belongs to it.
+What 1670 gives the book:
 
-- **The real pardon is two years old.** James II's proclamation for suppressing
-  pirates and privateers in America is dated 20 January 1688, offering pardon
-  to men who surrendered. By the end of 1688 James had fled the throne. In 1690
-  the pardon on offer comes from a king who is no longer king.
-- **England and Spain are allies in 1690.** The Nine Years' War began in 1688,
-  with England and Spain on one side against France. An English pirate hunter
-  can sail in Spanish pay. Cárdenas could have one.
-- **Port Royal goes into the sea in 1692.** The end of the era is two years off
-  and the reader can feel it coming.
-- **The theme already runs this way.** Crumble could have bought a farm and
-  been a settled man (bible). A pardon is that life, offered on paper. It is
-  also Bonesy's line from 1.2: *Out of one gold house and into the next.*
+- **The hinge year.** The buccaneers are at their height and the law turns on
+  them in the same year. England signs the Treaty of Madrid in July 1670 and
+  promises Spain to put them down. Morgan sacks Panama six months later anyway.
+  This carries what the pardon idea was for.
+- **Cárdenas's new posting fits it.** Spain's turn to hunting the brethren is
+  the campaign he is just starting.
+- **The Itza are free.** An independent Maya kingdom stands in the Petén until
+  1697. The thing Cárdenas has spent his life trying to finish is still alive.
 
-Moving the date costs CLAUDE.md law 5, the research in `world-1690.md`, the
-timeline in the bible, and every period check already made in the prose. The
-one point for moving it: Tortuga's best years were the 1640s to the 1660s, and
-by 1690 most of the French raiders had moved to Petit-Goâve. The book already
-treats Tortuga as fading, so this is a texture note, not a contradiction.
+Candidate placements for the news of Madrid, none chosen:
 
-Candidate placements for the pardon, none chosen:
+- Read off a ship they take. See the merchant raid below.
+- An English hand in Cárdenas's pay, a pirate hunter now the crowns agree.
+  Henry Morgan's later arc in small.
+- Bonesy asking whether a treaty covers a man already dead.
 
-- An English hand who took it and now hunts his old mates, in Cárdenas's pay.
-  Henry Morgan's arc in small.
-- Bonesy asking whether a pardon covers a man already dead.
+### The merchant raid
+
+Aydin wants Crumble and Jigsaw to take a merchant ship, for the fun of it or
+for some reason, with Cárdenas on their tail lending it urgency.
+
+What it can carry:
+
+- **The lift.** `notes/the-crew.md` says the draft is short on the two being
+  glad of each other, faster and cockier side by side. This is that scene.
+- **Bonesy, what is he doing.** Same note. Something wholly off the job while
+  the two of them work.
+- **A reason under the fun.** Water and food for a run, a better hull, a chart,
+  or news. The news of Madrid fits here.
+
+Placement open. The passage from the cave to the second mark is the natural
+home: it needs a scene, it has a reason to resupply, and the urgency is real.

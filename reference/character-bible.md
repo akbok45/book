@@ -1,6 +1,6 @@
 # Character Bible: The Codex Trilogy, Book One
 
-Caribbean, 1690. First person, narrated by Jigsaw, plain sailor's voice. Tonal register after *Gideon the Ninth*: sardonic, raunchy, genuinely dark, pathos buried under comedy.
+Caribbean, 1670. First person, narrated by Jigsaw, plain sailor's voice. Tonal register after *Gideon the Ninth*: sardonic, raunchy, genuinely dark, pathos buried under comedy.
 
 This file is the writing reference for the three leads, the antagonist, and the offscreen dead. It holds what was established and everything settled in development. The aim is to write each character from the inside every time, without guessing.
 
@@ -13,7 +13,7 @@ Read the thematic core and the scene machine first. They govern everything. Then
 Two rules sit above all the rest:
 
 1. Emotional beats are shown through behavior, never stated. A man who says it is fine and means it does not say it.
-2. Every analogy comes from the pirates' world. Ocean, fish, weather, hide, stone, nature. No modern phrasing. 1690 is locked.
+2. Every analogy comes from the pirates' world. Ocean, fish, weather, hide, stone, nature. No modern phrasing. 1670 is locked.
 
 ---
 
@@ -132,7 +132,7 @@ Terse, controlled, a man sitting at his own wake. He speaks Maya with a softenin
 ### Role
 The id, and the emotional id both. A strong read on people, real wisdom, and extremely carefree and humble with it. He says what the two will not and does what humans think and sit on. He pried both their wounds open across the year and is the reason they each know the other's headline. He talked it out of them by never shutting up and having no shame and no stake.
 
-### The hormone monster function (1690 register, not the modern one)
+### The hormone monster function (1670 register, not the modern one)
 Appetite, no shame, no equipment. He names the lust and the greed out loud, eggs the two repressed men toward their wants, leers with nothing to leer with. The running joke is a skeleton with all the appetite and none of the parts. The register is on the page already in the mermaid line, the one end of her that turns a coin. Bawdy, bodily, of its century. Never modern.
 
 ### Limits
@@ -165,11 +165,14 @@ He already learned meaning lives in the bond. He found his long ago, and he is q
 
 Old, fifties and up, older than the two and still a dangerous fighter. Forty years a Spanish colonial officer, Peru young, then the Maya regions. Not a personal vendetta. A colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever is neither, with calculated cruelty, torture, breaking the people around his targets.
 
+### Now, in 1670 (Aydin, 2026-10-11)
+He is just starting on the buccaneers. His forty years went into other kinds of conquest, on land, Peru and then the Maya regions. The sea and the brethren are a new posting, and he has come to it the year England promises Spain to put the buccaneers down. That the two have crossed his people twice already means his people, not this campaign. What the earlier conquests were in detail is open.
+
 ### The Thrawn dimension
-He collects the histories, books, and sacred artifacts of the peoples he destroys, studies them, understands them better than they understand themselves, because you cannot truly finish a people until you do. This makes him able to assemble the codex's shape from fragments. He keeps occult artifacts of his own, though curses are anomalous even here.
+He collects the histories, books, and sacred artifacts of the peoples he destroys, studies them, understands them better than they understand themselves, because you cannot truly finish a people until you do. This makes him able to assemble the codex's shape from fragments. He keeps occult artifacts of his own, though curses are anomalous even here. He turns that magic against the peoples of the Caribbean, and his senior officers carry artifacts of their own (Aydin, 2026-10-11). The rules of it are open, in `manuscript/STORYBOARD.md`.
 
 ### The threat
-He does not appear in chases. He plans, watches, runs spies, and was already ahead of the trio at Tortuga. He commands ships that sail straight through the storms the trio must flee, which nullifies their one advantage. The not being dead after forty years is the frightening part.
+He does not appear in chases. He plans, watches, runs spies, and was already ahead of the trio at Petit-Goâve. He commands ships that sail straight through the storms the trio must flee, which nullifies their one advantage. The not being dead after forty years is the frightening part.
 
 ### The personal thread
 The bought officer who took Jigsaw's woman rose into Cárdenas's orbit. This binds the codex enemy and the personal enemy into one, a reveal that can land hard later. Jigsaw has some idea of it already, which is why reading up on Cárdenas was never only tactical.
@@ -182,7 +185,7 @@ The bought officer who took Jigsaw's woman rose into Cárdenas's orbit. This bin
 
 **Balam's daughter.** The Maya woman Crumble saved on a raid, who sent him to her father. She continues in the story as another living piece of Balam.
 
-**Domingo.** Maya contact at Tortuga, knew Balam as a boy, goes by a Spanish name in port. Taken by Cárdenas's soldiers so Crumble could escape. Fate is an open thread.
+**Domingo.** Maya contact at Petit-Goâve, knew Balam as a boy, goes by a Spanish name in port. Taken by Cárdenas's soldiers so Crumble could escape. He was Cárdenas's informant: he sold the meeting and would not sell the bearing, and Cárdenas tortured it out of him (Aydin, 2026-10-11). Whether he lives is open.
 
 **Jigsaw's woman.** The Spanish girl he believed he would marry, lost to the bought officer now in Cárdenas's orbit.
 
@@ -235,7 +238,7 @@ This corrects the written line that placed their meeting at sixteen on the Mosqu
 
 ## Register and anachronism rules (locked)
 
-- 1690 is the date. No modern phrasing, ever.
+- 1670 is the date. No modern phrasing, ever.
 - All analogies from the pirates' world: ocean, fish, nature, weather, hide, stone, rope.
 - The father's people are grounded in the Morisco and Barbary corsair world. Do not use "maroon," which means escaped African captives, a different people, and do not use "guerrilla," which is not a word until the 1800s.
 - Watch the small things. Past flags caught: boot laces, modern phrases, anachronistic references like "a fair."

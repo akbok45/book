@@ -72,7 +72,7 @@ parents died of malaria and he came to Tortuga alone, Crumble trained under
 Balam, and they met at Tortuga as very young men. No blood between them.
 
 So every use in the book is figurative, which is period-sound. *The brethren*
-is what the buccaneer fraternity called itself, and `reference/world-1690.md`
+is what the buccaneer fraternity called itself, and `reference/world-1670.md`
 carries it. But it is in the prose once, and it reads as kinship to a reader
 who has not been told otherwise:
 
@@ -115,10 +115,47 @@ paragraph and neither came from this pass:
 - *two men carrying things they will not set down* and *who is a hard thing to
   be louder than*. Rule 2 puts *thing* out of the narration. The first may be
   earning the standing vagueness exception, the second is not.
-- *We raised Tortuga on the ninth evening, the turtle-back of it black against
+- *We raised Petit-Goâve on the ninth evening, the hills behind it black against
   a sky going the colour of a bruise on the mend, and came into the road under
   the last light with the canvas down to nothing, the way you come into a place
   where everyone watching owns a glass and a grudge.* Four commas, no list. It
   is one of the best sentences in the chapter, which is why it is flagged and
   not cut.
+
+## Raised by the move to 1670 and Petit-Goâve
+
+Aydin moved the book to 1670 and the chapter 2 outpost from Tortuga to
+Petit-Goâve, 2026-10-11. Every *Tortuga* that meant the outpost now reads
+*Petit-Goâve*. The folder is now `ch02-petit-goave/`. Word counts are unchanged.
+
+**Kept as Tortuga, on purpose.** 2.2: *I learned the Spanish sword before I even
+knew what Tortuga was.* That is backstory, where the two met, and the bible
+keeps them meeting at Tortuga.
+
+**Changed beyond the name, for review:**
+
+- 2.1: *the turtle-back of it black* is now *the hills behind it black*.
+  Tortuga is named for its turtle shape and Petit-Goâve is not. This is the
+  sentence flagged above as one of the best in the chapter, so it wants your
+  ear.
+- 2.3: *from before the brethren made the island unfit for Spaniards* is now
+  *made this coast unfit*. Hispaniola still has its Spanish east in 1670, so
+  the island as a whole was never unfit for them.
+
+**Flagged, not changed:**
+
+- 2.3: *A governor sits up in the fort.* In 1670 the governor of Tortuga and
+  the coast is d'Ogeron, at Tortuga. A post the size of Petit-Goâve would have
+  a commandant. Change the word or let the narration overcall him.
+- 2.3: *the sugar-rot drifting off the cane barges.* French Saint-Domingue grows
+  tobacco in 1670. The sugar boom comes after 1700.
+- 2.3: the skull at cards and the mermaid behind the curtain stay in
+  Petit-Goâve. Tortuga is now the hub of the strange. Either Petit-Goâve
+  catches the overflow and these stay as they are, or one of them moves to
+  Tortuga for when the book goes there. The narration already says *I have
+  seen a dozen like it in a dozen such rooms*, which supports keeping them.
+- Bearings. 1.2 puts the outpost *south and east* of the temple. That is
+  truer for Petit-Goâve than it was for Tortuga. 3.1 looks back *north and
+  east* toward the lamps. That holds for a course out of the gulf to the
+  west and then south.
 
