@@ -130,6 +130,8 @@ It begins with hunters, not sailors. On the large island of Hispaniola (today Ha
 - **1670.** The Treaty of Madrid: England and Spain make peace and agree to suppress piracy. Privateering against Spain is now, on paper, illegal.
 - **1671.** Morgan, either ignoring or not yet knowing of the treaty, marches across the isthmus and sacks Panama City, the greatest prize of the age. He is recalled to England, briefly in disgrace, then knighted and sent back as Lieutenant Governor of Jamaica, where he hunts his former comrades. (This single arc is one of the best true stories of the century.)
 - **1680s.** Buccaneers cross into the Pacific to raid the undefended west coast of Spanish America. William Dampier and Bartholomew Sharp lead expeditions. The era's character shifts as legal cover dries up.
+- **1688.** James II issues a proclamation for suppressing pirates and privateers in America, dated at Whitehall on 20 January, offering pardon to those who surrender. By December James has fled the throne and William III holds it. In 1690 the standing pardon comes from a king who is no longer king.
+- **1688 to 1697.** The Nine Years' War, also called the War of the Grand Alliance. England, the Dutch, and Spain stand against France. In 1690 England and Spain are allies, and the French in Saint-Domingue raid both. Ends with the Treaty of Ryswick, 1697.
 - **1692.** A massive earthquake drops most of Port Royal into the sea, killing thousands. Many read it as divine judgment on a sinful town. The great buccaneer base is finished.
 - **1690s.** The "Pirate Round" begins. Crews sail from the Americas to the Indian Ocean and the rich Red Sea trade, basing in Madagascar. Henry Every captures the treasure ship Ganj-i-Sawai in 1695, one of the largest hauls in pirate history, and vanishes. Thomas Tew and others follow. This is the bridge from the buccaneer era into the Golden Age that follows in the 1700s.
 
@@ -489,6 +491,8 @@ Fast lookups for drafting. Timeline, glossary, name banks, and a myth-busting ch
 | 1670 | Treaty of Madrid | Peace with Spain makes privateering illegal overnight |
 | 1671 | Morgan sacks Panama | The greatest prize of the age |
 | 1680s | Buccaneers cross to the Pacific | Quest and expedition territory |
+| 1688 | James II's pardon proclamation | The crown tidying the sea, two years before the book |
+| 1688 to 1697 | Nine Years' War | England and Spain allied against France in 1690 |
 | 1692 | Earthquake destroys Port Royal | The end of the great base, a possible climax |
 | 1695 | Henry Every takes the Ganj-i-Sawai | The legendary escape, bridge to the Golden Age |
 | 1690s | The Pirate Round to the Indian Ocean | The pivot toward classic piracy |

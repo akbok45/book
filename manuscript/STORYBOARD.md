@@ -66,8 +66,15 @@ What is actually established about the plot, in order, with sources.
    mark.** The three come out of the cave with the bearing and sail it. He has
    had it longer and sails through the weather they run from, so he is there
    first. Aydin, 2026-10-11.
+7. **Domingo was Cárdenas's informant.** He sold the meeting and would not sell
+   the bearing. Aydin, 2026-10-11. Shape below.
+8. **The three end up in Cárdenas's hold, and the vision happens there.**
+   Jigsaw and Crumble see Balam and Jigsaw's father. The father is still dead,
+   as the bible has it. What they see is a vision, not a man. Aydin, 2026-10-11.
+9. **Cárdenas uses magic against the peoples of the Caribbean, and his senior
+   officers carry artifacts.** Aydin, 2026-10-11. Rules not yet set, below.
 
-That is the whole of it. Six facts.
+That is the whole of it. Nine facts.
 
 ---
 
@@ -126,11 +133,9 @@ father's brotherhood, whether the bought officer is made real.
 
 ---
 
-## Under discussion, nothing chosen
+## Settled 2026-10-11, details still open
 
-Aydin's ideas from 2026-10-11, with what the page already carries for each.
-
-### Domingo as Cárdenas's informant
+### Domingo, the informant
 
 The page half wrote this already:
 
@@ -141,38 +146,57 @@ The page half wrote this already:
 - 3.1, Crumble: *Somebody sold the meeting before it happened.*
 - 3.1, Crumble: *Domingo stood up out of it so they'd have a man to take.*
 
-A shape that uses all four: Domingo sells Cárdenas small things to stay
+Proposed shape, not yet confirmed: Domingo sells Cárdenas small things to stay
 uncollected. He sells the meeting. He will not sell the bearing, because Balam
 was his friend as a boy. In the trees he gives Crumble the cave and holds the
 bearing back, because anything said aloud reaches the clean coat. When the
 garrison comes he stands up so Crumble can run. Cárdenas then tortures out of
 him the one thing he would not sell.
 
-Cost: the spy in 2.3 matters less if Cárdenas already had a man inside.
-Possible answer: the spy is how Cárdenas learned the meeting was tonight, and
-he leaned on Domingo that afternoon.
+None of the four lines above needs to change. All four read one way now and
+another way after the reveal.
 
-### The vision: Balam and Jigsaw's father
+Open:
 
-Two placements, tied to how book one closes:
+- Standing informant for years, or squeezed that one afternoon after the spy
+  in 2.3 reported a Maya contact. The second keeps the spy sharp.
+- Who tells Crumble. Cárdenas telling him, with Domingo in the room, is the
+  most in character: he breaks the people around his targets.
+- Whether Domingo is alive in the hold.
 
-- **In the cave.** Bad air in a sealed cave, what miners of the century called
-  damp. Jigsaw and Crumble breathe it. Bonesy does not breathe and sees nothing.
-  The father appearing there ties the cave to the brotherhood's leaders who
-  vanished claiming enlightenment (bible, Jigsaw backstory).
-- **In Cárdenas's hold.** He gives them a sacred plant taken from a people he
-  destroyed, datura or similar, and sits and listens while they talk to their
-  dead. He learns their wounds the way he learns a people. Only works if book
-  one ends with them in his hands.
+### The vision, in the hold
 
-Note: the bible has the father dead of malaria. If "held by Cárdenas" means the
-father alive, that is a bible change and needs a decision.
+Cárdenas doses them with a sacred plant taken from a people he destroyed,
+datura or similar, and sits and listens while they talk to their dead. He
+learns their wounds the way he learns a people. Proposed, not settled.
 
-### Cárdenas's collection
+Candidates for what each dead man shows, none chosen:
 
-Candidates, all real to the century. Bonesy has already been in one of his
-cellars at Veracruz, *where the dead ones were kept* (1.2), so any of these can
-be paid off by a line from him.
+- **Balam** does not tell Crumble he was meant for more. He asks why Crumble
+  is still carrying the work. Starts the reframe without finishing it.
+- **The father** says his old saying and nothing else. Jigsaw sees where his
+  own withholding comes from. Still dead, still not explaining the ring.
+- **Bonesy** takes the dose and nothing happens, no body for it to work on. He
+  complains he has been left out.
+
+### Cárdenas's magic
+
+Settled: he uses it against the peoples of the Caribbean, and his senior
+officers carry artifacts. Rules still to set. Proposals:
+
+- **Every artifact was taken from a people, and works on that people.** A
+  Maya piece has a hold on Maya. Crumble is exposed and Bonesy, a cursed Maya
+  peasant, most of all. Jigsaw stands outside it until Cárdenas holds
+  something of the brotherhood.
+- **This is why magic is rare.** The bible and the recap call the supernatural
+  rare and seedy. Fact 9 strains that unless the reason it is rare is him. He
+  has spent forty years gathering it up the way he gathers books.
+- **Each piece costs its carrier.** Small, bodily, visible. Gives Jigsaw
+  something to clock in a room, the way he clocked the spy's hands.
+- **The bought officer carries one.** The man who took Jigsaw's woman, if he
+  matters later. Binds the personal enemy to the magic as well as the codex.
+
+Candidate pieces for Cárdenas himself, all real to the century:
 
 - An obsidian scrying mirror from Mexico. One reached John Dee in England in
   the 1500s.
@@ -181,3 +205,42 @@ be paid off by a line from him.
 - Saints' relics and idols on one shelf. The finger came out of his cellar.
 - A stone face Bonesy sat with once, now on his shelf. A stone that was taken.
 - A second cursed thing, kept in a box. Why he looks at Bonesy the way he does.
+
+Bonesy has already been in one of his cellars at Veracruz, *where the dead ones
+were kept* (1.2), so any of this can be paid off by a line from him.
+
+---
+
+## Under discussion, nothing chosen
+
+### The pardon and the date
+
+Aydin asked whether to bring in an English pirate pardon to show the world
+changing, or move the book to the start of piracy.
+
+Recommendation: keep 1690. The pardon belongs to it.
+
+- **The real pardon is two years old.** James II's proclamation for suppressing
+  pirates and privateers in America is dated 20 January 1688, offering pardon
+  to men who surrendered. By the end of 1688 James had fled the throne. In 1690
+  the pardon on offer comes from a king who is no longer king.
+- **England and Spain are allies in 1690.** The Nine Years' War began in 1688,
+  with England and Spain on one side against France. An English pirate hunter
+  can sail in Spanish pay. Cárdenas could have one.
+- **Port Royal goes into the sea in 1692.** The end of the era is two years off
+  and the reader can feel it coming.
+- **The theme already runs this way.** Crumble could have bought a farm and
+  been a settled man (bible). A pardon is that life, offered on paper. It is
+  also Bonesy's line from 1.2: *Out of one gold house and into the next.*
+
+Moving the date costs CLAUDE.md law 5, the research in `world-1690.md`, the
+timeline in the bible, and every period check already made in the prose. The
+one point for moving it: Tortuga's best years were the 1640s to the 1660s, and
+by 1690 most of the French raiders had moved to Petit-Goâve. The book already
+treats Tortuga as fading, so this is a texture note, not a contradiction.
+
+Candidate placements for the pardon, none chosen:
+
+- An English hand who took it and now hunts his old mates, in Cárdenas's pay.
+  Henry Morgan's arc in small.
+- Bonesy asking whether a pardon covers a man already dead.
