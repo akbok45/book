@@ -137,6 +137,14 @@ father's brotherhood, whether the bought officer is made real.
 
 ---
 
+## The back half, pitched
+
+Three competing pitches for 4.3 to the end of book one, and a judged road
+built from the best of them, are in `notes/back-half-arena.md`. Nothing in it
+is chosen. The open calls are the ending and the cave.
+
+---
+
 ## Settled 2026-10-11, details still open
 
 ### Domingo, the informant
