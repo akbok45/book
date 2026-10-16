@@ -140,7 +140,7 @@ father's brotherhood, whether the bought officer is made real.
 ## The back half, pitched
 
 Three competing pitches for 4.3 to the end of book one, and a judged road
-built from the best of them, are in `notes/back-half-arena.md`. Nothing in it
+built from the best of them, are in `notes/back-half-arena.md`. The whole book told start to finish along the judged road is in the doc *Book One: The Story*, https://claude.ai/code/artifact/50425720-31c5-41f3-b228-50534f71a7cd. Nothing in it
 is chosen. The open calls are the ending and the cave.
 
 ---
