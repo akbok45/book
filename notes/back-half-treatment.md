@@ -245,3 +245,36 @@ These override the sections above where they differ.
 - **On the beach,** both Bonesy and Balam's daughter turn them.
 - **The Tortuga suit-up** changes what they carry and wear, and ends with the four
   setting off together.
+
+---
+
+## Fourth pass, 2026-10-16: the outside review
+
+Aydin brought in an outside review (`notes/review-2026-10-16.md`) and asked for
+all of it to be built on top of the existing road. The story doc now carries:
+
+- **The heart of the book.** Both men mistake independence for freedom. The
+  final battle tests whether they became different men, not better fighters.
+- **Cárdenas fears uncertainty, not magic.** His sister died while experts
+  argued. Knowledge became collection, collection became classification,
+  classification became control. The cabin is that worldview on shelves, and
+  Bonesy is the one thing he can't shelve.
+- **Balam stays unresolved.** "I regret what he became. I don't regret saving
+  her." He split his teaching on purpose, and the split pays off in Florida.
+- **The cord style takes two people,** one binding and one striking. Crumble
+  knows one half and Balam's daughter the other. Jigsaw learns to fight with
+  them.
+- **Balam's daughter's real flaw:** she knows what everyone needs except
+  herself. Her first want is small and strange.
+- **Rodrigo stands for the stolen life.** The girl's side is complicated by
+  Jigsaw's own anger. In Florida Jigsaw beats him and stops caring.
+- **The raid flashback is ugly.** **The village's curses are inconvenient,**
+  not superpowers. **Domingo complicates the fathers' lesson.** **The fort
+  starts in misery,** with Cárdenas allowing the sticks. **Keeping his word is
+  his strongest moment.** **The Bonesy rescue mirrors chapter 3.**
+- **The codex rules, proposed.** It restores rather than destroys. Whole means
+  leaves, day count and rite together at the right place and day. Florida is
+  where it is used. It can be broken again.
+- **Three battle versions,** with Cárdenas losing to his own need for control,
+  surviving, and the codex broken again. The epilogue at Tortuga brings the
+  news of Morgan.
