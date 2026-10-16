@@ -157,3 +157,49 @@ fellas." He herds them through their pasts like goats.
    contrast in 4.3 could replace it.
 8. **Campeche's fort** in 1670: confirm what stood there before the great walls
    of the 1680s.
+
+---
+
+## Aydin's second pass, 2026-10-16
+
+These override the sections above where they differ. The story doc carries the
+result scene by scene.
+
+- **No Ixchel in the clue chain.** The leaf points to Cozumel. The second glyph
+  names a shrine that whistles in a north wind, and the door opens only when
+  the shrine sings.
+- **6.1, their flaws trap them.** Jigsaw's confidence in his sea takes them
+  past a point into a channel Cárdenas's pilots know better. Crumble's trust in
+  anything of Balam's let the spy in.
+- **6.2, the mirror.** Each brother sees his best memory: Crumble training with
+  Balam, Jigsaw's father first showing him the sea. Cárdenas walks into each and
+  kills the idol.
+- **6.3, the captures.** Rodrigo rose on his father's connections and taunts
+  Jigsaw as he beats him. Crumble loses to a Maya fighter trained by Cárdenas in
+  techniques Cárdenas learned from Balam.
+- **7.1, the cabin.** Worldbuilding of the cabin. Cárdenas explains artifacts he
+  used to study them and artifacts he used to hurt people. A cold line with the
+  drink. They resist, with swords at their throats.
+- **Cárdenas gets a sad past** that makes him almost sympathetic. Proposed: a
+  little sister lost to a curse on a relic his father looted in Peru.
+- **7.2 and 7.3, the vision.** Crumble sees Jigsaw's rage on a merchant deck,
+  Jigsaw disarming Rodrigo, Jigsaw happy with the girl and then the girl with
+  Rodrigo, Jigsaw sailing with his father, and the father as a Barbary corsair
+  making a deal with the Spanish to raise his son safely. Jigsaw sees Balam
+  teach a young Cárdenas out of kindness, then hide when he saw what Cárdenas
+  became, kind to Cárdenas and harsh to Crumble, and Crumble at Ixmal's door.
+  Each then asks his father or mentor why.
+- **Bonesy is left on the island in the chest.**
+- **8, the fort.** What they learned from their fathers works on them. They
+  spar with sticks, and Balam's daughter trains them. Jigsaw sees Crumble's love
+  for her and steps aside, though he likes her too. His father's words turn him
+  toward the deal, to save Bonesy, who is family.
+- **Cárdenas does not tell them where Bonesy is.** They know. He expects them
+  to go home broken, and he is right until Bonesy rallies them with what he saw
+  in their visions: that was your fathers' choice, now make yours. Later Bonesy
+  admits he was manipulating them, because if Cárdenas wins he dies.
+- **The deal hands Cárdenas the last location,** a very deep temple in a south
+  Florida estuary that is hard for him to navigate, which buys time. The
+  brothers meet him there, learn a new land together, and fight him again after
+  a second gearing-up scene. This does not end the book. It leads into a final
+  battle sequence, to be built next.
