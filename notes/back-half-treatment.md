@@ -203,3 +203,45 @@ result scene by scene.
   brothers meet him there, learn a new land together, and fight him again after
   a second gearing-up scene. This does not end the book. It leads into a final
   battle sequence, to be built next.
+
+---
+
+## Aydin's third pass, 2026-10-16
+
+These override the sections above where they differ.
+
+- **4.3** focuses on his parents' death and arriving in these waters after
+  leaving the navy, completely alone.
+- **5.1 is a flashback raid,** not the coaster. It shows Jigsaw's rage and
+  Crumble's faith in Balam's rules. The news of Madrid now arrives with a
+  trader at the village.
+- **The village is an island,** in Aydin's words. Proposed: a small island in a
+  forest lake up a river, replacing Tipu, which is a river town. It is a happy
+  farming community of cursed and different people who put their curses to
+  creative use. It is not a place of dark magic.
+- **The spy is deep undercover:** a respected elder of that island who traded
+  his loyalty to Cárdenas so the Spanish would leave the island alone. He takes
+  Crumble down at the capture.
+- **Balam's daughter insists on coming and leads.** She wants the codex kept from
+  Cárdenas because it would unmake her people, not because of her father. Her
+  weakness: five soldiers can overpower her. Her arc: she has lived only to care
+  for others and learns to want joy for herself.
+- **6.1:** Cárdenas uses an artifact to turn the current, and Jigsaw doesn't
+  notice.
+- **6.3:** Rodrigo had worse marks but rose above Jigsaw in the navy on family
+  status. Cárdenas uses magic on Bonesy.
+- **Domingo is let go after the cabin.** Cárdenas doesn't kill when breaking will
+  do. Domingo later visits the brothers, sympathizes, and tells his own story.
+- **Balam's answer** is about deals with the Spanish to keep his people safe,
+  which made him happy, the same as Jigsaw's father.
+- **In the fort,** Crumble teaches a fighting style he saw Balam and the old
+  Maya use, which he and Balam's daughter perfect. It is built around a rope
+  weapon, proposed as a weighted cord.
+- **Before the deal:** a flashback to Tortuga and Jigsaw's non-human friends
+  there, then a deep conversation where Balam's daughter reaches them in her own
+  way.
+- **The fight for Bonesy** is fought like beaten men, with no weapons, since
+  those stayed with Cárdenas.
+- **On the beach,** both Bonesy and Balam's daughter turn them.
+- **The Tortuga suit-up** changes what they carry and wear, and ends with the four
+  setting off together.
