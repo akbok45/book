@@ -159,3 +159,19 @@ keeps them meeting at Tortuga.
   east* toward the lamps. That holds for a course out of the gulf to the
   west and then south.
 
+## Raised by Aydin's notes on the story doc, 2026-10-16
+
+- **3.1, how Domingo is taken.** The prose has Crumble say *Domingo stood up out
+  of it so they'd have a man to take*, which reads as a sacrifice. Aydin now has
+  Domingo simply caught, because he lacks Crumble's training. The line needs a
+  decision.
+- **4.1, the exchange after the wreck.** *"He'll know we took her with three."*
+  / *"Then the next one won't come in a boat."* Aydin found it unclear in the
+  story doc. The meaning: Cárdenas will learn three men took his ship, so next
+  time he comes himself in force, not with a boat crew. It may be as unclear on
+  the page.
+- **4.1, why Jigsaw never went into the pool.** Aydin: it does not need to be
+  deep. He was twenty, alone and scared. The drafted paragraph, the pool *had
+  been mine for five years because I had not gone into it*, the unbroached
+  cask, gives it more weight than that. Flagged, not cut.
+

@@ -73,6 +73,9 @@ At 16 he went to sea in Spanish service. He found it wrong from the start: promo
 
 At 17 he went home to find both parents sick with malaria. His father, barely able to speak, gave him the name of a local blacksmith, another of the brotherhood, who knew of Jigsaw only because the father had once told a fellow Muslim of his son. The blacksmith gave him stories of his father, of how the man left his past when his son was born, mended his Spanish swords, and told him of a place where a crew runs fair, where a man can find both riches and greater meaning, half myth. His parents died of the malaria because they could not afford the cure, having spent their means on his schooling, while the wealthy bought the medicine and lived. His classmates with rich fathers became officers. The girl he loved married one of them, a man who bought his commission. Jigsaw left wanting to learn one thing: how to make the Spanish suffer. Then Tortuga, where he met Crumble.
 
+### The drive (Aydin, 2026-10-16)
+Rage and anger at the way he was treated at school and the way his parents were treated by society. Everything below feeds it.
+
 ### The wound
 The girl, the parents, the blood laws, the bought ranks, all of it. The cruelty grows from a real grievance. But write it as a flaw, not justice. He often takes it out on Spanish men who did nothing to him, and that is the rot in him, the wound paying itself forward. The narration knows this. It is selective, aimed at the soft handed, high born, never worked kind of Spaniard, the kind who beat him on blood and coin. The tell is already on the page: in the tavern he clocks the spy entirely by clean, soft, never worked hands. That contempt is the wound talking.
 
@@ -107,6 +110,9 @@ At about 19 he went back to the woman. He found her happy, married young, a chil
 
 So she is alive and well now, the worst version, fine without him, and the leaving holds no tragedy, only waste. He threw something good away to chase being more, and a man who chased nothing got everything by standing still.
 
+### The drive (Aydin, 2026-10-16)
+Obligation and regret. Balam is his idol, close to a celebrity to him: the picture of perfection he wants to become.
+
 ### Two engines (write both)
 Penance and proof. The penance: he decided he would never again be the man who throws people away, which is why he is loyal past sense, and loyalty to Balam is the ledger he can still pay into. The proof: the imposter's hunger never died, and Balam is the man who looked at him and said he was meant for more. Finishing Balam's work proves both that he is more than a nobody and that he is not a man who discards what matters. The two run together.
 
@@ -131,6 +137,9 @@ Terse, controlled, a man sitting at his own wake. He speaks Maya with a softenin
 
 ### Role
 The id, and the emotional id both. A strong read on people, real wisdom, and extremely carefree and humble with it. He says what the two will not and does what humans think and sit on. He pried both their wounds open across the year and is the reason they each know the other's headline. He talked it out of them by never shutting up and having no shame and no stake.
+
+### The drive (Aydin, 2026-10-16)
+Masculine crudeness, an open mind, and humor. Essentially an existential being: no stake, no fear, at home in what he is.
 
 ### The hormone monster function (1670 register, not the modern one)
 Appetite, no shame, no equipment. He names the lust and the greed out loud, eggs the two repressed men toward their wants, leers with nothing to leer with. The running joke is a skeleton with all the appetite and none of the parts. The register is on the page already in the mermaid line, the one end of her that turns a coin. Bawdy, bodily, of its century. Never modern.
@@ -165,6 +174,12 @@ He already learned meaning lives in the bond. He found his long ago, and he is q
 
 Old, fifties and up, older than the two and still a dangerous fighter. Forty years a Spanish colonial officer, Peru young, then the Maya regions. Not a personal vendetta. A colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever is neither, with calculated cruelty, torture, breaking the people around his targets.
 
+### The drive (Aydin, 2026-10-16)
+Control. His fixation on controlling his world comes from anxiety and a rough childhood. What the childhood was is open.
+
+### What the codex is for him (Aydin, 2026-10-16)
+Made whole, the codex unmakes every curse and strange thing in these seas. With the strange gone, the English, the Spanish and the rest can take the islands the way they did in real history. While the codex stays broken, that power stays scattered and little known. It would also unmake Bonesy, who is a curse.
+
 ### Now, in 1670 (Aydin, 2026-10-11)
 He is just starting on the buccaneers. His forty years went into other kinds of conquest, on land, Peru and then the Maya regions. The sea and the brethren are a new posting, and he has come to it the year England promises Spain to put the buccaneers down. That the two have crossed his people twice already means his people, not this campaign. What the earlier conquests were in detail is open.
 
@@ -181,11 +196,11 @@ The bought officer who took Jigsaw's woman rose into Cárdenas's orbit. This bin
 
 ## The dead and the offscreen
 
-**Balam.** Crumble's teacher, a Maya resistance fighter and master who taught him fighting, stealth, history, and language. Died naturally about a year and four months ago, mid hunt for the codex. Lives in memory. One ghost appearance possible later if it earns its place.
+**Balam.** Crumble's teacher, a Maya resistance fighter and master who taught him fighting, stealth, history, and language. Died naturally about a year and four months ago, mid hunt for the codex. Lives in memory. To Crumble he is an idol, close to a celebrity, the picture of perfection. He needs to be more complex than that, and he may once have helped Cárdenas in some way (Aydin, 2026-10-16). How is open. His one appearance is the vision in Cárdenas's hold.
 
-**Balam's daughter.** The Maya woman Crumble saved on a raid, who sent him to her father. She continues in the story as another living piece of Balam.
+**Balam's daughter.** The Maya woman Crumble saved on a raid, who sent him to her father. She continues in the story as another living piece of Balam. She helps Crumble, and slowly the two fall in love (Aydin, 2026-10-16). Name open.
 
-**Domingo.** Maya contact at Petit-Goâve, knew Balam as a boy, goes by a Spanish name in port. Taken by Cárdenas's soldiers so Crumble could escape. He was Cárdenas's informant: he sold the meeting and would not sell the bearing, and Cárdenas tortured it out of him (Aydin, 2026-10-11). Whether he lives is open.
+**Domingo.** Maya contact at Petit-Goâve, knew Balam as a boy, goes by a Spanish name in port. Taken by Cárdenas's soldiers so Crumble could escape. He was Cárdenas's informant and sold the meeting (Aydin, 2026-10-11). He is mainly a plot device: he shows how loyalty among men fails when death is in the room, and he gets Cárdenas to the second mark by giving it up under torture. He was taken because he lacks Crumble's training (Aydin, 2026-10-16). Whether he lives is open.
 
 **Jigsaw's woman.** The Spanish girl he believed he would marry, lost to the bought officer now in Cárdenas's orbit.
 

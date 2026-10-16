@@ -78,7 +78,19 @@ What is actually established about the plot, in order, with sources.
 11. **Cárdenas is just starting on the buccaneers.** His forty years went into
     other conquest, on land. Aydin, 2026-10-11.
 
-That is the whole of it. Eleven facts.
+12. **The codex, made whole, unmakes every curse and strange thing.** That is
+    why Cárdenas wants it: with the strange gone, the empires take the islands as
+    in real history. It would unmake Bonesy. Aydin, 2026-10-16.
+13. **Balam's daughter joins and helps Crumble, and the two slowly fall in
+    love.** Aydin, 2026-10-16.
+14. **Domingo was taken because he lacks Crumble's training.** He is a plot
+    device for broken loyalty and for getting Cárdenas to the second mark.
+    Aydin, 2026-10-16.
+15. **Each lead has a named drive** (bible): Jigsaw rage, Crumble obligation and
+    regret, Bonesy crude open-minded humor, Cárdenas control born of anxiety.
+    Aydin, 2026-10-16.
+
+That is the whole of it. Fifteen facts.
 
 ---
 
