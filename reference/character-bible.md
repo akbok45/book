@@ -101,6 +101,9 @@ He says little aloud and tells us much. In two handers he is the third instrumen
 ### Role and domain
 Early twenties, a year younger than Jigsaw. His domain is the cultural and historical: the Maya language, the old stone, the codex, what things mean. Trained by Balam through his late teens into his early twenties, after he and Jigsaw were already at sea. He carried the codex knowledge passively until Balam's death about a year and four months back gave it nowhere to go.
 
+### Heritage (Aydin, 2026-10-17)
+English by birth, of plain stock, in the mould of Edward Kenway in *Black Flag*. Maya only by training, under Balam. His childhood comes out in pieces, not as a full history. The woman he left is English too. Her name is open: the drafted name Ixmal is dropped, and Anne is a suggestion.
+
 ### Backstory and the wound
 He left a woman who loved him, at 16, for the sea. Not simply for adventure. He left to prove he was meant for more, to make a prize of his own, because he had done nothing and carried the quiet certainty that he was nothing, an imposter's hunger. Deep down he always hoped she would wait.
 

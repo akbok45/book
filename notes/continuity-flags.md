@@ -192,3 +192,14 @@ age:
   leans on forty years of survival. At his age it needs a new angle, or it
   retires.
 
+## Raised by Crumble's heritage, 2026-10-17
+
+Aydin: Crumble is of plain English descent, in the mould of Edward Kenway, and
+the name Ixmal goes. The story doc uses Anne as a suggested name.
+
+- **3.2, line 41:** *“Ixmal,” he said. The old name, the one Balam’s people gave
+  a child born in a hard season, that means something near enough to bear. “A
+  town. I was sixteen and a crew would have me.”* Both the name and the
+  explanation of it as a Maya name need replacing once her name is chosen. The
+  BEAT note at the top of 3.2 names her too.
+

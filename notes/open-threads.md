@@ -52,7 +52,10 @@ navigation than they had for the rest of the book.
   the mirror: he left, where Jigsaw was left. But the bible never says where
   Crumble comes from, whether he is Maya by birth or only by training, or who
   raised him. Aydin, 2026-10-17: it doesn't need a full answer. Give it in
-  pieces for now.
+  pieces for now. He is English by birth, plain stock, like Edward Kenway in
+  Black Flag, and Maya only by training.
+- **The name of the woman Crumble left.** Ixmal is dropped. Anne is a
+  suggestion. Needs a choice before 3.2 is revised.
 - **How rare magic is, and why.** The story doc now answers a first reader: the
   world is the real 1670 Caribbean with the strange made real, closer to
   magic realism than to a hidden wizard world. Magic lives in objects and
