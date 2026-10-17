@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: At sea, small boat
 when: Night into the next day
 status: draft
-words: 981
+words: 997
 ---
 
 <!-- BEAT: Bonesy pries at Crumble's leaving. Ixmal named. Thirst and the tunny. Crumble's four words about going back. A sail astern. -->
@@ -84,4 +84,4 @@ Crumble’s hands kept on the fish.
 
 That was the whole of it, four words doing the work of a year of standing in the trees, and Bonesy let them, because even he knows when a man has handed over the true thing and there’s no call to press it flatter.
 
-Home was a crew, and then it was not. In his last year aboard he had pulled a Maya girl off a burning deck, plain decency, and she told him her father would make something of him if he had it in him. After the town and the room too small for him, he went and found out. Three years under Balam. He came back with the blade and a way of standing still I have never learned, and a saying of the old man’s for most weathers.
+Home was our crew, and then it was not. Our last year aboard, on a raid with the deck going up in flames, he came out of the smoke with a Maya girl over his shoulder. I did not see what came before. She told him her father would make something of him if he had it in him. After the town and the room too small for him, he went and found out. Three years under Balam. He came back with the blade and a way of standing still I have never learned, and a saying of the old man’s for most weathers.

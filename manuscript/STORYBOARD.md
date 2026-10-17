@@ -33,7 +33,7 @@ Settled, by implication rather than by decision. Worth confirming:
 
 ## Where the draft stands
 
-Drafted, 16,596 words, through the edge of the pool.
+Drafted, 16,608 words, through the edge of the pool.
 
 | | | |
 |---|---|---|
