@@ -26,7 +26,7 @@ forced it in calm with powder and the sea killed six.
 the great star goes under and returns in the east after about eight days as
 morning star. Stand at the Lady's house the morning he first returns and sail at
 where he rises for a count of days. Cárdenas reads every glyph but cannot know
-which morning: that takes an unbroken living day count, and he has spent forty
+which morning: that takes an unbroken living day count, and he has spent twenty-odd
 years killing day keepers. Domingo is broken or dead. His own spy lost the count
 as a boy in a Spanish parish. Crumble has said the day name under his breath every
 dawn since Balam died (*invented*, needs two seeded lines in 3.1 and 4.1). Jigsaw

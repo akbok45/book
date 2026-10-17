@@ -172,7 +172,7 @@ He already learned meaning lives in the bond. He found his long ago, and he is q
 
 ## DON MATEO DE CÁRDENAS — the antagonist
 
-Old, fifties and up, older than the two and still a dangerous fighter. Forty years a Spanish colonial officer, Peru young, then the Maya regions. Not a personal vendetta. A colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever is neither, with calculated cruelty, torture, breaking the people around his targets.
+In his early forties (Aydin, 2026-10-17), older than the two by some twenty years and a dangerous fighter. More than twenty years a Spanish colonial officer, Peru young, then the Maya regions. This replaces the earlier "fifties and up, forty years". Not a personal vendetta. A colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever is neither, with calculated cruelty, torture, breaking the people around his targets.
 
 ### The drive (Aydin, 2026-10-16)
 Control. His fixation on controlling his world comes from anxiety and a rough childhood. What the childhood was is open.
@@ -181,13 +181,13 @@ Control. His fixation on controlling his world comes from anxiety and a rough ch
 Made whole, the codex unmakes every curse and strange thing in these seas. With the strange gone, the English, the Spanish and the rest can take the islands the way they did in real history. While the codex stays broken, that power stays scattered and little known. It would also unmake Bonesy, who is a curse.
 
 ### Now, in 1670 (Aydin, 2026-10-11)
-He is just starting on the buccaneers. His forty years went into other kinds of conquest, on land, Peru and then the Maya regions. The sea and the brethren are a new posting, and he has come to it the year England promises Spain to put the buccaneers down. That the two have crossed his people twice already means his people, not this campaign. What the earlier conquests were in detail is open.
+He is just starting on the buccaneers. His twenty-odd years went into other kinds of conquest, on land, Peru and then the Maya regions. The sea and the brethren are a new posting, and he has come to it the year England promises Spain to put the buccaneers down. That the two have crossed his people twice already means his people, not this campaign. What the earlier conquests were in detail is open.
 
 ### The Thrawn dimension
 He collects the histories, books, and sacred artifacts of the peoples he destroys, studies them, understands them better than they understand themselves, because you cannot truly finish a people until you do. This makes him able to assemble the codex's shape from fragments. He keeps occult artifacts of his own, though curses are anomalous even here. He built that collection colonizing South America and then the Maya country (Aydin, 2026-10-17). Magic itself belongs to the Caribbean and the New World, strongest in native settings, and has reached the pirates through friendship and plunder. Whether it exists in Europe is never stated. He turns that magic against the peoples of the Caribbean, and his senior officers carry artifacts of their own (Aydin, 2026-10-11). The rules of it are open, in `manuscript/STORYBOARD.md`.
 
 ### The threat
-He does not appear in chases. He plans, watches, runs spies, and was already ahead of the trio at Petit-Goâve. He commands ships that sail straight through the storms the trio must flee, which nullifies their one advantage. The not being dead after forty years is the frightening part.
+He does not appear in chases. He plans, watches, runs spies, and was already ahead of the trio at Petit-Goâve. He commands ships that sail straight through the storms the trio must flee, which nullifies their one advantage. The not being dead after forty years was the frightening part when he was written older. At his new age the line needs rethinking; see `notes/continuity-flags.md`.
 
 ### The personal thread
 The bought officer who took Jigsaw's woman rose into Cárdenas's orbit. This binds the codex enemy and the personal enemy into one, a reveal that can land hard later. Jigsaw has some idea of it already, which is why reading up on Cárdenas was never only tactical.

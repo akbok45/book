@@ -75,7 +75,7 @@ What is actually established about the plot, in order, with sources.
    officers carry artifacts.** Aydin, 2026-10-11. Rules not yet set, below.
 10. **The book is set in 1670, and the chapter 2 outpost is Petit-Goâve.**
     Tortuga is at its height and is saved for later. Aydin, 2026-10-11.
-11. **Cárdenas is just starting on the buccaneers.** His forty years went into
+11. **Cárdenas is just starting on the buccaneers.** His twenty-odd years went into
     other conquest, on land. Aydin, 2026-10-11.
 
 12. **The codex, made whole, unmakes every curse and strange thing.** That is
@@ -221,7 +221,7 @@ officers carry artifacts. Rules still to set. Proposals:
   where the strange is common and nobody remarks on it. Aydin's comparison is
   Mos Eisley, with the magic felt more than cast, the way the Force is. Hints,
   not spells: more of the kind of thing the skull at cards in 2.3 already is.
-- **Proposed: the reason it is rare elsewhere is him.** He has spent forty
+- **Proposed: the reason it is rare elsewhere is him.** He has spent twenty-odd
   years gathering it up the way he gathers books. Tortuga is French and
   lawless, the one place he cannot reach, so the strange pooled there.
 - **Each piece costs its carrier.** Small, bodily, visible. Gives Jigsaw

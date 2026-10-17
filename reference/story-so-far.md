@@ -58,7 +58,7 @@ A walking, cursed skeleton. Was an ordinary Maya peasant before the curse, never
 
 ### Don Mateo de Cárdenas — the antagonist
 
-Old (50s+, older than J and C, still a dangerous fighter), forty years a Spanish colonial officer. Served in Peru young, then the Maya regions. Not driven by personal vendetta, he's a colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever isn't, with calculated cruelty, torture, breaking the people around his targets.
+In his early forties, older than J and C and a dangerous fighter, more than twenty years a Spanish colonial officer. Served in Peru young, then the Maya regions. Not driven by personal vendetta, he's a colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever isn't, with calculated cruelty, torture, breaking the people around his targets.
 
 **The Thrawn dimension:** he collects the histories, books, and sacred artifacts of the peoples he destroys, studies them, understands them better than they understand themselves, because you cannot truly finish a people until you do. This makes him uniquely able to assemble the codex's shape from fragments. He keeps occult artifacts of his own, though curses are anomalous even in this world.
 

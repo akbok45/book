@@ -175,3 +175,20 @@ keeps them meeting at Tortuga.
   been mine for five years because I had not gone into it*, the unbroached
   cask, gives it more weight than that. Flagged, not cut.
 
+## Raised by Cárdenas's new age, 2026-10-17
+
+Aydin: Cárdenas is in his early forties. The bible had him in his fifties with
+forty years of service. The story doc, bible, recap and storyboard are updated to
+more than twenty years. Two drafted lines and one held line still carry the old
+age:
+
+- **2.2:** *the thing forty years of Cárdenas has been spent trying to scrub off
+  the earth.* This is also one of the two standing "thing" exceptions in
+  `.claude/commands/linecheck.md`. Suggest *twenty years of Cárdenas*, or drop
+  the number.
+- **2.3:** *an old master forty years at his trade.* At forty-odd he is neither
+  old nor forty years at it. Suggest *a master twenty years at his trade*.
+- **The held line** from 2.1, *the not being dead is the frightening part*,
+  leans on forty years of survival. At his age it needs a new angle, or it
+  retires.
+
