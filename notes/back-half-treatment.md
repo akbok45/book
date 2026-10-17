@@ -332,3 +332,29 @@ The doc was rewritten section by section. What changed from the fourth pass:
   Rodrigo alive. No epilogue. Morgan waits.
 - **Battle versions A, B and C** are folded into one climax, with a note on
   what came from each.
+
+## Sixth pass, 2026-10-17: the fort, rebuilt
+
+Aydin rebuilt chapter 8 between the freedom offer and the release.
+
+- **8.1:** the three share one cell. Jigsaw does push ups, Crumble meditates
+  the way Balam taught him and recites prayers, and still keeps the day count.
+- **8.3:** after the bread, Cárdenas moves Jigsaw to a room of his own.
+- **8.4:** Cárdenas offers freedom alone and says plainly he will break Crumble
+  and Amara. Jigsaw refuses. Cárdenas is genuinely angry, presses him, then
+  ends every privilege and throws him back in the cell. Crumble works out what
+  happened without a speech.
+- **8.5, new:** Cárdenas questions Crumble and Amara separately and gets only
+  pieces. The Venus page needs Crumble's count, Amara's part of Balam's
+  tradition and Jigsaw's navigation. He has destroyed the people who kept such
+  knowledge, and now he needs three prisoners.
+- **8.6:** a practical bargain, freedom together. No trick and no plan. Then the
+  weapons test: Cárdenas lays out their weapons and invites them to take them.
+  Jigsaw leaves his father's swords and Crumble leaves Balam's blade.
+  Cárdenas takes it as proof he has won.
+- **8.7 and 8.8:** the rescue and the beach, renumbered. The swords do not come
+  back before the end.
+- **6.3:** Rodrigo's line is now "You had more talent than I did. Better marks.
+  Better with a blade. Everyone knew it. And I became an officer while you
+  became this," then a jab at Jigsaw's manhood.
+- Chapter 8 is now about 19,000 words, and the book about 100,000.

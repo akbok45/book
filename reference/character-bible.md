@@ -101,7 +101,7 @@ Beneath adventure and gold, he is searching for meaning, the door at the bottom 
 Not mute. He banters with Bonesy, pushes back on Crumble, keeps a dry mouth. He lands slightly fewer lines than Crumble, a notch, not a gulf. Because his lines are rarer they land harder and should cost him. We should know him best of the three.
 
 ### Appearance and gear
-Early twenties, a year older than Crumble. Razor shaved head, a scar on his face, hide built pirate rig where salt eats wool and where a blade looks to land, oiled dark, not worn like a hunter. He carries twin lighter Spanish arming swords, his own from his dueling and service youth, mended by the brotherhood blacksmith, so they are half him. (NOTE: this revises the written line that he took them off dead men. The new origin fits the book's idea that a man's gear is half him. Veto if you want the old line.) A legend follows him from a galleon he cleared single handed.
+Early twenties, a year older than Crumble. Razor shaved head, a scar on his face, hide built pirate rig where salt eats wool and where a blade looks to land, oiled dark, not worn like a hunter. He carries twin lighter Spanish arming swords, his own from his dueling and service youth, mended by the brotherhood blacksmith, so they are half him. (NOTE: this revises the written line that he took them off dead men. The new origin fits the book's idea that a man's gear is half him. Veto if you want the old line.) A legend follows him from a galleon he cleared single handed. In chapter 8 Cárdenas lays the swords out and tells him to take them, and Jigsaw leaves them in Campeche. What he has from his father is not kept in the objects. The swords do not come back to him in book one (Aydin, 2026-10-17).
 
 ### How to write him
 He says little aloud and tells us much. In two handers he is the third instrument, threading observation through the gaps, the wound leaking personal in the moment. His skill came the slow way, practice and watching and trying, then a sword that argued for him after Crumble left, then the solo years exploring this sea alone in a small boat, because some things no man teaches you. His eye stays always on the physical world. He notices everything and says only some of it.
@@ -217,6 +217,8 @@ He plans, watches, runs spies and informants, and was already ahead of the trio 
 
 ### How he loses
 He cannot hand anything essential to another person. In Florida he lays the leaves himself, speaks the rite himself from Balam's old teaching though he is told it is incomplete, and never counts Bonesy as anything but a specimen. He survives book one and loses control.
+
+The deeper blind spot (Aydin, 2026-10-17): he understands coercion, greed, fear and people acting because they have no choice. He never understands people who choose loyalty, responsibility or sacrifice when they are free to walk away. In the fort he offers Jigsaw freedom alone, and the refusal enrages him because it proves something in Jigsaw is outside his control. When he finally releases the three, he lays out their weapons as a last test. They leave them, and he believes he has broken them. Their choosing to come back is the one move he never planned for.
 
 ### The personal thread
 Rodrigo, the schoolmate who married Jigsaw's girl, serves under Cárdenas. This binds the codex enemy and the personal enemy into one.
