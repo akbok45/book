@@ -212,7 +212,12 @@ officers carry artifacts. Rules still to set. Proposals:
   Maya piece has a hold on Maya. Crumble is exposed and Bonesy, a cursed Maya
   peasant, most of all. Jigsaw stands outside it until Cárdenas holds
   something of the brotherhood.
-- **Settled: magic is rare, except in Tortuga.** Tortuga is the hub, a port
+- **Settled 2026-10-17: where magic lives.** Magic belongs to the Caribbean
+  and the New World. Whether it exists in Europe is never stated. It is
+  strongest in native settings, and has passed to pirates through friendship
+  and plunder, which is why Tortuga is thick with it. Cárdenas built his
+  collection by colonizing South America and then the Maya country.
+- **Earlier wording, kept for the record: magic is rare, except in Tortuga.** Tortuga is the hub, a port
   where the strange is common and nobody remarks on it. Aydin's comparison is
   Mos Eisley, with the magic felt more than cast, the way the Force is. Hints,
   not spells: more of the kind of thing the skull at cards in 2.3 already is.

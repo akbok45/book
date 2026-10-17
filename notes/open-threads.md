@@ -51,7 +51,8 @@ navigation than they had for the rest of the book.
   haunted the way Jigsaw is. The answer in the story doc is that his wound is
   the mirror: he left, where Jigsaw was left. But the bible never says where
   Crumble comes from, whether he is Maya by birth or only by training, or who
-  raised him. Needs a decision.
+  raised him. Aydin, 2026-10-17: it doesn't need a full answer. Give it in
+  pieces for now.
 - **How rare magic is, and why.** The story doc now answers a first reader: the
   world is the real 1670 Caribbean with the strange made real, closer to
   magic realism than to a hidden wizard world. Magic lives in objects and
