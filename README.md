@@ -1,6 +1,6 @@
 # The Codex Trilogy, Book One
 
-Working repository for the novel. Caribbean, 1690. First person, narrated by Jigsaw.
+Working repository for the novel. Caribbean, 1670. First person, narrated by Jigsaw.
 
 ## Getting started
 
@@ -33,7 +33,7 @@ manuscript/            the book, one file per scene, in reading order
 reference/
   character-bible.md   the authority on the cast, the wounds, the timeline
   story-so-far.md      plain recap of book one. Superseded by the bible where they disagree
-  world-1690.md        buccaneer Caribbean research: history, ships, the code, language
+  world-1670.md        buccaneer Caribbean research: history, ships, the code, language
   craft/               the fourteen craft guides
 notes/
   style-rules.md       the prose laws with worked examples from the draft
