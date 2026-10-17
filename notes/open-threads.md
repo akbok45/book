@@ -12,17 +12,17 @@ Story and character questions still unsettled. Not errors. Decisions waiting to 
 
 ## Character
 
-- **Domingo's fate.** Taken alive by Cardenas's soldiers. Cardenas keeps the histories of the people he destroys, and Domingo is a keeper. That makes him worth more to Cardenas than a body, which is worse for Domingo and better for the plot.
-- **The bought officer who took Jigsaw's woman.** Whether he is truly the sharper man or built into that by the wound. He rose into Cardenas's orbit, which binds the personal enemy to the codex enemy. If he matters later, make him real now.
+- ~~**Domingo's fate.**~~ **Settled 2026-10-17.** Captured, tortured, tells Cardenas about Balam's daughter. His role ends there.
+- ~~**The bought officer who took Jigsaw's woman.**~~ **Settled 2026-10-17.** Don Rodrigo, suggested name, is genuinely capable and serves under Cardenas. See the bible.
 - **When the full Cardenas link lands**, for Jigsaw and separately for the reader. Jigsaw already has some idea, which is why reading up on Cardenas was never only tactical.
 - **The scene that carries Crumble's reframe**, from *the leaving was a mistake* to *the leaving was a choice, and look what it bought*. Bonesy models the destination without either of them naming it.
-- **Whether Balam earns one ghost appearance**, and how his daughter returns.
+- ~~**Whether Balam earns one ghost appearance**, and how his daughter returns.~~ **Settled 2026-10-17.** Balam appears in the chapter 7 vision. Amara returns in chapter 5.
 - **The name of the father's brotherhood.** Morisco and Barbary corsair men who came over under false Christian names. Needs a name that a Spanish tongue would not catch and a member would recognise.
 
 ## Mechanics of the world
 
 - **The finger, called Margaret in the bible, is unnamed in the prose.** If Bonesy names her, the naming is the beat, and it should sit near the moment he objects to handing her from one gold house to the next.
-- **How the codex gate actually opens at the end of the trilogy.** The bible has it: the bond between the three is the key, so the emotional arc and the mystical mechanic are one thing. Book one only needs to plant that the locks are not locks.
+- **How the codex works.** Revised 2026-10-17: it follows old, impersonal rules (leaves, a living day count, the rite, the place, the time) and does not answer to the bond between the three. The bond idea as key is removed.
 - **Curses are anomalous in this world.** Bonesy is one. Cardenas keeps occult artifacts. Somebody eventually asks how a man becomes what Bonesy is, and Bonesy does not care, which is its own answer.
 
 ## Raised by chapter 4
@@ -54,11 +54,23 @@ navigation than they had for the rest of the book.
   raised him. Aydin, 2026-10-17: it doesn't need a full answer. Give it in
   pieces for now. He is English by birth, plain stock, like Edward Kenway in
   Black Flag, and Maya only by training.
-- **The name of the woman Crumble left.** Ixmal is dropped. Anne is a
-  suggestion. Needs a choice before 3.2 is revised.
+- ~~**The name of the woman Crumble left.**~~ **Settled 2026-10-17: Anne.**
 - **How rare magic is, and why.** The story doc now answers a first reader: the
   world is the real 1670 Caribbean with the strange made real, closer to
   magic realism than to a hidden wizard world. Magic lives in objects and
   cursed beings, not in spellcasters. It is rare because Cárdenas has spent
   forty years taking it from conquered peoples, which is still marked as
   proposed.
+
+## Raised by the full outline revision, 2026-10-17
+
+- **The in-world word for people changed by magic.** "Cursed," "strange" and
+  "different" are out as the general term. Nothing chosen yet.
+- **How common magic is.** Settled: rare, mostly story to ordinary people, seen
+  now and then, strongest in isolated native communities like Amara's.
+- **Whether the elder turns in Florida.**
+- **Whether one leaf survives the breaking** into book two.
+- **What Cardenas did to win Balam's trust.** The outline suggests he stopped
+  soldiers burning a Maya settlement and executing its people.
+- **Morgan and Panama.** Out of book one's storyboard for now. Revisit once the
+  ending is settled.

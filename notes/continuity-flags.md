@@ -203,3 +203,31 @@ the name Ixmal goes. The story doc uses Anne as a suggested name.
   explanation of it as a Maya name need replacing once her name is chosen. The
   BEAT note at the top of 3.2 names her too.
 
+
+## Raised by the full outline revision, 2026-10-17
+
+Aydin revised the whole story doc. These drafted lines now conflict with it.
+Flagged, not fixed.
+
+- **3.2, Anne is final.** The name Ixmal at line 41, its explanation as a name
+  Balam's people give, and the BEAT note at the top of the file all need to
+  become Anne. Crumble is English.
+- **2.2, line 41, Domingo.** *"He knew Balam. Boys together, before any of
+  it."* Domingo is now an acquaintance of Balam, not a childhood friend. The
+  line needs softening or cutting.
+- **3.1, Domingo.** *Domingo stood up out of it so they'd have a man to take*
+  still reads as a sacrifice. The outline has him simply caught. Already
+  flagged above on 2026-10-16, still open.
+- **Who sold the meeting.** The bible recorded on 2026-10-11 that Domingo was
+  Cárdenas's informant and sold the meeting himself. The revised outline says
+  only that someone betrayed the meeting, Domingo was captured, and he talked
+  under torture. If Domingo was the informant, he would not need torture.
+  Aydin to decide which is true.
+- **The bond as the codex key.** The bible, `reference/story-so-far.md` and
+  `manuscript/STORYBOARD.md` said the bond between the three opens the final
+  gate. Removed by Aydin. The bible is updated. The recap and storyboard still
+  carry the old line.
+- **Cárdenas "never chases".** Removed by Aydin. Any later prose should not
+  lean on it.
+- **Chapter 4 as the midpoint.** No longer true. The midpoint is the capture at
+  the end of chapter 6.

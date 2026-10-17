@@ -4,6 +4,16 @@
 settled it is stated flat. Where it is not, it says so and says what is waiting
 on it. Nothing in here was invented to fill a gap.
 
+
+> **2026-10-17: the full plan now lives in the story doc, "Book One: The Story,"
+> revised end to end in plain English.** It supersedes the back half below
+> where they differ. The main changes: Balam's daughter is Amara; Anne is final;
+> Domingo's role ends at his capture; the cord and prison training subplot is
+> cut; chapter 8 is Cárdenas trying to break Jigsaw, then the genuine deal;
+> chapter 9 is a 20,000 word Florida climax with no epilogue; the midpoint is
+> the capture at the end of chapter 6. See `notes/back-half-treatment.md` for
+> the pass log.
+
 ---
 
 ## What the trilogy is for
@@ -13,10 +23,12 @@ From the bible, settled:
 The question is whether two broken men can find something worth living for in
 each other, and whether that is enough. Jigsaw chases it through the door at
 the bottom of the sea. Crumble chases it through Balam's unfinished work. Both
-are chasing the bond between the three of them and Bonesy without knowing it,
-and that bond is designed to open the final codex gate at the end of book
-three. The emotional arc and the mystical mechanic are the same mechanism. The
-wounds are the lock.
+are chasing the bond between the three of them and Bonesy without knowing it.
+
+Revised by Aydin, 2026-10-17: the bond is no longer the key to the codex. The
+codex follows old, impersonal rules (leaves, a living day count, the rite, the
+place, the time). The bond matters because it makes them able to trust each
+other with work those rules give to several hands at once.
 
 Bonesy already found it, long ago, and watches the other two look.
 
@@ -24,9 +36,8 @@ Bonesy already found it, long ago, and watches the other two look.
 
 Settled, by implication rather than by decision. Worth confirming:
 
-- Plant that the locks are not locks, so the ending of book three is earned
-  rather than sprung. (`notes/open-threads.md`)
-- Put Cárdenas on the board as a man who assembles, not a man who chases.
+- Put Cárdenas on the board as a man who assembles, plans and breaks people,
+  with a chain a reader can follow every time he finds them.
 - Get the three of them from a failed job to the first piece of the codex.
 - Move Crumble one step from *the leaving was a mistake* toward *the leaving
   was a choice*. The bible calls this his arc. No scene carries it yet.

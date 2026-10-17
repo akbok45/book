@@ -278,3 +278,57 @@ all of it to be built on top of the existing road. The story doc now carries:
 - **Three battle versions,** with Cárdenas losing to his own need for control,
   surviving, and the codex broken again. The epilogue at Tortuga brings the
   news of Morgan.
+
+## Fifth pass, 2026-10-17: the full plain English revision
+
+Aydin asked for the whole story doc to be rewritten, not added to, in simple,
+direct English, with every scene saying what happens, why, and what changes.
+The doc was rewritten section by section. What changed from the fourth pass:
+
+- **Magic is rare and mostly story.** People see pieces of it now and then.
+  It survives in isolated native communities. Tortuga has more only because it
+  takes in anyone. Amara's community is where it is strongest.
+- **The codex follows impersonal rules.** The bond between the three is no
+  longer the key. Five requirements: leaves, living day count, rite, place,
+  time. A flawed rite works slowly.
+- **Cárdenas hates magic** and uses only what he controls. His sister died of
+  magic nobody could control. He wants magic gone from the Caribbean and
+  accepts the deaths the codex would cause. He prefers breaking enemies to
+  killing them but still kills. "He never chases" is cut. His history with
+  Balam is laid out, and he tells most of it himself in chapter 7.
+- **Balam's line** is now "I regret what he did with what I taught him. I
+  could not know what he would become." His deals with Spain to protect his
+  people and Amara are a separate choice.
+- **Anne is final.** Crumble left because he thought he was not enough for
+  her, and repeats the pattern with Balam.
+- **Amara** is the daughter's name. Fully human, a leader of her own people,
+  flaw is not knowing what she wants.
+- **The village** uses old, physical changes (mangrove legs, a shark-like
+  fisherman, a crab claw, coral growth, bark) with at least one tragic case.
+  The in-world word for these people is still open.
+- **Jigsaw's deeper need** is proof he mattered. His arc is choosing what is
+  worth something, as his father did. The school duel shows him attacking
+  after the fight is called.
+- **Rodrigo** is capable, and the resentment runs both ways.
+- **Domingo** is an acquaintance of Balam. His role ends at his torture. The
+  prison visit and the "my people" line are cut.
+- **Chapter 4** is the first success, not the midpoint. Jigsaw is afraid and
+  goes in. The clue leads to Amara, who can read it and also hide them.
+- **Chapter 5** has no standalone flashback. A Spanish patrol does six jobs:
+  introduces Amara as a leader, gives action, triggers Jigsaw's raid memory,
+  tests whether he stops, reveals the Treaty of Madrid, and shows Spanish
+  pressure reaching the village, with a followable chain.
+- **Chapter 6 capture:** the elder beats Crumble with Balam's own methods,
+  soldiers overpower Amara, Rodrigo threatens Crumble, and Jigsaw surrenders.
+  This is the midpoint.
+- **Chapter 7:** the cabin, Cárdenas's story, then a chronological vision with
+  a 12 step list for Jigsaw and a 16 step list for Crumble, then the two
+  conversations, then Bonesy's chest.
+- **The cord subplot is cut.** Chapter 8 is Cárdenas trying to break Jigsaw
+  with privileges, then freedom alone (refused), then the genuine deal. No
+  weapons asked for. The ugly rescue, then the beach.
+- **Chapter 9** is a 14 part Florida climax of about 20,000 words. Cárdenas
+  loses because he cannot hand anything essential to anyone. Jigsaw leaves
+  Rodrigo alive. No epilogue. Morgan waits.
+- **Battle versions A, B and C** are folded into one climax, with a note on
+  what came from each.
