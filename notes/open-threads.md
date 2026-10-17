@@ -44,3 +44,17 @@ Also drafted into 4.1 and open to veto: they take the wrecked ship's Spanish
 charts, which is seamanship rather than plot, but it does hand them better
 navigation than they had for the rest of the book.
 
+
+## Raised by a first reader, 2026-10-17
+
+- **Crumble's own family and childhood.** A reader asked why Crumble isn't
+  haunted the way Jigsaw is. The answer in the story doc is that his wound is
+  the mirror: he left, where Jigsaw was left. But the bible never says where
+  Crumble comes from, whether he is Maya by birth or only by training, or who
+  raised him. Needs a decision.
+- **How rare magic is, and why.** The story doc now answers a first reader: the
+  world is the real 1670 Caribbean with the strange made real, closer to
+  magic realism than to a hidden wizard world. Magic lives in objects and
+  cursed beings, not in spellcasters. It is rare because Cárdenas has spent
+  forty years taking it from conquered peoples, which is still marked as
+  proposed.
