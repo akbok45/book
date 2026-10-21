@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The half-moon island, the windward pool
 when: The morning after landfall, at slack water
 status: draft
-words: 1478
+words: 1482
 ---
 
 <!-- BEAT: Over the ridge at first light. The pull eases toward slack. Bonesy goes down the pull on a line, since he does not breathe, and comes back: the rock on the low side is not rock. Jigsaw is afraid and goes anyway. Two breaths, a swim at solid stone, and through it into air. Crumble comes up beside him. -->
@@ -14,7 +14,7 @@ We crossed the ridge with the line coiled over Crumble’s shoulder and the sun 
 
 The pool was grey in that light. The tarpon were in it, circling slow, nose to tail. Every few turns the big one rolled up to the surface and gulped air with a loud pop, the way tarpon do, and sank back into its place in the circle. They were slower now. The pull was going out of the water as the tide came to the top. I could see it on the surface, where the small ripples off the rock had stopped leaning one way.
 
-“How long,” Crumble said.
+“How long till it stops pulling,” Crumble said.
 
 “Half an hour. Less.”
 
