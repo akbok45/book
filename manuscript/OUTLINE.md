@@ -26,7 +26,7 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | 3.2 | `ch03-the-cay/02-the-girl.md` | 997 | Bonesy pries at the leaving. Ixmal named. Thirst, hunger, the tunny eaten raw. Crumble's four words about going back. How he came to Balam, from the raid Jigsaw saw on their old crew. His dawn day count. A sail on the rim of the sea. |
 | 3.3 | `ch03-the-cay/03-the-gate-and-the-spring.md` | 993 | The one mean gap in the reef. The spring under the cut face of Ixchel. The ship stands off like a barracuda and swings out a boat. The trap decided without a word. |
 | 3.4 | `ch03-the-cay/04-the-boat.md` | 1231 | The ambush. Ten in the boat, eight killed in it. The dead paid into the water one at a time off the lip, then the two kept, both hamstrung and put in after them, all of it where the glass can see. Bait laid. |
-| 3.5 | `ch03-the-cay/05-the-reef.md` | 1507 | She comes in too fast and strikes the coral. Bonesy works the one gun. The two come down the masthead from the cliff into the smoke. The deck fight and the captain from the clean rooms. |
+| 3.5 | `ch03-the-cay/05-the-reef.md` | 1564 | She comes in too fast and strikes the coral. Bonesy works the one gun. The two come down the masthead from the cliff into the smoke. The deck fight and the captain from the clean rooms, who knows Jigsaw from Don Rodrigo's stories at Cárdenas's table. |
 
 ## Chapter 4, The Half Moon
 
@@ -36,9 +36,9 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 |---|---|---|---|
 | 4.1 | `ch04-the-half-moon/01-open-water.md` | 800 | Sharks in the cove by mid morning. Stripping the wreck before the coral takes her: powder, biscuit, cordage, her glass, her charts. Water off the spring under Ixchel, a finger thick, all afternoon. Eleven days west and south. Crumble quotes Balam on hurrying the hunt, and keeps the day count every dawn while Bonesy gets the day wrong. Bonesy pries at the pool and Jigsaw gives him nothing, and the narration says what he will not, that the pool was his for five years because he never went into it, and is now the only road the three of them have. Crumble asks one question and lets it alone. |
 | 4.2 | `ch04-the-half-moon/02-the-pool.md` | 699 | No landing on the windward side, so they anchor in the lee and walk over. The pool is where he left it and the tarpon are in it. He puts his hand in as he did at twenty and the big one goes past slow with its eye on him, in front of two witnesses. Crumble reads the water, says it is pulling, and asks where it goes. Jigsaw has never found out. |
-| 4.3 | `ch04-the-half-moon/03-the-night-before.md` | 1649 | Back over the scrub at dusk. Crumble sets the morning and sleeps; Bonesy keeps company with the anchor cable. Jigsaw takes a watch nobody needs. Seventeen: the tertian fever, the bark he could not buy, his parents dead eleven days apart, the ship that sailed without him. Arriving alone. Twenty: the pool, the knot he could not tie, the tide he blamed. Now Crumble asleep against the mast, and his hands still. |
+| 4.3 | `ch04-the-half-moon/03-the-night-before.md` | 1426 | Back to the sloop at dusk. Crumble sets the morning and sleeps; Bonesy talks to the anchor cable. On watch, the dead captain's words come back. Jigsaw falls asleep at the tiller into the fencing room at the school: the last bout with Rodrigo, the master calls it, Rodrigo stops, Jigsaw does not. He wakes at first light having said Rodrigo's name aloud, and Bonesy heard it. |
 
-**Total drafted: 18,257 words.**
+**Total drafted: 18,091 words.**
 
 ## What comes after
 

@@ -238,7 +238,15 @@ Flagged, not fixed.
   malaria. The English word is not recorded until the 1740s, so 4.3 calls it
   the fever and the tertian, and the cure the Jesuits' bark. The notes can keep
   "malaria" as shorthand. The prose should not use it.
-- **Details invented in 4.3, open to veto:** six years at the school, his
-  mother dying on a bad day and his father eleven days later on a good one,
-  selling his coat, the apothecary pushing the money back, cutting the line at
-  the pool because he could not untie it.
+- **4.3 redrafted, 2026-10-21.** Aydin replaced the parents flashback with the
+  school duel. The parents' fever, the bark and the ship that sailed without
+  him now have no scene. They are free for a later quiet moment.
+- **Details invented in the 4.3 duel, open to veto:** the chalk circle and
+  black practice swords of the Spanish school, Rodrigo's father and
+  grandfather as captains, his commission letter arriving before examinations,
+  his line before the bout ("My father has my commission. Who's writing
+  yours?"), the score of three touches, the master's cane, Rodrigo's "It was
+  over. You had it."
+- **3.5, new lines:** the captain now says Don Rodrigo told stories about
+  Jigsaw at Cárdenas's table. That puts Rodrigo in Cárdenas's service from
+  chapter 3.

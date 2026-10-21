@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The Spanish ship, aground on the coral
 when: Same morning
 status: draft
-words: 1507
+words: 1564
 ---
 
 <!-- BEAT: She comes in and strikes. Bonesy works the gun. Jigsaw and Crumble come down the masthead from the cliff. The deck fight and the captain. -->
@@ -85,6 +85,10 @@ The cove was below. Fire to my left. Smoke to my right. His blade in front, alre
 Then his mouth changed.
 
 Not a smile. He knew better than to smile. Only the smallest easing at the corner, as if the deck had righted under him, as if the dirty sailor in hides had remembered where he belonged.
+
+“Don Rodrigo said you would fight with two,” he said. “He told us about you at Don Mateo’s table. Best marks in the school.” His point did not move off my breastbone. “And the one who would not stop when the master called it.”
+
+My left hand had gone tight on the grip. I made it loose.
 
 That was when I knew what I hated in him.
 

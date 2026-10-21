@@ -5,12 +5,12 @@ pov: Jigsaw, first person, past
 place: The half-moon island, at anchor in the lee
 when: The night after landfall
 status: draft
-words: 1649
+words: 1426
 ---
 
-<!-- BEAT: Back over the scrub at dusk. Crumble sets the morning and sleeps. Bonesy keeps company with the anchor cable. Jigsaw takes a watch nobody needs. Seventeen: the tertian fever, the bark he could not buy, the ship that sailed without him. Arriving alone. Twenty: the pool, the line he could not untie, the tide he blamed. Now: the two of them, and his hands. -->
+<!-- BEAT: Back to the sloop at dusk. Crumble sets the morning and sleeps. Bonesy talks to the anchor cable. Jigsaw takes the watch and the dead captain's words come back to him. He falls asleep at the tiller. The fencing room at the school: the bout with Rodrigo, the master calls it, Rodrigo stops, Jigsaw does not. He wakes at first light with Rodrigo's name said aloud, and Bonesy heard it. -->
 
-We went back over the scrub as the light went. It took the skin off us a second time, and Bonesy complained for all three of us, since the other two would not. The sloop lay where we had left her in the lee, swinging easy to her cable over the sand. Past the point the sea went on doing to the windward rock what it had done all day. We could hear it from the deck. There is nowhere on that island you cannot hear it.
+We went back over the scrub as the light went. It took the skin off us a second time. The sloop lay where we had left her in the lee, swinging to her cable over the sand. We could hear the sea on the windward rock from the deck. There is nowhere on that island you cannot hear it.
 
 Crumble boiled the last of the salt beef with biscuit broken into it, in the copper kettle Bonesy had claimed off the wreck. Bonesy allowed it. A man shares his kettle.
 
@@ -18,86 +18,104 @@ Crumble boiled the last of the salt beef with biscuit broken into it, in the cop
 
 “Slack water’s an hour after.”
 
-“Then an hour after first light.” He scraped the bottom of the kettle with his spoon. “Sleep.”
+“Then an hour after first light.” He scraped the kettle with his spoon. “Sleep.”
 
 “I’ve the watch.”
 
-“There’s nothing to watch. There’s nobody for forty leagues.”
+“There’s nobody for forty leagues.”
 
 “Then it’ll be a short one.”
 
-He looked at me over the kettle a while. Then he put his back to the mast and his hands in his armpits and shut his eyes, which with Crumble is the end of an argument and not the end of the thinking.
+He looked at me over the kettle. Then he put his back to the mast and shut his eyes. With Crumble that is the end of an argument, not the end of the thinking.
 
-Bonesy went forward. He sat on the bitts with his heels knocking the planking and took up with the anchor cable.
+Bonesy went forward and sat on the bitts with his heels knocking the planking. He took up with the anchor cable.
 
 “Long day for you.”
 
-The cable said nothing. It lay out over the bow into black water and took the weight of the boat each time she lifted.
+The cable took the weight of the boat each time she lifted, and said nothing.
 
 “All day you held. Nobody said.” He patted it. “Nobody ever says, with a cable.”
 
-I went aft and sat by the tiller, which was lashed and wanted nothing from me. I put my hands on my knees.
+I sat aft with my arm over the tiller. She was lashed and did not need me. The wind had gone light and warm off the land.
 
-I have kept watches I did not need since I was seventeen.
+I had not thought about the captain since the cay. I had cleaned the blade and put him over the side with the rest of them and not thought about him. Now with nothing to do and nobody talking to me he came back, and it was not his face. It was his voice, easy, with his point on my breastbone.
 
-I was a year at sea in Spanish service that spring and came home on my first leave with a new coat and a little money and the walk of a man who has been up a mast in weather. I could smell it from the gate. A house where the fever is has its own smell, sweat and vinegar and closed shutters in the heat, and I had smelled it on the lower deck often enough to know it in my mother’s house.
+*The one who would not stop when the master called it.*
 
-She was in the cold fit when I came in. It was the middle of the afternoon and the heat stood in the room like water in a cask, and she was under three blankets with her teeth going like a sail with the wind on the edge of it. My father sat by the bed. He had it too, but it was his good day. That is the way of the tertian. It takes you one day and leaves you the next to think about it, and then it takes you again.
+Rodrigo had told that at Cárdenas’s table. Over the wine, I supposed, to men who laughed. It had been nine years and he was still telling it.
 
-He got up when he saw me. He was a big man and the getting up took him a long time. He put his hand on the back of my neck the way he had when I was small. He held it there and said nothing.
+I put my hand on the tiller to have something in it. The boat lifted and settled. Forward, Bonesy was telling the cable about a rope he had known in Campeche Bay. Crumble breathed slow through his nose against the mast.
 
-There was a cure. Everyone knew there was. The Jesuits brought a bark up from Peru that broke the fever if it was taken in time, and the apothecary in the port sold it by the dram out of a locked box. The rich houses up the hill had it. In a rich house a man takes the fever the way he takes a cold, with his feet up and somebody bringing him broth.
+I do not remember shutting my eyes.
 
-The money that would have bought it had gone on me. Six years of good masters, Latin and figures and the charts. A fencing room with a sanded floor. The right coat for the right Mass, so the right families would see the boy in it. My father had paid for all of it out of what he had, and what he had was not as much as the families up the hill had, and he had never once let me see the difference.
+\* \* \*
 
-I went down to the apothecary with everything I owned. I put it on his counter. He counted it with one finger, and then he pushed it back across the wood to me, and he did not make me watch him say the price aloud. I have thought since that it was a courtesy. I did not think so at the counter.
+The fencing room was on the ground floor of the school, at the back, where the noise would not reach the chapel. It had a sanded floor and high windows and a rack of black swords along one wall. A black sword is a practice blade. It is iron, blunt along both edges, with the point beaten flat into a button so it will bruise a boy and not open him. It weighs what a real one weighs. That was the master’s rule. A boy who learns on a light blade dies on a heavy one.
 
-I sold the coat. It was not enough. I went back up the hill and sat with them.
+The master had drawn his circle on the floor in chalk. Every Spanish master draws one. You stand on its edge and your opponent stands across from you, and everything you need to know is in the distance between the two of you and the angle you take to close it. It is geometry. The master said a man who understood the circle would never need to be brave. I was good at the circle. I was the best in the school at it, and everyone in the room knew it, the master included.
 
-My mother died on one of her bad days and my father on one of his good ones, eleven days after. I washed them both. I had learned how to wash a man aboard ship, and it is the same work with your own.
+Rodrigo was the second best. That was the trouble.
 
-When my leave was out the ship I was signed to sailed without me, and nobody came up the coast to ask where I was. A boy of seventeen with nobody left is not worth the sending of a corporal. The boys I had beaten at everything in that school went on into the service that year with their fathers’ letters in their coats. I heard about it after. I was not there to see it, which was the one mercy in the business.
+He was a good swordsman. People forget that when they tell it now, and I forgot it myself for years, because it was easier. He was strong and patient and he did the forms exactly as they were taught. He never once tried anything the master had not shown him. He did not have to. His father had been a captain under the old viceroy, and his grandfather before that, and when the letters came from the navy that spring there was one in Rodrigo’s name before he had sat a single examination.
 
-I came into these waters at the end of that year with two swords, a sea chest with nothing much in it, and no name anybody had heard of. There is no lonelier place than a harbour full of men who will drink with anyone. I was alone there most of a year. Then I was not. Then three years on I was again, and that is a watch for another night.
+There was no letter in mine. My father had paid the fees, and he had no grandfather anybody could name. The master told me to be patient. He said my marks would speak for me.
 
-The year I was twenty I had a boat of my own, small enough to drag up a beach without help, and I went everywhere in her that nobody else had bothered with. That was how I found this island. I came round the point on a falling tide and saw the tarpon from a cable off, rolling in the pool like silver thrown on a table, and I put her in the lee where she was lying now and walked over.
+We were set to fight the last bout of the term, the two of us, for the room to watch. Twenty boys along the walls. The master in his chair by the window with his cane across his knees.
 
-I put my hand in the water as I had today. The big one came round and looked at me. I took my hand out.
+Rodrigo came to the edge of the circle and saluted. Then he said, quiet enough that only I heard it, “My father has my commission. Who’s writing yours?”
 
-Then I stripped to my drawers and tied a line round my middle and made the other end fast to a horn of rock. I stood at the low side of the pool where the light stops. The pull came round my shins, gentle, the way a dog leans on your leg when it wants you to go somewhere with it.
+I saluted him back.
 
-My stomach went first. I knelt and brought up my breakfast on the rock, and the crabs that were not on that rock did not come to see about it.
+The first touch was mine. I took his blade in a bind and turned it out and touched him under the arm before he had his feet. The master said, “One.” The second was mine too. Rodrigo was careful after that. He gave me nothing for a long time. He walked the circle the way he had been taught and kept his point on my chest, and I could not get past it, and the room went quiet watching us.
 
-Then my hands went. I stood up and went to tie the line tighter, because a man going under wants his knot hard, and my fingers would not do it. I had tied that knot ten thousand times. I had tied it in the dark with the deck going out from under me and the sea coming green over the rail. I stood on a dry rock in the sun and could not make my hands close on a bowline. I could not get the old one off me either. In the end I cut it, with the knife I kept for bait.
+Then he made one mistake. He reached a hand’s width too far on a cut, and I came inside it and put the flat button of my blade against his throat.
 
-I sat on the rock until the shadow of the ridge came across the water and the tarpon went from silver to grey to nothing. Then I put my clothes on and walked back over the scrub.
+“Three,” the master said. “Enough.”
 
-On the walk I worked out that the tide had been wrong. By the time I reached the boat I believed it. I rowed out at dark and did not look back at the island, which is hard for a sailor, who looks at every coast he leaves. I had a good reason. It was the tide.
+Rodrigo stopped. He lowered his point and stepped back to the edge of the circle, as you are meant to, and began the salute.
 
-I kept that reason five years. It kept well.
+I did not stop.
 
-Forward, Bonesy had moved on from the cable’s virtues to its family.
+I hit him on the arm he was raising to salute with. He looked at me as if he had not understood the rule. I hit him on the shoulder and he got his blade up, late, and I beat it out of the way and hit him on the side of the head. He went back off the circle and into the rack along the wall, and the black swords came down around him on the boards. I went after him. I do not remember deciding anything. I remember the iron in my hand and how light it had become, and the sound it made on him, and his hands up over his face.
 
-“Your mother was hemp. I can tell. You’ve her lay.” A pause. “Your father, I couldn’t say.”
+The master’s cane caught me across the wrist. I did not drop the sword. Two boys got my arms and a third got me round the neck, and they dragged me back across the circle, and I fought them all the way.
 
-Crumble had slid down the mast in his sleep until his head was against the coaming. His hands had come out of his armpits and lay open in his lap, and one of them twitched now and then, closing on a hilt in a dream and letting it go. He breathes through his nose when he sleeps, slow, the way the swell was coming round the point. I have heard him sleep in a great many places. There were three years once when I did not hear it. The first night after them I lay awake till dawn and listened, the way a man listens to a new hull working.
+Rodrigo got up slowly from among the fallen blades. There was blood coming down from his hairline into one eye. He did not wipe it. He looked across the room at me with the other eye.
 
-Bonesy turned his skull and looked aft at me.
+“It was over,” he said. “You had it. You’d already had it.”
 
-“You’re up.”
+The master stood. He did not shout. He looked at me a long time and said nothing.
 
-“I am.”
+Rodrigo picked up his own sword from the floor and set it back in the rack, and saluted the master, and went out. He did not salute me.
 
-“He’s not.”
+\* \* \*
 
-“No.”
+“Jigsaw.”
 
-He looked at Crumble a while and then back at me. Whatever he thought about it he kept, which costs him more than it would cost another man. He turned back to the cable.
+It was grey. The land had come up black against it in the east, and there was dew on the rail and on my arm. My hand was on the tiller, and it was clamped on the wood so hard I had to tell the fingers to let go one at a time.
 
-“Now. Your father.”
+Crumble was crouched by me. He had his hand on my shoulder and he took it away.
 
-The wind came off the land a little toward the middle watch, warm, with the smell of the scrub in it. The stars wheeled over the masthead. Somewhere out past the point the tarpon were going round and round in the dark, and the water was going wherever it went.
+“Light’s coming,” he said.
 
-I looked down at my hands. They lay on my knees the way they lie when I have stopped in the middle of splicing to think. Nothing in them moved.
+“I see it.”
 
-Toward the end of the watch I slept.
+Bonesy was sitting on the cabin top with his hat on his knees. I do not know how long he had been there.
+
+“You were talking,” he said.
+
+“Was I.”
+
+“Said a name.” He turned the hat round once on his knees. “Rodrigo.”
+
+Crumble had gone still beside me.
+
+“Who’s Rodrigo,” Bonesy said.
+
+“Nobody.”
+
+“Nobody’s got a name.” He waited. I gave him nothing, and he let it sit a long while, and then he put the hat on. “All right.”
+
+Crumble stood. He looked at me a moment more. Then he went forward and started laying out the line for the pool, because there would be slack water in an hour and the line had to be ready.
+
+I got up and helped him. Over the ridge the sea was still going at the windward rock. In an hour the pool would stop pulling. My hands were steady on the line. I did not look at them to check.
