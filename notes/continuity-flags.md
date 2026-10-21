@@ -264,3 +264,12 @@ Both resolved by Aydin the same day:
   kneeling at the edge with his hand in the water, which matches 4.1 and 4.2.
 - **"Simply because I had asked him."** Now *without being asked*. Bonesy
   volunteered.
+
+## Raised by drafting 4.5, 2026-10-21
+
+Invented in 4.5, open to veto: light shafts cut through the roof, poisoned
+darts from holes in the walls, a pit trap to the waist, a carved jaguar face
+in the floor, a roof block that flattens Bonesy's hat, a stake pit with an old
+skeleton in it, and the priests' own crooked path of flat-topped stone stakes
+painted to match the wooden ones. Jigsaw and Crumble are unarmed and in their
+breeches, since they left their swords and coats on the rock outside the pool.
