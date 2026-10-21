@@ -36,8 +36,9 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 |---|---|---|---|
 | 4.1 | `ch04-the-half-moon/01-open-water.md` | 800 | Sharks in the cove by mid morning. Stripping the wreck before the coral takes her: powder, biscuit, cordage, her glass, her charts. Water off the spring under Ixchel, a finger thick, all afternoon. Eleven days west and south. Crumble quotes Balam on hurrying the hunt, and keeps the day count every dawn while Bonesy gets the day wrong. Bonesy pries at the pool and Jigsaw gives him nothing, and the narration says what he will not, that the pool was his for five years because he never went into it, and is now the only road the three of them have. Crumble asks one question and lets it alone. |
 | 4.2 | `ch04-the-half-moon/02-the-pool.md` | 699 | No landing on the windward side, so they anchor in the lee and walk over. The pool is where he left it and the tarpon are in it. He puts his hand in as he did at twenty and the big one goes past slow with its eye on him, in front of two witnesses. Crumble reads the water, says it is pulling, and asks where it goes. Jigsaw has never found out. |
+| 4.3 | `ch04-the-half-moon/03-the-night-before.md` | 1649 | Back over the scrub at dusk. Crumble sets the morning and sleeps; Bonesy keeps company with the anchor cable. Jigsaw takes a watch nobody needs. Seventeen: the tertian fever, the bark he could not buy, his parents dead eleven days apart, the ship that sailed without him. Arriving alone. Twenty: the pool, the knot he could not tie, the tide he blamed. Now Crumble asleep against the mast, and his hands still. |
 
-**Total drafted: 16,608 words.**
+**Total drafted: 18,257 words.**
 
 ## What comes after
 

@@ -231,3 +231,14 @@ Flagged, not fixed.
   lean on it.
 - **Chapter 4 as the midpoint.** No longer true. The midpoint is the capture at
   the end of chapter 6.
+
+## Raised by drafting 4.3, 2026-10-21
+
+- **The word malaria.** The bible and story doc say Jigsaw's parents died of
+  malaria. The English word is not recorded until the 1740s, so 4.3 calls it
+  the fever and the tertian, and the cure the Jesuits' bark. The notes can keep
+  "malaria" as shorthand. The prose should not use it.
+- **Details invented in 4.3, open to veto:** six years at the school, his
+  mother dying on a bad day and his father eleven days later on a good one,
+  selling his coat, the apothecary pushing the money back, cutting the line at
+  the pool because he could not untie it.
