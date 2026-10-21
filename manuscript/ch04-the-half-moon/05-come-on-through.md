@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: Under the half-moon island, the priests' passage
 when: The same morning
 status: draft
-words: 2148
+words: 2273
 ---
 
-<!-- BEAT: Up the steps and through the doorway into a passage cut by the old priests, lit by shafts from the surface. Every trap from the stories. Bonesy strolls through all of it. Darts go through his ribs. A slab drops on him and he climbs out complaining about his hat. He crosses the pit on the stake points. The priests needed a way through too, and Bonesy finds it. "Come on through." The other two follow in his footsteps, dripping and unarmed, feeling foolish. -->
+<!-- BEAT: Up the steps into a passage cut by the old priests, lit by shafts from the surface. Crumble reads the traps before anyone steps in and sets the rules. Bonesy ignores them. Darts go through his ribs. A roof block drops on him and he climbs out complaining about his hat. At the stake pit he walks the points and finds the priests' own path of flat stone posts, and talks each of them across. The two sit on the floor and laugh. Bonesy has seen a jar in the next room. -->
 
 The steps went up eleven and stopped at the doorway. Bonesy was standing in it.
 
@@ -20,19 +20,45 @@ The floor was paved with square stones. Along the top of both walls ran a band o
 
 Crumble stood in the doorway beside me and looked at it for a long time.
 
-“They didn’t cut this for walking,” he said.
+“Don’t go in yet,” he said.
 
-“What did they cut it for?”
+I stopped.
 
-He did not answer. He was looking at the walls. Low down, at about the height of a man’s knee and again at his chest, there were holes in the stone. Small and round and evenly spaced, running the length of the passage on both sides, as far as the light went.
+He crouched and ran his fingers along the edge of the first paving stone.
+
+“What is it?”
+
+“Look at the floor.”
+
+I looked. The stones were old and worn, their edges dark with dirt. I could see nothing unusual.
+
+“Some of them sit higher than the others,” he said. “And there’s a gap around that one.”
+
+He pointed to a stone several paces into the passage.
+
+I looked more closely. There was a narrow black line around its edges, too even to have been left by chance.
+
+Crumble stood and examined the walls.
+
+“And those.”
+
+Low down, at about the height of a man’s knee and again at his chest, there were holes in the stone. Small and round and evenly spaced, running the length of the passage on both sides, as far as the light went.
+
+“Those aren’t for letting air in,” he said.
+
+I looked from the holes to the loose stone.
+
+“You think they’re connected?”
+
+“I think somebody went to a great deal of trouble to make sure we don’t get to the other end.”
 
 I had heard the stories. Every sailor has. A man goes into a king’s tomb after gold and the floor drops away under him. Or the walls shoot arrows, or the roof comes down. I had always taken them for stories men tell to make a dull voyage shorter.
 
-I looked at the holes. I looked at the floor.
+I looked down the passage again.
 
 We were both in our breeches and nothing else, barefoot and dripping. Our swords were on the rock outside with our coats. I had never felt so naked in my life.
 
-“Right,” Crumble said quietly. “We go slow. We test every stone before we put weight on it. We keep to the middle.”
+“Right,” Crumble said quietly. “We go slow. Test every stone before we put weight on it. Keep to the middle.”
 
 “Agreed.”
 
@@ -64,7 +90,7 @@ He bent and picked one up and smelled the point.
 
 He put it down. He wiped his fingers on his ribs, which did nothing, and looked at the floor around his feet.
 
-“That one’s loose,” he said, and pointed at the stone he was standing on. “Mind that one.”
+“That one’s loose,” he said, pointing at the stone he was standing on. “Mind that one.”
 
 Crumble and I got up off the floor. Neither of us said anything for a while.
 
@@ -74,75 +100,105 @@ Crumble and I got up off the floor. Neither of us said anything for a while.
 
 “Don’t move.”
 
-He moved. He went on down the passage with his hands loose at his sides, the way a man walks down a street on market day, looking at the faces carved along the top of the walls. He stopped under one of the light shafts and looked up at it.
+Bonesy looked at us.
 
-The stone he was standing on gave way. He dropped to the waist and stopped. When he climbed out I could see a hole beneath him, black and square, deeper than the light went.
+“Why?”
 
-“That’s a deep one,” he said, looking down into it.
+“Because you nearly got us killed.”
 
-“Bonesy. Come back.”
+“But I didn’t.”
 
-“I’m all right.”
+He turned and went on down the passage, looking up at the faces carved along the walls.
 
-“You fell into a hole.”
+“Bonesy,” Crumble called.
 
-“Only partway.”
+He kept walking.
 
-He stepped round it and kept going.
+We followed him slowly, testing each stone before putting our weight on it. Bonesy was already under the next shaft of light, examining the ceiling.
 
-I looked at Crumble. Crumble looked at me. We started down the passage after him, slowly, putting our feet only where he had put his. I tested every stone with my toes before I let my weight onto it. My heart was going hard. I could hear Crumble breathing behind me, short and careful.
+“Funny faces,” he said.
 
-Bonesy was humming.
+“Watch your feet,” I told him.
+
+“I am.”
+
+He wasn’t.
 
 Halfway down the passage there was a wide stone set into the floor, carved with a face. It was a jaguar, I think, though it might have been a man wearing one. Bonesy stopped and looked down at it.
 
 “Now that’s a face,” he said.
 
-“Don’t step on the face,” Crumble said.
+“Don’t step on it,” Crumble said.
 
-“I wasn’t going to step on her. She’s handsome.” He crouched and looked at her closer. Then he stood up, stepped over her carefully, and put his foot on the plain stone beyond.
+“I wasn’t going to. She’s handsome.”
 
-The roof came down on him.
+He crouched to look more closely, then stood and stepped carefully over the carving.
 
-Not all of it. A single block of stone the size of a sea chest dropped out of the ceiling and hit him square. The sound was enormous. Dust came rolling down the passage at us in a grey cloud. I put my arm over my face and stood there coughing, my ears ringing, while it settled.
+His foot came down on the plain stone beyond.
 
-When it cleared, the block lay in the middle of the passage in three pieces. Bonesy was underneath them.
+Something cracked above him.
 
-I did not move. I could not make myself move.
+I looked up.
 
-Then one of the pieces shifted. A hand came out from under it, felt about on the floor, and found his hat. The hat had been flattened. The hand pulled it out and held it up into the light.
+A great block of stone dropped out of the ceiling and struck him squarely.
 
-“Oh, look at that,” Bonesy said from under the stone.
+The sound was enormous.
 
-He pushed the pieces off himself one at a time and sat up. His skull had come loose on his neck and was facing slightly the wrong way. He put both hands on it and turned it back with a grinding sound, the way you work a stuck stopper loose. Then he looked at the hat.
+Dust rolled down the passage in a grey cloud. I threw my arm over my face and stumbled backward, coughing, my ears ringing.
 
-“I’ve had this hat a month,” he said.
+When the dust cleared, the block lay broken into three pieces across the floor.
 
-“Are you hurt?” Crumble said.
+Bonesy was underneath.
 
-Bonesy looked at him. Crumble closed his mouth.
+For a moment neither of us moved.
 
-Bonesy punched the crown of the hat back out from the inside. It came up lopsided, with a crease across the front. He put it on and pulled the brim straight and looked at us.
+Then one of the pieces shifted.
+
+A hand came out from beneath it and felt around on the stones. It found Bonesy’s hat, which had been flattened beneath the edge of the block.
+
+The hand lifted it into the light.
+
+“Oh, look at that,” Bonesy said.
+
+He pushed the stones off himself one at a time and sat up.
+
+His skull had come loose on his neck and was facing slightly the wrong way. He put both hands against it and turned it back with a grinding sound, the way you work a stuck stopper loose.
+
+Then he looked at the hat.
+
+“I’ve had this hat a month.”
+
+“Are you hurt?” Crumble asked.
+
+Bonesy looked at him.
+
+Crumble closed his mouth.
+
+Bonesy punched the crown of the hat back out from the inside. It came up lopsided, with a crease across the front. He put it on, pulled the brim straight, and looked at us.
 
 “How’s that?”
 
-“It looks all right,” I said.
+“Looks all right,” I said.
 
-“It doesn’t look all right. It looks sat on.” He got up and dusted off his knees. “All my life I wanted a hat. You buy a man a hat, and some dead priest drops a house on it.”
+“It doesn’t look all right. It looks sat on.”
 
-He kept going.
+He got to his feet and brushed the dust from his knees.
+
+“All my life I wanted a hat. Now I’ve got one, and a dead priest drops a roof on it.”
+
+He started walking again.
 
 We followed him past the broken block. I stepped exactly where he had stepped. I did not look at the face on the floor.
 
 The passage ended at a pit.
 
-It ran from wall to wall and was two fathoms across, too far to jump from a standing start. On the far side the passage went on to a low doorway.
+It ran from wall to wall and was two fathoms across, too far to jump from where we stood. On the far side the passage continued to a low doorway.
 
 I went to the edge on my knees and looked down.
 
-The pit was three fathoms deep, and it was full of stakes. They were long hardwood poles, blackened in a fire and sharpened at the top, standing so close together that a man could not have put his hand between them. Their points came up to within a man’s height of the edge. Anyone who fell in would land on them long before he reached the bottom.
+The pit was three fathoms deep and full of stakes. Long hardwood poles, blackened in a fire and sharpened at the top, stood so close together that a man could scarcely have put his hand between them. Their points came up to within a man’s height of the edge.
 
-Down among the poles lay what was left of somebody who had tried.
+Down among the poles lay what was left of somebody who had tried to cross.
 
 Crumble knelt beside me and looked down for a long time.
 
@@ -152,7 +208,7 @@ Bonesy walked up beside him, looked down, and stepped off the edge.
 
 I grabbed for him and missed.
 
-He dropped a man’s height and landed on the points with both feet. He wobbled and flung his arms out and found his balance. He weighed no more than a bundle of dry sticks, and the points held him.
+He dropped onto the points with both feet. He wobbled, flung his arms out, and found his balance. He weighed no more than a bundle of dry sticks, and the points held him.
 
 He looked back up at us.
 
@@ -160,71 +216,147 @@ He looked back up at us.
 
 “We’re not made like you,” I said.
 
-“No.” He looked down at the stakes under his feet. “Suppose not.”
+“No.” He looked down at the stakes beneath his feet. “Suppose not.”
 
-He started across, stepping from one point to the next with his arms out. Halfway over he stopped and bent down.
+He started across, stepping from one point to the next with his arms out.
+
+Halfway over he stopped.
 
 “Oh,” he said. “Here’s a funny one.”
 
 “What?”
 
-He knocked his heel on the top of the post he was standing on. It did not make the dry sound of wood. It made a dull knock, like a fist on a wall.
+He knocked his heel against the post beneath his foot.
 
-“Stone,” he said. “This one’s stone. Painted black like the rest.” He knocked again. “And flat on top. Size of a plate.”
+It made a dull sound, nothing like the dry knock of wood.
 
-He looked around him at the stakes.
+“Stone,” he said.
 
-“There’s another. And another. They go right across.”
+He bent and ran his hand over it.
 
-Crumble leaned out over the edge and looked where Bonesy was pointing.
+“Painted black like the rest. And flat on top.”
 
-Once I knew what to look for, I could see them. Among the hundreds of sharpened wooden stakes stood a few dozen posts of stone, carved and painted to look like the rest. From the edge, in that light, nobody would have told them apart. But their tops had been cut flat, each about the width of a plate, and they stood a long stride apart. They made a crooked path across the pit. In the middle it turned and doubled back, so a man who guessed and went straight would step off it onto the points.
+He looked around him.
+
+“There’s another. And another.”
+
+Crumble leaned out over the edge.
+
+“Where?”
+
+Bonesy pointed.
+
+Once I knew what to look for, I could see them. Among the hundreds of sharpened wooden stakes stood a few dozen posts of stone, carved and painted to look like the rest. Their tops had been cut flat, each about the width of a plate.
+
+They made a crooked path across the pit.
+
+The first stood close beneath our side, near enough to reach with a foot while holding the edge. The others were spaced a careful step apart, with the occasional longer gap where a man would have to stretch.
+
+In the middle the path turned back on itself. A man who guessed and went straight would step off it onto the points.
 
 “The priests had to get in too,” Crumble said slowly.
 
 “Course they did,” Bonesy said. “Can’t carry a book across a pit on a rope.”
 
-The first stone post stood just below the edge where we knelt, its flat top a man’s height down.
+He came back toward us, walking on the sharpened stakes until he reached the first stone post.
 
 “I’ll go first,” I said.
 
-Bonesy walked back across the points and stood on the stakes beside the first post.
+Bonesy stood beside the post.
 
-“I’ll show you which,” he said. “Step where I point. You fall, I’ll catch you.”
+“I’ll show you which. Step where I point. You fall, I’ll catch you.”
 
 “You weigh nothing. You can’t catch me.”
 
 “I can try.”
 
-I sat on the edge with my legs over the drop. Then I turned round and let myself down on my arms until my feet hung above the first post. I let go.
+I sat on the edge with my legs over the drop.
 
-My feet hit flat stone. My knees bent. I stood up slowly with my arms out, on a block of stone the size of a plate, with sharpened stakes all round me close enough to touch.
+The first post stood just below my feet. I turned onto my stomach, held the edge with both hands, and lowered myself until one foot found the flat stone.
+
+I put my weight on it slowly.
 
 It held.
 
+I brought my other foot down beside it and straightened.
+
+The post was scarcely wider than my two feet together. Around it the sharpened stakes stood close enough to brush my legs.
+
 “Good,” Bonesy said. He pointed. “That one next.”
 
-The next post was a long stride away. I did not let myself think about it. I stepped, and my foot found the flat top, and I brought the other foot after it.
+The next post was a short step away.
+
+I reached out with one foot and felt for the flat top. When I found it, I shifted my weight across and brought the other foot after it.
 
 “Now that one.”
 
-I went across like that, one stone at a time. Bonesy walked beside me on the points and showed me each post before I moved. In the middle, where the path turned back on itself, the next stone was behind me and to my left. I had to turn on one foot over the stakes. My knees went loose. I stood there with my arms out like a man on a yard in a gale until they steadied.
+I went like that, one stone at a time.
+
+Bonesy walked beside me on the points, showing me each post before I moved. I kept my eyes on his hand and the next patch of flat stone. The wood below me was black and sharp, and I could see the floor of the pit through the gaps.
+
+At the fourth post I made the mistake of looking down.
+
+There was a skull wedged between two stakes beneath me. Its jaw hung open, and one of the poles had gone through the hollow where its chest had been.
+
+I looked away.
+
+“Keep looking at me,” Bonesy said.
+
+I did.
+
+In the middle the path turned back toward the side we had come from. The next stone was behind me and to my left. There was no room to turn both feet together.
+
+I shifted my weight onto one foot and began to turn.
+
+My knee trembled.
+
+I stopped.
+
+The stone beneath me was dry, but the sole of my foot was still wet from the pool. I could feel it slipping against the smooth surface.
 
 “Take your time,” Bonesy said.
 
-I did not look down at the bones on the floor of the pit. I looked at the next flat stone, and then at the one after that.
+I bent my knee a little and turned the rest of the way.
 
-The last post stood just below the far edge. I put my hands flat on the floor of the passage and hauled myself up.
+Then I reached back for the next stone.
 
-I sat down on the stone floor and did not get up for a while. Crumble came across behind me the same way, slower, with Bonesy beside him pointing out each stone. His mouth was set in a line. He did not look down either. When he climbed up onto the floor beside me, he sat down too.
+My foot found it.
+
+I moved my weight across.
+
+The path turned again and carried us toward the far side. I could see the doorway now, low and dark beyond the edge of the pit.
+
+The last post stood close enough to the far wall that I could reach the floor with both hands.
+
+I leaned forward, caught the edge, and hauled myself up.
+
+I sat down on the stone floor.
+
+My legs were shaking.
+
+Crumble came across behind me the same way, slower, with Bonesy beside him pointing out each stone. His mouth was set in a line, and he did not look down.
+
+At the turn he stopped for so long that I thought he might not move again.
+
+Bonesy stood beside him, waiting.
+
+Then Crumble put out his foot, found the next stone, and went on.
+
+When he finally climbed onto the floor beside me, he sat down too.
 
 Bonesy climbed out of the pit after him and stood over us.
 
 “See?” he said. “Nothing to it.”
 
-Crumble looked at me. I looked at Crumble. We were sitting on the floor of a dead priest’s passage in our breeches, soaked through and grey with dust from the ceiling. We had walked the whole length of it on our toes, holding our breath. Bonesy had walked it like a man going down to the harbor for a drink.
+Crumble looked at me.
 
-Crumble laughed first. It came up out of him quietly and then not quietly at all. Then I was laughing too, both of us bent over with our backs against the wall, until my ribs ached worse than when Rodrigo had hit them.
+I looked at Crumble.
+
+We were sitting on the floor of a dead priest’s passage in our breeches, soaked through and grey with dust from the ceiling. We had walked the whole length of it on our toes, holding our breath. Bonesy had walked it like a man going down to the harbor for a drink.
+
+Crumble laughed first.
+
+It came up out of him quietly and then not quietly at all. Then I was laughing too, both of us bent over with our backs against the wall, until my ribs ached worse than when Rodrigo had hit them.
 
 Bonesy watched us with his head on one side.
 
