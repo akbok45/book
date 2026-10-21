@@ -5,14 +5,14 @@ pov: Jigsaw, first person, past
 place: The half-moon island, the windward pool
 when: The morning after landfall, at slack water
 status: draft
-words: 1444
+words: 1475
 ---
 
 <!-- BEAT: Over the ridge at first light. The pull eases toward slack. Bonesy goes down the pull on a line, since he does not breathe, and comes back: the rock on the low side is not rock. Jigsaw is afraid and goes anyway. Two breaths, a swim at solid stone, and through it into air. Crumble comes up beside him. -->
 
 We crossed the ridge with the line coiled over Crumble’s shoulder and the sun not yet clear of the sea.
 
-The pool was grey in that light. The tarpon were in it, going round as they had the day before. They had been going round for as long as anybody had been alive to see it. They were slower now. The pull was going out of the water as the tide came to the top. I could see it on the surface, where the small ripples off the rock had stopped leaning one way.
+The pool was grey in that light. The tarpon were in it, circling slow, nose to tail. Every few turns the big one rolled up to the surface and gulped air with a loud pop, the way tarpon do, and sank back into the line. They were slower now. The pull was going out of the water as the tide came to the top. I could see it on the surface, where the small ripples off the rock had stopped leaning one way.
 
 “How long,” Crumble said.
 
@@ -88,13 +88,13 @@ I went down the rock to the edge of the pool and stood where I had stood at twen
 
 The water was clear all the way down. I could see the bottom, pale and bare, and the low side where it went under the rock and turned black. I looked at the black for a long time. I could feel my heart in my neck. I could feel the old wish to turn round and walk back over the scrub, and every reason I had used for five years to do it was standing there ready for me.
 
-Behind me Crumble had the line in both hands. Bonesy was sitting on the rock with his hat back on, swinging his heels.
+Behind me Crumble had the line in both hands. I heard Bonesy get up off the rock and come down behind me. He put his hand on my shoulder, bone and nothing else, and left it there.
 
 Nobody told me to go.
 
 I took one breath and let it out. I took another, as deep as it would go, and I went in.
 
-The cold took my chest first. I kicked down and the tarpon parted round me, great silver sides going past on both hands, close enough that I felt the water move off them. The big one turned and came with me for a few strokes, his eye level with mine. Then he went away into the pale water and I was alone, going down the slope of the bottom toward the black.
+The cold took my chest first. I kicked down and the tarpon parted round me, great silver sides going past on both hands. I swam down as I felt the power of the fish in the water brush against my chest. The big one turned and came with me for a few strokes, his eye level with mine. Then he went away into the pale water and I was alone, going down the slope of the bottom toward the black.
 
 The light went green, then grey. I put my hand out in front of me.
 
