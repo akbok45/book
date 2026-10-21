@@ -358,3 +358,19 @@ Aydin rebuilt chapter 8 between the freedom offer and the release.
   Better with a blade. Everyone knew it. And I became an officer while you
   became this," then a jab at Jigsaw's manhood.
 - Chapter 8 is now about 19,000 words, and the book about 100,000.
+
+## Seventh pass, 2026-10-21: the third outside review
+
+From `notes/review-2026-10-21.md`, Aydin chose three changes:
+
+- **The finger really works.** It came from Cárdenas's collection, which
+  explains its price and his speed. Vaz can tell it is real. Its shelf in the
+  cabin stands empty with the label still on it.
+- **Cárdenas tells Bonesy, privately.** 7.2 is now *What Bonesy Heard*. Cárdenas
+  confides his history and what the codex does to Bonesy alone, as to a
+  specimen. Bonesy retells it to the others in a few crude lines.
+- **Chapter 2 trim, marked only.** The 2.2 gear passage and the short 2.1 are
+  flagged for tightening. No prose changed.
+
+Not adopted for now: backstory spread in courses, Rodrigo cut down, and
+Cárdenas as an explicit mirror of Crumble.

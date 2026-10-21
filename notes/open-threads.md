@@ -74,3 +74,16 @@ navigation than they had for the rest of the book.
   soldiers burning a Maya settlement and executing its people.
 - **Morgan and Panama.** Out of book one's storyboard for now. Revisit once the
   ending is settled.
+
+## Raised by the third outside review, 2026-10-21
+
+- **What the finger does.** Settled that it really works. The power is open.
+  Suggested: the bone never decays and stops bleeding when pressed to a wound.
+- **Who the hire is.** Unnamed for now.
+- **Backstory in courses.** The review suggests spreading backstory across
+  quiet moments and shrinking the vision. Not adopted yet. See
+  `notes/review-2026-10-21.md`.
+- **Rodrigo's size.** The review suggests keeping him minor and cutting his
+  separate Florida scene. Not adopted yet.
+- **Trimming chapter 2.** Marked in the story doc: cut the gear passage in 2.2
+  and fold 2.1 into a neighbour. Prose untouched.
