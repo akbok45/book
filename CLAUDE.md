@@ -1,6 +1,6 @@
 # The Codex Trilogy, Book One
 
-Caribbean, 1690. First person, narrated by Jigsaw, plain sailor's voice. Tonal register after *Gideon the Ninth*: sardonic, raunchy, genuinely dark, pathos buried under comedy.
+Caribbean, 1670. First person, narrated by Jigsaw, plain sailor's voice. Tonal register after *Gideon the Ninth*: sardonic, raunchy, genuinely dark, pathos buried under comedy.
 
 Aydin writes this book. Claude drafts, line edits, and checks continuity on request. Claude does not decide plot, kill characters, or invent backstory without being asked.
 
@@ -14,7 +14,7 @@ These override every craft note in `reference/craft/`. If a craft doc and this s
 2. **Never use the word "thing"** except inside dialogue where a character would say it.
 3. **Every comparison comes from their world.** Ocean, fish, weather, hide, stone, rope, rot, powder, animals, the hunt. No modern referent, no abstraction dressed as an image.
 4. **Two commas a sentence, maximum.** Exception one: a list. Exception two: a short appositive dropped between commas does not count against the pair, as in `scabbard, clean, the hand dropping with the hilt still in its grip`. The rule exists to kill runoff sentences, not to ban rhythm.
-5. **1690 is locked.** Only objects, words, foods, weapons, and ideas that existed. No anachronism, ever.
+5. **1670 is locked.** Only objects, words, foods, weapons, and ideas that existed. No anachronism, ever.
 6. **Show feeling in behavior, never state it.** Hands, jaw, where the eyes go, what gets reached for. A man who says it is fine and means it does not say it.
 
 ## The voice ladder
@@ -42,14 +42,14 @@ Also banned as period errors: **gun** for a hand weapon (gun means cannon, use p
 ```
 manuscript/          the book itself, one file per scene, in reading order
   ch01-the-temple/
-  ch02-tortuga/
+  ch02-petit-goave/
   ch03-the-cay/
   OUTLINE.md         scene index, word counts, what happens where
   STORYBOARD.md      what is planned, what is settled, what is blocking
 reference/
   character-bible.md the leads, the antagonist, the dead, the timeline
   story-so-far.md    plain recap of book one to date
-  world-1690.md      buccaneer Caribbean research: history, ships, code, language
+  world-1670.md      buccaneer Caribbean research: history, ships, code, language
   craft/             the fourteen craft guides, 00 to 14
 notes/
   style-rules.md     the prose laws expanded, with worked examples

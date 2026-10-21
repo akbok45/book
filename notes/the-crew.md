@@ -30,7 +30,7 @@ and think, what is he doing now.
 **All three love each other and none of them says it.** It shows in motion.
 Rule 6 already demands that. This note is about which motion.
 
-## How the dap reads in 1690
+## How the dap reads in 1670
 
 The dap is modern. The feeling is not. Ways it can show without leaving the
 century:

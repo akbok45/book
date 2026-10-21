@@ -25,7 +25,7 @@ the object.
 in for weight (`scabbard, clean, the hand dropping with the hilt still in its
 grip`). A sentence wanting a third comma outside those two is two sentences.
 
-**4. Comparisons.** Could a man on that deck in 1690 have made this out of what
+**4. Comparisons.** Could a man on that deck in 1670 have made this out of what
 he has seen. Ocean, fish, weather, hide, stone, rope, rot, powder, animals, the
 hunt. Out: clockwork, machinery, chemistry, medicine past bleeding and
 amputation, the mind as a container, any modern referent.
@@ -43,7 +43,7 @@ is the world rather than the manners. He may sound modern, he may not name an
 object, a trade or an idea that did not exist. *Gun* means cannon, a hand weapon
 is a pistol, musket or piece. Not *maroon* for Jigsaw's father's people. Not *guerrilla*. No *Arrr* or
 any Hollywood pirate speech. Check every object, food, coin and idea against
-`reference/world-1690.md`.
+`reference/world-1670.md`.
 
 **8. Voice ladder.** Is each line on the right rung. Bonesy uses common words,
 short lines, pauses, and pries with questions rather than theses.

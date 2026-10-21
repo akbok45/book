@@ -1,6 +1,6 @@
 ---
 description: Draft a scene in voice, after reading the bible and the neighbouring scenes
-argument-hint: <scene, e.g. 2.4 the Tortuga escape>
+argument-hint: <scene, e.g. 2.4 the escape>
 ---
 
 Draft: $ARGUMENTS

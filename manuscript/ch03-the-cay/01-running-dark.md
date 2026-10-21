@@ -2,7 +2,7 @@
 scene: 01-running-dark
 title: Running Dark
 pov: Jigsaw, first person, past
-place: At sea, south and west of Tortuga
+place: At sea, south and west of Petit-Goâve
 when: Night of the escape
 status: draft
 words: 859
@@ -30,7 +30,7 @@ I did not tell him he was right to leave. He knew he was right to. There is noth
 
 “He was getting to it in the trees when the garrison came up the path.”
 
-So we had the first mark and no leg drawn past it, and the one man who could have laid the rest of the course was on his knees in Tortuga. Bonesy looked back the way we’d come, north and east, where the lamps had been.
+So we had the first mark and no leg drawn past it, and the one man who could have laid the rest of the course was on his knees in Petit-Goâve. Bonesy looked back the way we’d come, north and east, where the lamps had been.
 
 “They’ll not sit on that long,” he said. “A man like the one you’ve drawn, he’ll have a hull behind us by the morning watch.”
 

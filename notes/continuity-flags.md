@@ -72,7 +72,7 @@ parents died of malaria and he came to Tortuga alone, Crumble trained under
 Balam, and they met at Tortuga as very young men. No blood between them.
 
 So every use in the book is figurative, which is period-sound. *The brethren*
-is what the buccaneer fraternity called itself, and `reference/world-1690.md`
+is what the buccaneer fraternity called itself, and `reference/world-1670.md`
 carries it. But it is in the prose once, and it reads as kinship to a reader
 who has not been told otherwise:
 
@@ -115,10 +115,161 @@ paragraph and neither came from this pass:
 - *two men carrying things they will not set down* and *who is a hard thing to
   be louder than*. Rule 2 puts *thing* out of the narration. The first may be
   earning the standing vagueness exception, the second is not.
-- *We raised Tortuga on the ninth evening, the turtle-back of it black against
+- *We raised Petit-Goâve on the ninth evening, the hills behind it black against
   a sky going the colour of a bruise on the mend, and came into the road under
   the last light with the canvas down to nothing, the way you come into a place
   where everyone watching owns a glass and a grudge.* Four commas, no list. It
   is one of the best sentences in the chapter, which is why it is flagged and
   not cut.
 
+## Raised by the move to 1670 and Petit-Goâve
+
+Aydin moved the book to 1670 and the chapter 2 outpost from Tortuga to
+Petit-Goâve, 2026-10-11. Every *Tortuga* that meant the outpost now reads
+*Petit-Goâve*. The folder is now `ch02-petit-goave/`. Word counts are unchanged.
+
+**Kept as Tortuga, on purpose.** 2.2: *I learned the Spanish sword before I even
+knew what Tortuga was.* That is backstory, where the two met, and the bible
+keeps them meeting at Tortuga.
+
+**Changed beyond the name, for review:**
+
+- 2.1: *the turtle-back of it black* is now *the hills behind it black*.
+  Tortuga is named for its turtle shape and Petit-Goâve is not. This is the
+  sentence flagged above as one of the best in the chapter, so it wants your
+  ear.
+- 2.3: *from before the brethren made the island unfit for Spaniards* is now
+  *made this coast unfit*. Hispaniola still has its Spanish east in 1670, so
+  the island as a whole was never unfit for them.
+
+**Flagged, not changed:**
+
+- 2.3: *A governor sits up in the fort.* In 1670 the governor of Tortuga and
+  the coast is d'Ogeron, at Tortuga. A post the size of Petit-Goâve would have
+  a commandant. Change the word or let the narration overcall him.
+- 2.3: *the sugar-rot drifting off the cane barges.* French Saint-Domingue grows
+  tobacco in 1670. The sugar boom comes after 1700.
+- 2.3: the skull at cards and the mermaid behind the curtain stay in
+  Petit-Goâve. Tortuga is now the hub of the strange. Either Petit-Goâve
+  catches the overflow and these stay as they are, or one of them moves to
+  Tortuga for when the book goes there. The narration already says *I have
+  seen a dozen like it in a dozen such rooms*, which supports keeping them.
+- Bearings. 1.2 puts the outpost *south and east* of the temple. That is
+  truer for Petit-Goâve than it was for Tortuga. 3.1 looks back *north and
+  east* toward the lamps. That holds for a course out of the gulf to the
+  west and then south.
+
+## Raised by Aydin's notes on the story doc, 2026-10-16
+
+- **3.1, how Domingo is taken.** The prose has Crumble say *Domingo stood up out
+  of it so they'd have a man to take*, which reads as a sacrifice. Aydin now has
+  Domingo simply caught, because he lacks Crumble's training. The line needs a
+  decision.
+- **4.1, the exchange after the wreck.** *"He'll know we took her with three."*
+  / *"Then the next one won't come in a boat."* Aydin found it unclear in the
+  story doc. The meaning: Cárdenas will learn three men took his ship, so next
+  time he comes himself in force, not with a boat crew. It may be as unclear on
+  the page.
+- **4.1, why Jigsaw never went into the pool.** Aydin: it does not need to be
+  deep. He was twenty, alone and scared. The drafted paragraph, the pool *had
+  been mine for five years because I had not gone into it*, the unbroached
+  cask, gives it more weight than that. Flagged, not cut.
+
+## Raised by Cárdenas's new age, 2026-10-17
+
+Aydin: Cárdenas is in his early forties. The bible had him in his fifties with
+forty years of service. The story doc, bible, recap and storyboard are updated to
+more than twenty years. Two drafted lines and one held line still carry the old
+age:
+
+- **2.2:** *the thing forty years of Cárdenas has been spent trying to scrub off
+  the earth.* This is also one of the two standing "thing" exceptions in
+  `.claude/commands/linecheck.md`. Suggest *twenty years of Cárdenas*, or drop
+  the number.
+- **2.3:** *an old master forty years at his trade.* At forty-odd he is neither
+  old nor forty years at it. Suggest *a master twenty years at his trade*.
+- **The held line** from 2.1, *the not being dead is the frightening part*,
+  leans on forty years of survival. At his age it needs a new angle, or it
+  retires.
+
+## Raised by Crumble's heritage, 2026-10-17
+
+Aydin: Crumble is of plain English descent, in the mould of Edward Kenway, and
+the name Ixmal goes. The story doc uses Anne as a suggested name.
+
+- **3.2, line 41:** *“Ixmal,” he said. The old name, the one Balam’s people gave
+  a child born in a hard season, that means something near enough to bear. “A
+  town. I was sixteen and a crew would have me.”* Both the name and the
+  explanation of it as a Maya name need replacing once her name is chosen. The
+  BEAT note at the top of 3.2 names her too.
+
+
+## Raised by the full outline revision, 2026-10-17
+
+Aydin revised the whole story doc. These drafted lines now conflict with it.
+Flagged, not fixed.
+
+- **3.2, Anne is final.** The name Ixmal at line 41, its explanation as a name
+  Balam's people give, and the BEAT note at the top of the file all need to
+  become Anne. Crumble is English.
+- **2.2, line 41, Domingo.** *"He knew Balam. Boys together, before any of
+  it."* Domingo is now an acquaintance of Balam, not a childhood friend. The
+  line needs softening or cutting.
+- **3.1, Domingo.** *Domingo stood up out of it so they'd have a man to take*
+  still reads as a sacrifice. The outline has him simply caught. Already
+  flagged above on 2026-10-16, still open.
+- **Who sold the meeting.** The bible recorded on 2026-10-11 that Domingo was
+  Cárdenas's informant and sold the meeting himself. The revised outline says
+  only that someone betrayed the meeting, Domingo was captured, and he talked
+  under torture. If Domingo was the informant, he would not need torture.
+  Aydin to decide which is true.
+- **The bond as the codex key.** The bible, `reference/story-so-far.md` and
+  `manuscript/STORYBOARD.md` said the bond between the three opens the final
+  gate. Removed by Aydin. The bible is updated. The recap and storyboard still
+  carry the old line.
+- **Cárdenas "never chases".** Removed by Aydin. Any later prose should not
+  lean on it.
+- **Chapter 4 as the midpoint.** No longer true. The midpoint is the capture at
+  the end of chapter 6.
+
+## Raised by drafting 4.3, 2026-10-21
+
+- **The word malaria.** The bible and story doc say Jigsaw's parents died of
+  malaria. The English word is not recorded until the 1740s, so 4.3 calls it
+  the fever and the tertian, and the cure the Jesuits' bark. The notes can keep
+  "malaria" as shorthand. The prose should not use it.
+- **4.3 redrafted, 2026-10-21.** Aydin replaced the parents flashback with the
+  school duel. The parents' fever, the bark and the ship that sailed without
+  him now have no scene. They are free for a later quiet moment.
+- **4.3 is Aydin's rewrite, 2026-10-21.** Kept as written. Two points against
+  the bible, flagged not fixed:
+  - **Expelled at sixteen.** The scene ends with Jigsaw no longer a student by
+    the next morning. The bible has him going to sea in Spanish service at 16,
+    the school feeding its best into the navy. Does he still go to sea in
+    Spanish service after the expulsion, and how?
+  - **"Ten years had passed."** Sixteen then and twenty-five now makes nine.
+    Either a round number in his mouth, or his age shifts.
+- **3.5, new lines:** the captain says Don Rodrigo taught him and gave the crew
+  their instructions on the pair, and taunts Jigsaw as the easy one. That puts
+  Rodrigo in Cárdenas's service from chapter 3.
+- **Rule 6 and the duel.** Aydin asked for Jigsaw's anger to be felt. It is
+  written in the body (heat at the neck, the roar in the ears, the room
+  shrinking), never named.
+
+## Raised by Aydin's final 4.4, 2026-10-21
+
+Both resolved by Aydin the same day:
+
+- **Did he swim toward the dark at twenty?** No. 4.4 now remembers him
+  kneeling at the edge with his hand in the water, which matches 4.1 and 4.2.
+- **"Simply because I had asked him."** Now *without being asked*. Bonesy
+  volunteered.
+
+## Raised by drafting 4.5, 2026-10-21
+
+Invented in 4.5, open to veto: light shafts cut through the roof, poisoned
+darts from holes in the walls, a pit trap to the waist, a carved jaguar face
+in the floor, a roof block that flattens Bonesy's hat, a stake pit with an old
+skeleton in it, and the priests' own crooked path of flat-topped stone stakes
+painted to match the wooden ones. Jigsaw and Crumble are unarmed and in their
+breeches, since they left their swords and coats on the rock outside the pool.
