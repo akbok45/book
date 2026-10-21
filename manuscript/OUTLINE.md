@@ -36,9 +36,9 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 |---|---|---|---|
 | 4.1 | `ch04-the-half-moon/01-open-water.md` | 800 | Sharks in the cove by mid morning. Stripping the wreck before the coral takes her: powder, biscuit, cordage, her glass, her charts. Water off the spring under Ixchel, a finger thick, all afternoon. Eleven days west and south. Crumble quotes Balam on hurrying the hunt, and keeps the day count every dawn while Bonesy gets the day wrong. Bonesy pries at the pool and Jigsaw gives him nothing, and the narration says what he will not, that the pool was his for five years because he never went into it, and is now the only road the three of them have. Crumble asks one question and lets it alone. |
 | 4.2 | `ch04-the-half-moon/02-the-pool.md` | 699 | No landing on the windward side, so they anchor in the lee and walk over. The pool is where he left it and the tarpon are in it. He puts his hand in as he did at twenty and the big one goes past slow with its eye on him, in front of two witnesses. Crumble reads the water, says it is pulling, and asks where it goes. Jigsaw has never found out. |
-| 4.3 | `ch04-the-half-moon/03-the-night-before.md` | 1458 | Back to the sloop at dusk. Crumble sets the morning and sleeps; Bonesy talks to the anchor cable. Jigsaw falls asleep at the tiller with the captain's voice in his ear. The last bout of term with Rodrigo, who taunts him between touches about the girl and his father. The master calls it, Rodrigo stops, Jigsaw does not. He wakes at first light having said Rodrigo's name aloud, and Bonesy heard it. |
+| 4.3 | `ch04-the-half-moon/03-the-night-before.md` | 2607 | Back to the sloop at dusk. Crumble sets the morning and sleeps; Bonesy turns his hat over in his hands. Jigsaw falls asleep at the tiller with the captain's voice in his ear. The last bout of term with Rodrigo, who taunts him between touches about the girl and his father. Jigsaw wins three to two, the master calls it, Rodrigo raises his blade to salute, and Jigsaw strikes him down, and enjoys it. By morning he is no longer a student. He wakes at first light having said Rodrigo's name, and Bonesy heard it. |
 
-**Total drafted: 18,137 words.**
+**Total drafted: 19,286 words.**
 
 ## What comes after
 

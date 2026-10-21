@@ -241,14 +241,14 @@ Flagged, not fixed.
 - **4.3 redrafted, 2026-10-21.** Aydin replaced the parents flashback with the
   school duel. The parents' fever, the bark and the ship that sailed without
   him now have no scene. They are free for a later quiet moment.
-- **Details invented in the 4.3 duel, open to veto:** the chalk circle and
-  black practice swords, Jigsaw at sixteen, Rodrigo's line before the bout
-  ("My father has my commission. Who's writing yours?"), his taunts between
-  touches (she came to supper at his house; his mother asking where Jigsaw's
-  father came from; a letter from his father to hers), the girl's house with
-  blue shutters by the cathedral steps, the score of two to one, Rodrigo's
-  broken guard and bloodied head, "It was over. You had it," and the master's
-  "Not in this room. Not again."
+- **4.3 is Aydin's rewrite, 2026-10-21.** Kept as written. Two points against
+  the bible, flagged not fixed:
+  - **Expelled at sixteen.** The scene ends with Jigsaw no longer a student by
+    the next morning. The bible has him going to sea in Spanish service at 16,
+    the school feeding its best into the navy. Does he still go to sea in
+    Spanish service after the expulsion, and how?
+  - **"Ten years had passed."** Sixteen then and twenty-five now makes nine.
+    Either a round number in his mouth, or his age shifts.
 - **3.5, new lines:** the captain says Don Rodrigo taught him and gave the crew
   their instructions on the pair, and taunts Jigsaw as the easy one. That puts
   Rodrigo in Cárdenas's service from chapter 3.
