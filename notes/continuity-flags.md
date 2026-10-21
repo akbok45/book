@@ -258,13 +258,9 @@ Flagged, not fixed.
 
 ## Raised by Aydin's final 4.4, 2026-10-21
 
-Kept as written. Flagged, not fixed:
+Both resolved by Aydin the same day:
 
-- **Did he swim toward the dark at twenty?** 4.4 says *I could still remember
-  swimming toward that darkness with my lungs beginning to ache.* 4.1 and 4.2
-  say he never went into the pool, and at twenty put only his hand in. If he
-  did swim part of the way, 4.1's *I had not gone into it* needs a word. If he
-  did not, the 4.4 line is a memory of something he only pictured.
-- **"Simply because I had asked him."** 4.4 says Bonesy went into the dark
-  because Jigsaw asked him. On the page Bonesy volunteers by taking his hat off,
-  and nobody asks. Small, but a reader may notice.
+- **Did he swim toward the dark at twenty?** No. 4.4 now remembers him
+  kneeling at the edge with his hand in the water, which matches 4.1 and 4.2.
+- **"Simply because I had asked him."** Now *without being asked*. Bonesy
+  volunteered.

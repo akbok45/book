@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The half-moon island, the windward pool
 when: The morning after landfall, at slack water
 status: draft
-words: 2105
+words: 2118
 ---
 
 <!-- BEAT: Over the ridge at first light. The pull eases toward slack. Bonesy goes down the pull on a line, since he does not breathe, and comes back: the rock on the low side is not rock. Jigsaw freezes at the edge. Bonesy's hand on his shoulder. He goes in. The false wall, the dark past it, the step, air. Bonesy waiting so they can all go together. Crumble comes through. Steps and a doorway, and Bonesy already climbing. -->
@@ -102,7 +102,7 @@ I went down to the edge of the pool and stood where I had stood at twenty.
 
 The water was clear all the way down. I could see the bottom, pale and bare, and the low side where it went under the rock and turned black.
 
-I knew exactly how cold the water would feel. I knew how the bottom fell away beneath the rock, and how quickly the daylight disappeared. Five years had passed, and I could still remember swimming toward that darkness with my lungs beginning to ache.
+I knew how cold the water would be. I could see how the bottom fell away beneath the rock, and how quickly the daylight disappeared. Five years had passed since I first stood here, and I could still remember kneeling at the edge, my hand beneath the surface, trying to convince myself to go farther.
 
 My feet would not move.
 
@@ -122,7 +122,7 @@ I turned my head. Bonesy had come down beside me, his hat back on his skull. His
 
 He said nothing.
 
-I looked past him at Crumble, standing with the line in his hands. He had followed me across the sea and over this island without once asking me to explain why it mattered so much. Bonesy had gone into the dark without knowing what he would find, simply because I had asked him.
+I looked past him at Crumble, standing with the line in his hands. He had followed me across the sea and over this island without once asking me to explain why it mattered so much. Bonesy had gone into the dark without being asked, as though it were the most natural thing in the world.
 
 I was not going down there alone.
 
