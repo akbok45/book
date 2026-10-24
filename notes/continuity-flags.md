@@ -273,3 +273,16 @@ in the floor, a roof block that flattens Bonesy's hat, a stake pit with an old
 skeleton in it, and the priests' own crooked path of flat-topped stone stakes
 painted to match the wooden ones. Jigsaw and Crumble are unarmed and in their
 breeches, since they left their swords and coats on the rock outside the pool.
+
+## Raised by drafting 4.6, 2026-10-24
+
+- **The gold.** 4.6 finds no gold with the first piece. Bonesy calls the priests
+  liars. That leaves open whether gold turns up with a later piece, as the
+  brainstorm suggested, or never. Aydin to decide.
+- **Invented in 4.6, open to veto:** the wax-sealed red clay jar on a stone
+  table, the leaf wrapped in oiled cloth, Maya bark paper coated in white
+  plaster, the half moon painted yellow with a blue spot for the pool, a bar
+  and two dots for seven canoe days, Crumble's "Cuzamil, the island of
+  swallows", the unread sign as a face with curls from its mouth, the well in
+  the chamber floor that draws when the tide turns, and the jar bound shut to
+  carry it back through the water.
