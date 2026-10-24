@@ -45,9 +45,9 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 
 | # | File | Words | What happens |
 |---|---|---|---|
-| 5.1 | `ch05-the-hidden-village/01-up-river.md` | 2293 | Out through the wall, Bonesy walking the jar along the bottom. A Spanish sail on the second day; Jigsaw shows it a course for Jamaica until dark, then doubles back without lights inside the reef, Bonesy calling the coral from the bow. By dawn it is gone, and Crumble agrees to go to Amara. He washes his sash twice. Over the bar and up a brown river under the trees: no horizon, no wind, howler monkeys, Jigsaw's hand on his hilt, Crumble leading and looking back. The sloop hidden in a creek. On foot to a lake with an island and cooking smoke. A spear at Crumble's neck, and he says Balam's name. |
+| 5.1 | `ch05-the-hidden-village/01-up-river.md` | 3556 | Out through the wall, Bonesy walking the jar along the bottom. A Spanish sail on the second day; Jigsaw shows it a course for Jamaica until dark, then doubles back without lights inside the reef, Bonesy calling the coral from the bow. By dawn it is gone, and Crumble agrees to go to Amara. He washes his sash twice. He binds Crumble's torn hands and will not hear that it is nothing. Night watch: counting the finger money, a twist of Jesuits' bark in the surgeon's chest, and the flashback to seventeen: his mother dead, the apothecary who is sorry and will not lower the price, the lie to his father, who knows. He pockets the bark. Over the bar and up a brown river under the trees: no horizon, no wind, howler monkeys, Jigsaw's hand on his hilt, Crumble leading and looking back. The sloop hidden in a creek. On foot to a lake with an island and cooking smoke. A spear at Crumble's neck, and he says Balam's name. |
 
-**Total drafted: 28,186 words.**
+**Total drafted: 29,449 words.**
 
 ## What comes after
 

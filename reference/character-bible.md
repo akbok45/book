@@ -83,6 +83,9 @@ Proof that he mattered enough that the world was wrong to reject him. That is wh
 
 The plain version of the parents: they caught malaria, and the family had spent most of its money on his schooling, so it could not pay for the treatment that might have saved them.
 
+### Why he wants gold (Aydin, 2026-10-24)
+Not luxury. Safety. He watched his parents die of a fever while the rich houses up the hill had the bark that might have saved them, and he came away believing poverty killed them as much as the fever did. Money, to him, buys a physician, medicine, a ship big enough to carry his friends out of danger, and the right never to be told there is not enough. What he fears is being helpless while someone he loves suffers. What he does not understand is that no amount of gold buys control over who lives. When Crumble or Bonesy is hurt he does not panic. He takes over, gives orders and will not hear that it is nothing. The flashback is in 5.1: his mother already dead, the apothecary who is sorry and will not lower the price, and the lie to his father, who knows. He keeps a twist of Jesuits' bark from the Spanish surgeon's chest in his coat.
+
 ### The school duel (Aydin, 2026-10-17)
 He beats Rodrigo. The instructor calls the fight and Rodrigo stops. Jigsaw keeps attacking after he has already won. The first warning of the rage that shows later at sea.
 

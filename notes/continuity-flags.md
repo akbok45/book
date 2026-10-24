@@ -308,3 +308,18 @@ bowsprit (4.4 already has him seeing steps and a door in the black); the
 river two days north of the reef, three days up to a creek; howler monkeys;
 the sloop hidden under cut branches; a path on foot to a lake with an island;
 a sentry's spear at Crumble's neck, and Crumble saying Balam's name.
+
+## Raised by the 5.1 flashback, 2026-10-24
+
+- **His age.** The suggestion Aydin brought in put Jigsaw at thirteen or
+  fourteen for the apothecary. The bible and 4.3 make him seventeen when his
+  parents die, after the expulsion at sixteen. The flashback keeps seventeen.
+- **Invented, open to veto:** the surgeon's chest taken off the wreck (4.1
+  lists what they stripped and does not name it), his mother dying first and
+  his father three weeks after, the physician who came once and bled her, his
+  father selling his good sword for medicine, Jigsaw selling his books, the
+  apothecary with spectacles who calls him "son", the green door near the
+  harbour, the lit houses up the hill, the lie that a ship is due, and the
+  twist of bark Jigsaw now carries in his coat.
+- **The cure.** Per the suggestion's historical note, the prose never says the
+  bark would surely have saved them. Only that young Jigsaw believes it.
