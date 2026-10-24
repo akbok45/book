@@ -34,7 +34,7 @@ Crumble had gone straight to the jar.
 
 “The passage. The pit. Nearly getting ourselves killed.”
 
-He looked at me.
+I looked at the jar.
 
 “For a pot?”
 
@@ -48,11 +48,11 @@ Bonesy came up beside me and looked at the jar.
 
 “You can have it.”
 
-“Already got Beatrice.”
+“Already got Beatriz’s sister.”
 
 I looked at him.
 
-“Who?”
+“Beatriz’s sister?”
 
 “The lady in the floor.”
 
@@ -338,7 +338,7 @@ Crumble looked at me.
 
 I felt my jaw tighten.
 
-I pushed myself away from the table hard enough that my hip struck the stone. I turned away from him and stood looking at the empty walls.
+I shoved off the table so hard the edge scraped my hip. I turned away from him and stood looking at the empty walls.
 
 “I went through the same damned passage you did.”
 

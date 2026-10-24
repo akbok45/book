@@ -289,19 +289,12 @@ breeches, since they left their swords and coats on the rock outside the pool.
 
 ## Raised by checking Aydin's 4.6, 2026-10-24
 
-Kept as written. Flagged, not fixed:
+All four resolved the same day at Aydin's go ahead:
 
-- **"Already got Beatrice."** Beatriz is the stone carving Bonesy courts and
-  leaves behind in chapter 1, spelled Beatriz. Here Bonesy gives the name to
-  the jaguar face in the 4.5 floor, and Jigsaw asks "Who?" as if he had never
-  heard it. Either a new name for the floor face, or make the reuse a joke
-  Jigsaw recognizes.
-- **"For a pot?"** follows "He looked at me," so it reads as Crumble's line,
-  but the complaint is Jigsaw's and the next line ("We haven't opened it") is
-  Crumble's.
-- **The hip.** Jigsaw pushes away from the table and his hip strikes the stone.
-  Pushing away should move his hip off the table, not into it.
-- **Chapter 5 needs a bridge.** Crumble refuses to lead Cárdenas to Amara's
-  people: lose him first, then see. The outline opens chapter 5 already going
-  up the river. The start of 5.1 has to show how they shake pursuit, or what
-  changes Crumble's mind.
+- **Beatrice.** Bonesy now calls the floor face "Beatriz's sister", and Jigsaw
+  recognizes the name.
+- **"For a pot?"** Now follows "I looked at the jar", so it is Jigsaw's line.
+- **The hip.** Now "I shoved off the table so hard the edge scraped my hip."
+- **Chapter 5 bridge.** Added to the start of 5.1 in the story doc: a Spanish
+  sail picks them up, Jigsaw shakes it at night inside the reef, and Crumble
+  agrees to go to Amara. Cárdenas's patrols still find the river (5.3).
