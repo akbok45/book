@@ -298,3 +298,13 @@ All four resolved the same day at Aydin's go ahead:
 - **Chapter 5 bridge.** Added to the start of 5.1 in the story doc: a Spanish
   sail picks them up, Jigsaw shakes it at night inside the reef, and Crumble
   agrees to go to Amara. Cárdenas's patrols still find the river (5.3).
+
+## Raised by drafting 5.1, 2026-10-24
+
+Invented in 5.1, open to veto: Bonesy carrying the jar out along the bottom;
+a two masted Spanish ship, perhaps a Campeche guard ship; the false course for
+Jamaica; Bonesy seeing in the dark well enough to call coral from the
+bowsprit (4.4 already has him seeing steps and a door in the black); the
+river two days north of the reef, three days up to a creek; howler monkeys;
+the sloop hidden under cut branches; a path on foot to a lake with an island;
+a sentry's spear at Crumble's neck, and Crumble saying Balam's name.

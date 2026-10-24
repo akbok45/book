@@ -41,7 +41,13 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | 4.5 | `ch04-the-half-moon/05-come-on-through.md` | 2273 | Up the steps into a passage the old priests cut, lit by shafts from the surface. Crumble reads the traps before anyone steps in and sets the rules; Bonesy ignores them. Darts through his ribs, a roof block that flattens his hat. At the stake pit he walks the points and finds the priests' own path of flat stone posts, and talks each of them across it. The two sit on the floor and laugh. Bonesy has seen a jar in the next room. |
 | 4.6 | `ch04-the-half-moon/06-the-leaf.md` | 2216 | The dry chamber: a stone table under a light shaft, a wax-sealed jar, and no gold, which sours Jigsaw. Inside, one leaf of bark book, a painted map. Crumble explains the old rules; Jigsaw argues the coast is wrong, then turns the leaf red edge up and sees his own coast with the half moon on it. Seven canoe days north to Cozumel, and a sign Crumble cannot read. Balam's daughter could. Jigsaw wants to go to her; Crumble will not lead Cárdenas to her people, and they quarrel over what Balam died for until Bonesy breaks it. Lose Cárdenas first, then see. The well draws as the tide turns. Jigsaw looks down into it, then goes with them. |
 
-**Total drafted: 25,893 words.**
+## Chapter 5, The Hidden Village
+
+| # | File | Words | What happens |
+|---|---|---|---|
+| 5.1 | `ch05-the-hidden-village/01-up-river.md` | 2293 | Out through the wall, Bonesy walking the jar along the bottom. A Spanish sail on the second day; Jigsaw shows it a course for Jamaica until dark, then doubles back without lights inside the reef, Bonesy calling the coral from the bow. By dawn it is gone, and Crumble agrees to go to Amara. He washes his sash twice. Over the bar and up a brown river under the trees: no horizon, no wind, howler monkeys, Jigsaw's hand on his hilt, Crumble leading and looking back. The sloop hidden in a creek. On foot to a lake with an island and cooking smoke. A spear at Crumble's neck, and he says Balam's name. |
+
+**Total drafted: 28,186 words.**
 
 ## What comes after
 
