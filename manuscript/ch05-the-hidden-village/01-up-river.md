@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The coast north of the half-moon island, then a river on the mainland
 when: The days after the cave
 status: draft
-words: 3556
+words: 3799
 ---
 
-<!-- BEAT: Out through the wall with Bonesy walking the jar along the bottom. North up the coast. A Spanish sail on the second day. Jigsaw shows it a course for Jamaica until dark, then puts out the lights, doubles back and runs inside the reef with Bonesy calling the coral from the bow. By dawn the sail is gone. Crumble agrees to go to Amara. Jigsaw dresses Crumble's torn hands and will not hear that it is nothing. Night watch: counting the finger money, Bonesy and his hat, the smell of the surgeon's chest, a twist of Jesuits' bark. Flashback: seventeen, his mother dead, the apothecary who is sorry and will not lower the price, the lit houses up the hill, the lie to his father, who knows. Back on deck he pockets the bark and counts the coins again. The river mouth, the brown water, the trees closing over. Jigsaw out of his element, hand on his hilt, looking for a sky. Crumble leads, and every time he looks back Jigsaw's shoulders come down. The sloop hidden in a creek. On foot to the lake. A voice from the trees. -->
+<!-- BEAT: Out through the wall with Bonesy walking the jar along the bottom. North up the coast. A Spanish sail on the second day. Jigsaw shows it a course for Jamaica until dark, then puts out the lights, doubles back and runs inside the reef with Bonesy calling the coral from the bow. By dawn the sail is gone. Crumble agrees to go to Amara. Jigsaw dresses Crumble's torn hands and will not hear that it is nothing. Night watch: counting the finger money, Bonesy and his hat, a twist of Jesuits' bark in the surgeon's chest. Crumble takes the watch with his bound hands and sends him to sleep. Dream: seventeen, the apothecary who knows his father paid with a sword for his mother's medicine, is sorry, and will not lower the price. The lit houses up the hill, the empty sword hooks, the lie to his father, who knows. He wakes at grey with the paper split in his fist. Crumble: bad one? Old one. He pockets the bark and counts the coins again. The river mouth, the brown water, the trees closing over. Jigsaw out of his element, hand on his hilt, looking for a sky. Crumble leads, and every time he looks back Jigsaw's shoulders come down. The sloop hidden in a creek. On foot to the lake. A voice from the trees. -->
 
 Bonesy carried the jar out.
 
@@ -182,61 +182,89 @@ It did not take long. Vaz had paid us well, but we had spent a good part of it a
 
 I did not answer. I put the coins back in the purse and pulled the string tight.
 
-The surgeon’s chest was still at my feet where I had left it. I had not put it away. The lid had come open a crack, and the smell of it came up to me in the warm dark. Vinegar, and old linen, and something sharp and bitter under both of them.
+The surgeon’s chest was still at my feet where I had left it. The lid had come open a crack, and the smell of it came up to me in the warm dark. Vinegar, and old linen, and something sharp and bitter under both of them.
 
-I knew that smell.
+I opened the lid. Among the jars and the folded linen there was a twist of brown paper. I unfolded it. Inside was a little heap of reddish powder, dry as dust.
 
-I opened the lid and looked. Among the jars and the folded linen there was a twist of brown paper, and inside it a little heap of reddish powder, dry as dust. I did not need to taste it. I had smelled it once before, on the counter of a shop in the port where I grew up, and I had never forgotten it.
+I knew what it was before I smelled it.
 
-Jesuits’ bark.
+I was still sitting there with it in my hand when Crumble came aft. I had thought he was asleep. He stepped over Bonesy’s legs and sat down beside me and put his bound hand on the tiller.
+
+“My watch,” he said.
+
+“Your hands.”
+
+“My hands can hold a tiller.” He did not look at the paper in my fist. “You’ve been up two nights. Sleep.”
+
+I opened my mouth to argue. He looked at me, and I shut it again.
+
+I lay down on the deck beside the chest with my coat rolled under my head. I meant to put the paper back. I did not. I lay there with it closed in my hand and the bitter smell of it under my nose, and listened to the water going past the hull.
 
 ⸻
 
-The apothecary’s shop was down near the harbour, in a street that smelled of fish and tar. It had a green door and a little window of thick glass with jars behind it. I had walked past it a hundred times as a boy and never once gone in.
+“It isn’t enough,” the apothecary said.
 
-I was seventeen. My mother had been dead three weeks.
+He said it gently. He had counted the coins twice, pushing each one across the counter with one stained finger, and now he looked at me over the top of his spectacles.
 
-Most of what my father had went on my schooling. The academy, the masters, the fencing room, the coat let out twice at the shoulders. What was left after that went on the physician who came to see my mother. He came once. He bled her and wrote out what she needed and took his fee, and the medicine he wrote for cost more than we had. My father sold his good sword to buy a little of it. It ran out on the fourth day. She died on the ninth.
+The shop smelled of that same bitterness, and of the fish and tar from the street outside. Behind him the shelves went up to the ceiling, crowded with jars. One of them was brown glass with a paper label. I had watched him take it down when I came in and put it back when I told him what I had.
 
-Now my father had it.
+“How much more?” I said.
 
-I had seen what it did to her. The cold fits that shook the bed, so hard her teeth knocked. Then the heat, and the sweating, and the days in between when she lay quiet and grey and asked for water. And then the next fit, a little worse each time.
+He told me.
 
-I had everything I could gather in a cloth in my fist. The coins I had saved. What my father had left in the box under the bed. What I had got for my books.
+It was more than twice what lay on the counter. I had counted it all the way down the hill. The coins I had saved since I was small. What was left in the box under my father’s bed. What the bookseller had given me for my books, which was not much.
 
-The apothecary was an old man with spectacles and stained fingers. He listened to me. He looked at the cloth when I opened it on his counter. He counted the coins with one finger, slowly, pushing each one aside.
+“I can bring the rest,” I said. “In a week.”
 
-Then he told me the price.
+“Who is it for?”
 
-It was more than twice what I had.
+“My father.”
 
-“I can bring the rest,” I said. “In a week. Two weeks.”
+He looked at my coat. It was the academy coat, the one that had been let out twice at the shoulders, with the cuffs going at the edges.
 
-He shook his head.
+“I know that coat,” he said.
 
-“I can work for it. I can sweep the shop. I can carry for you.”
+“I don’t go there any more.”
 
-“Son,” he said.
+He nodded slowly, as if that answered something he had been wondering.
 
-He did not say it unkindly. That was the worst of it. He looked at me over his spectacles as if he were truly sorry, and I believe now that he was. But he did not take the jar down from the shelf.
+“There was a woman up the hill with the fever,” he said. “A month back. A big man came in for her. He paid me with a sword.”
 
-“It comes from Peru,” he said. “Across two oceans. I pay for it before it ever reaches me. If I gave it to every boy who came in here with a sick father, I would have none to sell, and then nobody would have it at all.”
+“My mother.”
 
-He pushed the cloth back across the counter to me with the coins still in it.
+“How is she?”
 
-I stood there for a long time. The jar was on the shelf behind him. I could see it. Brown glass with a paper label. I could have reached over the counter and taken it.
+“It ran out on the fourth day,” I said. “She died on the ninth.”
+
+He took off his spectacles and rubbed his eyes and put them back on.
+
+“I’m sorry,” he said.
+
+“I can work for it. I can sweep the shop. I can carry for you. Whatever you want.”
+
+“Son.”
+
+He did not say it unkindly. That was the worst of it. He looked at me as if he were truly sorry, and I believe now that he was. But he did not turn round to the shelf.
+
+“It comes from Peru,” he said. “Across two oceans. I pay for it before it ever reaches me. If I gave it to every boy who came in here with a sick father, I’d have none left to sell, and then nobody would have it at all.”
+
+He pushed the cloth back across the counter with the coins still in it.
+
+I stood there. The brown jar was on the shelf behind him, an arm’s length past his shoulder. I could have gone over the counter and had it before he turned round. I thought about it. I thought about it long enough that he saw me thinking it, and he did not move, and he did not call for anyone. He only waited.
 
 I picked up my coins and went out.
 
-I walked home the long way, up the hill, past the big houses. Their windows were lit. There was music coming from one of them. I stood in the street outside it for a while and looked at the light. Somewhere in that house there was a jar like the one in the shop. It was sitting on a shelf, and nobody inside was even sick.
+I walked home the long way, up the hill, past the big houses. Their windows were lit. Somebody in one of them was playing a guitar, badly, and people were laughing. I stood in the street outside and looked up at the light. Somewhere in that house there was a jar like the one in the shop. It was sitting on a shelf, and nobody inside was even sick.
 
 Then I went home.
 
-My father was awake when I came in. He was in the quiet part of the fever, lying still, with his face grey on the pillow and his eyes open. He watched me come in and put the cloth down on the table.
+The two hooks on the wall above the door were empty. The sword had hung there my whole life. I had stopped seeing it years ago, and now I could not stop seeing the place where it had been.
+
+My father was awake. He was in the quiet part of the fever, lying still, with his face grey on the pillow and his eyes open. He watched me come in and put the cloth down on the table.
 
 “Well?” he said.
 
-“He had none left,” I said. “He says there’s a ship due. Next week.”
+“He had none left,” I said. “There’s a ship due. Next week.”
 
 My father looked at me for a long time.
 
@@ -246,23 +274,33 @@ He did not say anything about it.
 
 “Sit with me,” he said.
 
-I pulled the stool over to the bed and sat down. After a while he put out his hand, and I took it. It was hot and dry and much thinner than I remembered.
+I pulled the stool over to the bed and sat down. After a while he put out his hand, and I took it. It was hot and dry, and much thinner than I remembered.
 
 He closed his eyes.
 
-I sat there in the dark and listened to him breathe.
+I sat there in the dark and listened to him breathe. In and out, slow, the way the sea comes in on a beach at night. I listened to it for a long time. I listened to it until I could not tell it from the water.
 
 ⸻
 
-Bonesy had stopped punching his hat.
+It was the water.
 
-I did not know how long I had been sitting there with the twist of paper in my hand. The binnacle light had burned low. Forward, Crumble turned over in his sleep and his bound hands fell open on the deck.
+It was going past the hull a foot from my ear, and the deck was hard under my shoulder, and the sky over the mast had begun to go grey. My hand was shut so tight that the twist of paper had split, and there was red powder in the creases of my palm.
 
-Bonesy was looking at me.
+Crumble was still at the tiller. His bound hands were resting on it. He was looking at me.
 
-He did not ask. He looked at the paper in my hand, and then at my face, and then he went back to his hat.
+I sat up.
 
-I folded the paper closed again. I did not put it back in the chest. I put it in my coat, in the inside pocket, next to the purse.
+He did not ask. He looked at my hand, and the powder in it, and then out at the sea again.
+
+“Bad one?” he said.
+
+“Old one.”
+
+He nodded and let it alone.
+
+Bonesy was sitting on the cabin top where I had left him, with his hat on his knees. The crease was still in it. He did not say anything either.
+
+I brushed the powder off my palm over the side. What was left in the paper I folded closed and put in my coat, in the inside pocket, next to the purse.
 
 Then I took the purse out and counted the coins one more time.
 

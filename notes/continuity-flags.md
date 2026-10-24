@@ -321,5 +321,9 @@ a sentry's spear at Crumble's neck, and Crumble saying Balam's name.
   apothecary with spectacles who calls him "son", the green door near the
   harbour, the lit houses up the hill, the lie that a ship is due, and the
   twist of bark Jigsaw now carries in his coat.
+- **Redrafted as a dream, 2026-10-24.** Crumble now takes the watch and Jigsaw
+  falls asleep into it, as in 4.3. New and open to veto: the apothecary
+  remembers the big man who paid with a sword, the empty sword hooks above the
+  door, a guitar in the lit house, and Crumble's "Bad one?" / "Old one."
 - **The cure.** Per the suggestion's historical note, the prose never says the
   bark would surely have saved them. Only that young Jigsaw believes it.
