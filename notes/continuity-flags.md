@@ -349,3 +349,7 @@ Saved verbatim. Points for Aydin to decide:
   Left as written.
 - **Course.** The decoy course is now toward Port Royal, which fits the
   English trade remark and "He's on his way to Port Royal".
+- **Resolved 2026-10-26, on Aydin's word.** He now comes back up and lies down
+  by the tiller. "The cloth" is now "the coins". "This sort of thing" is now
+  "played that trick". Both "began to" are cut. The dash sentence is now a
+  colon list. The bark stays out of the scene and the bible.

@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The coast north of the half-moon island, then a river on the mainland
 when: The days after the cave
 status: draft
-words: 4912
+words: 4918
 ---
 
 <!-- BEAT: Out through the wall with Bonesy walking the jar along the bottom. North up the coast. Jigsaw counts what is left of the money, three times, and Crumble catches him at it. A Spanish sail on the second day. Jigsaw shows it a course for Port Royal until dark, then puts out the lights, doubles back and runs inside the reef with Bonesy calling the coral from the bow and Crumble on the lead. By dawn the sail is gone. Crumble agrees to go to Amara and washes his sash. Jigsaw dresses Crumble's torn hands. That night Jigsaw counts the coins once more and lies down. Dream: the apothecary who says it isn't enough, who remembers his father paid with a sword for his mother's medicine, is sorry, and will not give it. The lit house with the supper table, the empty sword hooks, the lie to his father, who knows. He wakes at grey. Crumble: bad one? Old one. Jigsaw takes the tiller. The river mouth, the brown water, the trees closing over. Jigsaw out of his element, hand on his hilt. Crumble leads, and every time he looks back Jigsaw's shoulders come down. Bonesy goes in after his hat. The sloop hidden in a creek. On foot to the lake. A voice from the trees. -->
@@ -110,7 +110,7 @@ I turned toward him. In the darkness I could just make out his face, and he was 
 
 I grinned back.
 
-We had done this sort of thing a hundred times. Whatever uncertainty had followed us out of the cave—the missing gold, the village that might turn us away, and Cárdenas’s ships somewhere behind us—vanished for a moment.
+We had played that trick a hundred times. For a moment everything that had followed us out of the cave was gone: the missing gold, the village that might turn us away, and Cárdenas’s ships somewhere behind us.
 
 We knew what we were doing. More importantly, we knew what the other would do.
 
@@ -144,7 +144,7 @@ I had sailed that coast enough to know it by its sounds. The reef ran along it a
 
 No Spanish captain, nor any other captain in these seas, would dare follow Crumble and me through those reefs at night and live to tell the tale.
 
-The wind carried us west until I began to hear the breakers.
+The wind carried us west until I heard the breakers.
 
 At first it was only a low sound beneath the water against the hull. Then it grew into a steady roar, stretching across the darkness ahead of us. The reef was still out of sight, but I could hear it breaking for miles in either direction.
 
@@ -326,7 +326,7 @@ I smiled, though I was too tired to answer.
 
 For a while we sat there looking at the water. The sun was coming up behind the clouds, and the reef we had passed through lay white and harmless in the morning light.
 
-The excitement was going out of me. I could feel it leaving in little stages, until my shoulders began to ache and my eyes burned and the tiller seemed too heavy to hold.
+The excitement was going out of me. I could feel it leaving in little stages, until my shoulders ached and my eyes burned and the tiller seemed too heavy to hold.
 
 Crumble leaned back against the cabin.
 
@@ -426,7 +426,7 @@ Crumble took the tiller, his hands wrapped in clean linen. Bonesy sat on the cab
 
 Before turning in, I went below and opened the strongbox.
 
-I counted the coins once. There was no more than before, though I had half hoped there might be. I put them back, shut the lid, and lay down with my coat beneath my head.
+I counted the coins once. There was no more than before, though I had half hoped there might be. I put them back and shut the lid. Then I came back up and lay down by the tiller with my coat beneath my head.
 
 I could hear Crumble moving about on deck and Bonesy still working at his hat. The sloop rocked gently beneath me.
 
@@ -528,7 +528,7 @@ The sword had hung there my whole life. I had stopped seeing it years ago, and n
 
 My father was awake.
 
-He was in the quiet part of the fever, lying still, with his face grey on the pillow and his eyes open. He watched me come in and put the cloth down on the table.
+He was in the quiet part of the fever, lying still, with his face grey on the pillow and his eyes open. He watched me come in and put the coins down on the table.
 
 “Well?” he said.
 
