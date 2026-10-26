@@ -396,3 +396,15 @@ New conflicts to decide:
   sign; Amara called away to the sick before she reads it; the old woman who
   pats Crumble's cheek; Bonesy understands the villagers but answers in
   English.
+
+## Aydin's notes on 5.2, round two, 2026-10-26
+
+Done: Crumble asks to talk to Amara alone and they go to her house, with the
+village described on the walk; Bonesy grins at the boy; Amara at noon is now
+mending a fish trap; the coral in the chest is replaced; the child who sleeps
+against Jigsaw is a boy, and Jigsaw's hand goes back to his hilt after.
+
+- **Invented, open to veto:** the tragic case is now a man turning into a
+  jaguar over two years, kept in a pen, whose wife feeds him and tells him what
+  the children did. Also the shell path, gardens, log beehives, fish racks,
+  the turkey, the herbs and pots in Amara's house, and Bonesy's "Not ours."

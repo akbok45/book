@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake, Amara's village
 when: The evening they arrive, and the days after
 status: draft
-words: 3624
+words: 4149
 ---
 
-<!-- BEAT: The spear comes away. The man holding it is grey skinned with gill slits and a shark's teeth. Jigsaw draws both swords at once and the spears swing to him. Crumble keeps his hands up and waits. Amara comes along the shore in a canoe, calls the men off, and knows Jigsaw by name. He sees she is pretty. She touches Balam's blade on Crumble's hip. Crumble tells her straight out about the jar and the sign. She asks who followed them, and the fisherman turns at Cárdenas's name. Across the lake Bonesy understands the spearmen. On the island Jigsaw sees the root grandfather, the claw woman, the bark girl, and they frighten him worse than any wound. People know Crumble, and Jigsaw never knew he had been here. Ah Pech at the fire, who fought beside Balam, looks at the sign longer than anyone. Amara is called away to the sick before she can read it. Over three days: nobody gives orders and everybody comes to Amara; the coral man's wife cutting, and Jigsaw binding; the old man's question through Bonesy; the fisherman and his son, with Amara; the young man with coral in his chest, and the coins in Jigsaw's coat. Crumble laughing with Amara at the water. Last evening the old man makes Jigsaw sit for a story he cannot understand, a child falls asleep against him, and he does not put his hand back on his hilt. -->
+<!-- BEAT: The spear comes away. The man holding it is grey skinned with gill slits and a shark's teeth. Jigsaw draws both swords at once and the spears swing to him. Crumble keeps his hands up and waits. Amara comes along the shore in a canoe, calls the men off, and knows Jigsaw by name. He sees she is pretty. She touches Balam's blade on Crumble's hip. Crumble tells her straight out about the jar and the sign, and that Cárdenas may be behind them, then asks to talk to her alone. Across the lake Bonesy understands the spearmen. The children knock on Bonesy. The walk to her house: shell path, gardens, log beehives, fish racks, women grinding maize, then the root grandfather, the claw woman, the bark girl, and they frighten him worse than any wound. People know Crumble, and Jigsaw never knew he had been here. Crumble and Amara talk alone in her house; Bonesy will not say what they say. That night Ah Pech at the fire, who fought beside Balam, looks at the sign longer than anyone. Amara is called away to the sick before she can read it. Over three days: nobody gives orders and everybody comes to Amara; the coral man's wife cutting, and Jigsaw binding; the old man's question through Bonesy; the fisherman and his son, with Amara; the jaguar man in the pen whose wife still feeds him, and the coins in Jigsaw's coat. Crumble laughing with Amara at the water. Last evening the old man makes Jigsaw sit for a story he cannot understand, and a boy falls asleep against him. By the time he reaches his house his hand is back on his hilt. -->
 
 Nobody moved for a long time.
 
@@ -102,7 +102,11 @@ The grey man turned his head at the name. So did the other two.
 
 Amara did not turn hers. She was still looking at the jar.
 
-“Bring it across,” she said.
+“I need to talk to you,” Crumble said. “Alone.”
+
+She looked at him. Then she looked at me, and at Bonesy.
+
+“Come to the house,” she said.
 
 ⸻
 
@@ -132,33 +136,11 @@ He thought about it.
 
 I kept my hand on my hilt the rest of the way across.
 
-The island was low and thick with trees, and the houses stood among them. They were built of poles and mud, with roofs of palm thatch that came down nearly to the ground, and smoke leaked out through the thatch. Dogs ran down to the water to bark at us. Behind the dogs came children, and behind the children came everyone else.
+The island was low and thick with trees. Dogs ran down to the water to bark at us. Behind the dogs came children, and behind the children came everyone else.
 
 I have been stared at before. I have walked into towns where half the men in the street knew my face from a reward. This was different. Nobody here knew my face. They were looking at what I was, a stranger with a sword, and they had good reason to dislike it.
 
 I looked back at them.
-
-That was when I saw them properly.
-
-An old man sat in front of the nearest house, on a stool with his back against the wall. He did not get up when the others came down to the water. He could not. Below the knee his legs were not legs any more. They were roots, grey and brown and twisted together like the roots of the mangroves at low water, and they went down into the mud under the house and did not come out.
-
-A woman walked past him with a water jar on her shoulder. Her right arm was a claw.
-
-It was the claw of a land crab, red and black, and as big as a man’s thigh. She carried it bent against her body with the joint resting on her hip, the way you would carry a heavy basket. Her shoulder sagged on that side.
-
-A girl stood in a doorway with her hand on the post. The skin of her arms was brown and ridged and split like bark. Thin green vines grew out of her shoulders and hung down her back.
-
-I stopped at the water’s edge.
-
-I have seen men burnt and men drowned. I have seen men three days in the water with the crabs at them, and what a round shot leaves of a gun crew. None of it had turned my stomach like this. Those men had been broken. These people had been made into something else, and they were walking about in it.
-
-Crumble walked past them all as though they were anybody.
-
-An old woman came out of the crowd and took his face in both her hands. She said something and patted his cheek, hard, the way you would pat a horse. A man clapped him on the shoulder. Two of the children called his name.
-
-He had been here before. He had lived here, or near enough. In all the years I had known him he had never said so.
-
-I stood at the water with my hand on my hilt while they welcomed him.
 
 Bonesy climbed out of the canoe beside me.
 
@@ -172,13 +154,63 @@ He reached out and knocked on Bonesy’s shin with his knuckles.
 
 Bonesy looked down at him.
 
-“Hello,” he said.
+“Hello,” he said, and grinned at him.
 
 The boy ran off shrieking. Two others ran in to knock on him in his place.
 
+Amara went up from the shore without waiting. Crumble went after her with the jar, and Bonesy and I followed.
+
+A path of crushed shell ran up from the landing between the houses. They were built of poles and mud, each with a roof of palm thatch that came down nearly to the ground. Smoke leaked out through the thatch, so that every roof on the island smoked like a damp fire.
+
+Behind the houses, on the higher ground, there were gardens. The maize stood taller than a man, with beans climbing the stalks and squash vines sprawled in the earth between them. Hollow logs hung under the eaves of some of the houses, stopped at both ends with clay, and small black bees went in and out of a hole in the middle. Fish lay split and drying on racks of sticks over slow fires. Two women knelt at flat stones outside a doorway, grinding maize with a stone roller. They did not stop when we passed. They only lifted their eyes.
+
+A turkey walked across the path in front of me as though it owned it.
+
+It was a village like a hundred I have seen from the sea on that coast. That was what I thought for the first twenty paces.
+
+An old man sat in front of the next house, on a stool with his back against the wall. He did not get up when we passed. He could not. Below the knee his legs were not legs any more. They were roots, grey and brown and twisted together like the roots of the mangroves at low water, and they went down into the mud under the house and did not come out.
+
+A woman walked past him with a water jar on her shoulder. Her right arm was a claw.
+
+It was the claw of a land crab, red and black, and as big as a man’s thigh. She carried it bent against her body with the joint resting on her hip, the way you would carry a heavy basket. Her shoulder sagged on that side.
+
+A girl stood in a doorway with her hand on the post. The skin of her arms was brown and ridged and split like bark. Thin green vines grew out of her shoulders and hung down her back.
+
+I stopped on the path.
+
+I have seen men burnt and men drowned. I have seen men three days in the water with the crabs at them, and what a round shot leaves of a gun crew. None of it had turned my stomach like this. Those men had been broken. These people had been made into something else, and they were walking about in it.
+
+Crumble walked past them all as though they were anybody.
+
+An old woman came out of the crowd and took his face in both her hands. She said something and patted his cheek, hard, the way you would pat a horse. A man clapped him on the shoulder. Two of the children called his name.
+
+He had been here before. He had lived here, or near enough. In all the years I had known him he had never said so.
+
+I stood on the path with my hand on my hilt while they welcomed him.
+
+Amara’s house was at the far end of the island, the last before the trees, with a garden behind it and a canoe pulled up on the bank below. It was no bigger than the others. Bundles of dried leaves and roots hung from the rafters inside the door, and there were pots stacked along the wall, more pots than one woman needs.
+
+She held the door cloth aside. Crumble ducked in with the jar.
+
+She looked at me once. Then she let the cloth fall.
+
+I stood outside. I could hear their voices through the wall, low, in Maya. Hers and then his, and then a long time of nobody speaking at all.
+
+Bonesy sat down on the step with his back against the doorpost.
+
+“What are they saying?” I said.
+
+He did not look up.
+
+“Not ours.”
+
+I went down and sat by the canoe.
+
+When Crumble came out the sun was down behind the trees. He still had the jar under his arm. He did not say what they had talked about, and I did not ask.
+
 ⸻
 
-There was an open place in the middle of the island with a great tree in it. A fire burned beneath the tree, and among the roots somebody had set a clay bowl with a lump of resin smoking in it. The smoke was white and smelled sweet and sharp, like pine pitch on a hot deck.
+There was an open place in the middle of the island with a great tree in it. That night a fire burned beneath the tree, and among the roots somebody had set a clay bowl with a lump of resin smoking in it. The smoke was white and smelled sweet and sharp, like pine pitch on a hot deck.
 
 An old man was sitting by the fire.
 
@@ -264,7 +296,7 @@ There was no headman that I could find, no council, nobody who sat in the big ho
 
 And when anybody needed anything else, they went to Amara.
 
-She was everywhere. I would see her at first light at the water with her baskets, and at noon on her knees in somebody’s garden, and at dusk in a doorway with a sick child on her hip. Women stopped her on the path to show her a cut or a rash. Old men stopped her to complain. She listened to all of them as if they were the first.
+She was everywhere. I would see her at first light at the water with her baskets, and at noon up to her waist in the lake mending somebody’s fish trap, and at dusk in a doorway with a sick child on her hip. Women stopped her on the path to show her a cut or a rash. Old men stopped her to complain. She listened to all of them as if they were the first.
 
 I asked her once why so many of them were here, the ones who had been changed.
 
@@ -326,21 +358,29 @@ When I looked back the father had his hand on the back of the boy’s neck and w
 
 I was watching his hands by then, and not his teeth.
 
-There was a young man in a house near the tree that nobody went into except Amara and his mother.
+There was a pen of stakes behind one of the houses near the tree. I had taken it for a place to keep a pig.
 
-I saw him through the doorway on the third day. He lay in a hammock with a cloth over his chest. Where the cloth had slipped I could see coral, the same white and pink as on the other man’s shoulder. But it was not on top of his skin. It came up out of him, out of the middle of his chest, the way a coral head comes up out of the sand.
+On the third day I saw what was in it.
 
-He was breathing like a man with water in him, short and wet. His mother sat beside him with a fan of palm leaf and kept the flies off his face.
+It was a man, or it had been. He crouched in the corner of the pen on his hands and feet. His back and shoulders were covered in short yellow hair marked with black rings, the same as a jaguar’s hide, and the hair went down his arms to the wrist. His hands were still hands. But the nails had grown thick and hooked and black, and the fingers had drawn in toward the palm so that he could not open them.
 
-Amara came out of the house and saw me standing there.
+His face was still a man’s face. That was the worst of it.
 
-She did not ask what I was doing.
+A woman came round the house with a bowl of fish. She opened the gate and set the bowl down in front of him. Then she sat down in the dirt an arm’s length away and talked to him while he ate.
 
-“It went inside him,” she said. “Last year.”
+He ate out of the bowl with his face. He did not look at her once.
 
-“Can it be cut out?”
+Amara had come up behind me. I had not heard her.
 
-“No.”
+“That’s his wife,” she said.
+
+“What happened to him?”
+
+“It came on him two years ago. The hair first. Then he stopped talking. Then he stopped knowing her.” She watched the woman in the pen. “She feeds him every day. She tells him what the children did.”
+
+“Does he hear her?”
+
+“I don’t know.”
 
 “Is there nothing anybody can give him?”
 
@@ -388,20 +428,24 @@ The old man pointed at the ground again.
 
 I sat down.
 
-The children were already on his roots. One of them, a girl of about five, looked at me for a long time and then came and sat against my leg instead. The old man said something sharp to her, and she ignored him.
+The children were already on his roots. One of them, a boy of about five, looked at me for a long time and then came and sat against my leg instead. The old man said something sharp to him, and he ignored him.
 
 Then he started his story.
 
 I did not understand one word of it. It went on a long time. His voice went up high and came down low. He made noises like a bird and like a jaguar, and once like a man falling out of a tree. The children laughed at that every time. He did it three times.
 
-The girl against my leg went heavy. When I looked down she was asleep.
+The boy against my leg went heavy. When I looked down he was asleep.
 
-She slid sideways.
+He slid sideways.
 
-I took my hand off my hilt to hold her up.
+I took my hand off my hilt to hold him up.
 
-The old man kept on with his story. The fire burned down. The girl slept with her face against my knee and her mouth open.
+The old man kept on with his story. The fire burned down. The boy slept with his face against my knee and his mouth open.
 
 I sat there until it was finished.
 
-I did not put my hand back.
+His mother came for him when the fire was down to coals. She lifted him off me without waking him and carried him away into the dark.
+
+I stood up. My leg had gone dead where he had lain on it.
+
+By the time I reached our house my hand was back on my hilt.
