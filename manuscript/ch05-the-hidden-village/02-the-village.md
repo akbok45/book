@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake, Amara's village
 when: The evening they arrive, and the days after
 status: draft
-words: 2748
+words: 3624
 ---
 
-<!-- BEAT: The spear comes away. The man holding it is grey skinned with gill slits and a shark's teeth, and Jigsaw's hand goes to his hilt. Canoes across the lake. On the island he sees the old man with mangrove roots for legs, the woman with the crab claw, the girl with bark skin, and they frighten him worse than any wound. The children knock on Bonesy. Amara comes out with dirt to the wrists. She touches Balam's blade on Crumble's hip and they speak in Maya, which Jigsaw cannot follow. She asks Jigsaw in Spanish who followed them, and lets them eat. Over the next days: the coral man's wife cutting the growth off him, and Jigsaw binding it; the old man asking why the Englishman walks with his hand on his sword; the grey fisherman teaching his son to gut fish and worrying about the boy's girl; the young man with coral in his chest, and the coins in Jigsaw's coat. Bonesy and the children. Crumble laughing with Amara at the water. Last evening the old man makes Jigsaw sit for a story he cannot understand, a child falls asleep against him, and he does not put his hand back on his hilt. -->
+<!-- BEAT: The spear comes away. The man holding it is grey skinned with gill slits and a shark's teeth. Jigsaw draws both swords at once and the spears swing to him. Crumble keeps his hands up and waits. Amara comes along the shore in a canoe, calls the men off, and knows Jigsaw by name. He sees she is pretty. She touches Balam's blade on Crumble's hip. Crumble tells her straight out about the jar and the sign. She asks who followed them, and the fisherman turns at Cárdenas's name. Across the lake Bonesy understands the spearmen. On the island Jigsaw sees the root grandfather, the claw woman, the bark girl, and they frighten him worse than any wound. People know Crumble, and Jigsaw never knew he had been here. Ah Pech at the fire, who fought beside Balam, looks at the sign longer than anyone. Amara is called away to the sick before she can read it. Over three days: nobody gives orders and everybody comes to Amara; the coral man's wife cutting, and Jigsaw binding; the old man's question through Bonesy; the fisherman and his son, with Amara; the young man with coral in his chest, and the coins in Jigsaw's coat. Crumble laughing with Amara at the water. Last evening the old man makes Jigsaw sit for a story he cannot understand, a child falls asleep against him, and he does not put his hand back on his hilt. -->
 
 Nobody moved for a long time.
 
@@ -18,43 +18,119 @@ He was not tall. He wore a cloth round his waist and nothing else, and his skin 
 
 He looked at me. His eyes were black all the way across, with no white in them.
 
-My hand went to my hilt.
+He opened his mouth to speak, and I saw his teeth. There were too many of them, small and pointed and set in rows one behind the other, the way they sit in a shark’s jaw when you cut it out and hang it up to dry.
 
-“Don’t,” Crumble said, without turning his head.
+I had both swords out before he closed it.
 
-I did not draw. I did not take my hand away either.
+Two more men came out of the trees behind him. Their spears came round to me, and the grey man’s with them. Three points, near enough that I could have touched any of them with a blade.
 
-The man said something to Crumble. When he opened his mouth I saw his teeth. There were too many of them, small and pointed and set in rows one behind the other, the way they sit in a shark’s jaw when you cut it out and hang it up to dry.
+“Put them up,” Crumble said.
 
-Crumble answered him. He kept his hands raised.
+He had not moved. His hands were still raised to his shoulders.
 
-Two more men came out of the trees behind us with spears. They were ordinary men, as far as I could see. One of them looked at Bonesy and took a step back.
+“He’s got a spear on you.”
 
-Bonesy lifted his hat to him.
+“I know.”
 
-The man took another step back.
+“So put yours down,” Crumble said quietly. “And wait.”
 
-The grey man spoke again, short and hard. Crumble lowered his hands.
+I did not put them down. I did not go forward either. We stood like that, the six of us, with the forest roaring behind us and the sweat running into my eyes.
 
-“He’ll take us across,” he said.
+Bonesy looked from the spears to me.
 
-“Who is he?”
+“This is nice,” he said.
 
-“A fisherman.”
+Then somebody called out from the water.
 
-I looked at the teeth.
+It was a woman’s voice, sharp and carrying. A canoe had come round the point of the shore while we stood there, a small one, low in the water with baskets. The woman in the stern had stopped paddling. She was looking at us.
 
-“What does he fish with?”
+She called again, in Maya. The two men behind the grey man lowered their spears at once. The grey man took longer. He looked at my swords and then at her.
 
-Crumble did not answer that.
+She said one more word.
+
+He lowered his spear.
+
+She drove the canoe in through the reeds with three hard strokes and stepped out into the shallows. She did not look at the men or the spears. She looked at Crumble.
+
+“Crumble,” she said.
+
+He put his hands down.
+
+Then she looked at me.
+
+“Put those away, Jigsaw,” she said in English. “You still draw first.”
+
+I had seen her once, years ago, hanging over Crumble’s shoulder on a burning deck with the smoke all round her. I would not have known her. She was not a girl any more.
+
+She was pretty. I saw that first, with three spears still within reach of me, and I am not proud of it. She had a long plait down her back and dark eyes, and a smear of mud along one cheekbone where she had wiped her face with a dirty hand. Her hands were black with earth to the wrists.
+
+I put the swords away.
+
+She came up out of the water to Crumble. She did not hurry. She looked at his face first, for a long time. Then she looked down at Balam’s blade on his hip.
+
+She put out her hand and touched the hilt.
+
+Then she took her hand away.
+
+She said something to him in Maya. It was not long.
+
+Crumble answered her. His voice was lower than I had ever heard it. The words came up slowly, one at a time, the way a full bucket comes up a well.
+
+I did not know the words. I knew the sound of them. I had heard Crumble talk in every weather in the years we had been together. I had never heard him speak like that.
+
+She listened to all of it. When he was done she nodded once.
+
+Crumble did not wait any longer than that.
+
+“We found the jar,” he said, in English. “The one he was looking for.”
+
+Her eyes went to the jar under his arm.
+
+“There’s a leaf in it,” he said. “A map. There’s a sign at the end of it I can’t read.”
+
+She looked at the jar a long while. She did not reach for it.
+
+“Who followed you?” she said.
+
+“Nobody.”
+
+“Somebody always follows.”
+
+“A Spanish ship picked us up off the coast four days ago,” Crumble said. “We lost her inside the reef. It might have been Cárdenas.”
+
+The grey man turned his head at the name. So did the other two.
+
+Amara did not turn hers. She was still looking at the jar.
+
+“Bring it across,” she said.
 
 ⸻
 
-They had two canoes pulled up in the reeds below the trees, each one cut from a single log. The grey man put Crumble and the jar in the first with him. I went in the second with Bonesy and the other two men, who sat as far from Bonesy as the canoe allowed.
+There were two canoes pulled up in the reeds below the trees, each cut from a single log. Amara took Crumble and the jar in her own. I went in one of the others with Bonesy and the grey man and the two spearmen, who sat as far from Bonesy as the canoe allowed.
 
-The lake was flat and brown and still. The paddles went in without a sound. I watched the grey man’s back in the canoe ahead. He paddled like a man who had done it every day of his life, long easy strokes, and every few strokes the slits in his neck opened and shut.
+The lake was flat and brown and still. The paddles went in without a sound.
 
-I kept my hand on my hilt the whole way across.
+The spearmen talked to each other in low voices across Bonesy’s head. Every so often one of them looked at me.
+
+Bonesy listened to them.
+
+“They think you’re rude,” he said.
+
+“You understand them?”
+
+“Mostly.”
+
+“Since when?”
+
+He thought about it.
+
+“Since always.”
+
+“Why am I rude?”
+
+“The swords.”
+
+I kept my hand on my hilt the rest of the way across.
 
 The island was low and thick with trees, and the houses stood among them. They were built of poles and mud, with roofs of palm thatch that came down nearly to the ground, and smoke leaked out through the thatch. Dogs ran down to the water to bark at us. Behind the dogs came children, and behind the children came everyone else.
 
@@ -76,6 +152,14 @@ I stopped at the water’s edge.
 
 I have seen men burnt and men drowned. I have seen men three days in the water with the crabs at them, and what a round shot leaves of a gun crew. None of it had turned my stomach like this. Those men had been broken. These people had been made into something else, and they were walking about in it.
 
+Crumble walked past them all as though they were anybody.
+
+An old woman came out of the crowd and took his face in both her hands. She said something and patted his cheek, hard, the way you would pat a horse. A man clapped him on the shoulder. Two of the children called his name.
+
+He had been here before. He had lived here, or near enough. In all the years I had known him he had never said so.
+
+I stood at the water with my hand on my hilt while they welcomed him.
+
 Bonesy climbed out of the canoe beside me.
 
 The children stopped.
@@ -94,61 +178,47 @@ The boy ran off shrieking. Two others ran in to knock on him in his place.
 
 ⸻
 
-They took us up through the houses to an open place in the middle of the island. There was a great tree there with a fire beneath it. Crumble walked ahead with the jar against his chest. He did not look at the people we passed. He was looking at the house on the far side of the fire.
+There was an open place in the middle of the island with a great tree in it. A fire burned beneath the tree, and among the roots somebody had set a clay bowl with a lump of resin smoking in it. The smoke was white and smelled sweet and sharp, like pine pitch on a hot deck.
 
-A woman came out of it.
+An old man was sitting by the fire.
 
-She was not the girl I had seen over his shoulder on that burning deck. That had been years ago. She was tall for a Maya woman, with her hair tied back in a cord and a knife at her waist. Her hands were black with earth to the wrists, as though she had been digging and had come out without stopping to wash.
+He was older than the man with the roots, but there was nothing wrong with him that I could see. He sat with his back straight and his hands on his knees. His forearms were crossed with old white scars, the kind a man gets from blocking a blade with whatever he has.
 
-She stopped when she saw him.
+Crumble stopped in front of him. He took the jar from under his arm and set it down. Then he bowed his head.
 
-Crumble stopped too.
+The old man stood up. He took Crumble by the forearm and held it. His eyes went to Balam’s blade.
 
-The people round the fire had gone quiet. For a while the only sound was the dogs.
+He said Balam’s name.
 
-Then she came across the open ground to him. She did not hurry. She looked at his face first, for a long time. Then she looked down at Balam’s blade on his hip.
+Crumble said something back, and the old man nodded slowly, and let go.
 
-She put out her hand and touched the hilt.
+“Ah Pech,” Crumble told me afterwards. “He fought beside Balam when they were young.”
 
-Then she took her hand away.
+They brought us food. Fish wrapped in leaves and cooked in the ashes, and flat maize cakes, and a gourd of something sour. I had not eaten a hot meal since the cave. I ate with my back to the tree, where I could see the whole of the open ground.
 
-She said something to him in Maya. It was not long.
+When we had eaten Crumble cut the cord from the jar.
 
-Crumble answered her. His voice was lower than I had ever heard it. The words came up slowly, one at a time, the way a full bucket comes up a well.
+He took the packet out and unwrapped it on a mat by the fire, one fold at a time, and laid the leaf open in the light.
 
-I did not know the words. I knew the sound of them. I had heard Crumble talk in every weather in the years we had been together. I had never heard him speak like that.
+People came to look. They stood round the mat and did not touch it.
 
-She listened to all of it. Her eyes stayed on his face.
+Amara knelt beside Crumble. She looked along the footprints, from the half moon to the long island, and stopped at the sign. The face in profile, with curls coming out of its mouth.
 
-When he was done she nodded once.
+She looked at it a long time.
 
-Then she looked past him at me.
+Ah Pech leaned in over her shoulder. He looked at it longer.
 
-“Who followed you?” she said in Spanish.
+Amara opened her mouth to speak.
 
-I had not expected Spanish. It took me a moment.
+A woman called her from the edge of the firelight. I could not understand the words, but I understood the voice. Somebody was hurt or sick and it would not wait.
 
-“Nobody.”
+Amara got up at once.
 
-“Somebody always follows.”
+“Not tonight,” she said to Crumble. She folded the cloth back over the leaf with quick hands and gave it to him, and she was gone into the dark between the houses.
 
-“A Spanish ship picked us up off the coast,” Crumble said. “Four days ago. We lost her inside the reef.”
+Crumble put the leaf back in the jar.
 
-She looked at Crumble, not at me.
-
-“Lost.”
-
-“He lost her.” Crumble tipped his head at me. “He’s good at it.”
-
-She looked at me again for a while. Her eyes went to my hand, which was still on my hilt.
-
-I took it off.
-
-“Then you can eat,” she said.
-
-She turned and spoke to the people round the fire, three or four words, and they moved again. Somebody put more wood on. A woman went for water. The children came back to Bonesy.
-
-That was how I learned who Amara was. Nobody had to tell me.
+Ah Pech sat down again by the fire. He sat looking at the place on the mat where the leaf had been.
 
 ⸻
 
@@ -180,31 +250,49 @@ The wife watched me do all of it.
 
 When I was done she said something to her husband. He laughed round the stick.
 
-Later I asked Crumble what she had said.
+Later I asked Bonesy what she had said.
 
-“She said you bind too tight.”
+“You bind too tight.”
 
-“That’s what you said.”
+“That’s what Crumble said.”
 
 “She’s right.”
+
+It took me two days to understand that nobody on the island gave orders.
+
+There was no headman that I could find, no council, nobody who sat in the big house and sent for people. There was not even a big house. When a canoe needed caulking, the men who used it caulked it. When the old man with the roots needed his food, his daughter brought it.
+
+And when anybody needed anything else, they went to Amara.
+
+She was everywhere. I would see her at first light at the water with her baskets, and at noon on her knees in somebody’s garden, and at dusk in a doorway with a sick child on her hip. Women stopped her on the path to show her a cut or a rash. Old men stopped her to complain. She listened to all of them as if they were the first.
+
+I asked her once why so many of them were here, the ones who had been changed.
+
+She was carrying water at the time. She did not put it down.
+
+“Nobody hunts them here,” she said.
+
+Then she went on up the path.
 
 The old man with the roots was at me from the first morning.
 
 Every time I went past his house he shouted. He had a high cracked voice that carried right across the island, and he pointed at me while he shouted, and his grandchildren sat on his roots and watched me to see what I would do.
 
-On the second day I asked Crumble what he was saying.
+On the second day Bonesy was with me.
 
-Crumble listened for a while.
+“What’s he saying?”
+
+Bonesy listened.
 
 “He wants to know why the Englishman walks about with his hand on his sword.”
 
 “Tell him I’m English.”
 
-Crumble told him.
+Bonesy said it to him in English, loud and slow, and pointed at me.
 
 The old man shouted something back.
 
-“He says that’s not an answer.”
+“He says that’s not an answer,” Bonesy said.
 
 His daughter brought him his food twice a day and put it into his hands. He argued with her too. He argued with the grandchildren and the dogs and the man next door. In the evenings he told stories, long ones, and the children sat on the roots to hear them and he slapped their hands when they picked at the bark.
 
@@ -218,19 +306,27 @@ The boy did it again. It was better.
 
 The father talked the whole time, low and steady, and the boy kept his head down and did not answer.
 
-“What’s he saying?” I asked Crumble.
+Amara came down the bank behind me with a basket on her hip. She stopped and listened.
 
-“There’s a girl on the other side of the island. The boy wants to marry her.”
+“There’s a girl on the other side of the island,” she said. “The boy wants to marry her.”
 
 “And?”
 
-“The father thinks she’s too clever for him.”
+“His father thinks she’s too clever for him.”
 
-I watched the father put his hand on the back of the boy’s neck and shake him gently, the way you shake a dog you are fond of.
+“Is she?”
+
+“Yes.”
+
+She said it without smiling. Then the corner of her mouth went, and she went on along the shore with her basket.
+
+I watched her go farther than I needed to.
+
+When I looked back the father had his hand on the back of the boy’s neck and was shaking him gently, the way you shake a dog you are fond of.
 
 I was watching his hands by then, and not his teeth.
 
-There was a young man in a house near Amara’s that nobody went into except her and his mother.
+There was a young man in a house near the tree that nobody went into except Amara and his mother.
 
 I saw him through the doorway on the third day. He lay in a hammock with a cloth over his chest. Where the cloth had slipped I could see coral, the same white and pink as on the other man’s shoulder. But it was not on top of his skin. It came up out of him, out of the middle of his chest, the way a coral head comes up out of the sand.
 
@@ -252,7 +348,7 @@ She looked at me.
 
 “No.”
 
-She went back across to her own house.
+She went on to the next house.
 
 I put my hand inside my coat. The coins were there in the purse where I had put them before we left the sloop. I held them for a while.
 
@@ -264,13 +360,13 @@ He had not been on the island half a day before the children owned him. They sat
 
 The crease came back the next morning. She pressed it out again.
 
-At night he sat by the fire with whoever was there. Most of them did not have his language and he did not have theirs. It did not seem to trouble him or them.
+At night he sat by the fire with whoever was there. They talked to him in Maya and he answered them in English. Nobody minded which was which.
 
 Crumble I hardly saw.
 
-He was with Amara most of the day, or with the old people, or down at the canoes with the men. When I did see him he was talking Maya, and he talked it differently from how he talks English. His shoulders were down. He used his hands.
+He was with Ah Pech most of the day, or with the old women, or down at the canoes with the men. When I did see him he was talking Maya, and he talked it differently from how he talks English. His shoulders were down. He used his hands.
 
-On the third evening I saw the two of them at the water.
+On the third evening I saw him at the water with Amara.
 
 They were standing a little apart, looking out at the lake. She said something, and he laughed.
 
@@ -286,7 +382,7 @@ I stopped. I was tired of walking past.
 
 He shouted again and pointed at the ground beside his stool.
 
-I looked for Crumble. Crumble was not there.
+I looked for Bonesy. Bonesy was not there.
 
 The old man pointed at the ground again.
 

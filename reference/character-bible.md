@@ -246,6 +246,19 @@ Rodrigo, the schoolmate who married Jigsaw's girl, serves under Cárdenas. This 
 
 **Don Rodrigo, suggested name.** Jigsaw's schoolmate. His family opened doors, but he is also capable: a legitimate officer, disciplined, educated, politically smart and a strong swordsman. Jigsaw was the more gifted student. Jigsaw thinks: you got the life that should have been mine. Rodrigo thinks: you had more talent than I did, and look what you chose to become. Rodrigo is partly right. At the capture he sees that Jigsaw's weakness is Crumble and uses it. In Florida Jigsaw beats him and leaves him alive, because Rodrigo no longer matters to his sense of worth.
 
+**Answers for chapter 5 (Aydin, 2026-10-26).**
+- Amara is twenty or twenty one. She knows Balam is dead. Balam died of sickness, nothing deeper. She remembers Jigsaw from the raid. She speaks every language the story needs.
+- She is kind and loving and her focus is the village. She is not a leader. Nobody in the village leads; people go to her because she takes care of them. She is not married or promised.
+- Crumble lived on the island a while during his years with Balam. He stayed mostly with Balam and did not have much to do with Amara then.
+- Balam was not from this village. He came from a settlement Cárdenas destroyed.
+- The village is a safe place, so changed people gather there. Outsiders who stay do not change. Children: no need to explain.
+- The codex would kill all of them. They know Cárdenas. They do not know about the codex.
+- A smallish village. They accept Jigsaw's coin and have no real use for it. They keep the old gods.
+- Bonesy understands almost every language.
+- Ah Pech is planted in 5.2. His arrangement with Cárdenas is part of why the village has been left alone; the rest is open.
+- Jigsaw feels an outsider at first and is brought into the village, which gives him more reason to stop the codex. The villagers do not treat him differently for his father's people.
+- Both men's attraction to Amara builds. Jigsaw's narration calls her pretty.
+
 **The elder, suggested name Ah Pech.** A respected elder of Amara's community who knew Balam and fought beside him when young, so he knows Balam's fighting methods. Years ago, afraid the Spanish would destroy the community, he made a secret arrangement with Cárdenas: information for being left alone. He believes cooperation is the only realistic way to keep his people alive. Fear and compromise, not cruelty. He guides the crew to Cozumel, sends word to Cárdenas, and defeats and captures Crumble at the shrine. Whether he turns in Florida is open.
 
 **People changed by magic.** The book still needs an in-world word for them. "Cursed," "strange" and "different" give the wrong tone. Their changes are old, physical and sometimes frightening, never cute powers: an old man whose legs have become mangrove roots, a fisherman like a shark, a woman with a crab's claw for an arm, a man who grows coral that has to be cut off him, a girl turning to bark. Some suffer, and at least one case is tragic. Jigsaw sees monsters first and families after. Bonesy fits in among them.

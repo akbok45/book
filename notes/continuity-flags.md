@@ -373,3 +373,26 @@ Saved verbatim. Points for Aydin to decide:
 - **Left out on purpose:** the elder (Ah Pech), the community's name, and the
   in-world word for changed people. All three are still open.
 - **"Gun crew"** in narration means a cannon's crew, which is the period sense.
+
+## Aydin's answers on 5.2, 2026-10-26, and what they touch
+
+The answers are logged in the character bible. The 5.2 points above about
+when Crumble last saw Amara and whether she knows of Balam's death are settled.
+New conflicts to decide:
+
+- **Amara as leader.** The outline doc says people listen to her, she is
+  decisive under pressure, and in 5.3 she takes charge, picks the ambush and
+  gives orders that people obey. Aydin now says she is not a leader and nobody
+  in the village leads. 5.3 needs rethinking: does she still run the ambush?
+- **Balam and Cárdenas.** Balam came from a settlement Cárdenas destroyed. The
+  outline has Balam teaching Cárdenas as a grieving young man, and open-threads
+  suggests Cárdenas won Balam's trust by stopping soldiers burning a Maya
+  settlement. Did the destruction come before or after the teaching?
+- **How Balam died.** Sickness. In 4.6 Crumble says "Balam died looking for
+  this." That still fits if he fell sick on the search.
+- **5.2 invented, open to veto:** Amara arrives by canoe with baskets and calls
+  the spearmen off; she says "You still draw first"; the resin smoking in a
+  bowl at the great tree; Ah Pech's scarred forearms and his long look at the
+  sign; Amara called away to the sick before she reads it; the old woman who
+  pats Crumble's cheek; Bonesy understands the villagers but answers in
+  English.

@@ -46,9 +46,9 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 | # | File | Words | What happens |
 |---|---|---|---|
 | 5.1 | `ch05-the-hidden-village/01-up-river.md` | 4918 | Out through the wall, Bonesy walking the jar along the bottom. A Spanish sail on the second day; Jigsaw shows it a course for Jamaica until dark, then doubles back without lights inside the reef, Bonesy calling the coral from the bow. By dawn it is gone, and Crumble agrees to go to Amara. He washes his sash twice. He binds Crumble's torn hands and will not hear that it is nothing. Night watch: counting the finger money, a twist of Jesuits' bark in the surgeon's chest. Crumble takes the watch and sends him to sleep, and he dreams seventeen: the apothecary who is sorry and will not lower the price, the lit houses, the empty sword hooks, the lie to his father, who knows. He wakes with the paper split in his fist and pockets the bark. Over the bar and up a brown river under the trees: no horizon, no wind, howler monkeys, Jigsaw's hand on his hilt, Crumble leading and looking back. The sloop hidden in a creek. On foot to a lake with an island and cooking smoke. A spear at Crumble's neck, and he says Balam's name. |
-| 5.2 | `02-the-village.md` | 2748 | They cross to the island. The grey fisherman, the root grandfather, the claw woman, the bark girl. Amara touches Balam's blade and takes charge. Over three days Jigsaw sees families: the coral man's wife cutting, the fisherman and his son, the dying young man and the coins in his coat. He sits for the old man's story and does not put his hand back on his hilt. |
+| 5.2 | `02-the-village.md` | 3624 | Jigsaw draws on the spearmen; Crumble waits. Amara calls them off and knows Jigsaw. Crumble tells her about the jar at once. The island: the root grandfather, the claw woman, the bark girl, and people who know Crumble. Ah Pech at the fire looks longest at the sign; Amara is called to the sick before she reads it. Three days: no leaders, everyone goes to Amara; the coral man, the fisherman and his son, the dying young man and the coins. He sits for the old man's story and does not put his hand back on his hilt. |
 
-**Total drafted: 33,559 words.**
+**Total drafted: 34,435 words.**
 
 ## What comes after
 
