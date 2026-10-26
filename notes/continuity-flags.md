@@ -327,3 +327,25 @@ a sentry's spear at Crumble's neck, and Crumble saying Balam's name.
   door, a guitar in the lit house, and Crumble's "Bad one?" / "Old one."
 - **The cure.** Per the suggestion's historical note, the prose never says the
   bark would surely have saved them. Only that young Jigsaw believes it.
+
+## Aydin's final 5.1, 2026-10-26
+
+Saved verbatim. Points for Aydin to decide:
+
+- **Where he sleeps.** He goes below, counts the coins and lies down with his
+  coat under his head. He wakes with "the deck was hard under my shoulder",
+  sees the sky over the mast, Crumble at the tiller looking at him, and Bonesy
+  on the cabin top. That reads as on deck. One fix: he comes back up after the
+  strongbox and lies down by the tiller. Another: he wakes below and goes up.
+- **The bark is gone from the scene.** The twist of Jesuits' bark from the
+  surgeon's chest no longer appears. The bible (Why he wants gold) still says
+  he carries one in his coat. Drop it from the bible, or keep it for later.
+- **"The cloth."** His father "watched me come in and put the cloth down on
+  the table." No cloth has been mentioned. Possibly a cloth for the fever, or a
+  leftover. Leave or clarify.
+- **Ban list, narration:** "this sort of thing" (sort of, thing), and "began
+  to" twice ("began to hear the breakers", "my shoulders began to ache").
+- **Em dash** in "out of the cave—the missing gold … behind us—vanished".
+  Left as written.
+- **Course.** The decoy course is now toward Port Royal, which fits the
+  English trade remark and "He's on his way to Port Royal".
