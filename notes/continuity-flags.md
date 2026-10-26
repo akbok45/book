@@ -353,3 +353,23 @@ Saved verbatim. Points for Aydin to decide:
   by the tiller. "The cloth" is now "the coins". "This sort of thing" is now
   "played that trick". Both "began to" are cut. The dash sentence is now a
   colon list. The bark stays out of the scene and the bible.
+
+## Raised by the 5.2 draft, 2026-10-26
+
+- **When Crumble last saw Amara.** The outline doc says 5.2 is the first time
+  since he carried her out of the smoke. But he trained three years under
+  Balam, and in 5.1 he knows the river by heart, which suggests he lived here
+  and saw her then. The draft does not say which. Their first exchange is in
+  Maya, so Jigsaw reports only the behavior.
+- **Whether Amara knows Balam is dead.** Not decided by the draft. She touches
+  his blade on Crumble's hip and they talk in Maya.
+- **Invented, open to veto:** Amara speaks Spanish; the spear man is the shark
+  changed fisherman; his ordinary son of fifteen and the clever girl; the coral
+  man's wife says Jigsaw binds too tight; linen and vinegar carried up from the
+  surgeon's chest; the coins in a purse in Jigsaw's coat; the young man's coral
+  "went inside him last year"; the bark girl presses the crease out of Bonesy's
+  hat; the old man's question about the hand on the sword; the girl of five
+  who sleeps against Jigsaw; three days on the island.
+- **Left out on purpose:** the elder (Ah Pech), the community's name, and the
+  in-world word for changed people. All three are still open.
+- **"Gun crew"** in narration means a cannon's crew, which is the period sense.
