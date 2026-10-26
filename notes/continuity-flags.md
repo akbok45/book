@@ -408,3 +408,25 @@ against Jigsaw is a boy, and Jigsaw's hand goes back to his hilt after.
   jaguar over two years, kept in a pen, whose wife feeds him and tells him what
   the children did. Also the shell path, gardens, log beehives, fish racks,
   the turkey, the herbs and pots in Amara's house, and Bonesy's "Not ours."
+
+## Aydin's notes on 5.2, round three, 2026-10-26
+
+Done: the villagers are not afraid of Bonesy; Jigsaw has seen changed people
+on Tortuga who used it to kill or profit, so he watches the villagers' hands;
+the old man calls him the Spaniard; the jaguar man in the pen is replaced;
+Crumble is shown as not wholly at home.
+
+- **The way.** The tragic case now draws on the Maya belief in the *way*, an
+  animal that carries half a person's soul (the Classic Maya way glyph, and the
+  animal companion belief still held in the highlands). A man's way, a jaguar,
+  came out of the forest, and while it walks he sleeps. Two months asleep; his
+  wife leaves meat at the tree line; Jigsaw sees eyes on the far shore. Veto
+  or keep. If kept, the way is a rule of the world and may want a line in the
+  codex rules (would the codex unmake a way?).
+- **Invented, open to veto:** the shark skinned killer for hire in Cayona, the
+  Frenchman with turtle shell hands who broke a neck for a bet, the woman in
+  Petit-Goâve who hears through walls and sells it; the old man's "then stop
+  standing like one"; an old woman correcting Crumble's Maya; Crumble at night
+  by the canoes looking toward the river.
+- **Jigsaw looks Spanish.** Now stated through the villagers. Check against
+  his father's people in the bible if that matters to his looks.

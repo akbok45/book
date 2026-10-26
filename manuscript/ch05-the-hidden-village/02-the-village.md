@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake, Amara's village
 when: The evening they arrive, and the days after
 status: draft
-words: 4149
+words: 4371
 ---
 
-<!-- BEAT: The spear comes away. The man holding it is grey skinned with gill slits and a shark's teeth. Jigsaw draws both swords at once and the spears swing to him. Crumble keeps his hands up and waits. Amara comes along the shore in a canoe, calls the men off, and knows Jigsaw by name. He sees she is pretty. She touches Balam's blade on Crumble's hip. Crumble tells her straight out about the jar and the sign, and that Cárdenas may be behind them, then asks to talk to her alone. Across the lake Bonesy understands the spearmen. The children knock on Bonesy. The walk to her house: shell path, gardens, log beehives, fish racks, women grinding maize, then the root grandfather, the claw woman, the bark girl, and they frighten him worse than any wound. People know Crumble, and Jigsaw never knew he had been here. Crumble and Amara talk alone in her house; Bonesy will not say what they say. That night Ah Pech at the fire, who fought beside Balam, looks at the sign longer than anyone. Amara is called away to the sick before she can read it. Over three days: nobody gives orders and everybody comes to Amara; the coral man's wife cutting, and Jigsaw binding; the old man's question through Bonesy; the fisherman and his son, with Amara; the jaguar man in the pen whose wife still feeds him, and the coins in Jigsaw's coat. Crumble laughing with Amara at the water. Last evening the old man makes Jigsaw sit for a story he cannot understand, and a boy falls asleep against him. By the time he reaches his house his hand is back on his hilt. -->
+<!-- BEAT: The spear comes away. The man holding it is grey skinned with gill slits and a shark's teeth. Jigsaw draws both swords at once and the spears swing to him. Crumble keeps his hands up and waits. Amara comes along the shore in a canoe, calls the men off, and knows Jigsaw by name. He sees she is pretty. She touches Balam's blade on Crumble's hip. Crumble tells her straight out about the jar and the sign, and that Cárdenas may be behind them, then asks to talk to her alone. Across the lake Bonesy understands the spearmen, who are not afraid of him. The children knock on Bonesy. The walk to her house: shell path, gardens, log beehives, fish racks, women grinding maize, then the root grandfather, the claw woman, the bark girl. Every changed person Jigsaw met on Tortuga used it to kill or get rich, so he watches their hands. People know Crumble, and Jigsaw never knew he had been here. Crumble and Amara talk alone in her house; Bonesy will not say what they say. That night Ah Pech at the fire, who fought beside Balam, looks at the sign longer than anyone. Amara is called away to the sick before she can read it. Over three days: nobody gives orders and everybody comes to Amara; the coral man's wife cutting, and Jigsaw binding; the old man asking why the Spaniard keeps his hand on his sword; the fisherman and his son, with Amara; the sleeping man whose way, a jaguar, is out walking, and the wife who leaves meat at the tree line; the eyes on the far shore, and the coins in Jigsaw's coat. Crumble good at Maya but corrected like a child, eating with his back to a post, and at night looking across the lake toward the river. Crumble laughing with Amara at the water. Last evening the old man makes Jigsaw sit for a story he cannot understand, and a boy falls asleep against him. By the time he reaches his house his hand is back on his hilt. -->
 
 Nobody moved for a long time.
 
@@ -21,6 +21,8 @@ He looked at me. His eyes were black all the way across, with no white in them.
 He opened his mouth to speak, and I saw his teeth. There were too many of them, small and pointed and set in rows one behind the other, the way they sit in a shark’s jaw when you cut it out and hang it up to dry.
 
 I had both swords out before he closed it.
+
+I had seen skin like that once before, on a man in Cayona on Tortuga. He hired out to kill, and he was good at it.
 
 Two more men came out of the trees behind him. Their spears came round to me, and the grey man’s with them. Three points, near enough that I could have touched any of them with a blade.
 
@@ -110,7 +112,7 @@ She looked at him. Then she looked at me, and at Bonesy.
 
 ⸻
 
-There were two canoes pulled up in the reeds below the trees, each cut from a single log. Amara took Crumble and the jar in her own. I went in one of the others with Bonesy and the grey man and the two spearmen, who sat as far from Bonesy as the canoe allowed.
+There were two canoes pulled up in the reeds below the trees, each cut from a single log. Amara took Crumble and the jar in her own. I went in one of the others with Bonesy and the grey man and the two spearmen. One of the spearmen moved over to make room for Bonesy, and looked at him no longer than he looked at me. Less, if anything.
 
 The lake was flat and brown and still. The paddles went in without a sound.
 
@@ -138,7 +140,7 @@ I kept my hand on my hilt the rest of the way across.
 
 The island was low and thick with trees. Dogs ran down to the water to bark at us. Behind the dogs came children, and behind the children came everyone else.
 
-I have been stared at before. I have walked into towns where half the men in the street knew my face from a reward. This was different. Nobody here knew my face. They were looking at what I was, a stranger with a sword, and they had good reason to dislike it.
+I have been stared at before. I have walked into towns where half the men in the street knew my face from a reward. This was different. Nobody here knew my face. They were looking at what I was, a stranger with a Spaniard’s face and a sword, and they had good reason to dislike it.
 
 I looked back at them.
 
@@ -178,7 +180,11 @@ A girl stood in a doorway with her hand on the post. The skin of her arms was br
 
 I stopped on the path.
 
-I have seen men burnt and men drowned. I have seen men three days in the water with the crabs at them, and what a round shot leaves of a gun crew. None of it had turned my stomach like this. Those men had been broken. These people had been made into something else, and they were walking about in it.
+I had seen people changed before. Not many. There was the man in Cayona with the shark’s hide, and a Frenchman on the beach at Tortuga whose hands had gone hard and black as turtle shell, who broke a man’s neck for a bet. There was a woman in Petit-Goâve who could hear a whisper through a wall, and sold what she heard. Every one I had met had used what was done to them to kill or to get rich, and most of them both.
+
+So I watched their hands, the way I would on Tortuga.
+
+The old man had a bowl of beans in his. The woman with the claw had her water jar. The girl had nothing in hers but the doorpost.
 
 Crumble walked past them all as though they were anybody.
 
@@ -316,15 +322,15 @@ On the second day Bonesy was with me.
 
 Bonesy listened.
 
-“He wants to know why the Englishman walks about with his hand on his sword.”
+“He wants to know why the Spaniard walks about with his hand on his sword.”
 
-“Tell him I’m English.”
+“Tell him I’m not Spanish.”
 
 Bonesy said it to him in English, loud and slow, and pointed at me.
 
 The old man shouted something back.
 
-“He says that’s not an answer,” Bonesy said.
+“He says then stop standing like one,” Bonesy said.
 
 His daughter brought him his food twice a day and put it into his hands. He argued with her too. He argued with the grandchildren and the dogs and the man next door. In the evenings he told stories, long ones, and the children sat on the roots to hear them and he slapped their hands when they picked at the bark.
 
@@ -358,29 +364,35 @@ When I looked back the father had his hand on the back of the boy’s neck and w
 
 I was watching his hands by then, and not his teeth.
 
-There was a pen of stakes behind one of the houses near the tree. I had taken it for a place to keep a pig.
+There was a house near the tree that nobody went into except Amara and one woman.
 
-On the third day I saw what was in it.
+I saw inside it on the third day. A man lay in a hammock with his eyes shut and his hands folded on his chest. He was thinner than the fever had made my father, so thin the bones of his face stood out under the skin. Every so often his eyes moved quick under the lids, side to side, the way a dog’s do when it dreams of running.
 
-It was a man, or it had been. He crouched in the corner of the pen on his hands and feet. His back and shoulders were covered in short yellow hair marked with black rings, the same as a jaguar’s hide, and the hair went down his arms to the wrist. His hands were still hands. But the nails had grown thick and hooked and black, and the fingers had drawn in toward the palm so that he could not open them.
+The woman sat beside him. She had a wooden bowl in her lap with raw meat in it, cut in pieces.
 
-His face was still a man’s face. That was the worst of it.
+“He’s been asleep two months,” Amara said behind me.
 
-A woman came round the house with a bowl of fish. She opened the gate and set the bowl down in front of him. Then she sat down in the dirt an arm’s length away and talked to him while he ate.
+I had not heard her come up.
 
-He ate out of the bowl with his face. He did not look at her once.
+“Asleep.”
 
-Amara had come up behind me. I had not heard her.
+“His way is out walking.”
 
-“That’s his wife,” she said.
+“His what?”
 
-“What happened to him?”
+“His way.” She said it as if it were a plain word. “Everyone has one. An animal that carries half of your soul. Most people never meet theirs. It stays in the forest and you stay in your house, and you live your lives apart.”
 
-“It came on him two years ago. The hair first. Then he stopped talking. Then he stopped knowing her.” She watched the woman in the pen. “She feeds him every day. She tells him what the children did.”
+“And his?”
 
-“Does he hear her?”
+“His came out of the forest. It’s a jaguar. While it walks, he sleeps.” She looked at the man in the hammock. “It hasn’t stopped walking.”
 
-“I don’t know.”
+“What’s the meat for?”
+
+“She takes it to the edge of the trees every evening. In the morning it’s gone.”
+
+“Can’t you wake him?”
+
+“We’ve tried.”
 
 “Is there nothing anybody can give him?”
 
@@ -394,6 +406,10 @@ I put my hand inside my coat. The coins were there in the purse where I had put 
 
 Then I took my hand out again.
 
+That night I went down to the water and looked across at the far shore. There was something at the edge of the trees. I could not see what it was. I saw its eyes take the light from our fire, two green sparks low to the ground.
+
+They stayed there a long time. Then they were gone.
+
 Bonesy had a better time of it than any of us.
 
 He had not been on the island half a day before the children owned him. They sat on his shoulders and climbed his ribs like rigging. They put flowers through the holes in his skull. They took his hat in turns and argued over the crease in it, and in the end the girl with the bark skin pressed it out over her knee while he sat beside her and waited.
@@ -404,7 +420,9 @@ At night he sat by the fire with whoever was there. They talked to him in Maya a
 
 Crumble I hardly saw.
 
-He was with Ah Pech most of the day, or with the old women, or down at the canoes with the men. When I did see him he was talking Maya, and he talked it differently from how he talks English. His shoulders were down. He used his hands.
+He was with Ah Pech most of the day, or with the old women, or down at the canoes with the men. When I did see him he was talking Maya. He talked it well, better than I had known. But once I saw an old woman stop him and say a word back to him, the way you correct a child, and he said it again her way and did not smile.
+
+He was not easy here either. I could see that much. He ate with his back to a post, the same as I did. Twice I woke in the night and his hammock was empty, and both times I found him down by the canoes, looking across the lake toward the river.
 
 On the third evening I saw him at the water with Amara.
 
