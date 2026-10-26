@@ -430,3 +430,26 @@ Crumble is shown as not wholly at home.
   by the canoes looking toward the river.
 - **Jigsaw looks Spanish.** Now stated through the villagers. Check against
   his father's people in the bible if that matters to his looks.
+
+## Outside suggestions on 5.2, taken in, 2026-10-26
+
+Taken: the grey man taps Bonesy's ribs ("Hollow." "All of them."); the
+children mob Bonesy; the Tortuga examples cut to the shark skinned killer and
+the turtle shelled Frenchman who goes over the rail first; the old man's
+"that's what a Spaniard would say" and the spit; a man at the fire whose
+shadow is a jaguar, which introduces the way before the sleeping man; Crumble
+hunting for words, watched by the young, and "Old business"; Amara's "Either
+carry something or move"; no money on the island, and Jigsaw's coin on a cord
+round a child's neck.
+
+Not taken: "Tell him I'm English" (Jigsaw is not English in the bible); losing
+the sleeping man (the outline wants one tragic case, so both way scenes stay).
+
+New, open to veto:
+- **Amara and the sign.** She sits with the leaf at night with her hand over
+  her mouth and tells Crumble "When I'm sure." This hints she recognizes
+  something. 5.4 has to pay it off.
+- **"Old business."** A village woman speaks sharply to Crumble. This implies
+  something happened when he left with Balam. Decide what, or cut it.
+- **What the transformations are.** Curse, inheritance, bargain or place. The
+  villagers need not know. Aydin should.
