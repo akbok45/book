@@ -453,3 +453,30 @@ New, open to veto:
   something happened when he left with Balam. Decide what, or cut it.
 - **What the transformations are.** Curse, inheritance, bargain or place. The
   villagers need not know. Aydin should.
+
+## Raised by the 5.3 draft, 2026-10-26
+
+- **Amara's role.** Per Aydin she is not a leader, so nobody gives orders. She
+  knows the bend; Jigsaw knows boats; people pick up spears. She stays back
+  with a bow and linen and binds the wounded spearman.
+- **Ah Pech** argues to hide and let the patrol pass, in keeping with his
+  belief that cooperation keeps the village alive. He fights anyway. At the
+  end he wipes his club and does not look up while the boy says Cárdenas will
+  know the river. A seed, nothing more.
+- **The merchant ship memory.** Invented details: nine of the crew, the big
+  grey mate with an earring saying "We yield," three killed after the
+  surrender. Crumble's look and Bonesy on the rail follow the bible.
+- **The papers.** Cárdenas's order names Balam's daughter and "the testimony
+  of the Indian called Domingo, taken at Petit-Goâve," so Crumble learns
+  Domingo was taken and talked. The Treaty news comes in a cousin's letter
+  from Campeche. The Treaty of Madrid was signed in July 1670; if the book is
+  set earlier than that, the letter should speak of terms being agreed.
+- **The prisoners.** Four wounded Spaniards and the kneeling boy are taken
+  back to the island bound. "Nobody said yet what would be done with them."
+  Aydin decides their fate.
+- **Invented, open to veto:** two boys bring the word; "the dead tree" past
+  which nobody comes; the grey stone at the bend; a ship's launch with six
+  oars a side and fourteen men; Bonesy holding the steering oar from the river
+  bottom; nine Spanish dead; the wounded spearman shot through the thigh; the
+  officer's feathered hat; the fisherman at the river mouth stopped three days
+  earlier; the launch sunk with stones.

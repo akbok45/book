@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake, Amara's village
 when: The evening they arrive, and the days after
 status: draft
-words: 4906
+words: 4786
 ---
 
-<!-- BEAT: The spear comes away. The man holding it is grey skinned with gill slits and a shark's teeth, and Jigsaw once saw skin like that on a killer for hire in Cayona. He draws both swords and the spears swing to him. Crumble keeps his hands up and waits. Amara comes along the shore in a canoe, calls the men off, and knows Jigsaw by name. He sees she is pretty. She touches Balam's blade on Crumble's hip. Crumble tells her about the jar and the sign, and that Cárdenas may be behind them, then asks to talk to her alone. In the canoe the grey man taps Bonesy's ribs; nobody fears Bonesy, and Jigsaw is the outsider. The children mob Bonesy. The walk to her house: shell path, gardens, log beehives, fish racks, women grinding maize, then the root grandfather, the claw woman, the bark girl. The changed men Jigsaw knew on Tortuga made their living frightening people; these carry water. People know Crumble, and Jigsaw never knew he had been here. Crumble and Amara talk alone; Bonesy will not say what they say. That night Ah Pech, who fought beside Balam, looks at the sign longer than anyone, and Amara is called to the sick. Three days: nobody gives orders and nobody pays; Jigsaw's coin ends up on a cord round a child's neck. Everybody goes to Amara; she makes Jigsaw carry a basket; at night she sits with the leaf and her hand over her mouth, and tells Crumble 'When I'm sure.' The coral man's wife cutting, and Jigsaw binding. The old man takes Jigsaw for a Spaniard and spits. The fisherman and his son. A man at the fire whose shadow is a jaguar: his way. A man asleep two months because his way is out walking, the meat at the tree line, the coins in Jigsaw's coat, eyes on the far shore. Crumble hunting for Maya words, watched by the young, 'Old business,' and at night looking toward the river. Crumble laughing with Amara at the water. Last evening the old man makes Jigsaw sit for a story he cannot understand, and a boy falls asleep against him. By the time he reaches his house his hand is back on his hilt. -->
+<!-- BEAT: The spear comes away. The man holding it is grey skinned with gill slits and a shark's teeth, and Jigsaw once saw skin like that on a killer for hire in Cayona. He draws both swords and the spears swing to him. Crumble keeps his hands up and waits. Amara comes along the shore in a canoe, calls the men off, and knows Jigsaw by name. He sees she is pretty. She touches Balam's blade on Crumble's hip. Crumble tells her about the jar and the sign, and that Cárdenas may be behind them, then asks to talk to her alone. In the canoe the grey man taps Bonesy's ribs; nobody fears Bonesy, and Jigsaw is the outsider. The children mob Bonesy. The walk to her house: shell path, gardens, log beehives, fish racks, women grinding maize, then the root grandfather, the claw woman, the bark girl. The changed men Jigsaw knew on Tortuga made their living frightening people; these carry water. People know Crumble, and Jigsaw never knew he had been here. Crumble and Amara talk alone; Bonesy will not say what they say. That night Ah Pech, who fought beside Balam, looks at the sign longer than anyone, and Amara is called to the sick. Three days: nobody gives orders and nobody pays; Jigsaw's coin ends up on a cord round a child's neck. Everybody goes to Amara; she makes Jigsaw carry a basket; at night she sits with the leaf and her hand over her mouth, and tells Crumble 'When I'm sure.' The coral man's wife cutting, and Jigsaw binding. The old man takes Jigsaw for a Spaniard and spits. The fisherman teaching his son. A man at the fire whose shadow is a jaguar: his way. A man asleep two months because his way is out walking, the meat at the tree line, the coins in Jigsaw's coat, eyes on the far shore. Crumble hunting for Maya words, watched by the young, 'Old business,' and at night looking toward the river. Crumble laughing with Amara at the water. Last evening the old man makes Jigsaw sit for a story he cannot understand, and a boy falls asleep against him. By the time he reaches his house his hand is back on his hilt. -->
 
 Nobody moved for a long time.
 
@@ -395,26 +395,6 @@ The boy cut too deep and spoiled the fish. His father took the knife out of his 
 The boy did it again. It was better.
 
 The father talked the whole time, low and steady, and the boy kept his head down and did not answer.
-
-Amara came down the bank behind me with a basket on her hip. She stopped and listened.
-
-“There’s a girl on the other side of the island,” she said. “The boy wants to marry her.”
-
-“And?”
-
-“His father thinks she’s too clever for him.”
-
-“Is she?”
-
-“Yes.”
-
-She said it without smiling. Then the corner of her mouth went, and she went on along the shore with her basket.
-
-I watched her go farther than I needed to.
-
-When I looked back the father had his hand on the back of the boy’s neck and was shaking him gently, the way you shake a dog you are fond of.
-
-I was watching his hands by then, and not his teeth.
 
 That evening at the fire a man sat a little apart from the others. He was broad through the shoulders, with a scar from his ear to the corner of his mouth. I had seen him at the canoes during the day. There was nothing wrong with him that I could see.
 
