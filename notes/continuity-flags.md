@@ -480,3 +480,30 @@ New, open to veto:
   bottom; nine Spanish dead; the wounded spearman shot through the thigh; the
   officer's feathered hat; the fisherman at the river mouth stopped three days
   earlier; the launch sunk with stones.
+
+## 5.3 split into three scenes, 2026-10-27
+
+Per Aydin: 5.3 is now three scenes, the planning (5.3 The Patrol), the attack
+(5.4 The Bend) and the aftermath (5.5 The Clean Sword). The Singing Shrine is
+now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
+
+- **Jigsaw does not stop.** He kills every Spaniard after the surrender, in
+  front of the villagers. The bible is updated. Knock on effects to decide:
+  the outline's "Jigsaw has shown he can stop, but only just" is gone; Amara
+  joining in 5.7 now follows this; the chapter 8 cell scenes and the climax
+  (Jigsaw no longer needing to be the best man in the room) build on a man who
+  has not yet once stopped. Does he stop later, and where?
+- **His line** to the kneeling boy: "God doesn't come this far up the river."
+- **The papers are unread.** Jigsaw takes the oilskin packet and cannot untie
+  it. Cárdenas's order (Balam's daughter, Domingo's testimony) and the Treaty
+  news wait for a later scene. Decide where they are read. The fishing canoe
+  chain also moves there, since nobody survives to tell it.
+- **The prisoners question is gone.** Nobody survives.
+- **Invented, open to veto:** the merchantman taken off Cartagena; the
+  scouting in the reeds; damp muskets firing at a caiman; the swivel's match
+  kept in a clay pot; the afternoon rain as the plan; the fisherman's "run
+  downriver" fallback; Amara moving the children and the old to the high
+  ground while the root man's daughter stays with him; one musket fires all
+  day and wounds a spearman; Jigsaw drowns one man and kills the officer
+  slowly; a young spearman sick in the river; the boy's mother pulling him
+  away; the old man not shouting; Crumble at the fire, not coming down.
