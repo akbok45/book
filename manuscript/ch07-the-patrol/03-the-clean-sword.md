@@ -1,10 +1,10 @@
 ---
-scene: 05-the-clean-sword
+scene: 03-the-clean-sword
 title: The Clean Sword
 pov: Jigsaw, first person, past
 place: The bend in the river, then the island
 when: The fourth afternoon and night
-status: draft
+status: draft, to revise (village arc, 2026-10-28)
 words: 1006
 ---
 

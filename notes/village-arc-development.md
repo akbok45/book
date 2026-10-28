@@ -567,3 +567,22 @@ Knock on questions:
   The first or second keeps him out of frame without a cheat.
 - **The outline doc is updated** for 6.3 (the bell), 7.1 (no jade), 7.2 (two
   villages, Balam taught him magic, the raid) and 7.4 (the quick reveal).
+
+## Rulings, 2026-10-28 (third round)
+
+1. **Three chapters.** Done in the outline doc. The old 6, 7, 8 and 9 are now
+   8, 9, 10 and 11, and every scene is renumbered. The drafted patrol scenes
+   moved to `manuscript/ch07-the-patrol/` as 01-roots, 02-the-bend and
+   03-the-clean-sword. 01 and 03 are marked to revise.
+2. **Cárdenas let Balam live, with Amara as a toddler.** Everyone else in the
+   village was killed. This answers "before her time": she was too small to
+   remember. Why he spared them is open. Contempt, a message, or the last of
+   his regard for his teacher. He should not explain it in chapter 9 unless
+   asked.
+3. **Ah Pech ran.** A coward. That is why the brothers cannot see him in the
+   vision, and his shame and terror are why he never named the student. It
+   sharpens chapter 8.3: the man who ran from the student fights for him.
+
+Still open: whether Amara's mother died in the raid; whether Bonesy the
+farmer carried jars to the priests' cellars; Balam's book; "restore" as
+Cárdenas's word; and the ceremony details for drafting.

@@ -1,10 +1,10 @@
 ---
-scene: 03-the-patrol
+scene: 01-roots
 title: The Patrol
 pov: Jigsaw, first person, past
 place: The island, then the river below the lake
 when: The fourth morning
-status: draft
+status: draft, to revise (village arc, 2026-10-28)
 words: 2199
 ---
 
