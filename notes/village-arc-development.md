@@ -595,3 +595,12 @@ Cárdenas's word; and the ceremony details for drafting.
    ceremony, the sealed jars by his field's path can show it without a word.
 
 Still open: Balam's book.
+
+## Ruling, 2026-10-28 (fifth round)
+
+**No Balam's book.** Comparison B is overruled. Amara reads the leaf from what
+her father taught her: the footprints, the counts, and the face with curls as
+a place that speaks, without knowing which. The ceremony is the village's old
+way of going to ask. In the outline doc 5.4 is now "The Sign". Crumble's first
+crack comes from the jaguar-shadow man saying Balam walked with his way, which
+Jigsaw hears and passes on.

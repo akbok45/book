@@ -287,6 +287,7 @@ Rodrigo, the schoolmate who married Jigsaw's girl, serves under Cárdenas. This 
 - Amara's mother was killed in the raid on Balam's village.
 - Cárdenas's word for what the codex does: it restores the world to its correct order. That is how he sells it.
 - Bonesy was a farmer who carried jars of honey and balché down to the priests' cellars, which is how he overheard them. The farmer and "mostly barrels" are the same man.
+- No book of Balam's. Amara reads the leaf from what her father taught her and what the village keeps.
 
 **The elder, suggested name Ah Pech.** A respected elder of Amara's community who knew Balam and fought beside him when young, so he knows Balam's fighting methods. Years ago, afraid the Spanish would destroy the community, he made a secret arrangement with Cárdenas: information for being left alone. He believes cooperation is the only realistic way to keep his people alive. Fear and compromise, not cruelty. He guides the crew to Cozumel, sends word to Cárdenas, and defeats and captures Crumble at the shrine. Whether he turns in Florida is open.
 
