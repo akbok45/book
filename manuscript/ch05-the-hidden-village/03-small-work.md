@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake
 when: The days after the old man's story
 status: draft
-words: 3136
+words: 3315
 ---
 
 <!-- BEAT: Dawn. Crumble at the water names the day under his breath, then works Balam's forms with the blade. Ah Pech comes down, watches, and moves Crumble's left foot with his own without a word. Crumble does it again, better. The grey fisherman's canoe has a split. Jigsaw goes to help unasked and caulks it the ship's way, which is wrong for a dugout. The fisherman shows him, in the few words of Spanish he got trading salt at the coast. They find they have the same dry mouth. The coral man's wife feeds Jigsaw at her fire with Bonesy putting the children's questions into English. Jigsaw cannot take a meal without paying for it, so the next morning he climbs onto their roof to mend the thatch and takes his sword belt off to do it. From the roof he watches Bonesy among the old people, who treat him as nobody special. Evening: Amara with the leaf under a lamp asks Jigsaw, as a man who has sailed that coast, where a stone talks. -->
@@ -206,7 +206,15 @@ Bonesy told her. The girl thought about it and asked something else.
 
 “Lice.”
 
-He told her. She looked at my head with great interest. Then she looked at Bonesy’s skull and asked him something. He answered her in English, and she was satisfied with it anyway.
+He told her. She looked at my head with great interest. Then she said something else, and touched her own hair where it hung down her back.
+
+“She says Spaniards have long hair,” Bonesy said. “Down to here.” He laid his finger bones along his collarbone. “She says you’re a bad one.”
+
+“Tell her that’s the idea.”
+
+It was not lice. At the academy every boy wore his hair long to the shoulder, the way gentlemen wore it, and Rodrigo’s was the best in the school. The night I left I took my father’s razor to mine. I have kept it off since.
+
+The girl looked at Bonesy’s skull and asked him something. He answered her in English, and she was satisfied with it anyway.
 
 “What did she ask you?”
 
@@ -216,7 +224,7 @@ He told her. She looked at my head with great interest. Then she looked at Bones
 
 “Nothing for them to hold on to.”
 
-The boy wanted the scar on my face. I told him a bear did it. Bonesy told him. The boy wanted to know what a bear was. I told him it was like a jaguar the size of a canoe, that walked on two legs and was covered in hair. Bonesy told him that.
+The boy wanted the scar on my face. I told him a woman did it, in Cartagena, with a hairpin. Bonesy told him. The boy wanted to know why. I told him I had forgotten her name. Bonesy told him that.
 
 The boy looked at me a long time. Then he said something to his father, and the coral man laughed so hard he had to hold his shoulder.
 
@@ -306,19 +314,23 @@ I should have kept walking. I did not.
 
 “Come here.”
 
-I went in and crouched down on the other side of the leaf. She turned it so that the red edge faced away from me, the way I had turned it in the cave. She had been watching that day after all.
+I went in and crouched down on the other side of the leaf.
 
-She put the end of the charcoal beside the face with the curls coming out of its mouth. Up close, by the lamp, I could see the paint was cracked in a fine net like old varnish.
+It was the same leaf we had brought out of the cave, the length of my forearm, painted on bark gone the colour of old bone. She had it turned the way I had turned it that day, with the red edge away from us. Down the middle ran the long blue band of the coast, with its bays and points. Toward one end sat the yellow half moon, the island with the pool, where we had found it. From the half moon a line of tiny black footprints went north along the blue, a step at a time. They stopped beside the long island lying off the shore.
+
+Where they stopped there was the sign. A face, side on, with its mouth open and curls coming out of it.
+
+She put the end of the charcoal beside the face. Up close, by the lamp, I could see the paint was cracked in a fine net like old varnish.
 
 “It’s a place that speaks,” she said. “That much I know. My father taught me the face.”
 
 “Speaks how?”
 
-“That’s what I don’t know.” She moved the charcoal along the coast toward the long island. “A stone that speaks. A spring. A cave where the sea comes in and goes out and makes a noise. Every one of them is a place that speaks. There are a hundred on that coast.”
+“That’s what I don’t know.” She ran the charcoal back down the footprints to the half moon, and up them again to the face. “A stone that speaks. A spring. A cave where the sea comes in and goes out and makes a noise. Every one of them is a place that speaks. There are a hundred on that coast.”
 
 “And you don’t know which.”
 
-“I know it’s near the island. I know it’s at the end of the road.” She sat back. “That’s all the leaf says to anybody who just looks at it.”
+“I know it’s by the long island. I know it’s where the road ends.” She sat back. “That’s all the leaf says to anybody who just looks at it.”
 
 She looked up at me. The lamp was on the side of her face. She was tired, and there was charcoal on her fingers and a smear of it at the corner of her mouth where she had touched it without knowing, and she was the prettiest woman I had seen in a year.
 
