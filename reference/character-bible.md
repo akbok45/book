@@ -283,6 +283,11 @@ Rodrigo, the schoolmate who married Jigsaw's girl, serves under Cárdenas. This 
 - The village arc is three chapters: 5 The Hidden Village, 6 The Road Under the Lilies, 7 The Patrol. The old chapters 6 to 9 are now 8 to 11.
 - In the raid on Balam's village Cárdenas let Balam live, with Amara as a toddler. Everyone else was killed except Ah Pech, who ran. He is a coward, and he is not in the vision because he had already fled.
 
+**Village arc rulings (Aydin, 2026-10-28, fourth round).**
+- Amara's mother was killed in the raid on Balam's village.
+- Cárdenas's word for what the codex does: it restores the world to its correct order. That is how he sells it.
+- Bonesy was a farmer who carried jars of honey and balché down to the priests' cellars, which is how he overheard them. The farmer and "mostly barrels" are the same man.
+
 **The elder, suggested name Ah Pech.** A respected elder of Amara's community who knew Balam and fought beside him when young, so he knows Balam's fighting methods. Years ago, afraid the Spanish would destroy the community, he made a secret arrangement with Cárdenas: information for being left alone. He believes cooperation is the only realistic way to keep his people alive. Fear and compromise, not cruelty. He guides the crew to Cozumel, sends word to Cárdenas, and defeats and captures Crumble at the shrine. Whether he turns in Florida is open.
 
 **People changed by magic.** The book still needs an in-world word for them. "Cursed," "strange" and "different" give the wrong tone. Their changes are old, physical and sometimes frightening, never cute powers: an old man whose legs have become mangrove roots, a fisherman like a shark, a woman with a crab's claw for an arm, a man who grows coral that has to be cut off him, a girl turning to bark. Some suffer, and at least one case is tragic. Jigsaw sees monsters first and families after. Bonesy fits in among them.

@@ -586,3 +586,12 @@ Knock on questions:
 Still open: whether Amara's mother died in the raid; whether Bonesy the
 farmer carried jars to the priests' cellars; Balam's book; "restore" as
 Cárdenas's word; and the ceremony details for drafting.
+
+## Rulings, 2026-10-28 (fourth round)
+
+1. Amara's mother was killed in the raid.
+2. Cárdenas says the codex restores the world "to its correct order."
+3. Bonesy the farmer carried jars down to the priests' cellars. In the
+   ceremony, the sealed jars by his field's path can show it without a word.
+
+Still open: Balam's book.
