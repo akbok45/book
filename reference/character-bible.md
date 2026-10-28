@@ -259,6 +259,18 @@ Rodrigo, the schoolmate who married Jigsaw's girl, serves under Cárdenas. This 
 - Jigsaw feels an outsider at first and is brought into the village, which gives him more reason to stop the codex. The villagers do not treat him differently for his father's people.
 - Both men's attraction to Amara builds. Jigsaw's narration calls her pretty.
 
+**Village arc decisions (Aydin, 2026-10-28).** From the village arc brief; the full development pass is in `notes/village-arc-development.md`.
+- Magic and curses are not inherently bad. The village is a refuge of ordinary lives; its people are not waiting to be cured. Transformations have different causes. The village is not magically hidden; it is safe through remoteness and acceptance.
+- The completed codex would end magic everywhere and kill whoever depends on it. Balam knew. Cárdenas learned it from Balam. Amara, Crumble, Jigsaw, Bonesy and the villagers do not know.
+- Cárdenas was Balam's earlier student. Balam taught him to use magic and came to regret it bitterly. Cárdenas manipulated him. Cárdenas later came back to Balam's former village with Spanish soldiers, used a small black bell that suppresses magic for a time, and the soldiers massacred the village. The bell is not the codex.
+- After that Balam taught Crumble culture, glyphs, stories, dangerous places, the old roads, respect for what he did not understand, fighting, discipline and survival, and never magic.
+- Amara deciphers the leaf herself, slowly, from what she actually knows.
+- A ceremony shows the three, travelling together, Balam teaching an unnamed student, the massacre, and Jigsaw's apothecary. Bonesy appears in it as the living farmer he was and guides them.
+- The old man with mangrove roots senses movement through the waterways through his roots. He senses the Spanish patrol.
+- The patrol comes after the ceremony. After the bend, Crumble confronts Jigsaw and does not abandon him.
+- At the capture Cárdenas rings the black bell and Bonesy's bones fall apart, for a time. Crumble recognizes it from the vision. Cárdenas's identity as the student is revealed with the bell. His full philosophy and the codex's function come separately.
+- Jigsaw and Cárdenas are foils, never stated: both take what they think is theirs to take.
+
 **The elder, suggested name Ah Pech.** A respected elder of Amara's community who knew Balam and fought beside him when young, so he knows Balam's fighting methods. Years ago, afraid the Spanish would destroy the community, he made a secret arrangement with Cárdenas: information for being left alone. He believes cooperation is the only realistic way to keep his people alive. Fear and compromise, not cruelty. He guides the crew to Cozumel, sends word to Cárdenas, and defeats and captures Crumble at the shrine. Whether he turns in Florida is open.
 
 **People changed by magic.** The book still needs an in-world word for them. "Cursed," "strange" and "different" give the wrong tone. Their changes are old, physical and sometimes frightening, never cute powers: an old man whose legs have become mangrove roots, a fisherman like a shark, a woman with a crab's claw for an arm, a man who grows coral that has to be cut off him, a girl turning to bark. Some suffer, and at least one case is tragic. Jigsaw sees monsters first and families after. Bonesy fits in among them.

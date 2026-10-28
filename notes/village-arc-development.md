@@ -392,9 +392,8 @@ This follows the brief's lists, kept.
    She needs Jigsaw's sea sense to finish the clue.
 4. **The student could be guessed too early.** The clean hands, the good Maya
    and the burning by soldiers all point at a Spaniard. Some readers will
-   guess. That is acceptable as dramatic irony if the crew cannot guess. Nobody
-   in the book has met Cárdenas face to face yet, so nobody has a face to
-   match. The hidden face and the plain cloak keep the reader from certainty.
+   guess. That is acceptable as dramatic irony if the crew cannot guess. If no one in the book has yet seen Cárdenas's face (check chapters 2 and 3),
+   nobody has a face to match. The hidden face and the plain cloak keep the reader from certainty.
 5. **The patrol's timing.**
    - The root man's sensing gives the warning in the night.
    - The launch must still be far enough away for the scouting and the plan,
