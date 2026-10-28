@@ -524,7 +524,7 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
   trading salt at the coast; dugout caulking with chewed bark and red gum;
   oakum and pitch in Jigsaw's pack; "Fish don't complain"; "My face is a
   liar." "Mine also."; the coral man's family supper (black beans, maize cakes,
-  fish in leaves); Jigsaw's bear story; Bonesy and lice; the roof mended and
+  fish in leaves); Bonesy and lice; the roof mended and
   the sword belt on the peg; the old people complaining about their joints
   outside the root man's house; the claw woman cracking nuts; Amara speaks
   English to Jigsaw and calls him Spaniard.
@@ -533,7 +533,7 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
 - **Revised on Aydin's notes, 2026-10-28.** The girl says Spaniards wear their
   hair long; Jigsaw shaved his the night he left the academy, where every boy
   wore it to the shoulder (*invented*: his father's razor). Rodrigo's name
-  cut on Aydin's note. The bear is gone: a woman in Cartagena with a hairpin. The leaf is
+  cut on Aydin's note. The bear is gone, and then the whole scar exchange was cut on Aydin's note. The leaf is
   described again at Amara's lamp so the reader can see the coast, the half
   moon, the footprints and the sign.
 - **Second revision, 2026-10-28, from an outside review Aydin passed on.**
