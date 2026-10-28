@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake
 when: The days after the old man's story
 status: draft
-words: 3315
+words: 3307
 ---
 
 <!-- BEAT: Dawn. Crumble at the water names the day under his breath, then works Balam's forms with the blade. Ah Pech comes down, watches, and moves Crumble's left foot with his own without a word. Crumble does it again, better. The grey fisherman's canoe has a split. Jigsaw goes to help unasked and caulks it the ship's way, which is wrong for a dugout. The fisherman shows him, in the few words of Spanish he got trading salt at the coast. They find they have the same dry mouth. The coral man's wife feeds Jigsaw at her fire with Bonesy putting the children's questions into English. Jigsaw cannot take a meal without paying for it, so the next morning he climbs onto their roof to mend the thatch and takes his sword belt off to do it. From the roof he watches Bonesy among the old people, who treat him as nobody special. Evening: Amara with the leaf under a lamp asks Jigsaw, as a man who has sailed that coast, where a stone talks. -->
@@ -212,7 +212,7 @@ He told her. She looked at my head with great interest. Then she said something 
 
 “Tell her that’s the idea.”
 
-It was not lice. At the academy every boy wore his hair long to the shoulder, the way gentlemen wore it, and Rodrigo’s was the best in the school. The night I left I took my father’s razor to mine. I have kept it off since.
+It was not lice. At the academy every boy wore his hair long to the shoulder, the way gentlemen wore it. The night I left I took my father’s razor to mine. I have kept it off since.
 
 The girl looked at Bonesy’s skull and asked him something. He answered her in English, and she was satisfied with it anyway.
 

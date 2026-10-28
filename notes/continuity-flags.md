@@ -532,7 +532,7 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
   childhood.
 - **Revised on Aydin's notes, 2026-10-28.** The girl says Spaniards wear their
   hair long; Jigsaw shaved his the night he left the academy, where every boy
-  wore it to the shoulder and Rodrigo's was the best (*invented*: his father's
-  razor). The bear is gone: a woman in Cartagena with a hairpin. The leaf is
+  wore it to the shoulder (*invented*: his father's razor). Rodrigo's name
+  cut on Aydin's note. The bear is gone: a woman in Cartagena with a hairpin. The leaf is
   described again at Amara's lamp so the reader can see the coast, the half
   moon, the footprints and the sign.
