@@ -271,6 +271,14 @@ Rodrigo, the schoolmate who married Jigsaw's girl, serves under Cárdenas. This 
 - At the capture Cárdenas rings the black bell and Bonesy's bones fall apart, for a time. Crumble recognizes it from the vision. Cárdenas's identity as the student is revealed with the bell. His full philosophy and the codex's function come separately.
 - Jigsaw and Cárdenas are foils, never stated: both take what they think is theirs to take.
 
+**Village arc rulings (Aydin, 2026-10-28, second round).**
+- Bonesy appears as a living man in both drug scenes: the village ceremony and the vision in Cárdenas's hold.
+- Balam in the ceremony is the past replaying; he never sees or speaks to the three. His conversation with Crumble in the hold vision stays his one real appearance.
+- The hold vision's "short look at Balam and young Cárdenas" becomes a quick reveal: the student's face from the ceremony, seen at last.
+- The black bell replaces the jade that locked Bonesy at the capture. The jade is gone from the collection.
+- The settlement Cárdenas saved to win Balam's trust is a different village. Balam's own village is the one Cárdenas raided, and everyone there was killed.
+- Ah Pech survived Balam's village and saw the bell work. His deal with Cárdenas comes from terror, and it is why he never told anyone who the student was. Crumble and Jigsaw cannot see him in the ceremony vision.
+
 **The elder, suggested name Ah Pech.** A respected elder of Amara's community who knew Balam and fought beside him when young, so he knows Balam's fighting methods. Years ago, afraid the Spanish would destroy the community, he made a secret arrangement with Cárdenas: information for being left alone. He believes cooperation is the only realistic way to keep his people alive. Fear and compromise, not cruelty. He guides the crew to Cozumel, sends word to Cárdenas, and defeats and captures Crumble at the shrine. Whether he turns in Florida is open.
 
 **People changed by magic.** The book still needs an in-world word for them. "Cursed," "strange" and "different" give the wrong tone. Their changes are old, physical and sometimes frightening, never cute powers: an old man whose legs have become mangrove roots, a fisherman like a shark, a woman with a crab's claw for an arm, a man who grows coral that has to be cut off him, a girl turning to bark. Some suffer, and at least one case is tragic. Jigsaw sees monsters first and families after. Bonesy fits in among them.

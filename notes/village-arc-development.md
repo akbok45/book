@@ -534,3 +534,36 @@ too many the next morning: "Did you see his face?"
 10. The bell rings at the capture (6.3, renumbered 8.3) or in the cabin.
 11. Crumble speaks after the bend.
 12. "Restore" stays as Cárdenas's word for it.
+
+---
+
+## Rulings, 2026-10-28 (second round)
+
+1. **Human Bonesy appears twice:** in the ceremony and in the hold vision.
+   Item 2 of section 1 is overruled. 7.3 keeps "Hello, fellas."
+2. **Balam in the ceremony counts as the past replaying.** His hold vision
+   conversation is his one appearance. Yes.
+3. **7.4's look at Balam and young Cárdenas** becomes a quick reveal of the
+   student's face. "Cutting him off" is removed.
+4. **The black bell replaces the jade** at the capture. The jade is removed
+   from the 7.1 shelves.
+5. **Two villages.** The settlement Cárdenas saved to win Balam's trust is a
+   different village. Balam's own village is the one he raided, and everyone
+   there was killed. Item 6 of section 1 is overruled.
+6. **Ah Pech survived Balam's village** and saw the bell work. Terror, not
+   greed, drives his deal, and terror is why he never named the student.
+   Crumble and Jigsaw cannot see him in the vision.
+
+Knock on questions:
+- **Who survived "everyone was killed"?** Balam and Ah Pech, at least. Was
+  Amara there? If everyone died, she was born after, or elsewhere, which fits
+  "before her time." Her mother is still open.
+- **Why can't they see Ah Pech in the vision?** Options:
+  - he was away from the village that day and came back to the burning;
+  - he hid and the road does not show him, because Balam, whose dead they
+    walk among, never saw him;
+  - he is there and young, and they do not know him.
+
+  The first or second keeps him out of frame without a cheat.
+- **The outline doc is updated** for 6.3 (the bell), 7.1 (no jade), 7.2 (two
+  villages, Balam taught him magic, the raid) and 7.4 (the quick reveal).
