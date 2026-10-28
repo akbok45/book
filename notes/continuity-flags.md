@@ -507,3 +507,26 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
   day and wounds a spearman; Jigsaw drowns one man and kills the officer
   slowly; a young spearman sick in the river; the boy's mother pulling him
   away; the old man not shouting; Crumble at the fire, not coming down.
+
+## Raised by the 5.3 draft, Small Work, 2026-10-28
+
+- **Overlap with 5.2.** The drafted 5.2 already runs three days and holds the
+  coral cutting, the coin on the cord, the old man's "Spaniard", the jaguar
+  shadow and the sleeping man, Crumble's Maya, and the old man's story. 5.3
+  now carries the days after. 5.2 should be trimmed so the island's days are
+  split across the two, and its ending may move (the brief wanted the first
+  village chapter to end on Amara and the leaf; 5.3 now ends there).
+- **Crumble's two words** at dawn are the day's name. Balam made him stand in
+  the lake till he could say it without counting. Matches the living day
+  count already in the outline.
+- **Ah Pech corrects Crumble's left foot.** Plants 8.3, where he beats Crumble.
+- **Invented, open to veto:** the fisherman speaks a little Spanish from
+  trading salt at the coast; dugout caulking with chewed bark and red gum;
+  oakum and pitch in Jigsaw's pack; "Fish don't complain"; "My face is a
+  liar." "Mine also."; the coral man's family supper (black beans, maize cakes,
+  fish in leaves); Jigsaw's bear story; Bonesy and lice; the roof mended and
+  the sword belt on the peg; the old people complaining about their joints
+  outside the root man's house; the claw woman cracking nuts; Amara speaks
+  English to Jigsaw and calls him Spaniard.
+- **Jigsaw's mother** watching a guest eat is a small new detail of his
+  childhood.
