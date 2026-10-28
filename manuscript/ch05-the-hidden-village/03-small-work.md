@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake
 when: The days after the old man's story
 status: draft
-words: 3307
+words: 3447
 ---
 
 <!-- BEAT: Dawn. Crumble at the water names the day under his breath, then works Balam's forms with the blade. Ah Pech comes down, watches, and moves Crumble's left foot with his own without a word. Crumble does it again, better. The grey fisherman's canoe has a split. Jigsaw goes to help unasked and caulks it the ship's way, which is wrong for a dugout. The fisherman shows him, in the few words of Spanish he got trading salt at the coast. They find they have the same dry mouth. The coral man's wife feeds Jigsaw at her fire with Bonesy putting the children's questions into English. Jigsaw cannot take a meal without paying for it, so the next morning he climbs onto their roof to mend the thatch and takes his sword belt off to do it. From the roof he watches Bonesy among the old people, who treat him as nobody special. Evening: Amara with the leaf under a lamp asks Jigsaw, as a man who has sailed that coast, where a stone talks. -->
@@ -80,7 +80,9 @@ He got up. He looked out at the lake, at the place where he had stood.
 
 “I’d say it to him,” he said. “He’d say if I was right.”
 
-Then he went up the path after Ah Pech, and I sat on the canoe and watched the sun come up over the trees.
+Then he went up the path after Ah Pech.
+
+Out in the lake the water where he had stood had gone smooth again.
 
 ⸻
 
@@ -167,6 +169,12 @@ He looked pleased with himself. Then he looked at me again, at my face, the way 
 He considered that. He showed me his teeth again.
 
 “Mine also,” he said.
+
+When the gum had set he turned the canoe over and ran her down into the shallows. He stood in the water to his knees and pushed down on her gunwale with both hands, and held her there, and looked at the place inside where the crack was.
+
+It stayed dry.
+
+He climbed in and pushed off and paddled away along the shore without looking back.
 
 ⸻
 
@@ -260,9 +268,7 @@ I stood there with it in my hands. I looked round for a place to put it. There w
 
 I hung the belt on the peg.
 
-I looked at it hanging there. The two hilts. Two of the children were sitting in the dirt a few feet away, watching me.
-
-I left it and went up the wall.
+I left it there and went up the wall.
 
 The thatch was old and dry and full of beetles. I pulled the rotten palm out by the handful and threw it down. I laid the new in its place, overlapping, the way palm is laid on every roof in the islands. I tied it to the rafters with the cord the wife handed up to me without being asked. She did not say anything. She stood at the bottom of the wall and handed up cord.
 
@@ -278,7 +284,7 @@ They were complaining. I could tell that from the roof without knowing a word. T
 
 The others looked at the elbow and nodded. Then the old man with the roots said something else, louder, and held up his legs again.
 
-Nobody stared at Bonesy. Nobody was frightened of him or interested in him. He was one more old body in the shade with a grievance about its joints.
+He was one more old body in the shade with a grievance about its joints.
 
 The woman with the claw had a basket of nuts in her lap. She was cracking them one at a time with the claw, and passing the meat round. She passed one to Bonesy.
 
@@ -290,7 +296,7 @@ He picked it up and gave it to the old man with the roots, and the old man ate i
 
 I finished the roof.
 
-When I climbed down my sword belt was still on the peg. The two children had not moved. They had been sitting there all morning, looking at it, and neither of them had touched it.
+When I climbed down my sword belt was still on the peg, where I had left it. Nobody had touched it.
 
 I took it down and put it on. My hand went to the hilt by itself.
 
@@ -341,6 +347,22 @@ I thought about it. I thought of every cove and point between the half moon and 
 “Everywhere,” I said, “if you’ve been at sea long enough.”
 
 She did not laugh. She looked at me as if I had wasted her lamp oil.
+
+I thought again.
+
+“There’s a place on the mainland,” I said. “Three or four days south of the long island. The sea comes in under a cliff there and blows up through a hole in the top of it. You hear it a league off. It sounds like a cow being killed.”
+
+“Where?”
+
+I put my finger on the blue band, on the mainland shore, below the long island.
+
+She looked at where my finger was. Then she ran the charcoal along the footprints again, slowly, to the place where they stopped. They stopped beside the long island, out in the blue. They did not touch the shore.
+
+“Not there,” she said.
+
+“Then it’s on the island.”
+
+“I had that much before you came in.”
 
 Then the corner of her mouth went, and she looked back down at the leaf.
 

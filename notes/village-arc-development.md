@@ -604,3 +604,10 @@ a place that speaks, without knowing which. The ceremony is the village's old
 way of going to ask. In the outline doc 5.4 is now "The Sign". Crumble's first
 crack comes from the jaguar-shadow man saying Balam walked with his way, which
 Jigsaw hears and passes on.
+
+## Note from the 5.3 review, 2026-10-28
+
+The day name Crumble says at dawn should pay off in the ceremony as a pattern
+he recognizes, not a password. Something on the road (the order of the roads,
+or a count he hears) makes sense to him because he has said the day every
+morning for years.

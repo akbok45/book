@@ -536,3 +536,12 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
   cut on Aydin's note. The bear is gone: a woman in Cartagena with a hairpin. The leaf is
   described again at Amara's lamp so the reader can see the coast, the half
   moon, the footprints and the sign.
+- **Second revision, 2026-10-28, from an outside review Aydin passed on.**
+  - The sword belt beats are trimmed; the children watching it are cut.
+  - "Nobody stared at Bonesy" is cut.
+  - The fisherman tests the canoe in the shallows and it holds.
+  - Crumble's section ends on the water going smooth where he stood.
+  - **Invented, open to veto:** Jigsaw's blowhole under a mainland cliff, three
+    or four days south of the long island. Amara rules it out because the
+    footprints end at the island, so the speaking place is on the island.
+  - **To check:** dugout repair with chewed bark fibre and tree gum.
