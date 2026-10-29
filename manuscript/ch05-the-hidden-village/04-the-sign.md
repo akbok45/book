@@ -5,126 +5,116 @@ pov: Jigsaw, first person, past
 place: The island, the forest on the lake shore
 when: The days after Small Work
 status: draft
-words: 2081
+words: 2116
 ---
 
-<!-- BEAT: Ah Pech comes down again to watch Crumble's forms. Jigsaw cannot watch a man who knows something he does not and leave him alone; he has taken something from every fighter he ever met. He has Crumble ask the old man to fight him. Not with swords: sticks, two short for Jigsaw, one long for Ah Pech. Jigsaw comes in fast and hits nothing, again and again. The old man never once steps forward; he waits and turns. Jigsaw steals the turn and lands it on his hip. "It's mine now." Crumble: Balam made him earn it. Amara lays out all the leaf gives her: the road, seven days, the island, a place that speaks. Crumble knows only what everybody knows about the long island. The leaf will not give more to looking. There is an old way of going to ask the dead, and the village keeps it. Amara will stay to keep them. Crumble will go; nobody goes alone, so Jigsaw will, and they shake on it like boys trying to break each other's hands. "What does it cost?" "Sometimes people don't come all the way back." At dawn Crumble talks to the lake a long time after naming the day. Port Royal rum. -->
+<!-- BEAT: The grey fisherman comes with two headless spears: the village says Jigsaw is fast, so let's see. Jigsaw has taken something from every fighter he ever met and takes two sticks. The fisherman fights from the lake, going down low and sideways like a shark under a boat, and knocks Jigsaw down twice. Jigsaw backs to the shallows and waits; the fisherman must come out, has no water to go down into, and Jigsaw gets inside his reach and lays a stick across his throat under the gills. "Again. Tomorrow. In the water." Jigsaw practises the shark's drop alone. Crumble: Balam made him earn everything. Amara lays out all the leaf gives her: the road, seven days, the island, a place that speaks. Crumble knows only what everybody knows about the long island. The leaf will not give more to looking. There is an old way of going to ask the dead, and the village keeps it. Amara will stay to keep them. Crumble will go; nobody goes alone, so Jigsaw will, and they shake on it like boys trying to break each other's hands. "What does it cost?" "Sometimes people don't come all the way back." At dawn Crumble talks to the lake a long time after naming the day. Port Royal rum. -->
 
-Ah Pech came down to the shore again the next morning.
+The grey fisherman came down to the shore the next morning with two spears.
 
-Crumble was at his forms. The old man stood at the edge of the sand with his gourd of water and watched him go down the shore slowly and come back up fast. Once he walked out and touched Crumble’s elbow with two fingers, lower, and walked back. Crumble did the form again with the elbow where it had been put.
+They were not his fishing spears. They were poles the length of a man and a half, with no heads on them, and the ends bound in a fist of leather. He stopped in front of the upturned canoe where I was sitting and held one out to me.
 
-I sat on the upturned canoe and watched the old man watch him.
+“You,” he said in Spanish. “Spaniard. You fight good, they say.”
 
-I have never been able to leave a man alone who knows something I do not. That is how I learned what I know. A fencing master at the academy who had taught two princes and drank before noon. A Portuguese on Tortuga who fought with a knife in his left hand and talked the whole time. A Dutch gunner with a boarding axe. A Spaniard on a burning deck who turned his wrist in a way I had never seen, once, before I killed him. I have turned mine that way ever since. I took something from every one of them, and most of them never knew.
+“Who says?”
 
-When Ah Pech turned to go back up the path, I stood up.
+He nodded down the shore, at the place where the canoes were pulled up. The spearmen who had been with him the day we came. They were sitting on the canoes, watching.
 
-“Ask him,” I said to Crumble.
+“They say you are fast,” he said. “I say we see.”
 
-Crumble was wiping the blade. “Ask him what?”
+I looked at the pole he was holding out to me.
 
-“If he’ll fight me.”
+I have never been able to leave a man alone who fights some way I do not know. That is how I learned what I know. A fencing master at the academy who had taught two princes and drank before noon. A Portuguese on Tortuga who fought with a knife in his left hand and talked the whole time. A Dutch gunner with a boarding axe. A Spaniard on a burning deck who turned his wrist in a way I had never seen, once, before I killed him. I have turned mine that way ever since. I took something from every one of them. Most of them never knew.
 
-Crumble looked at me. Then he looked at the old man’s back, going up the path.
+I had never fought a man with a shark’s teeth.
 
-“He’s old.”
+I stood up and took off my sword belt and laid it on the canoe.
 
-“He moved your foot a hand’s width and your blade came round twice as fast. Ask him.”
+“Not with a pole,” I said. “Give me two sticks.”
 
-Crumble called after him in Maya.
+He grinned at me with every tooth. He had known I would say it. He went to the canoes and came back with two short sticks, the length of my swords, and threw them to me one after the other. I caught them.
 
-Ah Pech stopped on the path. He turned round. He looked at me for a while, and then down at the two swords on my hips, and he said something short.
-
-“He says not with those,” Crumble said.
-
-“Sticks, then.”
-
-Crumble told him. The old man stood there a moment longer. Then he went off into the trees at the edge of the shore, and I heard him cutting.
-
-He came back with three sticks, green and stripped, with the bark still on the grips. Two were short, the length of my swords. One was long, the length of his war club. He threw the two short ones down on the sand at my feet.
-
-He had watched me, then. He knew I fought with two.
-
-Bonesy had come down from the house. He sat on the canoe where I had been sitting and put his hat on his knee.
+Bonesy came down from the house with his hat in his hand. He sat on the canoe beside my belt.
 
 “Go on, then,” he said.
 
 ⸻
 
-I went in fast.
+He did not stand on the sand. He walked backward into the lake until the water was over his knees, and stood there with the pole low, and waited for me.
 
-That is how I fight. I went in the way I go over a rail, both sticks at once, one high and one low. A man has to choose which to stop, and the other one hits him.
+I knew what he was doing. I went in anyway.
 
-I hit nothing.
+The water took my legs. It was like wading through wet sand. I went at him the way I go over a rail, both sticks at once, high and low. I was a heartbeat slower than I should have been. He was not there.
 
-He was not where I had aimed. He had not stepped back. He had turned, a quarter turn on his back foot, so that both my sticks went past his body by a finger’s width. And as he turned, the end of his stick came round underneath my arms and tapped me on the ribs. Not hard. Hard enough.
+He had gone down. Not back. Down into the water to his chest, low and sideways, the way a shark turns under a boat. The end of the pole came up out of the lake and hit me in the belly.
 
-I stepped back.
+I sat down in the water.
+
+On the canoes the spearmen roared.
 
 “One,” Bonesy said.
 
-I went in again. I feinted high with the left, the way the master at the academy taught us, and came under with the right.
+I got up. Water was running out of my nose. I was laughing. I had not laughed like that in a fight in a long time.
 
-He turned. The stick tapped my ribs on the other side.
+I went in again, slower. He went down again under my sticks and came up on my left, and the pole cracked against my hip. He moved in the water as if it were his. It was his. It was where he had lived his whole life, and I was a man standing in it up to his knees.
 
 “Two.”
 
-I tried everything. I tried the Portuguese’s trick of talking, which does not work when the other man does not know your language. I tried the Dutchman’s, which is to charge and keep charging. I tried tricks I had never shown anybody. Every time he was not there. Every time the end of his stick found my ribs or my wrist, and once the back of my knee, so that I sat down in the sand.
+I stopped coming to him.
 
-“Five,” Bonesy said. “Six.”
+I backed up out of the deep water until it was only round my ankles, and stood there on the hard sand under it with both sticks down, and waited.
 
-I was breathing hard. My shirt was wet through. The old man was not breathing hard at all.
+He looked at me. He showed me his teeth.
 
-And I saw something.
+“Spaniard is not stupid,” he said.
 
-He had not once come forward. Not one step. He stood where he had stood at the start. He let me come to him every time, and turned. He waited for me the way a crab waits in a hole for your hand.
+He came out after me. He had to. Nobody wins a fight by standing in a lake.
 
-So I stood still.
+In the shallows he could not go down. He was only a man now, a strong one, with a long reach and a pole. He thrust at my chest. I turned it with the left stick and stepped in along it, inside his reach, where a pole is no use to anybody. He tried to go down and twist away, the way he had in the deep water, and there was not enough water to go down into.
 
-I stood there with both sticks down and my chest going, and I waited.
+I hit him on the wrist, the ribs and the side of the neck, one after the other. I did it as fast as I can, which is fast. Then I hooked the pole out of his hands with the right stick and laid the left one across his throat, just under the gills.
 
-He waited too.
+He stood still.
 
-We stood like that a long time. Crumble had stopped wiping his blade. A dog came down the shore and looked at us and went away again.
+The spearmen on the canoes had gone quiet.
 
-Then the old man came.
+The slits in his neck opened and closed against the stick. He looked down at it, and then at me.
 
-He came forward one step, fast, the long stick coming round at my head. I did not step back. I turned a quarter turn on my back foot, the way he had, and his stick went past my ear by a finger’s width. My right stick came round underneath as I turned.
+Then he laughed, the whole mouthful of teeth, and the spearmen roared again.
 
-It touched his hip.
+“Two,” Bonesy said. “And one, but it was the one that counts.”
 
-Not hard. Hard enough.
+I took the stick away.
 
-He stopped.
+The fisherman rubbed his wrist. He looked at it and then at me.
 
-He looked down at his hip where the stick had touched it. Then he looked at me.
+“Again,” he said. “Tomorrow. In the water.”
 
-He said something to Crumble without taking his eyes off me.
+“In the water you win.”
 
-“He says that was his,” Crumble said.
+“In the water I win,” he agreed. “So you learn.”
 
-“Tell him it’s mine now.”
+He picked up his pole and walked off up the shore to the spearmen, and they made room for him on the canoes, and one of them hit him on the shoulder.
 
-Crumble looked at me. He did not tell him. He did not need to. The old man had heard it in my voice.
+I stood there in the shallows with my shirt soaked and my belly aching where the pole had caught me, and the stick still in my hand. I went back into the lake to my knees, alone. I bent my legs and went down sideways and low, the way he had gone, under the stroke of a blade that was not there.
 
-Ah Pech looked at me a while longer. His face did not change. Then he picked up the two short sticks out of the sand, and walked off up the path with all three of them under his arm.
+I came up too slow. I tried it again. Better.
 
-“Six,” Bonesy said. “One.”
+Crumble was sitting on the canoe beside Bonesy, with Balam’s blade across his knees. I had not seen him come down.
 
-I sat down on the canoe beside him. My ribs ached on both sides. I was grinning so hard my face hurt.
+“You’re learning to swim like a shark now,” he said.
 
-Crumble put Balam’s blade back in its scabbard and stood looking at me.
+“I’m learning to fight like one.”
 
-“You stole that off him in a morning,” he said.
+“In a morning.”
 
 “That’s how you learn.”
 
-He was quiet.
+He looked out at the lake for a while.
 
-“Balam made me earn it,” he said. “Three years.”
+“Balam made me earn everything,” he said. “Three years.”
 
-He went up the path after the old man. I sat on the canoe with my ribs aching and turned my wrist over slowly, a quarter turn and back.
+He got up and went back to the house. I went down sideways into the water again, and came up, and did it again until I had it.
 
 ⸻
 

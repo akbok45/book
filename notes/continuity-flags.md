@@ -551,13 +551,15 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
 - **Balam has no way.** The tree, the claw marks and Amara's question about
   his way are cut. The development notes' comparison E (his jaguar way in the
   burning) is overruled.
-- **The sparring.** Jigsaw has Crumble ask Ah Pech to fight him, with sticks.
-  Jigsaw learns by stealing from every fighter he meets; *invented* teachers:
-  a drunk academy master who taught two princes, a Portuguese knife fighter on
+- **The sparring (revised on Aydin's note).** Jigsaw spars the grey
+  fisherman, not Ah Pech. The fisherman fights from the lake, going down low
+  and sideways like a shark, and puts Jigsaw in the water twice. Jigsaw wins
+  by drawing him into the shallows and getting inside his reach, then
+  practises the shark's drop alone. Jigsaw is one of the best swordsmen alive
+  and loves to fight; he learns by stealing. *Invented* teachers: a drunk
+  academy master who taught two princes, a Portuguese knife fighter on
   Tortuga, a Dutch gunner with a boarding axe, a Spaniard on a burning deck
-  with a turn of the wrist. Ah Pech never steps forward; he waits and turns.
-  That is a seed of the man who ran. Jigsaw steals the quarter turn. It also
-  plants 8.3, where Ah Pech beats Crumble.
+  with a turn of the wrist.
 - **Cut on Aydin's note:** Amara's line about drinking, the canoe and Balam
   having gone down the road. The ritual explains itself in 6.1 and 6.2.
 - **The handshake.** Crumble and Jigsaw grip across the leaf, neither letting
