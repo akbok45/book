@@ -1,6 +1,6 @@
 # Character Bible: The Codex Trilogy, Book One
 
-Caribbean, 1690. First person, narrated by Jigsaw, plain sailor's voice. Tonal register after *Gideon the Ninth*: sardonic, raunchy, genuinely dark, pathos buried under comedy.
+Caribbean, 1670. First person, narrated by Jigsaw, plain sailor's voice. Tonal register after *Gideon the Ninth*: sardonic, raunchy, genuinely dark, pathos buried under comedy.
 
 This file is the writing reference for the three leads, the antagonist, and the offscreen dead. It holds what was established and everything settled in development. The aim is to write each character from the inside every time, without guessing.
 
@@ -13,7 +13,7 @@ Read the thematic core and the scene machine first. They govern everything. Then
 Two rules sit above all the rest:
 
 1. Emotional beats are shown through behavior, never stated. A man who says it is fine and means it does not say it.
-2. Every analogy comes from the pirates' world. Ocean, fish, weather, hide, stone, nature. No modern phrasing. 1690 is locked.
+2. Every analogy comes from the pirates' world. Ocean, fish, weather, hide, stone, nature. No modern phrasing. 1670 is locked.
 
 ---
 
@@ -21,11 +21,13 @@ Two rules sit above all the rest:
 
 The question the trilogy asks: can two broken men find something worth living for in each other, and is that enough?
 
-Jigsaw seeks meaning through the spiritual unknown, the door at the bottom of the sea. Crumble seeks it through Balam's unfinished work. Both chase the same thing without knowing it, and the thing is the bond between the three of them and Bonesy. That meaning is designed to literally unlock the final codex gate at the trilogy's end. The emotional arc and the mystical mechanic are one and the same.
+Jigsaw seeks meaning through the spiritual unknown, the door at the bottom of the sea. Crumble seeks it through Balam's unfinished work. Both chase the same thing without knowing it, and the thing is the bond between the three of them and Bonesy.
+
+The codex does not answer to that bond (Aydin, 2026-10-17, replacing the earlier idea that the bond is the key to the final gate). It follows old, impersonal rules: the written leaves, a living day count, the spoken rite, the right place and the right time. The bond matters because it makes them people who can trust each other enough to do work those rules require of several hands at once.
 
 Bonesy already found it, long ago. He is the immortal who learned what the brothers are still chasing, that meaning lives in company that means something. He watches them look for theirs.
 
-The wounds are not flavor. They are the lock.
+The wounds are not flavor. They are what each man has to get past.
 
 ---
 
@@ -73,8 +75,24 @@ At 16 he went to sea in Spanish service. He found it wrong from the start: promo
 
 At 17 he went home to find both parents sick with malaria. His father, barely able to speak, gave him the name of a local blacksmith, another of the brotherhood, who knew of Jigsaw only because the father had once told a fellow Muslim of his son. The blacksmith gave him stories of his father, of how the man left his past when his son was born, mended his Spanish swords, and told him of a place where a crew runs fair, where a man can find both riches and greater meaning, half myth. His parents died of the malaria because they could not afford the cure, having spent their means on his schooling, while the wealthy bought the medicine and lived. His classmates with rich fathers became officers. The girl he loved married one of them, a man who bought his commission. Jigsaw left wanting to learn one thing: how to make the Spanish suffer. Then Tortuga, where he met Crumble.
 
+### The drive (Aydin, 2026-10-16)
+Rage and anger at the way he was treated at school and the way his parents were treated by society. Everything below feeds it.
+
+### The deeper need (Aydin, 2026-10-17)
+Proof that he mattered enough that the world was wrong to reject him. That is why Rodrigo bothers him, why he has to be the best sailor and the best fighter, why money and reputation matter, and why losing enrages him. He keeps trying to prove his worth to a world he claims not to care about. His arc: he ends the book understanding that he gets to choose what is worth something. His father understood this first. The father's quiet life was not surrender. He decided raising his son mattered more than everything he had owned as a corsair.
+
+The plain version of the parents: they caught malaria, and the family had spent most of its money on his schooling, so it could not pay for the treatment that might have saved them.
+
+### Why he wants gold (Aydin, 2026-10-24)
+Not luxury. Safety. He watched his parents die of a fever while the rich houses up the hill had the bark that might have saved them, and he came away believing poverty killed them as much as the fever did. Money, to him, buys a physician, medicine, a ship big enough to carry his friends out of danger, and the right never to be told there is not enough. What he fears is being helpless while someone he loves suffers. What he does not understand is that no amount of gold buys control over who lives. When Crumble or Bonesy is hurt he does not panic. He takes over, gives orders and will not hear that it is nothing. The flashback is in 5.1: a dream: his mother already dead, the apothecary who is sorry and will not give it, and the lie to his father, who knows. (Aydin's final 5.1 drops the twist of bark from the surgeon's chest. See continuity flags.)
+
+### The school duel (Aydin, 2026-10-17)
+He beats Rodrigo. The instructor calls the fight and Rodrigo stops. Jigsaw keeps attacking after he has already won. The first warning of the rage that shows later at sea.
+
 ### The wound
-The girl, the parents, the blood laws, the bought ranks, all of it. The cruelty grows from a real grievance. But write it as a flaw, not justice. He often takes it out on Spanish men who did nothing to him, and that is the rot in him, the wound paying itself forward. The narration knows this. It is selective, aimed at the soft handed, high born, never worked kind of Spaniard, the kind who beat him on blood and coin. The tell is already on the page: in the tavern he clocks the spy entirely by clean, soft, never worked hands. That contempt is the wound talking.
+The girl, the parents, the blood laws, the bought ranks, all of it. The cruelty grows from a real grievance. But write it as a flaw, not justice. He hates Spanish officers, wealthy men and men of rank, because they stand for the system that rejected him, and he often takes it out on Spanish men who had nothing to do with what happened to him. That is the rot in him, the wound paying itself forward. The narration knows this. The tell is already on the page: in the tavern he clocks the spy entirely by clean, never worked hands. That contempt is the wound talking.
+
+The rage has a witnessed moment: a Spanish merchant ship two years before the book, when the crew surrendered and Jigsaw kept killing. Crumble saw the moment fighting turned to rage, and so did Bonesy. Nobody said a word. It surfaces as a short memory after the patrol fight in chapter 5. Revised by Aydin, 2026-10-27: Jigsaw does not stop. He kills every Spaniard in the patrol after they surrender, brutally, in front of the villagers.
 
 ### The deeper hunger
 Beneath adventure and gold, he is searching for meaning, the door at the bottom of the sea he stood at when he was twenty and did not go through. He frames it as adventure. The corsair blood and the tale of vanished enlightened men resonate under it, but keep the door itself unnamed and his own. He wants the codex most, which is why his counsel of caution carries weight. The mystical blood is a seeded thread, accounted for later, not explained now.
@@ -86,7 +104,7 @@ Beneath adventure and gold, he is searching for meaning, the door at the bottom 
 Not mute. He banters with Bonesy, pushes back on Crumble, keeps a dry mouth. He lands slightly fewer lines than Crumble, a notch, not a gulf. Because his lines are rarer they land harder and should cost him. We should know him best of the three.
 
 ### Appearance and gear
-Early twenties, a year older than Crumble. Razor shaved head, a scar on his face, hide built pirate rig where salt eats wool and where a blade looks to land, oiled dark, not worn like a hunter. He carries twin lighter Spanish arming swords, his own from his dueling and service youth, mended by the brotherhood blacksmith, so they are half him. (NOTE: this revises the written line that he took them off dead men. The new origin fits the book's idea that a man's gear is half him. Veto if you want the old line.) A legend follows him from a galleon he cleared single handed.
+Early twenties, a year older than Crumble. Razor shaved head, a scar on his face, hide built pirate rig where salt eats wool and where a blade looks to land, oiled dark, not worn like a hunter. He carries twin lighter Spanish arming swords, his own from his dueling and service youth, mended by the brotherhood blacksmith, so they are half him. (NOTE: this revises the written line that he took them off dead men. The new origin fits the book's idea that a man's gear is half him. Veto if you want the old line.) A legend follows him from a galleon he cleared single handed. In chapter 8 Cárdenas lays the swords out and tells him to take them, and Jigsaw leaves them in Campeche. What he has from his father is not kept in the objects. The swords do not come back to him in book one (Aydin, 2026-10-17).
 
 ### How to write him
 He says little aloud and tells us much. In two handers he is the third instrument, threading observation through the gaps, the wound leaking personal in the moment. His skill came the slow way, practice and watching and trying, then a sword that argued for him after Crumble left, then the solo years exploring this sea alone in a small boat, because some things no man teaches you. His eye stays always on the physical world. He notices everything and says only some of it.
@@ -98,14 +116,22 @@ He says little aloud and tells us much. In two handers he is the third instrumen
 ### Role and domain
 Early twenties, a year younger than Jigsaw. His domain is the cultural and historical: the Maya language, the old stone, the codex, what things mean. Trained by Balam through his late teens into his early twenties, after he and Jigsaw were already at sea. He carried the codex knowledge passively until Balam's death about a year and four months back gave it nowhere to go.
 
-### Backstory and the wound
-He left a woman who loved him, at 16, for the sea. Not simply for adventure. He left to prove he was meant for more, to make a prize of his own, because he had done nothing and carried the quiet certainty that he was nothing, an imposter's hunger. Deep down he always hoped she would wait.
+### Heritage (Aydin, 2026-10-17)
+English by birth, of plain stock, in the mould of Edward Kenway in *Black Flag*. Maya only by training, under Balam. His childhood comes out in pieces, not as a full history. The woman he left is English too, and her name is Anne (final, Aydin, 2026-10-17). The drafted name Ixmal in 3.2 has to change.
 
-He came to Tortuga, joined the crew, and met Jigsaw. Three years at sea together. He learned real skill from his first captain and did decently, enough that he could have bought a small farm and been a settled man. On a raid he saved a Maya woman, a civilian, out of plain decency, and she turned out to be Balam's daughter. She told him of her father, that Crumble was meant for more, and that he should seek the man out if he had it in him.
+### Backstory and the wound
+He loved Anne, and at 16 he left her for the sea. His mistake was not that she was not enough for him. It was that he believed he was not enough for her. He was sixteen, insecure and restless, and thought he had to become somebody important before he deserved the girl he loved. He went for adventure, money and a name, meaning to come home extraordinary. Deep down he always hoped she would wait. It hurts because nobody betrayed him. She simply kept living after he chose to leave.
+
+He repeats the pattern with Balam: love and respect have to be earned by becoming worthy, so he turns Balam into an impossible standard and believes he must finish Balam's work and become the man Balam wanted. His arc is learning that loving Balam does not require becoming Balam. In the vision Balam tells him he never expected another Balam. Crumble made that duty up himself.
+
+He came to Tortuga, joined the crew, and met Jigsaw. Three years at sea together. He learned real skill from his first captain and did decently, enough that he could have bought a small farm and been a settled man. On a raid he saved a Maya woman, a civilian, out of plain decency, and she turned out to be Balam's daughter, Amara. She told him of her father, that Crumble was meant for more, and that he should seek the man out if he had it in him.
 
 At about 19 he went back to the woman. He found her happy, married young, a child, settled with an ordinary man, a nobody just like Crumble had been before, special in nothing except that he stayed and was himself. That broke something. Not only her being happy. The man. After a few days watching her and her family from the edge of it, he went to seek more than adventure, and he went to Balam.
 
 So she is alive and well now, the worst version, fine without him, and the leaving holds no tragedy, only waste. He threw something good away to chase being more, and a man who chased nothing got everything by standing still.
+
+### The drive (Aydin, 2026-10-16)
+Obligation and regret. Balam is his idol, close to a celebrity to him: the picture of perfection he wants to become.
 
 ### Two engines (write both)
 Penance and proof. The penance: he decided he would never again be the man who throws people away, which is why he is loyal past sense, and loyalty to Balam is the ledger he can still pay into. The proof: the imposter's hunger never died, and Balam is the man who looked at him and said he was meant for more. Finishing Balam's work proves both that he is more than a nobody and that he is not a man who discards what matters. The two run together.
@@ -132,7 +158,10 @@ Terse, controlled, a man sitting at his own wake. He speaks Maya with a softenin
 ### Role
 The id, and the emotional id both. A strong read on people, real wisdom, and extremely carefree and humble with it. He says what the two will not and does what humans think and sit on. He pried both their wounds open across the year and is the reason they each know the other's headline. He talked it out of them by never shutting up and having no shame and no stake.
 
-### The hormone monster function (1690 register, not the modern one)
+### The drive (Aydin, 2026-10-16)
+Masculine crudeness, an open mind, and humor. Essentially an existential being: no stake, no fear, at home in what he is.
+
+### The hormone monster function (1670 register, not the modern one)
 Appetite, no shame, no equipment. He names the lust and the greed out loud, eggs the two repressed men toward their wants, leers with nothing to leer with. The running joke is a skeleton with all the appetite and none of the parts. The register is on the page already in the mermaid line, the one end of her that turns a coin. Bawdy, bodily, of its century. Never modern.
 
 ### Limits
@@ -163,30 +192,108 @@ He already learned meaning lives in the bond. He found his long ago, and he is q
 
 ## DON MATEO DE CÁRDENAS — the antagonist
 
-Old, fifties and up, older than the two and still a dangerous fighter. Forty years a Spanish colonial officer, Peru young, then the Maya regions. Not a personal vendetta. A colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever is neither, with calculated cruelty, torture, breaking the people around his targets.
+In his early forties (Aydin, 2026-10-17), older than the two by some twenty years and a dangerous fighter. A Spanish naval officer, intelligent, disciplined, ambitious and genuinely capable. This replaces the earlier "fifties and up, forty years". Not a personal vendetta against the two. He uses calculated cruelty, torture, and breaking the people around his targets.
+
+### The drive (Aydin, 2026-10-16, sharpened 2026-10-17)
+Control. When he was young, magic killed his younger sister. The worst of it was that he could not understand, stop or control what was happening to her. That is the root. He concluded that magic is intolerable because it makes forces, creatures and events no human authority can reliably control. His view in one line: magic killed someone he loved because nobody could control it, so anything that cannot be controlled should not exist.
+
+He hates magic and uses it constantly, but only objects and forces he has studied, classified and learned to control. Controlled magic is useful for now. Uncontrolled magic is unacceptable. That hypocrisy is central.
+
+He prefers to break important enemies rather than kill them: prove their beliefs weaker than his, break their resistance, and ideally make them cooperate. He still kills when he needs to.
+
+### His history with Balam (Aydin, 2026-10-17)
+After his sister's death he joins the navy, does very well in his first tours in the Americas and rises fast. He never stops investigating her death, and his rank gives him access to places, prisoners, captured objects and records. On one campaign his unit reaches a Maya settlement where he recognizes something tied to what killed her. That leads him to Balam. Balam does not trust a Spanish officer. Then Cárdenas uses his authority to stop soldiers burning the settlement and executing its people, partly because he wants answers and partly because he believes they are wrong. Balam decides there is a decent man under the uniform and teaches him. Balam explains the sister's death. The knowledge brings no peace. It convinces him there are forces Spain, the Church and armies cannot control. He starts studying, collecting and mastering them, and his collection grows through conquest as his career rises. Balam sees what he is becoming, cuts him off, disappears and never speaks of him again. Cárdenas counts Balam the most important teacher of his life. Balam counted Cárdenas his greatest mistake. The exact act that won Balam's trust is open.
+
+He tells most of this to Bonesy alone, in his cabin in chapter 7, because to him Bonesy is a specimen and not a listener (Aydin, 2026-10-21, replacing the speech to all the prisoners). Bonesy passes it on to the others in his own words, short and out of order.
+
+### What the codex is for him (Aydin, 2026-10-16, revised 2026-10-17)
+He wants to wipe magic out of the Caribbean, because a world without it is easier to understand and to control. The codex restores everything magic has changed to what it was before. Bonesy was a Maya man dead for centuries, so restored he is old bones. Many of Amara's people would die or be unmade. Cárdenas understands this and accepts the deaths as the tragic cost of removing something that should never have existed.
+
+### Now, in 1670 (Aydin, 2026-10-11)
+He is just starting on the buccaneers. His twenty-odd years went into other kinds of conquest, on land, Peru and then the Maya regions. The sea and the brethren are a new posting, and he has come to it the year England promises Spain to put the buccaneers down. That the two have crossed his people twice already means his people, not this campaign. What the earlier conquests were in detail is open.
 
 ### The Thrawn dimension
-He collects the histories, books, and sacred artifacts of the peoples he destroys, studies them, understands them better than they understand themselves, because you cannot truly finish a people until you do. This makes him able to assemble the codex's shape from fragments. He keeps occult artifacts of his own, though curses are anomalous even here.
+He collects the histories, books, and sacred artifacts of the peoples he destroys, studies them, understands them better than they understand themselves, because you cannot truly finish a people until you do. This makes him able to assemble the codex's shape from fragments. He keeps occult artifacts of his own, though curses are anomalous even here. He built that collection colonizing South America and then the Maya country (Aydin, 2026-10-17). The saint's finger stolen in chapter 1 came from it. The relic really works (Aydin, 2026-10-21; suggested power: the bone never decays and stops bleeding when pressed to a wound), which is why it was vaulted and labeled, why it sells for a fortune, and why he hunts the thieves so hard. Its shelf in his cabin stands empty, label still in place. Magic itself belongs to the Caribbean and the New World, strongest in native settings, and has reached the pirates through friendship and plunder. Whether it exists in Europe is never stated. He turns that magic against the peoples of the Caribbean, and his senior officers carry artifacts of their own (Aydin, 2026-10-11). The rules of it are open, in `manuscript/STORYBOARD.md`.
 
 ### The threat
-He does not appear in chases. He plans, watches, runs spies, and was already ahead of the trio at Tortuga. He commands ships that sail straight through the storms the trio must flee, which nullifies their one advantage. The not being dead after forty years is the frightening part.
+He plans, watches, runs spies and informants, and was already ahead of the trio at Petit-Goâve. He commands ships that sail straight through the storms the trio must flee, which nullifies their one advantage. He is not all knowing: every time he finds them there is a chain a reader can follow (the spy, Domingo under torture, a fishing canoe, the elder). The not being dead after forty years was the frightening part when he was written older. At his new age the line needs rethinking; see `notes/continuity-flags.md`.
+
+### How he loses
+He cannot hand anything essential to another person. In Florida he lays the leaves himself, speaks the rite himself from Balam's old teaching though he is told it is incomplete, and never counts Bonesy as anything but a specimen. He survives book one and loses control.
+
+The deeper blind spot (Aydin, 2026-10-17): he understands coercion, greed, fear and people acting because they have no choice. He never understands people who choose loyalty, responsibility or sacrifice when they are free to walk away. In the fort he offers Jigsaw freedom alone, and the refusal enrages him because it proves something in Jigsaw is outside his control. When he finally releases the three, he lays out their weapons as a last test. They leave them, and he believes he has broken them. Their choosing to come back is the one move he never planned for.
 
 ### The personal thread
-The bought officer who took Jigsaw's woman rose into Cárdenas's orbit. This binds the codex enemy and the personal enemy into one, a reveal that can land hard later. Jigsaw has some idea of it already, which is why reading up on Cárdenas was never only tactical.
+Rodrigo, the schoolmate who married Jigsaw's girl, serves under Cárdenas. This binds the codex enemy and the personal enemy into one.
 
 ---
 
 ## The dead and the offscreen
 
-**Balam.** Crumble's teacher, a Maya resistance fighter and master who taught him fighting, stealth, history, and language. Died naturally about a year and four months ago, mid hunt for the codex. Lives in memory. One ghost appearance possible later if it earns its place.
+**Balam.** Crumble's teacher, a Maya resistance fighter and master who taught him fighting, stealth, history, language and the day count. Died naturally about a year and four months ago, mid hunt for the codex. To Crumble he is an idol, the picture of perfection. He is more complex than that (Aydin, 2026-10-17). He taught young Cárdenas because he believed a grieving young man deserved answers, then cut him off when he saw what Cárdenas became. Separately, he made practical deals with Spain to protect his people and his daughter. Those are two different decisions. His one appearance is the vision in Cárdenas's hold, where he tells Crumble: "I regret what he did with what I taught him. I could not know what he would become."
 
-**Balam's daughter.** The Maya woman Crumble saved on a raid, who sent him to her father. She continues in the story as another living piece of Balam.
+**Domingo.** A Maya man at Petit-Goâve who goes by a Spanish name in port. An acquaintance of Balam, not a childhood friend (Aydin, 2026-10-17), which conflicts with the drafted "Boys together" line in 2.2. He meets Crumble because of that connection, is captured when the meeting is betrayed, and under torture tells Cárdenas that Balam had a daughter up one of the coast's rivers who could read the old signs. His role ends there. He does not come back in the prison chapter. Whether he himself sold the meeting, as decided 2026-10-11, is now unclear; see `notes/continuity-flags.md`.
 
-**Domingo.** Maya contact at Tortuga, knew Balam as a boy, goes by a Spanish name in port. Taken by Cárdenas's soldiers so Crumble could escape. Fate is an open thread.
+**Jigsaw's woman.** The Spanish girl he believed he would marry, now married to Rodrigo. She did not leave Jigsaw only for rank. At seventeen he was already angry and could not picture a quiet life.
 
-**Jigsaw's woman.** The Spanish girl he believed he would marry, lost to the bought officer now in Cárdenas's orbit.
+**Crumble's woman, Anne.** Alive, married to an ordinary man, a young child, fine without him. He left her at 16 because he thought he was not enough for her yet. Not a ghost, not a return. The wound is her doing well, and the ordinary man who got her.
 
-**Crumble's woman.** Alive, married, a young child, fine without him. He left her at 16 to prove he was more. Not a ghost, not a return. The wound is her doing well, and the ordinary man who got her.
+---
+
+## The living cast added in development (Aydin, 2026-10-17)
+
+**Amara.** Balam's daughter, fully human and not changed by magic. She belongs to a hidden Maya community on a small island in a forest lake, far up a river from the coast, where magic is stronger than anywhere else because the community stayed isolated. These people are her neighbors and relatives, not patients. She has taken responsibility for protecting them. She knows the land, people listen to her, and she is decisive under pressure. Her flaw: she knows what everyone else needs and cannot say what she wants for herself. She joins the hunt because Cárdenas's search threatens her community. She could leave and survive, and she chooses to defend the people she loves. She and Crumble slowly fall in love. Jigsaw is attracted to her too, sees what is growing between them and steps aside without a word. Earlier names Kan, Nikte' and Itzel are dropped.
+
+**Don Rodrigo, suggested name.** Jigsaw's schoolmate. His family opened doors, but he is also capable: a legitimate officer, disciplined, educated, politically smart and a strong swordsman. Jigsaw was the more gifted student. Jigsaw thinks: you got the life that should have been mine. Rodrigo thinks: you had more talent than I did, and look what you chose to become. Rodrigo is partly right. At the capture he sees that Jigsaw's weakness is Crumble and uses it. In Florida Jigsaw beats him and leaves him alive, because Rodrigo no longer matters to his sense of worth.
+
+**Answers for chapter 5 (Aydin, 2026-10-26).**
+- Amara is twenty or twenty one. She knows Balam is dead. Balam died of sickness, nothing deeper. She remembers Jigsaw from the raid. She speaks every language the story needs.
+- She is kind and loving and her focus is the village. She is not a leader. Nobody in the village leads; people go to her because she takes care of them. She is not married or promised.
+- Crumble lived on the island a while during his years with Balam. He stayed mostly with Balam and did not have much to do with Amara then.
+- Balam was not from this village. He came from a settlement Cárdenas destroyed.
+- The village is a safe place, so changed people gather there. Outsiders who stay do not change. Children: no need to explain.
+- The codex would kill all of them. They know Cárdenas. They do not know about the codex.
+- A smallish village. They accept Jigsaw's coin and have no real use for it. They keep the old gods.
+- Bonesy understands almost every language.
+- Ah Pech is planted in 5.2. His arrangement with Cárdenas is part of why the village has been left alone; the rest is open.
+- Jigsaw feels an outsider at first and is brought into the village, which gives him more reason to stop the codex. The villagers do not treat him differently for his father's people.
+- Both men's attraction to Amara builds. Jigsaw's narration calls her pretty.
+
+**Village arc decisions (Aydin, 2026-10-28).** From the village arc brief; the full development pass is in `notes/village-arc-development.md`.
+- Magic and curses are not inherently bad. The village is a refuge of ordinary lives; its people are not waiting to be cured. Transformations have different causes. The village is not magically hidden; it is safe through remoteness and acceptance.
+- The completed codex would end magic everywhere and kill whoever depends on it. Balam knew. Cárdenas learned it from Balam. Amara, Crumble, Jigsaw, Bonesy and the villagers do not know.
+- Cárdenas was Balam's earlier student. Balam taught him to use magic and came to regret it bitterly. Cárdenas manipulated him. Cárdenas later came back to Balam's former village with Spanish soldiers, used a small black bell that suppresses magic for a time, and the soldiers massacred the village. The bell is not the codex.
+- After that Balam taught Crumble culture, glyphs, stories, dangerous places, the old roads, respect for what he did not understand, fighting, discipline and survival, and never magic.
+- Amara deciphers the leaf herself, slowly, from what she actually knows.
+- A ceremony shows the three, travelling together, Balam teaching an unnamed student, the massacre, and Jigsaw's apothecary. Bonesy appears in it as the living farmer he was and guides them.
+- The old man with mangrove roots senses movement through the waterways through his roots. He senses the Spanish patrol.
+- The patrol comes after the ceremony. After the bend, Crumble confronts Jigsaw and does not abandon him.
+- At the capture Cárdenas rings the black bell and Bonesy's bones fall apart, for a time. Crumble recognizes it from the vision. Cárdenas's identity as the student is revealed with the bell. His full philosophy and the codex's function come separately.
+- Jigsaw and Cárdenas are foils, never stated: both take what they think is theirs to take.
+
+**Village arc rulings (Aydin, 2026-10-28, second round).**
+- Bonesy appears as a living man in both drug scenes: the village ceremony and the vision in Cárdenas's hold.
+- Balam in the ceremony is the past replaying; he never sees or speaks to the three. His conversation with Crumble in the hold vision stays his one real appearance.
+- The hold vision's "short look at Balam and young Cárdenas" becomes a quick reveal: the student's face from the ceremony, seen at last.
+- The black bell replaces the jade that locked Bonesy at the capture. The jade is gone from the collection.
+- The settlement Cárdenas saved to win Balam's trust is a different village. Balam's own village is the one Cárdenas raided, and everyone there was killed.
+- Ah Pech survived Balam's village and saw the bell work. His deal with Cárdenas comes from terror, and it is why he never told anyone who the student was. Crumble and Jigsaw cannot see him in the ceremony vision.
+
+**Village arc rulings (Aydin, 2026-10-28, third round).**
+- The village arc is three chapters: 5 The Hidden Village, 6 The Road Under the Lilies, 7 The Patrol. The old chapters 6 to 9 are now 8 to 11.
+- In the raid on Balam's village Cárdenas let Balam live, with Amara as a toddler. Everyone else was killed except Ah Pech, who ran. He is a coward, and he is not in the vision because he had already fled.
+
+**Village arc rulings (Aydin, 2026-10-28, fourth round).**
+- Amara's mother was killed in the raid on Balam's village.
+- Cárdenas's word for what the codex does: it restores the world to its correct order. That is how he sells it.
+- Bonesy was a farmer who carried jars of honey and balché down to the priests' cellars, which is how he overheard them. The farmer and "mostly barrels" are the same man.
+- No book of Balam's. Amara reads the leaf from what her father taught her and what the village keeps.
+
+**The elder, suggested name Ah Pech.** A respected elder of Amara's community who knew Balam and fought beside him when young, so he knows Balam's fighting methods. Years ago, afraid the Spanish would destroy the community, he made a secret arrangement with Cárdenas: information for being left alone. He believes cooperation is the only realistic way to keep his people alive. Fear and compromise, not cruelty. He guides the crew to Cozumel, sends word to Cárdenas, and defeats and captures Crumble at the shrine. Whether he turns in Florida is open.
+
+**People changed by magic.** The book still needs an in-world word for them. "Cursed," "strange" and "different" give the wrong tone. Their changes are old, physical and sometimes frightening, never cute powers: an old man whose legs have become mangrove roots, a fisherman like a shark, a woman with a crab's claw for an arm, a man who grows coral that has to be cut off him, a girl turning to bark. Some suffer, and at least one case is tragic. Jigsaw sees monsters first and families after. Bonesy fits in among them.
+
+**How common magic is.** Rare. To most people it is still more story than fact. They see certain pieces of it now and then, but it is not daily life. It survives mainly in isolated native communities, and some objects have spread through trade, piracy, conquest and theft. Tortuga has more than most places only because it takes in almost anyone.
 
 ---
 
@@ -235,7 +342,7 @@ This corrects the written line that placed their meeting at sixteen on the Mosqu
 
 ## Register and anachronism rules (locked)
 
-- 1690 is the date. No modern phrasing, ever.
+- 1670 is the date. No modern phrasing, ever.
 - All analogies from the pirates' world: ocean, fish, nature, weather, hide, stone, rope.
 - The father's people are grounded in the Morisco and Barbary corsair world. Do not use "maroon," which means escaped African captives, a different people, and do not use "guerrilla," which is not a word until the 1800s.
 - Watch the small things. Past flags caught: boot laces, modern phrases, anachronistic references like "a fair."
@@ -247,11 +354,12 @@ This corrects the written line that placed their meeting at sixteen on the Mosqu
 ## Open threads to decide
 
 - Name for the father's secret brotherhood, to replace the wrong terms. Marked to be named.
-- Whether the bought officer who took Jigsaw's woman is truly the stronger, sharper man or built into that by the wound. If he matters later, make him real.
+- Settled 2026-10-17: Rodrigo, who married Jigsaw's girl, is genuinely capable, not only bought.
 - Whether the new sword origin (his own, mended by the blacksmith) replaces the written line about taking them off dead men.
 - When and how the full Cárdenas link lands, for Jigsaw and for the reader.
-- Whether Balam earns a single ghost appearance, and how his daughter returns.
-- Domingo's fate.
+- Settled 2026-10-17: Balam appears once, in the vision. His daughter Amara returns in chapter 5.
+- Settled 2026-10-17: Domingo's role ends at his capture and torture.
+- The in-world word for people changed by magic.
 - The scene that carries Crumble's reframe from mistake to chosen.
 
 ---
