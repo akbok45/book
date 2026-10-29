@@ -611,3 +611,11 @@ The day name Crumble says at dawn should pay off in the ceremony as a pattern
 he recognizes, not a password. Something on the road (the order of the roads,
 or a count he hears) makes sense to him because he has said the day every
 morning for years.
+
+## Ruling, 2026-10-29
+
+**Balam has no way.** Comparison E is overruled. In the burning (6.5) Balam's
+own working, the one that rises and fails in the stillness, must be something
+else. Candidates for drafting: a working with fire or breath, matching what he
+teaches the student in 6.4; or something with water. To decide when 6.5 is
+drafted.

@@ -546,24 +546,23 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
     footprints end at the island, so the speaking place is on the island.
   - **To check:** dugout repair with chewed bark fibre and tree gum.
 
-## Raised by the 5.4 draft, The Sign, 2026-10-28
+## Raised by the 5.4 draft, The Sign, 2026-10-28 (revised on Aydin's notes)
 
-- **Balam's way** is a black jaguar, bigger than the jaguar shadow man's. Its
-  old claw marks are high on a ceiba on the far shore, from when Balam visited
-  the lake before the raid. The jaguar shadow man followed Balam as a small
-  boy. After the raid, the first year Balam lived at the lake, he called it
-  once and it did not come, and he never called it again. Amara grew up with
-  this in the old people's stories and assumed Crumble knew. *Invented, all
-  open to veto.* It sets up the burning (6.5), where his way rises and fails.
-- **Balam went down the road himself** once, before Amara was born. *Invented.*
-- **The sleeping man** went down the road alone. That ties the 5.2 tragic case
-  to the ceremony's cost. *Invented.*
-- **Nobody goes alone; Amara stays to keep them** and the drum.
-- **Crumble's talk to the lake** at dawn, many words after the day's name, and
-  he does not touch the water. Jigsaw does not know what he said.
-- **The house poles** are for the fisherman's son, who is marrying. *Invented.*
-  It calls back to 5.2, where the boy cuts too deep gutting fish.
-- **Cozumel as the goddess's island**, where women came by canoe to ask for
-  children and the Spanish broke her house and put up a cross. This is real
-  history, the Ix Chel pilgrimage and Cortés in 1519. The goddess is not named
-  on the page.
+- **Balam has no way.** The tree, the claw marks and Amara's question about
+  his way are cut. The development notes' comparison E (his jaguar way in the
+  burning) is overruled.
+- **The sparring.** Jigsaw has Crumble ask Ah Pech to fight him, with sticks.
+  Jigsaw learns by stealing from every fighter he meets; *invented* teachers:
+  a drunk academy master who taught two princes, a Portuguese knife fighter on
+  Tortuga, a Dutch gunner with a boarding axe, a Spaniard on a burning deck
+  with a turn of the wrist. Ah Pech never steps forward; he waits and turns.
+  That is a seed of the man who ran. Jigsaw steals the quarter turn. It also
+  plants 8.3, where Ah Pech beats Crumble.
+- **Cut on Aydin's note:** Amara's line about drinking, the canoe and Balam
+  having gone down the road. The ritual explains itself in 6.1 and 6.2.
+- **The handshake.** Crumble and Jigsaw grip across the leaf, neither letting
+  go first, as since their first ship.
+- **The sleeping man** went down the road alone. *Invented.*
+- **Port Royal rum.** Real, period.
+- **Cozumel as the goddess's island** is real history (the Ix Chel pilgrimage,
+  Cortés in 1519). The goddess is not named on the page.
