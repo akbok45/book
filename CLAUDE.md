@@ -39,6 +39,8 @@ Also banned as period errors: **gun** for a hand weapon (gun means cannon, use p
 
 ## Where everything lives
 
+**Read `notes/START-HERE.md` first.** It says where the current book is, so an old version is never mistaken for it.
+
 ```
 manuscript/          the book itself, one file per scene, in reading order
   ch01-the-temple/
