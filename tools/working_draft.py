@@ -51,3 +51,26 @@ for folder,num,title in chapters:
             inline(p,para.replace('\n',' '))
             first=False
 doc.save(out); print(total)
+
+# Markdown copy in the same layout as Aydin's master file.
+def write_md(md_out):
+    out=["# The Codex Trilogy","","## Book One","","*Working draft · Caribbean, 1670*",""]
+    names={1:'The Temple',2:'Petit-Goâve',3:'The Cay',4:'The Half Moon',5:'The Hidden Village',6:'The Road Under the Lilies',7:'The Patrol'}
+    folders={1:'ch01-the-temple',2:'ch02-petit-goave',3:'ch03-the-cay',4:'ch04-the-half-moon',5:'ch05-the-hidden-village',6:'ch06-the-road-under-the-lilies',7:'ch07-the-patrol'}
+    for n in sorted(names):
+        out+=[f"## Chapter {n} · {names[n]}",""]
+        files=sorted(glob.glob(os.path.join(root,'manuscript',folders[n],'*.md')))
+        if not files:
+            out+=["*Undrafted.*",""]; continue
+        if n==7: out+=["*Drafted ahead of Chapter 6. To be revised.*",""]
+        for i,f in enumerate(files):
+            t=open(f,encoding='utf-8').read()
+            t=re.sub(r'^---\n.*?\n---\n','',t,flags=re.S)
+            t=re.sub(r'<!--.*?-->','',t,flags=re.S).strip()
+            if i>0: out+=["---",""]
+            for para in re.split(r'\n\s*\n',t):
+                para=para.strip()
+                if not para: continue
+                out+=["---" if para in ('⸻','* * *','***','*') else para,""]
+    open(md_out,'w',encoding='utf-8').write("\n".join(out).rstrip("\n")+"\n")
+if len(sys.argv)>3: write_md(sys.argv[3])

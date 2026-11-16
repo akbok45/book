@@ -5,14 +5,14 @@ pov: Jigsaw, first person, past
 place: The half-moon island, the windward side
 when: Landfall, afternoon
 status: draft
-words: 699
+words: 643
 ---
 
 <!-- BEAT: Anchor in the lee, walk over. The pool is where he left it and the tarpon are in it. He puts his hand in as he did at twenty and they go past slow, in front of two witnesses. The water pulls. Crumble reads it and asks the question. Ends at the edge, before the water. -->
 
 There is no landing on the windward side. The swell comes the whole width of the sea to get at it and it arrives the way it has been arriving since before anybody was here to watch. We brought her round into the lee and let the anchor go on sand in three fathoms and walked over.
 
-It is not far. A half mile of low scrub that takes the skin off a man's forearms and does not apologise, and then the ground lifts into grey rock scoured bare, and the noise of the other side comes up over it before you see any of it.
+It is not far. A half mile of low scrub that takes the skin off a man's forearms and does not apologize, and then the ground lifts into gray rock scoured bare, and the noise of the other side comes up over it before you see any of it.
 
 Bonesy went up the last of the rock first because he does not tire and it costs him nothing to be told to wait. He stood on the top of it with the wind taking the brim of his hat flat back off his skull and looked down the far side a long moment.
 
@@ -22,7 +22,7 @@ The pool sits in the rock about a cable in from the break, in a shelf the sea on
 
 Then it moves.
 
-They were in it. Six of them, and one over seven feet that I remembered and had half talked myself out of remembering. They went round the pool one behind the other on the current, slow, not working at it. The great plate scales of them went from grey to white to nothing as they turned through the light. A tarpon the length of a man does not look like a fish in three feet of water. It looks like something that has come up out of where it belongs to see what is being said about it.
+Six tarpon came round on the current without working their tails. The biggest was over seven feet. I remembered him that big and had nearly talked myself out of it. Their scales went from gray to white to nothing when they turned.
 
 Crumble came up beside me and stopped.
 

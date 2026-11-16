@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: Petit-Goâve, the tavern step, the front street, the quay
 when: The same night, late
 status: draft
-words: 916
+words: 892
 ---
 
 <!-- BEAT: Four lanterns come down out of the fort gate. Jigsaw and Bonesy go down to the sloop and leave the water breaker on the quay. Men come out of the tavern and off the decks and stand, and the soldiers hold at the head of the street. Jigsaw works the tide, tells Bonesy the number, waits past it. Crumble comes along the water from the west with nothing in his hand. -->
@@ -106,21 +106,19 @@ I did not answer.
 
 “I heard you.”
 
-He let it sit. Then, quieter than he goes: “You’ve done the sum.”
-
-“I’ve done it.”
-
-“How long.”
-
-I told him. Bonesy, who has never once run out of talk, did not say anything.
-
-I gave the tide away. I gave it all the way away, past the sum and out the other side of it.
+The water went still along the quay. I kept my hand on the tiller and waited.
 
 He did not come down the street. I had been watching the street.
 
 He came along the water from the west, out of the dark past the last of the storehouses. He was wet to the thigh. He had Balam’s blade still in his hand and nothing else in it.
 
-I put my hand out and took his wrist and got him over the rail, and I did not let go of the wrist as quick as I might have.
+I caught him by the wrist and hauled him over the rail. His boots hit the deck. I still had hold of him.
+
+“You’re late,” Bonesy said.
+
+“You’re still here,” said Crumble.
+
+“We were just leaving.” I smiled at him and let go of his wrist.
 
 Bonesy looked past him, back up the water the way he had come, for a good while after there was any use in looking.
 

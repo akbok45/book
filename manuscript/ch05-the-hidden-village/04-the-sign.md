@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The island, the forest on the lake shore
 when: The days after Small Work
 status: draft
-words: 2134
+words: 1815
 ---
 
 <!-- BEAT: The grey fisherman comes with two headless spears: the village says Jigsaw is fast, so let's see. Jigsaw has taken something from every fighter he ever met and takes two sticks. The fisherman fights from the lake, going down low and sideways like a shark under a boat, and knocks Jigsaw down twice. Jigsaw backs to the shallows and waits; the fisherman must come out, has no water to go down into, and Jigsaw gets inside his reach and lays a stick across his throat under the gills. "Again. Tomorrow. In the water." Jigsaw practises the shark's drop alone. Crumble: Balam made him earn everything. Amara lays out all the leaf gives her: the road, seven days, the island, a place that speaks. Crumble knows only what everybody knows about the long island. The leaf will not give more to looking. There is an old way of going to ask the dead, and the village keeps it. Amara will stay to keep them. Crumble will go; nobody goes alone, so Jigsaw will, and they shake on it like boys trying to break each other's hands. "What does it cost?" "Sometimes people don't come all the way back." At dawn Crumble talks to the lake a long time after naming the day. Port Royal rum. -->
@@ -40,81 +40,41 @@ Bonesy came down from the house with his hat in his hand. He sat on the canoe be
 
 ⸻
 
-He did not stand on the sand. He walked backward into the lake until the water was over his knees, and stood there with the pole low, and waited for me.
+He walked backward into the lake until the water was over his knees. He held the pole low and waited for me.
 
-I knew what he was doing. I went in anyway.
+I followed him in. He could reach me a full step before I could reach him. I waited till he thrust and knocked the point wide with my right stick. I stepped in for his wrist.
 
-The water took my legs. It was like wading through wet sand. I went at him the way I go over a rail, both sticks at once, high and low. I was a heartbeat slower than I should have been. He was not there.
+He slid his hands along the shaft and dropped sideways till the water took him up to the chest. The other end came up under my left stick and hit me in the belly. I sat down hard enough to lose the breath I had left.
 
-He had gone down. Not back. Down into the water to his chest, low and sideways, the way a shark turns under a boat. The end of the pole came up out of the lake and hit me in the belly.
+“Yours,” I said when I could speak.
 
-I sat down in the water.
+The men on the canoes shouted. The fisherman took hold of my elbow and got me up.
 
-On the canoes the spearmen roared.
+“Again?” he said.
 
-“One,” Bonesy said.
+I tapped my sticks together.
 
-I got up. Water was running out of my nose. I was laughing. I had not laughed like that in a fight in a long time.
+He went back to his place. Bonesy called from the shore and the fisherman turned his head to hear. I slid my left foot forward under the water. His point came round with it. His head was still turned.
 
-I went in again, slower. He went down again under my sticks and came up on my left, and the pole cracked against my hip. He moved in the water as if it were his. It was his. It was where he had lived his whole life, and I was a man standing in it up to his knees.
+I stood where I was and slapped the water to my left. He sent the pole into the splash. I stepped right and caught the shaft with my other stick. I held it down and went in along it. He tried to bring the butt round again. By then my left stick was over his wrist. I pressed down and he let the pole go. I brought the stick up under his chin.
 
-“Two.”
+He looked down at it. His gills opened and shut.
 
-I stopped coming to him.
+“Yours,” he said.
 
-I backed up out of the deep water until it was only round my ankles, and stood there on the hard sand under it with both sticks down, and waited.
+I took the stick away. He started laughing and caught me by the forearm. I held on to him. My belly hurt when I laughed, and it hurt worse when I saw Crumble on his feet on the shore, shouting for another with the rest of them.
 
-He looked at me. He showed me his teeth.
+“One each,” Bonesy called. He had my sword belt in one hand and was clapping it against his knee.
 
-“Spaniard is not stupid,” he said.
+The fisherman fished his pole out of the water and pointed it at Crumble.
 
-He came out after me. He had to. Nobody wins a fight by standing in a lake.
+“You next.”
 
-In the shallows he could not go down. He was only a man now, a strong one, with a long reach and a pole. He thrust at my chest. I turned it with the left stick and stepped in along it, inside his reach, where a pole is no use to anybody. He tried to go down and twist away, the way he had in the deep water, and there was not enough water to go down into.
+Crumble sat down so fast Bonesy had to move his hat.
 
-I hit him on the wrist, the ribs and the side of the neck, one after the other. I did it as fast as I can, which is fast. Then I hooked the pole out of his hands with the right stick and laid the left one across his throat, just under the gills.
+“Tomorrow,” the fisherman said to me. “Same place.”
 
-He stood still.
-
-The spearmen on the canoes had gone quiet.
-
-The slits in his neck opened and closed against the stick. He looked down at it, and then at me.
-
-Then he laughed, the whole mouthful of teeth, and the spearmen roared again.
-
-“Two,” Bonesy said. “And one, but it was the one that counts.”
-
-I took the stick away.
-
-The fisherman rubbed his wrist. He looked at it and then at me.
-
-“Again,” he said. “Tomorrow. In the water.”
-
-“In the water you win.”
-
-“In the water I win,” he agreed. “So you learn.”
-
-He picked up his pole and walked off up the shore to the spearmen, and they made room for him on the canoes, and one of them hit him on the shoulder.
-
-I stood there in the shallows with my shirt soaked and my belly aching where the pole had caught me, and the stick still in my hand. I went back into the lake to my knees, alone. I bent my legs and went down sideways and low, the way he had gone, under the stroke of a blade that was not there.
-
-I came up too slow. I tried it again. Better.
-
-Crumble was sitting on the canoe beside Bonesy, with Balam’s blade across his knees. I had not seen him come down.
-
-“You’re learning to swim like a shark now,” he said.
-
-“I’m learning to fight like one.”
-
-“In a morning.”
-
-“That’s how you learn.”
-
-He looked out at the lake for a while.
-
-“Balam made me earn everything,” he said. “Three years.”
-
-He got up and went back to the house. I went down sideways into the water again, and came up, and did it again until I had it.
+I said I’d come. We went up out of the water together, and at the canoes he showed the other men how I’d got past the point. He made me show them the splash again.
 
 ⸻
 

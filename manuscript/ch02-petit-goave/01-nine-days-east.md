@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: At sea, beating east
 when: Nine days' passage
 status: draft
-words: 351
+words: 334
 ---
 
 <!-- BEAT: Crumble names Cardenas as the owner of the robbed fort. Petit-Goâve raised on the ninth evening. -->
@@ -28,4 +28,4 @@ I did not stop working the line. I did not need to ask which Cárdenas. There is
 
 “A man like that,” Crumble agreed, and shifted the tiller a hair to feel the wind, and that was the whole of what we said, because there was nothing to do about it from a small boat six days from anywhere, and because the thing we were not talking about was still louder than Cárdenas, who is a hard thing to be louder than.
 
-We raised Petit-Goâve on the ninth evening, the hills behind it black against a sky going the colour of a bruise on the mend, and came into the road under the last light with the canvas down to nothing, the way you come into a place where everyone watching owns a glass and a grudge.
+We raised Petit-Goâve on the ninth evening. The hills stood black behind it. We came into the road in the last of the light with barely any sail up. Half the shore owned a glass and a grudge.

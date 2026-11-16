@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: At sea, south and west of Petit-Goâve
 when: Night of the escape
 status: draft
-words: 859
+words: 833
 ---
 
 <!-- BEAT: Crumble's account of the forest, the garrison, Domingo taken. The first mark and no leg past it. Water left on the quay. Bonesy names the cay and the stone Ixchel. -->
@@ -18,9 +18,11 @@ It was a long while before anyone spoke. The outpost shrank astern to a scatter 
 
 “And you got out.”
 
-“Put a smoke down and went into the green. Domingo stood up out of it so they’d have a man to take.” His hands stayed easy on the tiller. “Last I saw, they had him on his knees and the Spaniard in the clean coat was looking at the trees. Right at them.” He let a breath out. “So I came down to the boat.”
+“Put a smoke down and went into the green. Domingo stood up out of it so they’d have a man to take.” He reached for the tiller with his other hand. Before he let go I saw how white his knuckles were. “Last I saw, they had him on his knees and the Spaniard in the clean coat was looking at the trees. Right at them.” He let a breath out. “So I came down to the boat.”
 
-I did not tell him he was right to leave. He knew he was right to. There is nothing crueler you can tell a man than that he was right to leave his friend on his knees in the dark, and nothing truer, so I said neither, and let the wind have it.
+“I asked him to come,” Crumble said.
+
+I put my hand on the tiller. He let me take it.
 
 “You get what you went for?” Bonesy said. He’d come aft from the cable, the new hat a black shape against the stars.
 
@@ -62,6 +64,6 @@ He has been to nearly every scrap of land in this sea and remembers almost none 
 
 “Then the water’s clean,” Crumble said. “The Mayans cut a face over a spring to mark it safe.”
 
-So between us we had it. My reckoning of the reef and his of the stone. One gap in that windward face, the surge standing in it like a wall, a boat through at first light or not at all. She’d go through. I’d put her through. I kept the rest in my head.
+Between my reckoning of the reef and his of the stone we had one gap to try. The surge stood up in it like a wall. I could put a boat through at first light. After that we’d have missed our chance. I kept the rest in my head.
 
 I took the first watch. Crumble would not sleep and Bonesy never does, and so we went on three men awake on a small boat, the way we’d come in, lighter by all our water and heavier by everything else, and one eye, all of us now, on the dark astern.

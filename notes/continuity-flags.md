@@ -568,3 +568,34 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
 - **Port Royal rum.** Real, period.
 - **Cozumel as the goddess's island** is real history (the Ix Chel pilgrimage,
   Cortés in 1519). The goddess is not named on the page.
+
+## Humor beats added on Aydin's brainstorm, 2026-11-16
+
+- **5.1, the hat.** Aydin's own passage: Crumble takes the wet hat from
+  Bonesy's teeth and puts it on Jigsaw, who has both hands on the oars. They
+  laugh, Crumble takes the oars, Jigsaw gets Bonesy in. Replaces "Got it." /
+  "I can see that," and the crease line.
+- **5.1, the last orange.** *Invented:* after Crumble agrees to go to Amara,
+  he bets the last orange he can coil his lines first, then eats half while
+  Jigsaw coils. "You won. Your half." It sits just before Jigsaw notices his
+  torn hands at noon, so the reader may see why Crumble did not want to haul
+  wet line. Nobody says so.
+- **4.4, after the passage.** *Invented:* Jigsaw, still holding Crumble's arm:
+  "For a moment I thought you'd turned back." Crumble: "So did I."
+
+## Aydin's updated manuscript made the source, 2026-11-16
+
+Aydin supplied `Book One - Updated Manuscript.md` as the new source and final
+working draft. Every scene file now matches it word for word, and
+`exports/book-one-working-draft.md` rebuilt from the scene files is identical
+to it. His edits touch chapters 1 to 5: among them Crumble's girl is Anne in
+3.2 (the Ixmal flag is resolved), and 5.4 is trimmed.
+
+Not in his manuscript, so removed from the scene files with it:
+- 5.1, Crumble putting Bonesy's wet hat on Jigsaw at the oars (the older
+  "Got it." / "I can see that" stands).
+- 4.4, "For a moment I thought you'd turned back." / "So did I."
+Ask before restoring either.
+
+The BEAT comments at the top of edited scenes were written for the earlier
+text and may no longer match it.

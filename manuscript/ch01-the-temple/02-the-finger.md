@@ -5,18 +5,18 @@ pov: Jigsaw, first person, past
 place: Temple chamber, then the cove
 when: First light after the storm
 status: draft
-words: 2248
+words: 2052
 ---
 
 <!-- BEAT: Jigsaw argues east before west. The plan dies for want of pay. Bonesy produces the saint's finger. Goodbye to Beatriz. -->
 
-The storm went the way I said it would. The teeth came out of it past midnight, a few hard hours throwing what it had left against the headland, and then by the grey before first light it had spent itself and gone north to be some other coast’s trouble. I had slept the way I sleep on a job, in pieces, with one ear out, and when the chamber stopped flinching I came all the way awake and lay listening to the cove. The surge had come down. The pass was talking quietly to itself the way it does on a falling sea. She had taken the whole blow without complaint, which is the most you can ask of a boat and more than you can ask of most men.
+The storm went the way I said it would. The teeth came out of it past midnight, a few hard hours throwing what it had left against the headland, and then by the gray before first light it had spent itself and gone north to be some other coast’s trouble. I had slept the way I sleep on a job, in pieces, with one ear out, and when the chamber stopped flinching I came all the way awake and lay listening to the cove. The surge had come down. The pass was talking quietly to itself the way it does on a falling sea. She had taken the whole blow without complaint, which is the most you can ask of a boat and more than you can ask of most men.
 
 Crumble was already up, sitting against the south wall with his hands loose on his knees, looking at nothing, which was him being ready to go an hour before there was anything to go to. He had not slept much. I could see it and I left it. There are men you ask after and men you leave to find their own bottom, and Crumble has been the second kind since we were boys.
 
 Bonesy had Beatriz in his lap still. He had not put her back on her base.
 
-I got up and stretched the night out of my back. The chamber in the grey light was a smaller, poorer place than it had been by the lamp. The lords on the wall had gone flat, just scratches in old stone, and Beatriz in his lap was a corn god with a chip out of his brow, and the heart in the dust had been walked through so many times in the night it was only dust again. That is the way of places. They are large in the dark and keep their size only as long as you are afraid of them.
+I got up and stretched the night out of my back. The chamber in the gray light was a smaller, poorer place than it had been by the lamp. The lords on the wall had gone flat, just scratches in old stone, and Beatriz in his lap was a corn god with a chip out of his brow, and the heart in the dust had been walked through so many times in the night it was only dust again. That is the way of places. They are large in the dark and keep their size only as long as you are afraid of them.
 
 “We’ll want to be off her by full light,” I said. “She’s been under cover two days and the cover’s gone. Anybody who came up out of the south after the blow with a glass and an hour of clear sky finds a hull where there’s meant to be none.”
 
@@ -52,11 +52,11 @@ Which is when Bonesy set Beatriz down off his lap, gentle, and stood.
 
 “I’ve been waiting two days for one of you to get to that part,” he said.
 
-He reached to the cord at his neck. There was a thinner cord run through the thick one, that I had not marked in a year of looking at him, and he drew it up over the knobs of his spine and held the end of it out into the grey coming through the vines.
+He reached to the cord at his neck. There was a thinner cord run through the thick one, that I had not marked in a year of looking at him, and he drew it up over the knobs of his spine and held the end of it out into the gray coming through the vines.
 
 A finger hung off it. Bone, yellow-brown, longer in the joint than my own, worn smooth at the knuckle the way a thing gets worn by a great many hands that thought touching it would do them good.
 
-Neither of us moved. I have been in a great many rooms when the thing in them changed, and I knew the room had changed, and I was half a step behind it, which does not happen to me often and which I did not enjoy.
+Neither of us moved. I looked at Crumble. He was still looking at the finger.
 
 “That’s the finger,” Crumble said, the way you say a word in a dream. “That’s the saint. That’s the pay.”
 
@@ -70,7 +70,7 @@ Neither of us moved. I have been in a great many rooms when the thing in them ch
 
 “You were very sad. It was educational.” He tilted his skull. “And had I shown you in the courtyard you’d have wanted the box as well, and we’d all three be living in the box now.”
 
-The laugh came up out of Crumble before he could stop it, low and cracked and not rightly knowing if it was a laugh or the other thing, and he sat back against the wall with it and put the heel of his hand to his eye. I felt it climb in me too, the foulness and the relief together, two days of mourning turned in one stroke into two days of a skeleton wearing our pay round his neck and watching us grieve. There is a kind of luck so rotten and so good at once that the only thing a man can do with it is laugh.
+Crumble laughed once and sat back against the wall with the heel of his hand to his eye. I laughed too. The bastard had spent two days wearing our pay round his neck.
 
 But the anger was still in Crumble under it, the two days of it, and it had its say once the laugh thinned.
 
@@ -88,7 +88,7 @@ He went still in a way he does not usually go still, the performing gone clean o
 
 But he’d heard it. I saw him hear it.
 
-“So we get her to the man,” I said, to give him somewhere to put it. “He’s at Petit-Goâve, or his people are. We hand her over, we get paid, we fit her out, and we go.”
+“We take the finger to Petit-Goâve,” I said. “We hand it over, get paid and fit out the sloop.”
 
 Bonesy looked down at the finger against his front.
 
@@ -100,13 +100,13 @@ Bonesy looked down at the finger against his front.
 
 “It’s the whole of what we were paid to do,” I said.
 
-“I know it.” And he did. He stopped turning her and let her rest against the front of him, and he did not argue it, and that was the thing I marked, because Bonesy argues everything, it is the one labor he never tires of, and he did not argue this. He just looked at her a moment longer than the joke wanted. Then he ran the thin cord back down inside the thick one and settled her out of sight, and the matter was closed, and he was the practical thing again.
+“I know it.” He let the finger rest against his ribs. I waited for him to argue. He tucked the cord away.
 
 We left the way you leave a place you don’t mean to see again and don’t want to make a thing of. Crumble stopped at the mouth and said something low in the old tongue to the wall, that I didn’t have and wasn’t meant to. Bonesy stopped by Beatriz. He stood over her a moment, set her square on her base facing out the way she’d faced nine hundred years, and stepped back. He drew no heart. He made no joke.
 
 “Goodbye,” he said to her, and went out ahead of us into the morning, and did not look back at her, and did not touch the cord at his neck, though I half thought he would.
 
-The storm had scrubbed the morning clean. The sky had gone that hard washed blue it goes after a blow, and the cove was so clear over the white sand you could count the links of her chain from the rocks. She sat in the pass between the two stone arms with her single mast raked back and her hull the colour of a thing built not to be seen, riding to her scope, waiting on us like she’d known all along we’d be back and had better things to think about in the meantime.
+The storm had scrubbed the morning clean. The sky had gone that hard washed blue it goes after a blow, and the cove was so clear over the white sand you could count the links of her chain from the rocks. She sat in the pass between the two stone arms with her single mast raked back and her hull the color of a thing built not to be seen, riding to her scope, waiting on us like she’d known all along we’d be back and had better things to think about in the meantime.
 
 I stood on the rock above her and looked past her, out the pass, south and east, the road to Petit-Goâve.
 
