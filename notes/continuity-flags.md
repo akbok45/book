@@ -638,3 +638,13 @@ island answers her. At the fire she stands for the three against the old man
 with the roots. *Invented:* the old man's objection, Amara's "on her head",
 the fisherman and the coral man's wife speaking up, the granddaughter with
 the coin. Aydin to say if "leads" should go further than this.
+
+## 6.3 Anne, invented details (2026-11-16)
+
+Open to veto: the village with a church at the top of one street; Anne
+baking (flour to the wrists); the ship at the river mouth bound for the
+Indies; "You've got you." / "That's not enough."; the boy letting go of her
+hand first (against 5.4, where Crumble has never let go first with Jigsaw,
+which is the point); "She'd have said yes. If I'd asked her."; the English
+song; Crumble able to touch the wall on his own road, as Bonesy touched his
+own earth; Jigsaw joining the same sloop at Tortuga by asking its mate.
