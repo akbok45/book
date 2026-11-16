@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: Maya temple, jungle island off Veracruz
 when: Storm day 2, afternoon
 status: draft
-words: 2362
+words: 2431
 ---
 
 <!-- BEAT: Bonesy courts the stone Beatriz. The failed Veracruz job. Bonesy raises the priests' broken book. Crumble names Balam. Jigsaw names the tarpon pool. -->
@@ -125,6 +125,24 @@ I did not stop working the cord. Crumble’s jaw did.
 He picked up another small piece of stone. He set it next to the first one.
 
 “It was an interesting book,” he said. “By the sound of it.”
+
+“What did it do,” I said.
+
+Bonesy turned the little stone over.
+
+“Never said. Not plain.”
+
+He set it down by the others.
+
+“The young ones said gold. A share laid in with every piece.”
+
+“And the old ones.”
+
+“Dropped their voices for that part.” A pause. “Even with only me in the room.”
+
+“And you never heard.”
+
+“One word, once.” He tipped his skull at the wall. “Before.”
 
 The wind eased another notch.
 

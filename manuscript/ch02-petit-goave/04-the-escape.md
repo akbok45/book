@@ -2,7 +2,7 @@
 scene: 04-the-escape
 title: The Escape
 pov: Jigsaw, first person, past
-place: Tortuga, the tavern step, the front street, the quay
+place: Petit-Goâve, the tavern step, the front street, the quay
 when: The same night, late
 status: draft
 words: 916

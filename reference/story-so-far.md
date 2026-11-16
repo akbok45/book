@@ -2,7 +2,7 @@ Here's the full recap and a deep dive on the cast.
 
 ## The Story So Far (Book One)
 
-**The world.** The Caribbean, 1690. The buccaneer era is fading but still alive. Tortuga still runs as a French-held pirate outpost. The Maya are still resisting Spanish conquest inland. The supernatural exists but is rare, seedy, and mostly ignored, woven into commerce and vice rather than wonder. The book is narrated first-person by Jigsaw, in a plain sailor's voice.
+**The world.** The Caribbean, 1670. The buccaneers are at their height, and the tide is about to turn: this is the year England signs the Treaty of Madrid and promises Spain to put them down. Tortuga is the great French-held haven, the hub where the strange is common. The outpost in chapter 2 is the smaller French post at Petit-Goâve. The Maya are still resisting Spanish conquest inland. The supernatural exists but is rare, seedy, and mostly ignored, woven into commerce and vice rather than wonder. The book is narrated first-person by Jigsaw, in a plain sailor's voice.
 
 **The opening.** Three mercenaries, Jigsaw, Crumble, and Old Bonesy, shelter in an abandoned Maya temple on a jungle island, waiting out a storm. They've just failed a smuggling job: they were hired to steal a saint's finger-bone reliquary from a Spanish fort near Veracruz, but Jigsaw read a storm coming and judged they didn't have time to search the vaults, so they walked away empty-handed. Their stolen Bermuda sloop is tucked in a protected cove nearby.
 
@@ -10,11 +10,11 @@ In the temple, Bonesy entertains himself by carrying on a one-sided romance with
 
 **The Margaret reveal.** As they prepare to leave, Bonesy reveals he actually did secure the finger-bone during the Veracruz job, slipping away unnoticed while the others argued the weather. He let them mourn the failure for two days because it amused him and because he wanted them clear of the fort before producing it. He'd freed it from its gilt reliquary ("no one's so dead they need a house with no door"). The job isn't a failure after all, they can get paid. They leave the island, Bonesy giving the stone Beatriz a quiet, audience-less goodbye.
 
-**Tortuga.** Nine days' sail. On the way, they confirm the Veracruz fort belonged to Don Mateo de Cárdenas, a Spanish colonial officer they've crossed twice before. At Tortuga they deliver the finger to the hire's agent (Vaz) and get paid. They outfit the ship and, almost casually, buy Bonesy his first-ever clothes, a hat, a belt, a blade, the quiet emotional core of the section: no one had ever thought of him as someone you dress, someone who belongs among the living.
+**Petit-Goâve.** Nine days' sail. On the way, they confirm the Veracruz fort belonged to Don Mateo de Cárdenas, a Spanish colonial officer they've crossed twice before. At Petit-Goâve they deliver the finger to the hire's agent (Vaz) and get paid. They outfit the ship and, almost casually, buy Bonesy his first-ever clothes, a hat, a belt, a blade, the quiet emotional core of the section: no one had ever thought of him as someone you dress, someone who belongs among the living.
 
 They split up. Crumble goes to meet Domingo, an old Maya contact who knew Balam as a boy. Jigsaw and Bonesy go to the one tavern, where Jigsaw clocks a too-clean Spanish face, a spy who's been tailing them, who overhears enough (a Maya book, a Maya contact) that Cárdenas, a Thrawn-like collector of his enemies' histories, will assemble the whole picture from fragments. The Tortuga code forbids Jigsaw from acting.
 
-**The escape.** Cárdenas's money turns the French garrison. Crumble, meeting Domingo out in the forest, gets only part of the confirmation, the codex is real, broken in sequence, the cave is the first mark, before soldiers come. Crumble escapes with a smoke screen; Domingo is taken so Crumble can get away. Jigsaw runs for the ship, not knowing if his brother lives. They slip out clean because Tortuga won't allow killing in the harbour, but they've left their water and provisions on the quay. Now they're being hunted, under-provisioned, and quietly aware that their one advantage, outrunning weather in a small fast ship, means nothing against Spanish ships that sail straight through storms. They set course for a hidden cay to refuel, then on to the half-moon island and the first piece of the codex, going in blind to the one thing Domingo never got to tell them.
+**The escape.** Cárdenas's money turns the French garrison. Crumble, meeting Domingo out in the forest, gets only part of the confirmation, the codex is real, broken in sequence, the cave is the first mark, before soldiers come. Crumble escapes with a smoke screen; Domingo is taken so Crumble can get away. Jigsaw runs for the ship, not knowing if his brother lives. They slip out clean because Petit-Goâve won't allow killing in the harbour, but they've left their water and provisions on the quay. Now they're being hunted, under-provisioned, and quietly aware that their one advantage, outrunning weather in a small fast ship, means nothing against Spanish ships that sail straight through storms. They set course for a hidden cay to refuel, then on to the half-moon island and the first piece of the codex, going in blind to the one thing Domingo never got to tell them.
 
 ---
 
@@ -58,17 +58,17 @@ A walking, cursed skeleton. Was an ordinary Maya peasant before the curse, never
 
 ### Don Mateo de Cárdenas — the antagonist
 
-Old (50s+, older than J and C, still a dangerous fighter), forty years a Spanish colonial officer. Served in Peru young, then the Maya regions. Not driven by personal vendetta, he's a colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever isn't, with calculated cruelty, torture, breaking the people around his targets.
+In his early forties, older than J and C and a dangerous fighter, more than twenty years a Spanish colonial officer. Served in Peru young, then the Maya regions. Not driven by personal vendetta, he's a colonialist ideologue who believes the world should be Spanish and Christian and takes out whatever isn't, with calculated cruelty, torture, breaking the people around his targets.
 
 **The Thrawn dimension:** he collects the histories, books, and sacred artifacts of the peoples he destroys, studies them, understands them better than they understand themselves, because you cannot truly finish a people until you do. This makes him uniquely able to assemble the codex's shape from fragments. He keeps occult artifacts of his own, though curses are anomalous even in this world.
 
-**The threat:** he doesn't appear in chases, he plans, watches, runs spies. He was already ahead of the trio at Tortuga. And he commands ships that sail through storms the trio must flee, nullifying their one advantage.
+**The threat:** he doesn't appear in chases, he plans, watches, runs spies. He was already ahead of the trio at Petit-Goâve. And he commands ships that sail through storms the trio must flee, nullifying their one advantage.
 
 ### The dead and the offscreen
 
 **Balam** — Crumble's teacher, a Maya resistance fighter and master who taught him fighting, stealth, history, and language. Died naturally about a year and four months ago, mid-hunt for the codex. Lives in memory; possibly one ghost appearance later if it earns its place.
 
-**Domingo** — Maya contact at Tortuga, knew Balam as a boy, goes by a Spanish name in port. Taken by Cárdenas's soldiers so Crumble could escape. His fate is now an open thread.
+**Domingo** — Maya contact at Petit-Goâve, knew Balam as a boy, goes by a Spanish name in port. Taken by Cárdenas's soldiers so Crumble could escape. His fate is now an open thread.
 
 ---
 

@@ -2,7 +2,7 @@
 scene: 02-the-hat
 title: The Hat
 pov: Jigsaw, first person, past
-place: Tortuga harbour front
+place: Petit-Goâve harbour front
 when: Evening
 status: draft
 words: 1421

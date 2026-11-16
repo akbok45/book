@@ -26,7 +26,7 @@ Everywhere else, name the object.
 
 ## 3. Analogies from their world only
 
-The test: could a man on that deck in 1690 have made this comparison out of what he has seen. If it needs a machine, a science, a city, or an idea from after 1690, it is out.
+The test: could a man on that deck in 1670 have made this comparison out of what he has seen. If it needs a machine, a science, a city, or an idea from after 1670, it is out.
 
 Working examples from the draft, all legal:
 
@@ -58,9 +58,9 @@ When a sentence wants a third comma and is not one of the two exceptions, it is 
 
 > He nodded. He closed his eyes. He took another small piece off the leaf.
 
-## 5. 1690 is locked
+## 5. 1670 is locked
 
-Every object, word, food, weapon, coin, and idea must have existed. `reference/world-1690.md` carries the detail: what they ate, what they were paid in, what the articles said, what a sloop could do that a frigate could not.
+Every object, word, food, weapon, coin, and idea must have existed. `reference/world-1670.md` carries the detail: what they ate, what they were paid in, what the articles said, what a sloop could do that a frigate could not.
 
 The things that break the spell fastest are small. Boot laces. A fair. A word like *focus* or *contact*. The ban list in `CLAUDE.md` is the search and destroy pass.
 

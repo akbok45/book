@@ -10,11 +10,11 @@ words: 993
 
 <!-- BEAT: The one gap in the reef. The spring under the cut face of Ixchel. The Spanish ship stands off and drops a boat. The trap is decided. -->
 
-Which was when I looked astern, the way I had since Tortuga without rightly stopping, and at the hard rim of the sea where there had been nothing all morning, there was a sail.
+Which was when I looked astern, the way I had since Petit-Goâve without rightly stopping, and at the hard rim of the sea where there had been nothing all morning, there was a sail.
 
 I watched it to be sure. A tired eye builds ships out of haze. But it held, too much canvas for the easy wind, a hull driven and not sailed, standing off no honest business of its own.
 
-We had known he sent it. That much we carried out of Tortuga for certain, that the man does not wait on weather the way we do, that a hull built to cut right through a storm the way a sword tears through flesh.
+We had known he sent it. That much we carried out of Petit-Goâve for certain, that the man does not wait on weather the way we do, that a hull built to cut right through a storm the way a sword tears through flesh.
 
 “There he is,” Bonesy said, almost fond, the way he greets what the rest of us dread.
 
@@ -38,7 +38,7 @@ Behind the rocks the spring came out of a low grey face of stone, and over it th
 
 “It’s almost a good thing she can’t talk.”
 
-We got down to the stone and put our faces to the water and drank like a Tortuga cur drinks from the gutter after it rains. No shame in it.
+We got down to the stone and put our faces to the water and drank like a Petit-Goâve cur drinks from the gutter after it rains. No shame in it.
 
 When I sat back I looked out past the reef. She was there. She had come up while we drank, topsails to the mast, riding easy. Not coming on. Not firing. Just waiting, the way a barracuda waits, hung still in the water with everything in it pointed at you, patient because it knows it is faster than the thing it means to have.
 

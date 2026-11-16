@@ -6,7 +6,7 @@ argument-hint: <file, or a chapter>
 Continuity check: $ARGUMENTS
 
 Read `reference/character-bible.md`, then the scene, then the scene on either
-side of it. Check against `reference/world-1690.md` for anything the world has
+side of it. Check against `reference/world-1670.md` for anything the world has
 to support.
 
 Check for:

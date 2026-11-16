@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The cay, then at sea, west and south
 when: The morning after the reef, and the days after
 status: draft
-words: 705
+words: 800
 ---
 
 <!-- BEAT: Sharks in the cove. Stripping the wreck before she goes. Water off the spring under Ixchel. Out west with a better glass and a Spanish chart. Bonesy pries at the pool. Jigsaw's private place is now the only road the three of them have, because Domingo has the rest of the course. Crumble asks the one question that matters and lets it alone. -->
@@ -31,6 +31,16 @@ We went out through the gap on the morning tide with the cove behind us going ab
 It was eleven days west and south.
 
 Eleven days is long enough that a boat stops being a boat and turns into a room three men cannot leave. Crumble had the tiller more than his share of it. Bonesy talked. I read the Spanish charts, which were better than anything I had ever had under my hand, and found on the third day that I had read the same soundings four times and could not have said what they were.
+
+Crumble watched me start a fifth time.
+
+“Balam said a man who hurries the hunt feeds the jaguar.”
+
+“Balam never stood a watch.”
+
+“No.” He kept his eyes on the luff. “He waited. His whole life, he waited.”
+
+I did not say that he had waited his whole life and died with the work undone. I rolled the chart and put it away.
 
 “Your pool,” Bonesy said.
 
@@ -69,6 +79,8 @@ He shifted the tiller a hair to feel the wind.
 “The second.”
 
 He nodded and let it alone. That was the whole of what either of us said about the fact that everything we had left was a pool I had got out of at twenty and rowed away from.
+
+Every dawn Crumble gave the east its day under his breath. On the sixth morning Bonesy gave it one too, a different one, and swore to it. Crumble let him be wrong.
 
 On the ninth day Bonesy asked whether there was stone on it. I told him there was not, that I had seen none. He took it the way a man takes bad weather he has no say in, and did not ask again.
 

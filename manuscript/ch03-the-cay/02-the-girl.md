@@ -5,12 +5,12 @@ pov: Jigsaw, first person, past
 place: At sea, small boat
 when: Night into the next day
 status: draft
-words: 867
+words: 997
 ---
 
 <!-- BEAT: Bonesy pries at Crumble's leaving. Ixmal named. Thirst and the tunny. Crumble's four words about going back. A sail astern. -->
 
-Bonesy lasted until the lamps of Tortuga were down under the sea behind us, and not a breath past it.
+Bonesy lasted until the lamps of Petit-Goâve were down under the sea behind us, and not a breath past it.
 
 He folded onto the thwart across from Crumble and tipped the new hat back off his brow with one finger, easy, a man settling in to enjoy himself.
 
@@ -58,6 +58,8 @@ What he did not say, I knew, and it sat in the boat under the little he did say,
 
 Crumble took the chart from under his coat and held it without unrolling it, which is the most of an answer Bonesy was going to get, and we all knew it, and it went into the boat with the rest of the night’s weight and we left it.
 
+At first light Crumble turned east and said the day’s name under his breath in the old tongue, as he has every dawn since Balam died.
+
 The thirst was bad by full light and the hunger under it worse. Want makes a man quiet. It sits in him and sands him down, and by midmorning the only one of us in any humour was the one with no belly to ache.
 
 “Try wanting nothing,” Bonesy said, watching us not eat. “Gave it up ages back. Light as a gull.”
@@ -81,3 +83,5 @@ Crumble’s hands kept on the fish.
 “There was no room in her life the size of me.” He flicked the bones over. “Came home.”
 
 That was the whole of it, four words doing the work of a year of standing in the trees, and Bonesy let them, because even he knows when a man has handed over the true thing and there’s no call to press it flatter.
+
+Home was our crew, and then it was not. Our last year aboard, on a raid with the deck going up in flames, he came out of the smoke with a Maya girl over his shoulder. I did not see what came before. She told him her father would make something of him if he had it in him. After the town and the room too small for him, he went and found out. Three years under Balam. He came back with the blade and a way of standing still I have never learned, and a saying of the old man’s for most weathers.
