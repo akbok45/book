@@ -53,3 +53,11 @@ Eleven chapters, about 115,000 words planned.
 `main` holds the current book. Work happens on a branch and comes back to
 `main` through a pull request. Pull request akbok45/book#1 brought everything
 up to 5.4 into `main` on 2026-11-16.
+
+## How changes get in (Aydin, 2026-11-16)
+
+- The master draft only grows from Aydin's confirmed text. Claude does not
+  add its own beats or lines to the scene files unless Aydin confirms them.
+- Once Aydin confirms a draft that expands the story, it is merged into
+  `main` straight away.
+
