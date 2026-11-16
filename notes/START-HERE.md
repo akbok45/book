@@ -41,6 +41,8 @@ Eleven chapters, about 115,000 words planned.
   ruling on it.
 - `notes/continuity-flags.md`: what is invented and open to veto.
 - `notes/conversation-*.md`: saved chat logs.
+- `notes/reference-dialogue.md`: links to Arrow seasons 1 and 2, Assassin's
+  Creed II and Black Flag dialogue, for banter between the brothers.
 
 ## Git
 
