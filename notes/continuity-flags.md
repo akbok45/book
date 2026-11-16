@@ -599,3 +599,42 @@ Ask before restoring either.
 
 The BEAT comments at the top of edited scenes were written for the earlier
 text and may no longer match it.
+
+## 5.4 notes from Aydin, 2026-11-16
+
+- **The drink is explained in 5.4 again.** Amara names balché (honey, bark,
+  lilies, three days in a jar, drunk at night in the canoes). This reverses
+  the earlier cut of her drinking line. 6.1 now shows the making of what 5.4
+  names.
+- **"First you meet yourself," and Crumble walks in front.** Aydin wants a
+  big Crumble flashback on the road, with Crumble leading. This collides with
+  the ceremony plan in `notes/village-arc-development.md`:
+  - The plan has Bonesy guide, since he has already crossed, and 6.1 has him
+    lie down in the middle canoe to show it.
+  - The plan starts the road in Bonesy's field (6.2), and the rule says the
+    road goes only where your dead are, not through your own past.
+  - Crumble's own past (Anne, the leaving) would be a new stop, before or
+    instead of Balam's.
+  **Settled 2026-11-16:** Bonesy leads, mainly, with Crumble; Crumble walks
+  his own life before he reaches Balam; Jigsaw mainly watches. 5.4 now says
+  the one who asks walks his own road first. Open points are listed under
+  the 2026-11-16 ruling in `notes/village-arc-development.md`.
+
+## Balam knows Crumble on the road (Aydin, 2026-11-16)
+
+Crumble's road ends at Balam, and Balam knows him. The bible ("His one
+appearance is the vision in Cárdenas's hold") and the 2026-10-28 ruling
+("Balam in the ceremony is the past replaying; he never sees or speaks to the
+three") say otherwise. Aydin to decide which holds. Details in
+`notes/village-arc-development.md`, ruling 2026-11-16 (second).
+
+## Amara leads the preparations (Aydin, 2026-11-16, 6.1 notes)
+
+Aydin asked that 6.1 show Amara leading the village and that the ceremony
+happens because she trusts the three. The bible (2026-10-26) says she is not
+a leader and nobody in the village leads; people go to her because she takes
+care of them. 6.1 keeps both: she gives no orders, asks at every door, and the
+island answers her. At the fire she stands for the three against the old man
+with the roots. *Invented:* the old man's objection, Amara's "on her head",
+the fisherman and the coral man's wife speaking up, the granddaughter with
+the coin. Aydin to say if "leads" should go further than this.

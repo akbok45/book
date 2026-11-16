@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The island, the forest on the lake shore
 when: The days after Small Work
 status: draft
-words: 1815
+words: 2050
 ---
 
-<!-- BEAT: The grey fisherman comes with two headless spears: the village says Jigsaw is fast, so let's see. Jigsaw has taken something from every fighter he ever met and takes two sticks. The fisherman fights from the lake, going down low and sideways like a shark under a boat, and knocks Jigsaw down twice. Jigsaw backs to the shallows and waits; the fisherman must come out, has no water to go down into, and Jigsaw gets inside his reach and lays a stick across his throat under the gills. "Again. Tomorrow. In the water." Jigsaw practises the shark's drop alone. Crumble: Balam made him earn everything. Amara lays out all the leaf gives her: the road, seven days, the island, a place that speaks. Crumble knows only what everybody knows about the long island. The leaf will not give more to looking. There is an old way of going to ask the dead, and the village keeps it. Amara will stay to keep them. Crumble will go; nobody goes alone, so Jigsaw will, and they shake on it like boys trying to break each other's hands. "What does it cost?" "Sometimes people don't come all the way back." At dawn Crumble talks to the lake a long time after naming the day. Port Royal rum. -->
+<!-- BEAT: The grey fisherman comes with two headless spears: the village says Jigsaw is fast, so let's see. Jigsaw has taken something from every fighter he ever met and takes two sticks. The fisherman fights from the lake, going down low and sideways like a shark under a boat, and knocks Jigsaw down twice. Jigsaw backs to the shallows and waits; the fisherman must come out, has no water to go down into, and Jigsaw gets inside his reach and lays a stick across his throat under the gills. "Again. Tomorrow. In the water." Jigsaw practises the shark's drop alone. Crumble: Balam made him earn everything. Amara lays out all the leaf gives her: the road, seven days, the island, a place that speaks. Crumble knows only what everybody knows about the long island. The leaf will not give more to looking. There is an old way of going to ask the dead, and the village keeps it. Amara will stay to keep them. Crumble will go; nobody goes alone, so Jigsaw will, and they shake on it like boys trying to break each other's hands; Jigsaw grins, they have been worse places than the dead. Amara explains the drink: honey, balché bark and lilies, three days in a jar, drunk at night in the canoes. First you meet yourself; the one who goes to ask walks his own road first, and Crumble takes it. "What does it cost?" "Sometimes people don't come all the way back." At dawn Crumble talks to the lake a long time after naming the day. Port Royal rum, and they laugh till the sun is up. -->
 
 The grey fisherman came down to the shore the next morning with two spears.
 
@@ -162,11 +162,41 @@ I took it.
 
 He gripped hard. He has gripped hard since we were boys on our first ship, each trying to make the other let go first, and he has never once let go first. Neither have I. We sat there over that old painted bark with our knuckles going white, looking at each other.
 
-“When you two are finished,” Amara said.
+“We’ve been worse places than the dead,” I said.
 
-We let go at the same time. I could not feel my fingers.
+I grinned at him. His mouth went up at one corner, and his grip got harder.
 
-Amara was watching me.
+We let go at the same time.
+
+“How do we get there?” I said to Amara.
+
+“You drink.”
+
+“Drink what?”
+
+“Balché.” She held up one hand and counted it off on her fingers. “Honey from the hives. Bark from the balché tree in the forest. Lilies out of the lake. It stands in a jar three days till it turns. Then you drink it at night, out on the water, and lie down in a canoe.”
+
+“And then?”
+
+“And then it takes you down.”
+
+“So we get drunk.”
+
+“You get drunk on rum.” She did not smile. “This is not rum.”
+
+“How do we find the ones we want? There must be a great many dead.”
+
+She took her time over that.
+
+“First you meet yourself,” she said.
+
+I waited for the rest of it. It sounded like something a priest says to get a coin.
+
+“Before the dead, the road shows you what you carry,” she said. “What you have done. Who you left. Nobody gets past that part without walking through it.” She looked at Crumble. “The one who goes to ask walks his own road first. The others walk it with him.”
+
+Crumble did not look up from the leaf.
+
+“Then it’s mine,” he said.
 
 “What does it cost?” I said.
 
@@ -174,7 +204,7 @@ I had not meant to say it. It came out by itself, the way my hand goes to my pur
 
 She considered the question as if it were a fair one.
 
-“Honey,” she said. “Bark. Three days. A night.” She paused. “Sometimes people don’t come all the way back.”
+“Three days to make,” she said. “A night to drink.” She paused. “Sometimes people don’t come all the way back.”
 
 “What does that mean?”
 
@@ -224,4 +254,4 @@ After a while he said, “You ever drink anything that showed you the dead?”
 
 “Nothing is worse than that.”
 
-The corner of his mouth moved. He did not say anything else.
+He laughed. It came out of him short, through the nose, and then I was laughing too. We sat on the canoe and laughed at Port Royal rum till the sun was clear of the trees.

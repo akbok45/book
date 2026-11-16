@@ -619,3 +619,56 @@ own working, the one that rises and fails in the stillness, must be something
 else. Candidates for drafting: a working with fire or breath, matching what he
 teaches the student in 6.4; or something with water. To decide when 6.5 is
 drafted.
+
+## Ruling, 2026-11-16 (Aydin)
+
+**Bonesy leads on the road, mainly, with Crumble.** Crumble walks through the
+important points of his own life before he can reach Balam, and Jigsaw mainly
+watches him do it. This adds a Crumble flashback stretch to chapter 6 and
+softens rule 1 ("the road goes where your dead are"): for the one who goes to
+ask, the road first runs through his own life. In 5.4 Amara now says the one
+who goes to ask walks his own road first, and Crumble says "Then it's mine."
+
+Still open, to decide before 6.2:
+- Which points of Crumble's life. Candidates from the bible, none chosen:
+  Anne at sixteen and the leaving; Petit-Goâve or Tortuga and meeting
+  Jigsaw on their first ship; saving Amara on the raid; the return at about
+  nineteen and the ordinary man; the first meeting with Balam.
+- Whether Bonesy's field (6.2) still opens the road, before Crumble's life.
+- Whether Jigsaw's own stop, the apothecary's drawer (6.6), stays, given he
+  "mainly watches".
+- Whether the stops come before Four Roads (6.3) or after it.
+
+## Ruling, 2026-11-16 (Aydin, second)
+
+**Crumble's road, in order:**
+1. Anne at sixteen, and the leaving.
+2. Meeting Jigsaw on their first ship.
+3. Saving Amara on the raid.
+4. Going back at nineteen and finding Anne married to an ordinary man.
+5. Then the road brings him to Balam, and **this time Balam knows who he is.**
+
+Collides with the 2026-10-28 second-round ruling and the bible: Balam in the
+ceremony is the past replaying and never sees or speaks to the three; his
+conversation with Crumble in the hold vision (now chapter 9) is his one real
+appearance. A Balam who knows Crumble on the road is a real appearance.
+**Decide:** does the ceremony meeting replace the hold vision conversation,
+come before it as a second appearance, or stay short (recognition, no talk)?
+
+Still open from the first ruling: whether Bonesy's field opens the road,
+whether Jigsaw keeps the apothecary's drawer, and where Four Roads sits.
+
+## Ruling, 2026-11-16 (Aydin, third)
+
+**The road opens at Bonesy's old Maya farm,** where he lived before he was a
+skeleton (6.2 Bonesy's Field stands). From there **Bonesy takes them to
+Crumble's road.** Crumble's four stops are his passage to Balam, and at the
+end of it he talks to his mentor.
+
+Order so far: Bonesy's farm, then Crumble's four stops, then Balam.
+
+Still open:
+- Whether this talk replaces the hold vision conversation in chapter 9 or is
+  a second appearance (flag of 2026-11-16 in `notes/continuity-flags.md`).
+- Where the planned 6.3 to 6.6 go: Four Roads, the Student, the Burning, and
+  Jigsaw's apothecary drawer.
