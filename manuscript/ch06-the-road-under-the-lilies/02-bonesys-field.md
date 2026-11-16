@@ -4,8 +4,8 @@ title: Bonesy's Field
 pov: Jigsaw, first person, past
 place: A maize field on the road, then an English lane
 when: Dawn on the road
-status: Aydin's draft, not yet confirmed for merge
-words: 1069
+status: draft, confirmed by Aydin 2026-11-16
+words: 1066
 ---
 
 <!-- BEAT: Jigsaw wakes in a furrow between rows of maize. Nothing holds his wrist. The night in pieces: the torches, the fisherman's canoe, the gourd from Amara, sour, honey and bark and lilies, Crumble watching him drink, the antler on the shell, Bonesy's cold fingers. Crumble in the next furrow. A man with his back to them: "Fellas." They know the voice at once. Bonesy is a man: short, bowed, a bent nose, two teeth gone, brown eyes where Jigsaw has seen daylight. Crumble swears. He breathes. Jigsaw's hand on his shoulder: warm. "Don't get ideas." Hands in the earth. "Smaller than I remember." The hat came with him. Jigsaw's hand goes through a cob; they are only visiting. A house, a young woman with an English face grinding maize and singing, and Jigsaw understands every word. Crumble goes ahead toward her; Bonesy keeps his eyes on the path. Jigsaw looks back and sees the academy, his old fencing master on the steps shaking his head. The maize turns to a muddy English lane in the rain, Bonesy's arm round Crumble. "I know this lane." A village below, a house with an open door, a woman singing inside. -->
@@ -92,7 +92,7 @@ The row came out onto a path. It was beaten earth, red like the rest, running al
 
 The path ran on to a house.
 
-It had a thatched roof and a little yard. A dog lay by the door. A woman was kneeling in the doorway at a grinding stone. She was young. Her face was an English face, pale under the sun, with freckles across the nose and a mouth that turned up at one corner as she sang. Her black hair fell over one shoulder as she worked.
+It had a thatched roof and a little yard. A dog lay by the door. A woman was kneeling in the doorway at a grinding stone. She was young. Her face was an English face, pale under the sun, with freckles across the nose and a mouth that turned up at one corner. Her black hair fell over one shoulder as she worked.
 
 She was singing.
 
