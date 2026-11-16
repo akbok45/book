@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The coast north of the half-moon island, then a river on the mainland
 when: The days after the cave
 status: draft
-words: 5226
+words: 5182
 ---
 
 <!-- BEAT: Out through the wall with Bonesy walking the jar along the bottom. North up the coast. Jigsaw counts what is left of the money, three times, and Crumble catches him at it. A Spanish sail on the second day. Jigsaw shows it a course for Port Royal until dark, then puts out the lights, doubles back and runs inside the reef with Bonesy calling the coral from the bow and Crumble on the lead. By dawn the sail is gone. Crumble agrees to go to Amara and washes his sash. Jigsaw dresses Crumble's torn hands. That night Jigsaw counts the coins once more and lies down. Dream: the apothecary who says it isn't enough, who remembers his father paid with a sword for his mother's medicine, is sorry, and will not give it. The lit house with the supper table, the empty sword hooks, the lie to his father, who knows. He wakes at grey. Crumble: bad one? Old one. Jigsaw takes the tiller. The river mouth, the brown water, the trees closing over. Jigsaw out of his element, hand on his hilt. Crumble leads, and every time he looks back Jigsaw's shoulders come down. Bonesy goes in after his hat. The sloop hidden in a creek. On foot to the lake. A voice from the trees. -->
@@ -686,19 +686,17 @@ Crumble looked back at me.
 
 I kept rowing.
 
-A little while later Bonesy came up beside us with the hat in his teeth. Crumble leaned over and took it from him.
+A little while later Bonesy’s skull appeared above the water beside us, the hat held in his teeth.
 
-“Here,” he said. “It ought to dry on a head.”
+He climbed aboard and shook himself like a dog.
 
-I thought he meant his own.
+“Got it,” he said.
 
-He put it on me. Cold water ran down my neck and all the way to my arse. I had both hands on the oars. Crumble knew it, too.
+“I can see that,” I told him.
 
-Bonesy hung on to the side and laughed. I tried to give Crumble a look and laughed right along with him.
+He took the hat from his mouth, looked at the water dripping off the brim, and put it back on.
 
-“Take the oars, you bastard.”
-
-He took them. I got Bonesy in and gave him back his hat.
+The crease was still there.
 
 On the third day the river grew too narrow and too shallow for the sloop.
 

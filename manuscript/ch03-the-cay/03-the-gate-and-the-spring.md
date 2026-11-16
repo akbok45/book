@@ -20,9 +20,9 @@ We had known he sent it. That much we carried out of Petit-Goâve for certain, t
 
 And dead ahead, low and green and ringed all round with bright shoal water, the cay came on, and the one mean gate in it, and behind the gate the only water for sixty miles that would not kill us.
 
-The gate did not look like a gate. It looked like a wide bright road in. That is the trick of clear water, and it has drowned more men than rough water ever has. Rough water frightens a man honest. Clear water lies to him sweet. I read the reef off the colour of it, the dark green that is depth and the brown green that is a coral head a foot down. There was one way into that cove, the way there is one gap in a fence a fox can take, and we barely made it.
+The gate did not look like a gate. It looked like a wide bright road in. That is the trick of clear water, and it has drowned more men than rough water ever has. Rough water frightens a man honest. Clear water lies to him sweet. I read the reef off the color of it, the dark green that is depth and the brown green that is a coral head a foot down. There was one way into that cove, the way there is one gap in a fence a fox can take, and we barely made it.
 
-The cay sat low and green ahead. A hook of palms, and behind them other trees climbing higher, all of them competing for the sun, a jungle island shouldering up out of the sea. A beach under the palms the colour of bone. No track on it, no fire-black, no mark of a boat ever drawn up.
+The cay sat low and green ahead. A hook of palms, and behind them other trees climbing higher, all of them competing for the sun, a jungle island shouldering up out of the sea. A beach under the palms the color of bone. No track on it, no fire-black, no mark of a boat ever drawn up.
 
 As we rounded into the cove we dropped the anchor. The water was warm as blood, and we went over the side and swam in.
 
@@ -30,7 +30,7 @@ Bonesy went up the sand ahead of us, skipping, a choirboy let out of the cathedr
 
 “Mind the wet rocks,” he sang out.
 
-Behind the rocks the spring came out of a low grey face of stone, and over it the Mayans had cut a woman, worn near to nothing, only the line of the nose and a closed and patient eye. Bonesy stopped and caressed her face.
+Behind the rocks the spring came out of a low gray face of stone, and over it the Mayans had cut a woman, worn near to nothing, only the line of the nose and a closed and patient eye. Bonesy stopped and caressed her face.
 
 “I spent many years with this one,” he said.
 

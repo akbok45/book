@@ -582,3 +582,20 @@ now 5.6 and Amara Joins is 5.7, in the outline doc and OUTLINE.md.
   wet line. Nobody says so.
 - **4.4, after the passage.** *Invented:* Jigsaw, still holding Crumble's arm:
   "For a moment I thought you'd turned back." Crumble: "So did I."
+
+## Aydin's updated manuscript made the source, 2026-11-16
+
+Aydin supplied `Book One - Updated Manuscript.md` as the new source and final
+working draft. Every scene file now matches it word for word, and
+`exports/book-one-working-draft.md` rebuilt from the scene files is identical
+to it. His edits touch chapters 1 to 5: among them Crumble's girl is Anne in
+3.2 (the Ixmal flag is resolved), and 5.4 is trimmed.
+
+Not in his manuscript, so removed from the scene files with it:
+- 5.1, Crumble putting Bonesy's wet hat on Jigsaw at the oars (the older
+  "Got it." / "I can see that" stands).
+- 4.4, "For a moment I thought you'd turned back." / "So did I."
+Ask before restoring either.
+
+The BEAT comments at the top of edited scenes were written for the earlier
+text and may no longer match it.

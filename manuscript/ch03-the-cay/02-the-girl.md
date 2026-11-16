@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: At sea, small boat
 when: Night into the next day
 status: draft
-words: 997
+words: 961
 ---
 
 <!-- BEAT: Bonesy pries at Crumble's leaving. Ixmal named. Thirst and the tunny. Crumble's four words about going back. A sail astern. -->
@@ -38,7 +38,7 @@ Bonesy knew most of it already. A year in a small boat and he had all our headli
 
 “I like to hear you say her.”
 
-Crumble took a turn off the sheet that did not need taking and made it fast. “Ixmal,” he said. The old name, the one Balam’s people gave a child born in a hard season, that means something near enough to bear. “A town. I was sixteen and a crew would have me.”
+Crumble took a turn off the sheet that did not need taking and made it fast. “Anne,” he said. “A town. I was sixteen and a crew would have me.”
 
 “And you went.”
 
@@ -60,15 +60,11 @@ Crumble took the chart from under his coat and held it without unrolling it, whi
 
 At first light Crumble turned east and said the day’s name under his breath in the old tongue, as he has every dawn since Balam died.
 
-The thirst was bad by full light and the hunger under it worse. Want makes a man quiet. It sits in him and sands him down, and by midmorning the only one of us in any humour was the one with no belly to ache.
+The thirst was bad by full light and the hunger under it worse. Want makes a man quiet. It sits in him and sands him down, and by midmorning the only one of us in any humor was the one with no belly to ache.
 
 “Try wanting nothing,” Bonesy said, watching us not eat. “Gave it up ages back. Light as a gull.”
 
-“You want a hat.”
-
-“Got the hat.”
-
-I put a handline over and trolled it on the quarter while the cay came up green and low, and short of noon a little tunny took it. Crumble bled him over the side and we ate him raw and warm. It gives a man back a little but never the thing he’s after, the salt of a fish only sharpening the want of clean water down the line. It steadied us. Enough to think with.
+I let a handline trail behind us as we sailed toward the cay. A little tunny took it just before noon. Crumble bled him over the side and we ate him raw and warm. It gives a man back a little but never the thing he’s after, the salt of a fish only sharpening the want of clean water down the line. It steadied us. Enough to think with.
 
 Bonesy watched us eat, the way he watches everything we do with our mouths, like a man at the border of a country he’ll never hold papers for.
 
