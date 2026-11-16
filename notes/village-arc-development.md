@@ -657,3 +657,18 @@ come before it as a second appearance, or stay short (recognition, no talk)?
 
 Still open from the first ruling: whether Bonesy's field opens the road,
 whether Jigsaw keeps the apothecary's drawer, and where Four Roads sits.
+
+## Ruling, 2026-11-16 (Aydin, third)
+
+**The road opens at Bonesy's old Maya farm,** where he lived before he was a
+skeleton (6.2 Bonesy's Field stands). From there **Bonesy takes them to
+Crumble's road.** Crumble's four stops are his passage to Balam, and at the
+end of it he talks to his mentor.
+
+Order so far: Bonesy's farm, then Crumble's four stops, then Balam.
+
+Still open:
+- Whether this talk replaces the hold vision conversation in chapter 9 or is
+  a second appearance (flag of 2026-11-16 in `notes/continuity-flags.md`).
+- Where the planned 6.3 to 6.6 go: Four Roads, the Student, the Burning, and
+  Jigsaw's apothecary drawer.
