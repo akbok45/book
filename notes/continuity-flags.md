@@ -619,3 +619,11 @@ text and may no longer match it.
   his own life before he reaches Balam; Jigsaw mainly watches. 5.4 now says
   the one who asks walks his own road first. Open points are listed under
   the 2026-11-16 ruling in `notes/village-arc-development.md`.
+
+## Balam knows Crumble on the road (Aydin, 2026-11-16)
+
+Crumble's road ends at Balam, and Balam knows him. The bible ("His one
+appearance is the vision in Cárdenas's hold") and the 2026-10-28 ruling
+("Balam in the ceremony is the past replaying; he never sees or speaks to the
+three") say otherwise. Aydin to decide which holds. Details in
+`notes/village-arc-development.md`, ruling 2026-11-16 (second).

@@ -638,3 +638,22 @@ Still open, to decide before 6.2:
 - Whether Jigsaw's own stop, the apothecary's drawer (6.6), stays, given he
   "mainly watches".
 - Whether the stops come before Four Roads (6.3) or after it.
+
+## Ruling, 2026-11-16 (Aydin, second)
+
+**Crumble's road, in order:**
+1. Anne at sixteen, and the leaving.
+2. Meeting Jigsaw on their first ship.
+3. Saving Amara on the raid.
+4. Going back at nineteen and finding Anne married to an ordinary man.
+5. Then the road brings him to Balam, and **this time Balam knows who he is.**
+
+Collides with the 2026-10-28 second-round ruling and the bible: Balam in the
+ceremony is the past replaying and never sees or speaks to the three; his
+conversation with Crumble in the hold vision (now chapter 9) is his one real
+appearance. A Balam who knows Crumble on the road is a real appearance.
+**Decide:** does the ceremony meeting replace the hold vision conversation,
+come before it as a second appearance, or stay short (recognition, no talk)?
+
+Still open from the first ruling: whether Bonesy's field opens the road,
+whether Jigsaw keeps the apothecary's drawer, and where Four Roads sits.
