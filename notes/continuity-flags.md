@@ -615,5 +615,7 @@ text and may no longer match it.
     road goes only where your dead are, not through your own past.
   - Crumble's own past (Anne, the leaving) would be a new stop, before or
     instead of Balam's.
-  **Decide:** who leads and who guides, and where the Crumble flashback sits
-  among 6.2 to 6.6.
+  **Settled 2026-11-16:** Bonesy leads, mainly, with Crumble; Crumble walks
+  his own life before he reaches Balam; Jigsaw mainly watches. 5.4 now says
+  the one who asks walks his own road first. Open points are listed under
+  the 2026-11-16 ruling in `notes/village-arc-development.md`.
