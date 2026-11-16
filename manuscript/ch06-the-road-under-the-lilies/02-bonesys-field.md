@@ -5,64 +5,30 @@ pov: Jigsaw, first person, past
 place: The lake at night, then a maize field on the road
 when: The fourth night, and the dawn on the road
 status: draft, for Aydin to confirm
-words: 2179
+words: 1898
 ---
 
-<!-- BEAT: Night on the lake. The whole island on the shore, the fisherman calling his bet. Amara's canoe alongside with the drum. The two gourds: sour, sweet, the bark bitter under it. They lie down with Bonesy between them, his hand on Jigsaw's wrist. The drum, and Jigsaw goes down the way he went through the pool. Dawn in a maize field, dew on everything. Bonesy is a man: short, bow legged, brown, missing teeth, a pale band worn across his brow. He touches his face and his mouth, looks at his hands, sits in the furrow with his fingers in the earth and his eyes shut in the sun. Jigsaw looks at the maize; Crumble watches. Then the joke: he looks under his loincloth. "Smaller than I remember." The hat came with him. Jigsaw reaches for a cob and his hand goes through it; Bonesy can touch, since it is his. Big jars sealed with wax by the path, like the jar from the cave; his hand goes to the strap mark on his brow. A house with smoke in the thatch and a woman grinding maize and singing, and Jigsaw understands every word. Bonesy will not look at her and walks fast the other way. Nobody asks. Where the maize ends there is a cold lane under rain, and Crumble knows it. -->
-
-The whole island came down to the shore to see us off.
-
-They stood along the sand in the dark with torches. Children sat on the upturned canoes. The old man with the roots had been carried down on his stool and set at the edge of the water, and he sat there with his granddaughter in his lap and did not look at me.
-
-The grey fisherman called something as we waded out. The men round him laughed.
-
-“He says remember his canoe,” Bonesy said.
-
-“Tell him I’ll be first.”
-
-Bonesy told him. They laughed harder.
-
-The middle canoe was tied off a stake in water to my knees. Amara’s canoe was tied alongside it, with the drum in the bottom and the jar between her feet. The lilies lay all round us on the black water. Every one of them was shut.
-
-Crumble got in first and lay down on the left side. Bonesy got in after him and lay in the middle with his hat over his face. That left me the right.
-
-I lay down. The boards were cold through my shirt. Over me the sky was thick with stars, and the canoe moved under me the way a canoe does, a little and then a little more.
-
-Amara leaned across from her canoe and gave Crumble his gourd. Then she gave me mine.
-
-It was heavier than I had thought. I came up on one elbow to drink it.
-
-It was thick, and sour first, like the honey. Then sweet. Under the sweet was the bark, bitter as a green stick, and under that the smell of the lilies the children had cut. It went down slow. I drank all of it, because Crumble had drunk all of his and was looking at me.
-
-Amara took the gourds back. She did not say anything. She picked up the antler.
-
-The first stroke on the drum went into the water and came back up through the boards into my back.
-
-I lay down.
-
-Bonesy’s hand came over and closed on my wrist. The bones were cold. He did not say anything about it, and neither did I.
-
-The drum went on. The same stroke at the same place. After a while I could not tell where the drum stopped and the canoe began. My legs went heavy, then my arms. It was the heaviness of a cask that has taken on water. It stops riding and settles, and the sea comes in over the rim, and it goes down without a sound.
-
-The stars went slow.
-
-Then they went out, one at a time, the way the lamps had gone out at the doors on the island, and the cold of Bonesy’s hand was the last of it.
-
-I went down.
-
-It was the pool again. The dark and the weight, and the water closing over and the light going brown, then green, then nothing. I kept waiting for the false wall and the step and the air. There was no wall. There was only the going down. Somewhere above me the drum struck once more, a long way off.
-
-⸻
+<!-- BEAT: Jigsaw wakes before dawn in a maize field, dew and mist, the last stars, a dove, no drum. The night comes back to him in pieces: the island on the shore, the fisherman's canoe, the drink, the first stroke of the drum, Bonesy's cold hand on his wrist, and down like the pool. Nothing holds his wrist now. Bonesy is a man: short, bow legged, brown, missing teeth, a pale band worn across his brow. He touches his face and his mouth, looks at his hands, sits in the furrow with his fingers in the earth and his eyes shut in the sun. Jigsaw looks at the maize; Crumble watches. Then the joke: he looks under his loincloth. "Smaller than I remember." The hat came with him. Jigsaw reaches for a cob and his hand goes through it; Bonesy can touch, since it is his. Big jars sealed with wax by the path, like the jar from the cave; his hand goes to the strap mark on his brow. A house with smoke in the thatch and a woman grinding maize and singing, and Jigsaw understands every word. Bonesy will not look at her and walks fast the other way. Nobody asks. Where the maize ends there is a cold lane under rain, and Crumble knows it. -->
 
 There was dew on my face.
 
-I opened my eyes. Over me there were green leaves, long and ragged, and the sky behind them going white with morning. The leaves dripped. A drop came down off the end of one and hit me in the eye.
+I opened my eyes. It was not yet morning. Over me there were long ragged leaves, black against a sky gone the grey of a gull’s back, with the last stars still in it. The leaves dripped. A drop came down off the end of one and hit me in the eye.
+
+I lay still. I did not know where I was.
+
+The air was cool, cooler than the lake had ever been. Mist lay knee high along the ground between the rows, and I was lying under it. Somewhere a dove was calling, the same three notes over and over. Far off a dog barked once and stopped.
+
+There was no drum.
+
+The drum was the last I had of the night. Before it, the whole island on the shore with its torches, and the grey fisherman calling after me to remember his canoe. Amara leaning across from her canoe with the gourds. The drink, thick and sour, with the bark bitter under the sweet and the smell of the lilies under that. I had drunk all of mine because Crumble had drunk all of his and was looking at me. Then the first stroke of the antler on the shell, and Bonesy’s hand coming over and closing on my wrist, the bones cold.
+
+Then the going down. It was the pool again. The dark and the weight, and the light going brown, then green, then nothing. I had waited the whole way for the false wall and the step and the air. There had been no wall.
+
+I put my hand to my wrist. Nothing was holding it.
 
 I sat up.
 
-I was lying in a furrow. The earth under me was red and soft and wet. On both sides the maize stood in rows higher than a man, with the cobs fat in their husks and beans climbing the stalks. Squash vines ran along the ground between the rows. Somewhere a dove was calling, the same three notes over and over.
-
-There was no drum.
+The mist came up to my chest. Over the top of it the light was coming grey and then white along one edge of the sky. I was lying in a furrow. The earth under me was red and soft and wet. On both sides the maize stood in rows higher than a man, with the cobs fat in their husks and beans climbing the stalks. Squash vines ran along the ground between the rows under the mist.
 
 Crumble was sitting up in the next furrow. He had dew in his hair and red earth down one side of his face. He was looking past me, up the row.
 
