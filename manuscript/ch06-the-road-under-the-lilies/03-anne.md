@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: An English village in the rain, on the road
 when: The road, Crumble's first stop
 status: draft, for Aydin to confirm
-words: 1368
+words: 1367
 ---
 
 <!-- BEAT: Down into the village in the rain to the house with the stone wall. A woman singing inside. A boy comes down the lane at a run, sixteen, thin, a bag on his shoulder, his left foot turned out. Jigsaw knows him by his feet. Bonesy: "Skinny." Anne comes to the door with flour on her hands, the face from the grinding stone. There is a ship; a crew will have him; he goes on the tide. "I'll come back." "When?" "When I've something to come back with." "You've got you." "That's not enough." She holds his hand across the wall. He lets go first. Jigsaw has never seen him let go first. He opens his mouth to ask her to wait and does not. He runs. She stands in the rain and goes in, and the singing does not start again. Crumble: "Quick about everything." Jigsaw stands with his shoulder against him. They follow the boy down the lane, and the lane goes down to a hot harbour full of masts, and Jigsaw knows the ship. -->
@@ -126,7 +126,7 @@ Crumble was looking at the open door. The rain ran down his face, and I could no
 
 “Quick about everything,” he said.
 
-He said it to the door. It was what he had said to Bonesy in the boat off the cay, turning his leaf. He had said it then as if it were a small thing.
+He said it to the door. It was what he had said to Bonesy in the boat off the cay, turning his leaf. He had said it then as if it cost him nothing.
 
 I moved over till my shoulder was against his. I did not say anything. There was nothing in me to say that would have been any use to him. A girl did not wait for me either, and I have never told him her name, and he has never asked. I stood there with my shoulder against his and let that be the whole of it.
 
