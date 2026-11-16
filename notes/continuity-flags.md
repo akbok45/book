@@ -627,3 +627,14 @@ appearance is the vision in Cárdenas's hold") and the 2026-10-28 ruling
 ("Balam in the ceremony is the past replaying; he never sees or speaks to the
 three") say otherwise. Aydin to decide which holds. Details in
 `notes/village-arc-development.md`, ruling 2026-11-16 (second).
+
+## Amara leads the preparations (Aydin, 2026-11-16, 6.1 notes)
+
+Aydin asked that 6.1 show Amara leading the village and that the ceremony
+happens because she trusts the three. The bible (2026-10-26) says she is not
+a leader and nobody in the village leads; people go to her because she takes
+care of them. 6.1 keeps both: she gives no orders, asks at every door, and the
+island answers her. At the fire she stands for the three against the old man
+with the roots. *Invented:* the old man's objection, Amara's "on her head",
+the fisherman and the coral man's wife speaking up, the granddaughter with
+the coin. Aydin to say if "leads" should go further than this.

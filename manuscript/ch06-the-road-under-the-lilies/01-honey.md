@@ -5,16 +5,16 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake, and the forest on the shore
 when: The three days after The Sign
 status: draft, for Aydin to confirm
-words: 2524
+words: 2875
 ---
 
-<!-- BEAT: Three days of preparation, and the village does the work. The old woman with the pipe opens the log hives; the bees do not sting, and Jigsaw waits for it anyway. The honey is in little wax pots, not comb. Amara asks and people answer; she gives no orders. The jaguar-shadow man takes Jigsaw and Crumble into the forest for the bark, and his shadow goes ahead of him. Crumble says the friars flogged men for this drink. The children cut lilies in the shallows with Bonesy; by afternoon the cut ones have closed. The claw woman brings the turtle shell drum and Amara tunes it. Bonesy tastes the brew and it runs out through his jaw. It will not take him. He says he is coming anyway, and lies down in a canoe to show how. The night before, Jigsaw counts his coins and cannot say why. -->
+<!-- BEAT: Three days of preparation, and all of it goes through Amara. She asks at every door, and the island answers her. The old woman with the pipe opens the log hives because Amara asked; the bees have no sting. A man lends his wife's big jar when Amara says it is for her father's student and his brothers. At the fire the old man with the roots says the road of the dead is no road for a Spaniard. Amara stands and puts it on her own head: her father trusted Crumble, Crumble trusts Jigsaw, that is enough. The grey fisherman and the coral man's wife speak up for Jigsaw, the old man's granddaughter sits against his leg with his coin on her cord, and the old man lets it go. Crumble watches Amara. The jaguar-shadow man takes the brothers into the forest for balché bark; the Spanish priests on the coast whip men for the drink. The children cut lilies with Bonesy; by afternoon the cut ones have shut. The claw woman tunes the turtle shell drum. Bonesy tastes the brew and it runs out through his jaw; he is coming anyway, to hold Jigsaw's hand and keep Crumble from getting lost, and lies down in the middle canoe to show how. Crumble lies down beside him. Amara watches. The night before, Jigsaw counts his coins three times. -->
 
 The old woman with the pipe opened the hives on the first morning.
 
-I was down at the water before light. Crumble was in the lake, saying the day. I heard the two words and did not look round. I had stopped looking round when he said them.
+Amara had gone to her door the night before. I saw it from our step. Amara stood in the doorway a long while and talked low, and the old woman sat inside with her pipe and listened. Then she nodded once. Amara touched her arm and went on to the next house.
 
-When I came up the path she was already at the first house, under the eaves. She had a smoking pot of bark in one hand and her pipe in her teeth. A hollow log hung under the thatch on two cords. She was picking the clay out of one end of it with her thumbnail.
+By first light the old woman was at the first log. She had a smoking pot of bark in one hand and her pipe in her teeth. The log hung under the thatch on two cords, and she was picking the clay out of one end of it with her thumbnail.
 
 The bees came out round her fingers. They were small and black, smaller than a fly. They walked over her knuckles and onto her wrist.
 
@@ -34,27 +34,19 @@ He asked her. She answered round the pipe.
 
 I came closer.
 
-The bees walked on her arm and did nothing. They got in her hair. One of them walked across the back of my hand and I held still till it had gone, and nothing came of it. The skin on the back of my hand stayed cold a while after.
+The bees walked on her arm and did nothing. They got in her hair. One of them walked across the back of my hand and I held still till it had gone.
 
 She put her whole hand into the log.
 
-She brought it out full of little round pots of wax, dark yellow, each the size of a musket ball and stuck to the next. There was no comb in it. I have seen men rob comb out of a hollow tree and come away with their faces swelled shut. This was not that. The pots hung off her fingers like grapes, and she broke them open over a gourd one at a time with her thumb.
+She brought it out full of little round pots of wax, dark yellow, each the size of a musket ball and stuck to the next. There was no comb in it. The pots hung off her fingers like grapes, and she broke them open over a gourd one at a time with her thumb. The honey that came out was thin and dark and smelt of flowers I did not know.
 
-The honey that came out was thin and dark and smelt of flowers I did not know.
-
-She held a broken pot out to me.
-
-I took it and put it in my mouth. It was sour first, and then sweet, and then sour again at the back of the throat.
-
-She watched my face. Then she put the pipe back in her teeth and reached into the log for more.
+She did not look up at me again. She reached into the log for more.
 
 ⸻
 
-It went on like that the whole day, and nobody told anybody what to do.
+It went on like that the whole day, and all of it went through Amara.
 
-I watched for it. On a ship somebody is always telling somebody. A mate shouts, a bosun’s cane comes down, a man moves. I have done both ends of it. I watched the whole island get ready for a drink that might kill a man, and I never once heard an order.
-
-Amara went from house to house. She did not carry anything. She would stop at a door and say a few words, and a man would put down his net, and by the time she had gone round the next house he was coming up the path with a jar.
+She went from house to house. She did not carry anything. She would stop at a door and say a few words, and a man would put down his net, and by the time she had gone round the next house he was coming up the path with a jar.
 
 I asked Bonesy what she was saying.
 
@@ -64,13 +56,51 @@ He listened at the next door.
 
 “That’s all?”
 
-“That’s all.”
+“He asked what it was for.” Bonesy listened a while longer. “She said for her father’s student. And his brothers.”
 
-The jar came. It was the biggest on the island, as high as my hip, with a crack mended in black gum round its belly. Two men carried it down to the house by the water and set it in the shade. The old woman brought the gourds of honey. Women came with water from the lake and poured it in. Somebody stirred it with a paddle.
+I looked at the door. The man had already gone in for the jar.
 
-Nobody stood over any of it. Amara came down at noon and looked into the jar and said something. A girl went off and came back with more water.
+It was the biggest on the island, as high as my hip, with a crack mended in black gum round its belly. Two men carried it down to the house by the water and set it in the shade. The old woman brought the gourds of honey. Women came with water from the lake and poured it in. Somebody stirred it with a paddle.
 
-I had done the arithmetic of a ship’s crew since I was sixteen. How many men to a watch, how many hands on the falls, who will work and who has to be driven. I could not do it here. The sum would not come out.
+On a ship somebody is always telling somebody. A mate shouts, a bosun’s cane comes down, a man moves. Here there was Amara at a door, asking, and the whole island answering her.
+
+She came down at noon and looked into the jar. She did not say anything to us. A girl went off and came back with more water.
+
+⸻
+
+That evening the old man with the roots would not have it.
+
+He said it at the fire after we had eaten. He said it loud, so the houses at the far end could hear. He did not look at me while he said it. He did not need to.
+
+Bonesy leaned in and put it into English, low.
+
+“He says the road is for the island’s dead. He says it’s no road for a Spaniard.”
+
+The old man spat into the fire.
+
+Nobody answered him. I put my bowl down. My hand went to my hilt and I took it off again and laid it on my knee.
+
+Amara stood up.
+
+She did not raise her voice to him. She talked a long time, and the fire talked under her. Bonesy gave it to me in pieces.
+
+“She says her father trusted that one.” He tipped his skull at Crumble. “She says that one trusts him.” He tipped it at me. “She says that is enough for her.” He listened again. “She says if they don’t come back up the road, it’s on her head. Not his.”
+
+The old man looked at her a long time. His roots shifted in the dust under his stool.
+
+Across the fire the grey fisherman said something and tapped his own neck, under the gills. The men round him laughed.
+
+“He says the Spaniard put a stick under his gills,” Bonesy said. “He says no Spaniard ever got that close and lived.”
+
+The coral man’s wife said something after him. They laughed at that too.
+
+“She says he mended her roof,” Bonesy said. “Too tight.”
+
+The old man grunted. Then the smallest of his grandchildren got up from beside him and came round the fire and sat down against my leg. She had my coin on its cord round her neck. She sat there turning it in her fingers.
+
+The old man looked at the coin, and at me. He did not say anything else.
+
+Amara sat down again. She did not look at us once. Across the fire Crumble was looking at her, and he did not look away when she sat.
 
 ⸻
 
@@ -102,7 +132,7 @@ They were wet on the inside and smelt bitter, like a green stick broken in the r
 
 “You’ve had it.”
 
-“No.” He took a strip from the bundle and smelt it. “He told me about it. The friars used to flog men for it. Up on the coast, when he was a boy. Fifty lashes and a shaved head.” He put the strip back. “They kept making it.”
+“No.” He took a strip from the bundle and smelt it. “Balam told me about it. On the coast the Spanish priests whip a man for drinking it. They call it the devil’s drink.” He put the strip back. “Nobody up here asks them.”
 
 The man with the axe had gone on to the next tree. His shadow was lying at the foot of it, with its head on its paws.
 
@@ -122,13 +152,13 @@ I saw them from the shore that afternoon. They were out in the shallows at the s
 
 Bonesy was out there with them.
 
-He was in to his ribs. The water went in at his collarbone and came out between the bones of his back. He held the basket while they cut. The lilies were white with yellow in the middle, as wide as my two hands, and the children laid them in the basket with their stems. Every so often one of the small ones lost his footing and went under, and Bonesy put a hand down and hauled him up by the arm and set him on his feet again without looking.
+He was in to his ribs. The water went in at his collarbone and came out between the bones of his back. He held the basket while they cut. The lilies were white with yellow in the middle, as wide as my two hands, and the children laid them in the basket with their stems.
 
 The girl with the bark on her skin cut the most. She went from lily to lily with her knife and never cut one that was not all the way open.
 
 I asked Bonesy about it after.
 
-“Only the open ones,” he said. “She says the shut ones are asleep.”
+“Only the open ones,” he said. “She says the shut ones are sleeping.”
 
 By the middle of the afternoon the basket stood on the shore in the sun. I walked past it on my way to the canoes.
 
@@ -224,6 +254,14 @@ She did not say anything.
 
 “Room for one more.” He put his hat on. “Small fella. Doesn’t take up much.”
 
+He pointed the hat at me.
+
+“Somebody’s got to hold this one’s hand. He talks in his sleep.” He pointed it up the path toward our house. “And the other one gets lost on a straight river.”
+
+“I don’t talk in my sleep,” I said.
+
+“You do.”
+
 Amara looked at him a long while, the way she had looked at him in her doorway when he asked how far down it was. Then she looked at me.
 
 I shrugged. I had stopped arguing with Bonesy about where he could go a year back.
@@ -236,15 +274,25 @@ The children came and stood round the canoe and looked in at him. One of them pu
 
 Crumble had come down the path. He stood beside me and looked at Bonesy in the canoe with the lily on him.
 
-“Get up,” Crumble said.
+“Comfortable?” Crumble said.
 
-“I’m practising.”
+“Very.”
 
 “You look laid out.”
 
 “I am laid out.” The hat did not move. “Been laid out longer than you been alive. Somebody’s got to show you how.”
 
-Crumble’s jaw worked. He turned round and went back up the path.
+Crumble looked down at him a while. Then he stepped into the canoe and lay down on the bottom boards beside him, shoulder to shoulder, and folded his hands on his chest.
+
+The children shrieked. One of them ran for another lily and put it on him.
+
+“Like this?” Crumble said.
+
+“Hands lower. You look like a bishop.”
+
+Crumble moved his hands lower.
+
+Up at the house by the water Amara was sitting in the doorway with the antler in her lap. She was watching the two of them in the canoe. She did not laugh with the children. She watched a long time.
 
 ⸻
 
