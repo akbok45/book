@@ -599,3 +599,21 @@ Ask before restoring either.
 
 The BEAT comments at the top of edited scenes were written for the earlier
 text and may no longer match it.
+
+## 5.4 notes from Aydin, 2026-11-16
+
+- **The drink is explained in 5.4 again.** Amara names balché (honey, bark,
+  lilies, three days in a jar, drunk at night in the canoes). This reverses
+  the earlier cut of her drinking line. 6.1 now shows the making of what 5.4
+  names.
+- **"First you meet yourself," and Crumble walks in front.** Aydin wants a
+  big Crumble flashback on the road, with Crumble leading. This collides with
+  the ceremony plan in `notes/village-arc-development.md`:
+  - The plan has Bonesy guide, since he has already crossed, and 6.1 has him
+    lie down in the middle canoe to show it.
+  - The plan starts the road in Bonesy's field (6.2), and the rule says the
+    road goes only where your dead are, not through your own past.
+  - Crumble's own past (Anne, the leaving) would be a new stop, before or
+    instead of Balam's.
+  **Decide:** who leads and who guides, and where the Crumble flashback sits
+  among 6.2 to 6.6.
