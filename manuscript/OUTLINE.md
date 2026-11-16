@@ -52,11 +52,11 @@ Reading order top to bottom. Word counts as of the export. Update the count in a
 
 ## Chapter 6, The Road Under the Lilies
 
-Drafting. 6.1 is a draft awaiting Aydin's confirmation. The rest follows `notes/village-arc-development.md`.
+Drafting. 6.1 confirmed by Aydin 2026-11-16. The rest follows `notes/village-arc-development.md`.
 
 | # | File | Words | What happens |
 |---|---|---|---|
-| 6.1 | `ch06-the-road-under-the-lilies/01-honey.md` | 2875 | Three days of preparation, and all of it goes through Amara: she asks at every door and the island answers. The hives, the borrowed jar. At the fire the old man with the roots says the road is no road for a Spaniard; Amara puts it on her own head, the fisherman and the coral man\'s wife speak up for Jigsaw, and the old man\'s granddaughter sits against his leg wearing his coin. Balché bark from the forest with the jaguar-shadow man. The children cut lilies, which shut by afternoon. The claw woman tunes the drum. Bonesy cannot drink and is coming anyway; he lies down in the middle canoe and Crumble lies down beside him. Jigsaw counts his coins three times. |
+| 6.1 | `ch06-the-road-under-the-lilies/01-honey.md` | 2482 | Three days of preparation, all of it through Amara: lamps at the doors the night before, the hives, the borrowed jar for her father's student and his brothers. At supper the old man with the roots says the road is no road for a Spaniard; Amara answers him. The fisherman bets his canoe on the Spaniard, the jaguar-shadow man his bow on Crumble, and the fire lays wagers; both have to come back for it to count. The granddaughter with Jigsaw's coin. Lilies cut with Bonesy. On the step Crumble does not know what he'll say to Balam and asks Jigsaw to watch his back. The drum tuned. Bonesy lies down in the middle canoe and Crumble beside him. Jigsaw counts his coins three times. |
 
 ## Chapter 7, The Patrol
 
@@ -68,7 +68,7 @@ Drafted ahead of the village arc rebuild. 7.1 and 7.3 are to be revised: the roo
 | 7.2 | `ch07-the-patrol/02-the-bend.md` | 1821 | The ambush in the rain. Every match out, the launch under the bank, blades. The Spaniards yield. "God doesn't come this far up the river." Jigsaw kills them all, the boy, the wounded, the rowers, the officer slowly. The villagers back away. Crumble's look, the merchant deck two years ago, and Crumble walks off. |
 | 7.3 | `ch07-the-patrol/03-the-clean-sword.md` | 1006 | Nobody speaks to him. The launch sunk, the dead carried off. Amara will not look at him. The officer's packet goes in his coat unread. The boy's mother pulls him away; the old man does not shout. Crumble stays at the fire. Jigsaw cleans a clean sword. |
 
-**Total drafted: 47546 words.**
+**Total drafted: 47153 words.**
 
 ## What comes after
 

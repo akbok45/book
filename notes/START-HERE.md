@@ -30,7 +30,7 @@ Eleven chapters, about 115,000 words planned.
 3. The Cay, drafted
 4. The Half Moon, drafted
 5. The Hidden Village, drafted through 5.4 The Sign
-6. The Road Under the Lilies (the ceremony), not drafted
+6. The Road Under the Lilies (the ceremony), drafting: 6.1 Honey done
 7. The Patrol, drafted ahead, to revise
 8. The Singing Shrine
 9. The Hold
