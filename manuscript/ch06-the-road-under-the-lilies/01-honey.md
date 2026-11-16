@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The island in the forest lake, and the forest on the shore
 when: The three days after The Sign
 status: draft, for Aydin to confirm
-words: 2558
+words: 2524
 ---
 
 <!-- BEAT: Three days of preparation, and the village does the work. The old woman with the pipe opens the log hives; the bees do not sting, and Jigsaw waits for it anyway. The honey is in little wax pots, not comb. Amara asks and people answer; she gives no orders. The jaguar-shadow man takes Jigsaw and Crumble into the forest for the bark, and his shadow goes ahead of him. Crumble says the friars flogged men for this drink. The children cut lilies in the shallows with Bonesy; by afternoon the cut ones have closed. The claw woman brings the turtle shell drum and Amara tunes it. Bonesy tastes the brew and it runs out through his jaw. It will not take him. He says he is coming anyway, and lies down in a canoe to show how. The night before, Jigsaw counts his coins and cannot say why. -->
@@ -71,14 +71,6 @@ The jar came. It was the biggest on the island, as high as my hip, with a crack 
 Nobody stood over any of it. Amara came down at noon and looked into the jar and said something. A girl went off and came back with more water.
 
 I had done the arithmetic of a ship’s crew since I was sixteen. How many men to a watch, how many hands on the falls, who will work and who has to be driven. I could not do it here. The sum would not come out.
-
-“Who decides?” I said to Amara.
-
-She was wiping her hands on her skirt. She looked at me as if I had asked who decides when it rains.
-
-“Decides what?”
-
-I let it go.
 
 ⸻
 
