@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The half-moon island, the windward pool
 when: The morning after landfall, at slack water
 status: draft
-words: 2118
+words: 2160
 ---
 
 <!-- BEAT: Over the ridge at first light. The pull eases toward slack. Bonesy goes down the pull on a line, since he does not breathe, and comes back: the rock on the low side is not rock. Jigsaw freezes at the edge. Bonesy's hand on his shoulder. He goes in. The false wall, the dark past it, the step, air. Bonesy waiting so they can all go together. Crumble comes through. Steps and a doorway, and Bonesy already climbing. -->
@@ -287,6 +287,14 @@ He took another breath.
 “Didn’t much care for that.”
 
 “Neither did I.”
+
+I still had hold of his arm. I had not let go of it.
+
+“For a moment I thought you’d turned back,” I said.
+
+He was quiet a while. I could feel him breathing under my hand.
+
+“So did I,” he said.
 
 Behind us, under the water, the passage we had come through glowed faintly green with the morning outside. In that light I could just make out the stone steps rising in front of us, cut square and even, and above them the black mouth of a doorway.
 

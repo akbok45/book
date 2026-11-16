@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The coast north of the half-moon island, then a river on the mainland
 when: The days after the cave
 status: draft
-words: 4918
+words: 5226
 ---
 
 <!-- BEAT: Out through the wall with Bonesy walking the jar along the bottom. North up the coast. Jigsaw counts what is left of the money, three times, and Crumble catches him at it. A Spanish sail on the second day. Jigsaw shows it a course for Port Royal until dark, then puts out the lights, doubles back and runs inside the reef with Bonesy calling the coral from the bow and Crumble on the lead. By dawn the sail is gone. Crumble agrees to go to Amara and washes his sash. Jigsaw dresses Crumble's torn hands. That night Jigsaw counts the coins once more and lies down. Dream: the apothecary who says it isn't enough, who remembers his father paid with a sword for his mother's medicine, is sorry, and will not give it. The lit house with the supper table, the empty sword hooks, the lie to his father, who knows. He wakes at grey. Crumble: bad one? Old one. Jigsaw takes the tiller. The river mouth, the brown water, the trees closing over. Jigsaw out of his element, hand on his hilt. Crumble leads, and every time he looks back Jigsaw's shoulders come down. Bonesy goes in after his hat. The sloop hidden in a creek. On foot to the lake. A voice from the trees. -->
@@ -376,6 +376,36 @@ I shook my head at him.
 
 For once in his life he kept quiet.
 
+The lines wanted coiling after that. We had run every sheet and halyard in her through the night, and they lay about the deck in wet tangles where we had dropped them.
+
+Crumble came aft and looked at the tangles. Then he looked at me.
+
+“There’s one orange left,” he said.
+
+“I know there is.”
+
+“I coil mine before you coil yours. Orange says so.”
+
+I looked at his heap. It was bigger than mine and twice as fouled.
+
+“You’re on.”
+
+Bonesy sat up on the cabin top. “Go,” he said, before either of us was ready.
+
+I went at mine the way I go at anything I mean to win. Hand over hand, the bights falling flat and clean, each turn laid down on the one before like the rings in a cut log. I did not look up. I could hear Crumble behind me. I took it for work.
+
+I flaked the last fathom down, slapped the coil and turned round.
+
+Crumble was sitting on the cabin top beside Bonesy, with his heap where he had left it. He had the orange in his hands. Half of it was gone already, and the peel lay in a curl at his feet.
+
+“You won,” he said, with his mouth full. He held out what was left. “Your half.”
+
+Bonesy looked from him to me.
+
+“He started when you did,” he said. “Just on the orange.”
+
+I took my half. I ate it sitting on my coil, and it was the best orange I have ever eaten, and I did not tell him so.
+
 It was Crumble’s hands I noticed at noon.
 
 He had swung the lead all night, wet line running through his palms, and the skin across both of them had come away in strips. He was hauling on the main halyard with them as if nothing were wrong.
@@ -656,17 +686,19 @@ Crumble looked back at me.
 
 I kept rowing.
 
-A little while later Bonesy’s skull appeared above the water beside us, the hat held in his teeth.
+A little while later Bonesy came up beside us with the hat in his teeth. Crumble leaned over and took it from him.
 
-He climbed aboard and shook himself like a dog.
+“Here,” he said. “It ought to dry on a head.”
 
-“Got it,” he said.
+I thought he meant his own.
 
-“I can see that,” I told him.
+He put it on me. Cold water ran down my neck and all the way to my arse. I had both hands on the oars. Crumble knew it, too.
 
-He took the hat from his mouth, looked at the water dripping off the brim, and put it back on.
+Bonesy hung on to the side and laughed. I tried to give Crumble a look and laughed right along with him.
 
-The crease was still there.
+“Take the oars, you bastard.”
+
+He took them. I got Bonesy in and gave him back his hat.
 
 On the third day the river grew too narrow and too shallow for the sloop.
 
