@@ -44,7 +44,6 @@ Eleven chapters, about 115,000 words planned.
 
 ## Git
 
-Work happens on a branch and goes to `main` through a pull request. If `main`
-looks out of date, check the open branches first. As of 2026-11-15 the
-current work is on `claude/confident-newton-4x1gcp` (pull request
-akbok45/book#1), not yet merged into `main`.
+`main` holds the current book. Work happens on a branch and comes back to
+`main` through a pull request. Pull request akbok45/book#1 brought everything
+up to 5.4 into `main` on 2026-11-16.
