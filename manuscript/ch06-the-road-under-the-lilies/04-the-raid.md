@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The quay at Tortuga, then a burning Spanish ship off Campeche, then a longboat at dawn
 when: The road, Crumble's third stop
 status: draft, for Aydin to confirm
-words: 2639
+words: 2587
 ---
 
-<!-- BEAT: The boys go up the brigantine's plank. The harbour water turns red like the ink and smells of smoke. Bonesy steps off the quay into it and they come up on a burning Spanish ship at night, two years on, off Campeche. They watch from the mainmast. "Had my looks for a morning." A Spanish sailor throws down his knife and surrenders; young Jigsaw runs him through and looks for the next. The dead man's head turns on the planking, finds grown Jigsaw, and smiles at him. Young Crumble goes down into the smoking hold; a girl's voice tells him the key is on the mate's belt. The captives come up, children first, the girl last; she counts twenty and lines them along the rail. The quartermaster keeps three Spaniards for ransom and says there is no room for the Maya. The boy says take them ashore, and the deck falls to shouting. Young Jigsaw looks at the boy, and grown Jigsaw remembers why: nineteen days becalmed off the Mosquito Coast, the fever, and the boy giving him his biscuit and his water every day and saying he wasn't hungry. Young Jigsaw draws his rapier slow and loud, and every man there has seen him gut more Spaniards with it than any man aboard. He runs the merchant through, smiling: now there's room, and anyone with a problem goes through him. The quartermaster laughs, "Let me teach you all something," cuts the backs of the officer's and the priest's knees and has every Spaniard put over the side. The Maya go in the hold. "You didn't have to kill them." The quartermaster: "Room is made. Not found." The boy and the young man stand at the rail together. In the longboat at dawn the girl names Balam: you went into the fire for twenty people who were nothing to you; a man like that is wasted on a ship of thieves. Go up the river and find him, and tell him two words, the day she was born. In the shallows the water goes red again with firelight. Bonesy wades in: "This way." -->
+<!-- BEAT: The boys go up the brigantine's plank. The harbour water turns red like the ink and smells of smoke. Bonesy steps off the quay into it and they come up on a burning Spanish ship at night, two years on, off Campeche. They watch from the mainmast. "Had my looks for a morning." A Spanish sailor throws down his knife and surrenders; young Jigsaw runs him through and looks for the next. The dead man's head turns on the planking, finds grown Jigsaw, and smiles at him. Young Crumble goes down into the smoking hold; a girl's voice tells him the key is on the mate's belt. The four captives come up, a small boy first, the girl last; there are four of them, and she stands in front of the other three at the rail. The quartermaster keeps three Spaniards for ransom and says there is no room for the Maya. The boy says take them ashore, and the deck falls to shouting. Young Jigsaw looks at the boy, and grown Jigsaw remembers why: nineteen days becalmed off the Mosquito Coast, the fever, and the boy giving him his biscuit and his water every day and saying he wasn't hungry. Young Jigsaw draws his rapier slow and loud, and every man there has seen him gut more Spaniards with it than any man aboard. He runs the merchant through, smiling: now there's room, and anyone with a problem goes through him. The quartermaster laughs, "Let me teach you all something," cuts the backs of the officer's and the priest's knees and has every Spaniard put over the side. The Maya go in the hold. "You didn't have to kill them." The quartermaster: "Room is made. Not found." The boy and the young man stand at the rail together. In the longboat at dawn the girl names Balam: you went into the fire for four people who were nothing to you; a man like that is wasted on a ship of thieves. Go up the river and find him, and tell him two words, the day she was born. In the shallows the water goes red again with firelight. Bonesy wades in: "This way." -->
 
 The boys went up the plank and over the brigantine’s rail.
 
@@ -74,13 +74,11 @@ He smiled at me.
 
 Then his head rolled back the way it had been, and he was a dead man on a deck.
 
-The boy was standing a little way off with his cutlass hanging at his side. He had seen it. He looked at the young man with the rapier, and the young man did not look back.
-
 ⸻
 
 Then the boy turned his head toward the open hatch in the waist.
 
-I heard it too, under the shouting. Voices, coming up out of the hold with the smoke. Women. A child crying. Somebody beating on wood from underneath.
+I heard it too, under the shouting. Voices, coming up out of the hold with the smoke. A woman. A child crying. Somebody beating on wood from underneath.
 
 The boy went to the hatch and looked down. Smoke came up out of it thick and yellow.
 
@@ -102,13 +100,13 @@ I heard the lock go.
 
 Then they came up.
 
-The children came first. A small boy, coughing. Two girls holding hands. A baby handed up by somebody below to the boy at the top of the ladder, who did not know how to hold it. Then two old men, slow. Then the women, one after another, with their faces black from the smoke.
+A small boy came first, coughing. Then a woman with her face black from the smoke. Then an old woman, slow, who could not climb, with the girl below her.
 
 The girl came up last.
 
-She was perhaps seventeen. She had both hands on the back of the last woman, an old one who could not climb, and she pushed her up the ladder ahead of her rung by rung. Then she came up out of the smoke herself and stood on the deck.
+She was perhaps seventeen. She had both hands on the old woman’s back, and she pushed her up the ladder ahead of her rung by rung. Then she came up out of the smoke herself and stood on the deck.
 
-She did not look at the fire or the fighting. She looked at her people. Her lips moved as she counted them. There were twenty. Then she said something in Maya, and they went where she pointed. They lined the rail out of the way of the fighting, the small ones in the middle and the women round the outside.
+She did not look at the fire or the fighting. She looked at her people. There were three of them, and her. Then she said something in Maya, and they went where she pointed, out of the way of the fighting along the rail. She put the boy between the two women and stood in front of all three.
 
 She did all of that before she looked at the boy.
 
@@ -218,7 +216,7 @@ Years after, on a lake shore with three spears on me, she would tell me I still 
 
 They put the captives ashore at first light.
 
-The sea had gone grey and flat. The Spanish ship was a long smudge of smoke behind us, going grey and soft at the edges the way everything on that road went once we had passed it. The longboat was full of women and children. The boy was at the bow oar, and the girl sat on the thwart in front of him with her back to him.
+The sea had gone grey and flat. The Spanish ship was a long smudge of smoke behind us, going grey and soft at the edges the way everything on that road went once we had passed it. The four of them sat in the longboat in the waist, the small boy asleep across the old woman’s knees. The boy was at the bow oar, and the girl sat on the thwart in front of him with her back to him.
 
 We were in the boat too. Nobody had to make room for us.
 
@@ -234,7 +232,7 @@ The boy kept rowing. “Who’s your father?”
 
 The name meant nothing to him. I watched it mean nothing to him. Beside her, the man he would be put his head down.
 
-“He is up a river,” she said. “A long way up. He teaches. He does not teach many.” She looked at the boy. “You went down into the fire for twenty people who were nothing to you. A man like that is wasted on a ship of thieves.”
+“He is up a river,” she said. “A long way up. He teaches. He does not teach many.” She looked at the boy. “You went down into the fire for four people who were nothing to you. A man like that is wasted on a ship of thieves.”
 
 She tipped her head back at the smoke on the sea, and at the crew in the boat with rings on every finger.
 
@@ -250,7 +248,7 @@ The boy looked at her over the oar. He did not say he would.
 
 Beside her Crumble’s lips were moving with the words. He knew every one of them.
 
-The boat grounded. The women went over the side into the shallows and up the beach. The girl went last, after the last of them. At the top of the beach, where the sand met the trees, she stopped and looked back once at the boat.
+The boat grounded. The woman went over the side into the shallows with the small boy, and the girl handed the old woman down to her. The girl went last. At the top of the beach, where the sand met the trees, she stopped and looked back once at the boat.
 
 Then she went in under the trees.
 

@@ -668,8 +668,8 @@ dueling youth needs changing.
 
 ## 6.4 The Raid, invented details (2026-11-17, revised)
 
-Open to veto: the raid is on a Spanish ship carrying twenty chained Maya
-captives; Amara directs young Crumble to the key on the mate's belt and
+Open to veto: the raid is on a Spanish ship carrying four chained Maya
+captives (Aydin, 2026-11-17); Amara directs young Crumble to the key on the mate's belt and
 brings her people up the ladder, herself last; young Jigsaw runs through a
 Spaniard who has thrown down his knife and surrendered ("Me rindo").
 Aydin's idea: the crew keeps three Spaniards for ransom and says there is no

@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: A river below a Maya village, years before, on the road
 when: The road, the last stop before Balam
 status: draft, for Aydin to confirm
-words: 2376
+words: 2375
 ---
 
 <!-- BEAT: They come up in a brown river under trees, below a village Crumble does not know. An ordinary morning. A man mending a net on the bank, and Crumble knows him by his hands before his face: Balam, young. A woman with a small girl on her hip, and the girl has Amara's way of looking. The village greets a man coming out of the trees alone in a plain cloak with the hood up; a child runs to him, an old woman scolds him for being thin. His hands are clean. His face never comes round. Jigsaw sees the boats first, three launches under the far bank, soldiers in morions, and shouts, and nobody hears him. Balam sees them. "You brought them here." The student takes a small black bell out from under the cloak and rings it once. One low note that does not die. The cook smoke stands straight up. Bonesy goes down on his knees and comes apart: the skin goes, the bones fall in a heap in the path with the hat on top. The village's strange fails, one person at a time. The soldiers come up the bank. The village fights with digging sticks and fish spears and kills some of them. Balam speaks into his hands and nothing comes. The woman stands over the child with a fish spear, and a pike takes her. Balam picks up the child. The pikes come round to him, and the student lifts one hand, and they stop. He walks back into the trees. The note dies. The brothers gather Bonesy's bones into Crumble's shirt; the skull talks. Balam stands in the smoke with the child, and looks up, across the burning, at Crumble, and knows him. -->
@@ -16,7 +16,7 @@ It was brown and warm and slow, and it came to my chest. Trees leaned out over i
 
 Crumble came up beside me. Bonesy was already standing in the shallows with the water running off his hat.
 
-I looked at him and then I looked away. There was next to nothing left of his face. The skin was over it still, but it was the skin of an onion, and the bone showed white through all of it. His hands were bone with a shine on them.
+I looked at him and then I looked away. There was next to nothing left of his face. The skin was over it still, but it had gone thin as a wet leaf, and the bone showed white through all of it. His hands were bone with a shine on them.
 
 “Where,” I said.
 
@@ -52,7 +52,7 @@ She looked over his shoulder, straight down the bank at the three of us. She had
 
 Crumble made a sound.
 
-I knew that look. I had seen it over the top of a canoe on a lake, and over a burning rail, and across a leaf by lamplight. It was Amara’s.
+I knew that look. I had seen it over the top of a canoe on a lake, and across a burning deck, and across a leaf by lamplight. It was Amara’s.
 
 ⸻
 
@@ -90,7 +90,7 @@ He stopped a few paces from him.
 
 “You brought them here,” he said.
 
-I understood him. I did not know his tongue and I understood every word, the way I had understood the song in the maize.
+I understood him. I did not know his tongue, and I understood every word of it. The road gave it to me.
 
 The man in the cloak did not answer.
 
