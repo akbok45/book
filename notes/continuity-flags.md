@@ -694,3 +694,13 @@ Balam's blade like Crumble's; Amara's mother killed defending the child
 with a fish spear; the student stops the pikes with a lifted hand; the
 skull speaking after the note stops; Balam knowing Crumble at the end.
 Student's face never seen, per the 2026-10-28 rulings.
+
+## 6.4 additions (2026-11-17)
+
+- The dead Spaniard's head turns and smiles at grown Jigsaw. Aydin's note
+  said "the older Crumble"; written as Jigsaw, since Jigsaw killed him.
+  Aydin to say which.
+- Amara gives young Crumble two Maya words, the day she was born, to carry
+  to Balam. The words are not given on the page. When written, they are a
+  number and a day name of the 260-day count (for example *Lahca Ix*,
+  Twelve Ix, with Ix the jaguar day). Aydin to choose.
