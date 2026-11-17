@@ -728,3 +728,15 @@ twice,** here on the road and in the hold vision in chapter 9.
 - Balam to Bonesy: the old men told of a farmer who carried jars to the
   priests, went into the cellar and never came out, "and never stopped
   coming back." Ties to the fourth-round ruling that Bonesy carried jars.
+
+## 6.6 Balam, invented details (2026-11-17)
+
+Open to veto: Balam looked for the face twenty years; the curls are song;
+a stone on the south point of the long island sings only in a norther (from
+comparison C in the village arc plan); his grandfather heard it; "A student.
+My first." / "My last."; Balam does not answer why he never taught Crumble
+what should have been in his hands (the answer is saved for the hold, as
+planned); Amara's two words were how young Crumble got in at the river;
+"That sounds like her mother."; Balam knows Jigsaw promised to watch
+Crumble's back; Balam grips and lets go first; "Crum". Balam does not say
+what the codex does, per the bible.
