@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The grey where Balam's village was, on the road
 when: The road, near morning
 status: draft, for Aydin to confirm
-words: 1090
+words: 1089
 ---
 
 <!-- BEAT: Crumble answers: yes, the codex. The leaf out of the cave, the road north, the face with curls coming out of its mouth. Balam knows the face. A stone on the long island that sings when the north wind comes. Go in a norther, and only then. Amara will know the rest; she always did. Crumble asks again who the man in the cloak was. "A student. My first." "And me?" "My last." Crumble asks what should have been in his hands. Balam looks at the trees where the man in the cloak went and does not answer. Crumble says the two words Amara gave him to bring, the day she was born. Balam shuts his eyes. Is she well? She keeps the whole island. Balam asks Jigsaw to watch his back; Jigsaw says he already said he would. Far off, the drum. Bonesy is going again, the skin coming off in flakes like ash. The light is changing. The lilies are opening. Balam walks back into the grey and does not look back, and then he does, once, and lifts his hand. Bonesy takes Crumble's arm. "This way." -->
@@ -18,7 +18,7 @@ He stood there with his shirt off in the grey, and his arms at his sides, and lo
 
 “Of course you are.” Balam did not sound surprised. He sounded tired. “What have you found?”
 
-“A leaf. Out of a cave on the half moon, behind a pool.” Crumble’s voice was very steady. “A road painted on it, going north up the coast. Seven days. It stops by the long island. There’s a sign at the end of it.”
+“A leaf. Out of a cave on the half moon, behind a pool.” Crumble’s voice was steady. “A road painted on it, going north up the coast. Seven days. It stops by the long island. There’s a sign at the end of it.”
 
 “Show me.”
 
