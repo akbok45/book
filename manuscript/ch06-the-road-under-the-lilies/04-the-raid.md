@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The quay at Tortuga, then a burning Spanish ship off Campeche, then a longboat at dawn
 when: The road, Crumble's third stop
 status: draft, for Aydin to confirm
-words: 1952
+words: 2357
 ---
 
-<!-- BEAT: The boys go up the brigantine's plank. The harbour water under the quay turns red like the ink and smells of smoke. Bonesy steps off the quay into it, and they jump in after him and come up on a burning Spanish ship at night, two years on, off Campeche. They watch from the deck by the mainmast. Bonesy's face has gone thin as an onion skin: "Had my looks for a morning." A Spanish sailor throws down his knife, kneels, and says he surrenders; young Jigsaw runs him through anyway and looks for the next. Grown Jigsaw had told himself for years that man had a knife. Young Crumble sees it. Then he hears people below and goes down the hatch into the smoke. A girl's voice from the hold, in Spanish, quick and hard: the key is on the mate's belt. He comes up, cuts the key off the dead mate, goes down. The captives come up the ladder, the children first, then the old, then the women, and the girl last, pushing the last one up ahead of her. On deck she keeps them together by the rail with the small ones in the middle. A man says they will fetch forty pieces a head in Jamaica. Young Crumble says no, they go ashore. Laughter. The quartermaster puts it to the vote, and few hands go up. Young Jigsaw, whom nobody on that deck wants to cross, says the boy went into a burning hold and none of them did, and he will pay any man his ten pieces himself. The hands go up. The boy and the young man stand at the rail together; this is where it starts. In the longboat at dawn the girl names Balam and tells the boy he is meant for more. Grown Crumble mouths every word. In the shallows the water goes red again with firelight. Bonesy wades in: "This way." -->
+<!-- BEAT: The boys go up the brigantine's plank. The harbour water under the quay turns red like the ink and smells of smoke. Bonesy steps off the quay into it, and they jump in after him and come up on a burning Spanish ship at night, two years on, off Campeche. They watch from the deck by the mainmast. Bonesy's face has gone thin as an onion skin: "Had my looks for a morning." A Spanish sailor throws down his knife, kneels, and says he surrenders; young Jigsaw runs him through anyway and looks for the next. Grown Jigsaw had told himself for years that man had a knife. Young Crumble sees it. Then he hears people below and goes down the hatch into the smoke. A girl's voice from the hold, in Spanish, quick and hard: the key is on the mate's belt. He comes up, cuts the key off the dead mate, goes down. The captives come up the ladder, the children first, then the old, then the women, and the girl last, pushing the last one up ahead of her. On deck she keeps them together by the rail with the small ones in the middle. The quartermaster picks three Spaniards worth a ransom and says there is no room for the Maya; leave them on the burning ship. Young Crumble says no, take them ashore; the crew falls to shouting. Young Jigsaw walks out, runs the merchant through, smiling: now there is room, and anyone with a problem can go through him, his point toward the quartermaster. The quartermaster laughs: let me teach you all something. He cuts the backs of the knees of the officer and the priest, has them and the rest of the kneeling Spaniards put over the side. Room is made, not found. Young Jigsaw watches his hands; grown Jigsaw knows the cut from the rock above the cay. The Maya go in the hold. "You didn't have to kill him." "He was Spanish." The boy and the young man stand at the rail and watch the heads go down; this is where it starts. In the longboat at dawn the girl names Balam and tells the boy he is meant for more. Grown Crumble mouths every word. In the shallows the water goes red again with firelight. Bonesy wades in: "This way." -->
 
 The boys went up the plank and over the brigantine’s rail.
 
@@ -114,53 +114,81 @@ Crumble had come to stand beside me again. He did not take his eyes off her.
 
 By the time the Spanish ship stopped fighting, the fire had the whole of her forward. The Spaniards who were left were on their knees by the mainmast. Our crew were going round them taking knives and rings.
 
-A man with a black beard went and stood over the captives along the rail. He looked them over the way a man looks over a catch.
+The quartermaster walked along the kneeling men and picked out the ones worth something. An officer in a good coat. A fat man who said he was a merchant of Campeche and could pay. A priest. They were pulled out of the line and their hands tied, to be ransomed. The rest were left kneeling.
 
-“There’s forty pieces a head in these at Port Royal,” he said. “More for the young ones.”
+Then he looked at the captives along the rail.
 
-Some of the men laughed. Some nodded.
+“We’ve no room,” he said. “The hold’s full of what we took, and the ransoms go in the cable tier. Leave them. She’ll burn to the waterline but she won’t sink before the morning.”
+
+The girl by the rail understood him. I saw it in her face. She put her arm round the small boy who was coughing and held him against her.
 
 “No,” the boy said.
 
 Everyone turned round.
 
-He went red to the ears. He was seventeen and he was the youngest man on that deck, and every one of them was looking at him. But he did not take it back.
+He went red to the ears. He was seventeen and the youngest man on that deck, and every one of them was looking at him. But he did not take it back.
 
-“We put them ashore,” he said.
+“We take them,” he said. “We put them ashore.”
 
-The black beard laughed in his face. A good few laughed with him.
+The black-bearded man beside the quartermaster laughed in his face. “And where do we put them? In your hammock?”
 
-The quartermaster held up his hand. “It’s the crew’s say,” he said. “Every man a vote. Who’s for putting them ashore?”
+A good few laughed with him. A good few did not. Somebody said the boy was right. Somebody else told him to shut his mouth. Men began shouting across the deck at each other over the fire.
 
-The boy put his hand up. Three or four others put theirs up with him. That was all.
+The young man I had been walked out into the middle of it.
 
-“And who’s for Port Royal?”
+He was wiping the rapier on his sleeve. He did not hurry. Nobody on that deck wanted to cross him, after what they had watched him do that night. The shouting stopped.
 
-The hands went up all over the deck.
+He looked at the three Spaniards with their hands tied. The officer. The merchant. The priest.
 
-The girl by the rail watched them go up. She did not say anything. She put her arm round the small boy who was coughing and held him against her.
+He put the rapier through the merchant.
 
-Then the young man I had been walked out into the middle of the deck.
+He did it without any more fuss than a man spitting. The merchant sat down hard against the mainmast with his tied hands in his lap and looked surprised, and then he did not look like anything.
 
-He was wiping the rapier on his sleeve. He did not hurry. Nobody on that deck wanted to cross him, after what they had watched him do that night. The black beard stopped laughing.
+The young man pulled the rapier out. He was smiling.
 
-“The boy went down into a burning hold for them,” the young man said. “Not one of you went. I was up here, and I did not go either.”
+“There,” he said. “Now there’s room.”
 
-Nobody answered him.
+Nobody said anything.
 
-“Twenty heads at forty pieces,” he said. “Split eighty ways, that comes to ten pieces a man.” He put the rapier up. “Any man who wants his ten can come to me for it. I’ll pay it out of my own share.”
+He turned round with the rapier still out and the blood running off the point of it, and he put the point toward the quartermaster. Not at his throat. Toward him.
 
-Nobody came.
+“Anyone who has a problem with that,” he said, “can go through me.”
 
-The quartermaster looked round the deck. “Who’s for putting them ashore?”
+The quartermaster looked at the point. He looked at the young man behind it, eighteen and shaved and smiling. He did not reach for his axe.
 
-The young man put his hand up. Then the hands went up, slow at first, and then all over.
+Then he laughed. It was a short laugh, through the nose.
 
-The boy looked at him across the deck. The young man shrugged.
+“Put that up, before you hurt yourself,” he said. “Let me teach you all something.”
 
-“You owe me ten pieces,” he said.
+He took his knife out of his belt. He went to the officer and the priest, who were still on their knees by the mainmast with their hands tied. He went behind them. He bent down, and his knife went twice across the back of each of their knees.
 
-Then he went and stood at the rail beside the boy. They did not say anything else to each other. They stood there and watched the Spaniard burn.
+They screamed. Then they could not stand.
+
+He took the officer by the collar and the belt and dragged him to the rail and put him over it into the sea. Then he went back for the priest. Then he walked down the line of kneeling Spaniards and had them put over one after another, the ones whose legs he had cut and the ones he had not troubled with.
+
+He wiped the knife on his breeches.
+
+“Room,” he said, “is made. Not found.”
+
+The young man I had been was watching his hands. He was not smiling now. He was watching the way the quartermaster had held the knife, and where he had put it, the way a boy watches a man splice a line so he can do it after.
+
+I knew the cut. I had made it myself, on a rock above a cay, the morning we killed a boat’s crew and put the last two in the water to bring their captain onto the reef.
+
+Crumble was looking at me. I did not look back at him.
+
+The quartermaster turned round to the crew.
+
+“The Maya go in the hold,” he said. “Any man wants to vote on it, vote now.”
+
+Nobody voted.
+
+The boy was still standing where he had been, with the key in his hand. He looked at the young man with the rapier.
+
+“You didn’t have to kill him,” he said.
+
+“He was Spanish.”
+
+The boy looked at him a long while. Then he went and stood at the rail. After a moment the young man went and stood beside him. They did not say anything else to each other. They stood there and watched the Spaniard burn, and the heads in the water going down one by one behind her.
 
 Beside me Crumble said, “You never told me why you did that.”
 
@@ -168,7 +196,7 @@ Beside me Crumble said, “You never told me why you did that.”
 
 He looked at me. Then he looked back at the two of them at the rail.
 
-Behind them the girl was watching the young man with the rapier. She had watched him kill the man who said he surrendered. She had watched him put his hand up. She looked at him a long time, and her face did not move.
+Behind them the girl was watching the young man with the rapier. She had watched him kill the man who said he surrendered. She had watched him make room for her people. She looked at him a long time, and her face did not move.
 
 Years after, on a lake shore with three spears on me, she would tell me I still drew first. I had thought she meant that morning on the shore.
 
