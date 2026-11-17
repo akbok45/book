@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: An English village in the rain, then Tortuga, on the road
 when: The road, Crumble's first two stops
 status: draft, for Aydin to confirm
-words: 1843
+words: 1840
 ---
 
 <!-- BEAT: Down into the village in the rain to the house with the low wall. The same song from the grinding stone, coming out of the open door. A boy comes down the lane at a run, sixteen, thin, a bag on his shoulder, his left foot turned out. Jigsaw knows him by his feet. Bonesy: "Skinny." Anne at the door with flour on her hands. She sees the bag. Their parting, shaped on Edward and Caroline in Black Flag but in new words, and sad rather than angry: a ship on the tide, what is out there that isn't here, he will come back a man people look at, she looks at him now, he is set on it. "Then go." He nearly asks her to wait and does not, and runs. She stands at the gate in the rain. Crumble goes through the gate and puts his arms round her; she does not see him, and goes in out of his arms. The singing does not start again. "Quick about everything." Jigsaw's shoulder against his. The lane goes down to Tortuga the year they came to it. At a barrel head on the quay the quartermaster reads the articles, and the two boys sign one after the other, Crumble slow, Jigsaw in a schooled hand, neither of them in his gear yet. They grip hands, and neither lets go first. -->
@@ -68,7 +68,7 @@ She looked at the bag a while.
 
 “I said I’d stopped talking about it.”
 
-Her mouth started to turn up at the corner. It did not get far.
+Her mouth turned up at the corner. It did not get far.
 
 “What’s out there?” she said. “That isn’t here.”
 
@@ -188,6 +188,6 @@ They gripped. I remembered the grip. He was thin, but there was more in his hand
 
 The quartermaster said something and the men round the barrel laughed. The two boys did not look round. They stood there at the foot of the plank with their knuckles going white, each one waiting for the other to let go first.
 
-Beside me Crumble made a sound. It was not quite a laugh.
+Beside me Crumble made a sound. It was half a laugh.
 
 Neither of the boys let go.
