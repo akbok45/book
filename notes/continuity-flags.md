@@ -666,18 +666,17 @@ would already have them at seventeen. **Settled 2026-11-17:** the rapier holds. 
 where and when is open. The bible's line that they are his own from his
 dueling youth needs changing.
 
-## 6.4 The Raid, invented details (2026-11-17)
+## 6.4 The Raid, invented details (2026-11-17, revised)
 
-Open to veto: the raid is on a Spanish ship carrying chained Maya captives;
-the quartermaster's boarding axe breaks the chain; Amara bites young
-Crumble's hand and he carries her up with her teeth in it, leaving two white
-crescents below his thumb; young Jigsaw runs through a Spanish sailor who was
-opening his mouth to speak, and later holds his point at a kneeling man's
-throat while Amara watches (her "You still draw first" in 5.2); in the boat
-at dawn Amara names Balam and tells Crumble he is meant for more; crewmates
-named only by their deaths (a Dane lost off Cartagena, a boy from Bristol).
-The scene ends three summers on above Anne's village, now whole again: a
-returning stop is a new time, not the passed one.
+Open to veto: the raid is on a Spanish ship carrying twenty chained Maya
+captives; Amara directs young Crumble to the key on the mate's belt and
+brings her people up the ladder, herself last; young Jigsaw runs through a
+Spaniard who has thrown down his knife and surrendered ("Me rindo"); the
+crew votes to sell the captives at Port Royal; young Jigsaw turns the vote
+by offering to pay every man his ten pieces out of his own share, and the
+friendship starts at the rail after; Amara names Balam in the boat at dawn.
+The bite and the scar below Crumble's thumb are cut. Crewmates named only by
+their deaths (a Dane lost off Cartagena, a boy from Bristol).
 
 ## 6.5 The Bell, invented details (2026-11-17)
 
