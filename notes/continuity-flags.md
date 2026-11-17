@@ -681,19 +681,25 @@ starts at the rail after. Amara names Balam in the boat at dawn. The bite and
 the scar below Crumble's thumb are cut. Crewmates named only by their deaths
 (a Dane lost off Cartagena, a boy from Bristol).
 
-## 6.5 The Bell, invented details (2026-11-17)
+## 6.5 The Bell, invented details (2026-11-17, rewritten on Aydin's notes)
 
-Open to veto: Balam's village on a brown river under trees, thirty houses;
-young Balam about forty, mending a net; the student greeted by the village,
-a boy taking his hand, an old woman pinching his thin arm; three launches,
-about forty soldiers; the bell's note stays until it stops "the way a rope
-stops when it is cut"; a woman breathing at canoes, a turtle-backed man, a
-boy whose hands do nothing; Balam's own working is speech into cupped
-hands, left vague (2026-10-29 ruling: fire, breath or water, undecided);
-Balam's blade like Crumble's; Amara's mother killed defending the child
-with a fish spear; the student stops the pikes with a lifted hand; the
-skull speaking after the note stops; Balam knowing Crumble at the end.
-Student's face never seen, per the 2026-10-28 rulings.
+Open to veto: the village's strange (a woman whose breath moves water, a
+turtle-backed man, scaled twins, a boy with a heron's shadow, an old man in
+flowering moss) and how each goes dead under the bell; the bell itself (fist
+size, dull black like charcoal, marks round the lip, a note felt in the
+teeth); the launches flying the cross of Burgundy; the student's officer's
+hands and general's boots; his duel with Balam in the Spanish school,
+knowing every move Balam makes, and Balam wounding him at the shoulder; his
+lines on control ("Who holds the rein on that?... I will not leave a world
+where nothing answers to anyone." / "That is not why you came." / "No. That
+is why I will keep coming."); Bonesy pulling back together half skin, half
+bone; everything fading but Balam. Balam's working stays vague (speech into
+cupped hands). Student's face never seen.
+
+**Collides with the bible:** Balam's one real appearance was to be the hold
+vision in chapter 9. Here he walks over, knows Crumble and talks
+("I knew I'd see you here eventually"). Aydin to decide whether the hold
+conversation goes, changes, or Balam appears twice.
 
 ## 6.4 additions (2026-11-17)
 
