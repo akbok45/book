@@ -273,7 +273,7 @@ Rodrigo, the schoolmate who married Jigsaw's girl, serves under Cárdenas. This 
 
 **Village arc rulings (Aydin, 2026-10-28, second round).**
 - Bonesy appears as a living man in both drug scenes: the village ceremony and the vision in Cárdenas's hold.
-- Balam in the ceremony is the past replaying; he never sees or speaks to the three. His conversation with Crumble in the hold vision stays his one real appearance.
+- Balam in the ceremony is the past replaying; he never sees or speaks to the three. His conversation with Crumble in the hold vision stays his one real appearance. *(Overruled 2026-11-17: at the end of the bell on the road Balam knows Crumble and speaks to him; he appears twice.)*
 - The hold vision's "short look at Balam and young Cárdenas" becomes a quick reveal: the student's face from the ceremony, seen at last.
 - The black bell replaces the jade that locked Bonesy at the capture. The jade is gone from the collection.
 - The settlement Cárdenas saved to win Balam's trust is a different village. Balam's own village is the one Cárdenas raided, and everyone there was killed.
