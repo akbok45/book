@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: A maize field on the road, then an English lane
 when: Dawn on the road
 status: draft, confirmed by Aydin 2026-11-16, revised 2026-11-17 on his notes
-words: 1111
+words: 1089
 ---
 
 <!-- BEAT: Jigsaw wakes in a furrow between rows of maize. Nothing holds his wrist. The night in pieces: the torches, the fisherman's canoe, the gourd from Amara, sour, honey and bark and lilies, Crumble watching him drink, the antler on the shell, Bonesy's cold fingers. Crumble in the next furrow. A man with his back to them: "Fellas." They know the voice at once. Bonesy is a man: short, bowed, a bent nose, two teeth gone, brown eyes where Jigsaw has seen daylight. Crumble swears. He breathes. Jigsaw's hand on his shoulder: warm. "Don't get ideas." Hands in the earth. "Smaller than I remember." The hat came with him. Jigsaw's hand goes through a cob; they are only visiting. Two English children run out of the maize, a boy with a stick for a cutlass and a black-haired girl singing after him; Crumble stops, then goes on ahead, faster. Bonesy keeps his eyes on the path. Jigsaw looks back and sees the academy, his old fencing master on the steps shaking his head. The maize turns to a muddy English lane in the rain, Bonesy's arm round Crumble. "I know this lane." A village below, a house with an open door, a woman singing inside. -->
@@ -95,8 +95,6 @@ The path ran on along the edge of the field.
 Two children came running out of the maize ahead of us.
 
 They were a boy and a girl, eight or nine years old, and they did not belong there. They had English faces, burnt red across the nose. The boy was barefoot and had a stick held up over his head like a cutlass. He was shouting that he was captain and she was to strike her colours. The girl ran after him with her black hair flying out behind her. She was laughing, and then she was singing at him.
-
-*The rain comes over the hill. The rain goes over the hill. The corn stands. My love is late. The corn stands.*
 
 They ran across the path in front of us and into the maize on the other side. The stalks shook where they had gone in, and then stopped.
 

@@ -656,3 +656,11 @@ the articles read at a barrel head; young Jigsaw signing fast with
 kicked-dog eyes; the two shaking once and going up the plank together.
 Aydin asked (2026-11-17) to drop the rule that hands pass through what is
 not your own on the road; 6.2's cob passage still has it.
+
+## Young Jigsaw's sword at Tortuga (Aydin, 2026-11-17)
+
+Aydin: at seventeen, signing at Tortuga, Jigsaw carries an old Spanish rapier
+and "hasn't gotten his sword yet". The bible says his twin arming swords are
+his own from his dueling youth, mended by the brotherhood blacksmith, so he
+would already have them at seventeen. Decide which holds, and if the rapier,
+where the twin swords come from.

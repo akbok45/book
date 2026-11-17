@@ -5,14 +5,14 @@ pov: Jigsaw, first person, past
 place: An English village in the rain, then Tortuga, on the road
 when: The road, Crumble's first two stops
 status: draft, for Aydin to confirm
-words: 1914
+words: 1879
 ---
 
 <!-- BEAT: They follow the lane down and it turns into the town a piece at a time: walls, a cart track, cobbles, chimney smoke, a church tower. The house with the low wall, and the song the girl sang in the maize coming out of the open door, older now. A boy comes down the lane at a run, sixteen, thin, a bag on his shoulder, his left foot turned out. Jigsaw knows him by his feet. Bonesy: "Skinny." Anne at the door with flour on her hands sees the bag. The parting, shaped on Edward and Caroline in Black Flag in new words, and sad: "So you're going." He has talked of the sea since they were small. He will come back with a share and men will take their hats off. "I never asked for hats." "I look at you. Now. The way you are." "When I'm worth coming back." "Then go." He nearly asks her to wait, and runs. Crumble goes over the wall and holds her from behind. She goes still, as if someone said her name in another room, and her hand comes up over his on her arm. Then she goes in. The singing does not start again. "Quick about everything." Jigsaw's shoulder against his. The lane goes down to Tortuga the year they came to it. The articles read at a barrel head; the boy signs slow; a young man Jigsaw knows and does not know signs fast with rage in his eyes, and it is him. They shake hands and go up the plank together. -->
 
 We went on down the lane.
 
-The hedges thinned and the fields opened out, wet and green, and the lane went down toward the village between them. A wall came up beside it, low and grey, with moss in the joints. Then another wall on the other side. The mud under our feet got stones in it, and then the stones were set close together. Smoke came up out of the chimneys ahead and lay along the roofs. A church tower stood up out of the smoke at the top of the street.
+The hedges thinned and the fields opened out, wet and green, and the lane went down toward the village between them. A wall came up beside it, low and grey, with moss in the joints. Then another wall on the other side. The mud under our feet turned to stone. Smoke came up out of the chimneys ahead and lay along the roofs. A church tower stood up out of the smoke at the top of the street.
 
 By then we were in the street. I could not have said where the lane ended.
 
@@ -21,8 +21,6 @@ Nobody was out. A cart stood in the street with no horse in the shafts, and the 
 The house with the low wall was the last one before the fields. The door stood open. The singing came out of it.
 
 It was the song the girl had sung in the maize. Her voice was older now.
-
-*The rain comes over the hill. The rain goes over the hill. The corn stands. My love is late. The corn stands.*
 
 Crumble stopped at the wall.
 
@@ -74,7 +72,7 @@ She looked at the bag a long while.
 
 She did not answer that. She looked past him up the street, toward the church, as if the ship might be standing at the top of it.
 
-“I’ll come back,” he said. “With a share. Enough of it that men take their hats off in the street when I go by. Nobody takes his hat off to me.”
+“I’ll come back,” he said. “With a share. Enough of it that men take their hats off in the street when I go by.”
 
 “I never asked for hats.”
 
@@ -101,10 +99,6 @@ She said it gently. She said it the way you let go of a line you can no longer h
 The boy opened his mouth. I saw the words come up in him. I know what a man looks like when he is about to ask for something he wants more than his own breath.
 
 He shut it again.
-
-He stepped back from the gate.
-
-“I’ll come back,” he said again.
 
 He turned round and ran. He ran back up past us and up the street, past the cart and the church. The bag bumped on his back. He did not look round once. Then the rain took him.
 
@@ -180,7 +174,7 @@ He took the pen. He bent over the barrel and wrote his name slowly, with his ton
 
 The next one up I knew, and did not know.
 
-He was a year older than the boy, and taller. His head was shaved to the skin, and there was a fresh cut on it where the razor had slipped. He had a white shirt that had been good once and a pair of breeches that still had the shape of a tailor in them. There was no hide on him anywhere.
+He was a year older than the boy, and taller. His head was shaved to the skin, and there was a fresh cut on it where the razor had slipped. He had a white shirt that had been good once and a pair of breeches that still had the shape of a tailor in them. There was no hide on him anywhere. An old Spanish rapier hung at his hip on a belt too long for him.
 
 It was his eyes I knew last. They were the eyes of a dog that has been kicked and means to bite the next hand it sees.
 
