@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: The old sloop out of Tortuga, a burning Spanish ship off Campeche, a beach at dawn, then an English hill
 when: The road, Crumble's third stop
 status: draft, for Aydin to confirm
-words: 2531
+words: 2529
 ---
 
 <!-- BEAT: They follow the two boys up the plank onto the old sloop. She casts off and Tortuga goes to ash behind her. The road runs on over the water: days go by like the shadows of birds over the deck, and the boys learn the sloop and grow two years in the time it takes to coil a line. Bonesy's teeth show through his cheek. It slows and stops on one night off Campeche: the sloop running dark up on a Spanish ship. Grapnels, a fire pot, the Spaniard's foresail burning. They go over the rail with the crew. Young Jigsaw, eighteen, draws first and runs through a sailor who was opening his mouth; grown Jigsaw had forgotten he did not let him speak. Young Crumble hears women below and goes down into the smoke; grown Crumble follows himself. Maya captives chained in the hold; a girl of seventeen kicks him; he breaks the chain with the quartermaster's axe; she bites his hand and he carries her up over his shoulder, and grown Crumble looks at the scar below his thumb. On deck the girl watches young Jigsaw hold his point at a kneeling man's throat. In the boat at dawn she names Balam and tells the boy he is meant for more. Grown Crumble mouths every word. They walk up the beach after her, and the forest above it turns cool and green and English a step at a time, until they come out on a hill above Anne's village, whole again three summers on. -->
@@ -18,7 +18,7 @@ The two boys stood by the mast with their bags at their feet. They did not know 
 
 We stood by the lee rail. Nobody looked at us either.
 
-They cast off. Two men walked her off the quay with sweeps. The mainsail went up and filled, and she heeled and began to talk along her side, and the harbour opened up behind us.
+They cast off. Two men walked her off the quay with sweeps. The mainsail went up and filled, and she heeled and talked along her side, and the harbour opened up behind us.
 
 I looked back at it.
 
