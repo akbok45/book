@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: A river below a Maya village, years before, on the road
 when: The road, the last stop, where Balam is
 status: draft, for Aydin to confirm
-words: 3598
+words: 3575
 ---
 
 <!-- BEAT: They come up in a brown river below a village Crumble does not know. Its strange people, going about an ordinary morning: a woman whose breath moves water, a man with a turtle's back, twin girls scaled to the elbow, a boy with a heron for a shadow, an old man grown over with moss that flowers. Balam, young, mending a net; Crumble knows his hands. A woman with a small girl on her hip who has Amara's look. A man comes out of the trees in a hooded cloak and the village greets him. His hands are the clean of a Spanish officer and his boots are the boots Jigsaw saw on generals at the academy. His face never turns. Jigsaw sees three launches under the far bank flying the red cross of Burgundy, soldiers in morions, and shouts, and nobody hears. "You brought them here." The bell: small, black, dull as charcoal, cold-looking. One low note that stays, felt in the teeth. The smoke stands straight up. Bonesy comes apart. The strange goes dead in everyone it is in: the heron shadow snaps back to a boy's, the scales go grey and slough, the turtle back cracks like a dried crust, the woman breathes on the river and nothing moves. The soldiers come up the bank. The village fights and kills some. Balam fights the soldiers with a blade, Crumble's forms done better. The man in the cloak draws and fights him, in the Spanish school Jigsaw learned, better than the master who taught it, and he knows every move Balam makes before he makes it; Balam gives him a hard fight. The woman dies over the child, and Balam breaks off to her, and the man in the cloak lets him. Six pikes; the lifted hand. "I taught you everything I knew. These people are innocent." The man in the cloak on control: nothing here answers to anyone, so somebody must hold the rein. He walks into the trees. The note stops. Bonesy's bones pull back together in Crumble's shirt, with patches of flesh. Everything fades but Balam. He walks over to Crumble: "I knew I'd see you here eventually." "Who was that?" Balam looks at Bonesy instead. "We don't have time, Crumble. This isn't another lesson. I have no more to teach you." "I've made many mistakes. You, my friend, are not one. Not yet, at least." "Let me guess. You're after the codex." -->
@@ -17,12 +17,6 @@ It was brown and warm and slow, and it came to my chest. Trees leaned out over i
 Crumble came up beside me. Bonesy was already standing in the shallows with the water running off his hat.
 
 I looked at him and then I looked away. There was next to nothing left of his face. The skin was over it still, but it had gone thin as a wet leaf, and the bone showed white through all of it. His hands were bone with a shine on them.
-
-“Where,” I said.
-
-“His,” Bonesy said, and tipped the hat at Crumble.
-
-Crumble did not hear him. He was looking up the bank.
 
 ⸻
 
