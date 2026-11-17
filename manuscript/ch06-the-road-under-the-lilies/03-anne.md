@@ -5,20 +5,24 @@ pov: Jigsaw, first person, past
 place: An English village in the rain, then Tortuga, on the road
 when: The road, Crumble's first two stops
 status: draft, for Aydin to confirm
-words: 1840
+words: 1914
 ---
 
-<!-- BEAT: Down into the village in the rain to the house with the low wall. The same song from the grinding stone, coming out of the open door. A boy comes down the lane at a run, sixteen, thin, a bag on his shoulder, his left foot turned out. Jigsaw knows him by his feet. Bonesy: "Skinny." Anne at the door with flour on her hands. She sees the bag. Their parting, shaped on Edward and Caroline in Black Flag but in new words, and sad rather than angry: a ship on the tide, what is out there that isn't here, he will come back a man people look at, she looks at him now, he is set on it. "Then go." He nearly asks her to wait and does not, and runs. She stands at the gate in the rain. Crumble goes through the gate and puts his arms round her; she does not see him, and goes in out of his arms. The singing does not start again. "Quick about everything." Jigsaw's shoulder against his. The lane goes down to Tortuga the year they came to it. At a barrel head on the quay the quartermaster reads the articles, and the two boys sign one after the other, Crumble slow, Jigsaw in a schooled hand, neither of them in his gear yet. They grip hands, and neither lets go first. -->
+<!-- BEAT: They follow the lane down and it turns into the town a piece at a time: walls, a cart track, cobbles, chimney smoke, a church tower. The house with the low wall, and the song the girl sang in the maize coming out of the open door, older now. A boy comes down the lane at a run, sixteen, thin, a bag on his shoulder, his left foot turned out. Jigsaw knows him by his feet. Bonesy: "Skinny." Anne at the door with flour on her hands sees the bag. The parting, shaped on Edward and Caroline in Black Flag in new words, and sad: "So you're going." He has talked of the sea since they were small. He will come back with a share and men will take their hats off. "I never asked for hats." "I look at you. Now. The way you are." "When I'm worth coming back." "Then go." He nearly asks her to wait, and runs. Crumble goes over the wall and holds her from behind. She goes still, as if someone said her name in another room, and her hand comes up over his on her arm. Then she goes in. The singing does not start again. "Quick about everything." Jigsaw's shoulder against his. The lane goes down to Tortuga the year they came to it. The articles read at a barrel head; the boy signs slow; a young man Jigsaw knows and does not know signs fast with rage in his eyes, and it is him. They shake hands and go up the plank together. -->
 
-We went down into the village in the rain.
+We went on down the lane.
 
-It was one street, with a church at the top of it and houses of grey stone down both sides. Smoke came out of the chimneys and lay along the roofs. Nobody was out. A cart stood in the street with no horse in the shafts, and the rain ran off the end of it.
+The hedges thinned and the fields opened out, wet and green, and the lane went down toward the village between them. A wall came up beside it, low and grey, with moss in the joints. Then another wall on the other side. The mud under our feet got stones in it, and then the stones were set close together. Smoke came up out of the chimneys ahead and lay along the roofs. A church tower stood up out of the smoke at the top of the street.
+
+By then we were in the street. I could not have said where the lane ended.
+
+Nobody was out. A cart stood in the street with no horse in the shafts, and the rain ran off the end of it.
 
 The house with the low wall was the last one before the fields. The door stood open. The singing came out of it.
 
-It was the same song. I had heard it an hour before from a doorway at the end of a maize field.
+It was the song the girl had sung in the maize. Her voice was older now.
 
-*The rain comes over the hill. The rain goes over the hill. The maize stands. My man is late. The maize stands.*
+*The rain comes over the hill. The rain goes over the hill. The corn stands. My love is late. The corn stands.*
 
 Crumble stopped at the wall.
 
@@ -50,7 +54,7 @@ The boy stopped at the gate. He stood there with his chest going, and the rain c
 
 The singing stopped.
 
-She came to the door. She had flour on her hands to the wrists and she was wiping them on her apron. It was the face from the grinding stone. Freckles across the nose, and the black hair pinned up and coming down, and the mouth that turned up at one corner.
+She came to the door. She had flour on her hands to the wrists and she was wiping them on her apron. It was the girl from the maize grown up. Freckles across the nose, and the black hair pinned up and coming down, and a mouth that turned up at one corner.
 
 It turned up when she saw him. Then she saw the bag.
 
@@ -58,27 +62,25 @@ She stopped wiping her hands.
 
 She came down the path slowly and stood on her side of the gate. She did not open it. He stood on his side with the rain running off the end of his nose.
 
-“Where is it going?” she said.
+She looked at the bag a long while.
 
-“The Indies. She sails on the tide.” He shifted the bag. “The mate says they’re short. He’ll have me.”
+“So you’re going,” she said.
 
-She looked at the bag a while.
+“There’s a ship at the river mouth. Bound for the Indies.” He shifted the bag. “The mate says they’re short a hand. He’ll have me.”
 
-“You told me you’d stopped thinking about it.”
+“You’ve been saying you’d go since we were small.”
 
-“I said I’d stopped talking about it.”
+“I’m not saying it now.”
 
-Her mouth turned up at the corner. It did not get far.
+She did not answer that. She looked past him up the street, toward the church, as if the ship might be standing at the top of it.
 
-“What’s out there?” she said. “That isn’t here.”
+“I’ll come back,” he said. “With a share. Enough of it that men take their hats off in the street when I go by. Nobody takes his hat off to me.”
 
-“Money.” He said it to the gate. “Enough of it. You come home with a share and a ship’s name behind you, and men take their hats off in the street. Nobody takes his hat off to me.”
+“I never asked for hats.”
 
-“I don’t want men taking their hats off.”
+“I’m asking it for you.”
 
-“I want it for you.”
-
-She did not answer that. She put her hand on the top bar of the gate, near his. She did not touch him.
+She put her hand on the top bar of the gate, near his. She did not touch him.
 
 “I look at you,” she said. “Now. The way you are.”
 
@@ -116,7 +118,13 @@ She did not know he was there.
 
 She stood in his arms and looked up the empty street where the boy had gone. The rain came down on both of them. He had his face down against her hair. His shoulders were going.
 
-She put one floury hand up to her face and held it there. Then she took it down and turned and went in, out of his arms, as if there had been nothing in her way.
+Then she went still.
+
+She stood the way you stand when you think somebody has said your name in another room. Her head came up a little. Her hand came up and rested on her own arm, just above the wrist, where his hand was.
+
+She stayed like that a while.
+
+Then she let her hand fall. She turned and went in, out of his arms.
 
 He stood in the yard with his arms still up round nobody.
 
@@ -170,24 +178,24 @@ The first boy up was the one from the lane. He had lost the coat. He was in a sh
 
 He took the pen. He bent over the barrel and wrote his name slowly, with his tongue between his teeth, the way a boy writes who has not done it much. Then he stood back and looked at it.
 
-The next one up was me.
+The next one up I knew, and did not know.
 
-I was seventeen. My head was shaved to the skin and the cut on it from the razor had not healed. I had a white shirt that had been good once and a pair of breeches that still had the shape of a tailor in them. There was no hide on me anywhere. My hands were soft. I did not know yet what the sea does to hands.
+He was a year older than the boy, and taller. His head was shaved to the skin, and there was a fresh cut on it where the razor had slipped. He had a white shirt that had been good once and a pair of breeches that still had the shape of a tailor in them. There was no hide on him anywhere.
 
-I took the pen from him. I signed fast, in the hand they beat into us at the academy. It came out too neat for that paper.
+It was his eyes I knew last. They were the eyes of a dog that has been kicked and means to bite the next hand it sees.
 
-The quartermaster looked at my name, and then at me, and grunted.
+He took the pen out of the boy’s fingers. He did not read the articles. He did not stop to look at the barrel or the paper or the men. He signed fast in one stroke, in the hand they beat into us at the academy, and threw the pen down on the barrel head.
 
-I gave the pen back to the boy, because he was standing there. He took it and did not know what to do with it, and held it.
+It was me.
 
-Then the boy I was put his hand out.
+The boy looked at the name, and then at him.
 
-The boy Crumble was looked at it a moment. He shifted the pen to his other hand and took it.
+The young man I had been looked back at him. Then he put his hand out.
 
-They gripped. I remembered the grip. He was thin, but there was more in his hand than there looked to be. I squeezed and he squeezed back. I squeezed harder. So did he.
+The boy wiped his own hand on his slops and took it.
 
-The quartermaster said something and the men round the barrel laughed. The two boys did not look round. They stood there at the foot of the plank with their knuckles going white, each one waiting for the other to let go first.
+They shook once. Then the quartermaster jerked his head at the plank, and the two of them went up it together, one behind the other, onto the first deck either of them had signed for.
 
-Beside me Crumble made a sound. It was half a laugh.
+Beside me Crumble watched them go up. He did not say anything.
 
-Neither of the boys let go.
+Neither did I.

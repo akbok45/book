@@ -4,11 +4,11 @@ title: Bonesy's Field
 pov: Jigsaw, first person, past
 place: A maize field on the road, then an English lane
 when: Dawn on the road
-status: draft, confirmed by Aydin 2026-11-16
-words: 1066
+status: draft, confirmed by Aydin 2026-11-16, revised 2026-11-17 on his notes
+words: 1111
 ---
 
-<!-- BEAT: Jigsaw wakes in a furrow between rows of maize. Nothing holds his wrist. The night in pieces: the torches, the fisherman's canoe, the gourd from Amara, sour, honey and bark and lilies, Crumble watching him drink, the antler on the shell, Bonesy's cold fingers. Crumble in the next furrow. A man with his back to them: "Fellas." They know the voice at once. Bonesy is a man: short, bowed, a bent nose, two teeth gone, brown eyes where Jigsaw has seen daylight. Crumble swears. He breathes. Jigsaw's hand on his shoulder: warm. "Don't get ideas." Hands in the earth. "Smaller than I remember." The hat came with him. Jigsaw's hand goes through a cob; they are only visiting. A house, a young woman with an English face grinding maize and singing, and Jigsaw understands every word. Crumble goes ahead toward her; Bonesy keeps his eyes on the path. Jigsaw looks back and sees the academy, his old fencing master on the steps shaking his head. The maize turns to a muddy English lane in the rain, Bonesy's arm round Crumble. "I know this lane." A village below, a house with an open door, a woman singing inside. -->
+<!-- BEAT: Jigsaw wakes in a furrow between rows of maize. Nothing holds his wrist. The night in pieces: the torches, the fisherman's canoe, the gourd from Amara, sour, honey and bark and lilies, Crumble watching him drink, the antler on the shell, Bonesy's cold fingers. Crumble in the next furrow. A man with his back to them: "Fellas." They know the voice at once. Bonesy is a man: short, bowed, a bent nose, two teeth gone, brown eyes where Jigsaw has seen daylight. Crumble swears. He breathes. Jigsaw's hand on his shoulder: warm. "Don't get ideas." Hands in the earth. "Smaller than I remember." The hat came with him. Jigsaw's hand goes through a cob; they are only visiting. Two English children run out of the maize, a boy with a stick for a cutlass and a black-haired girl singing after him; Crumble stops, then goes on ahead, faster. Bonesy keeps his eyes on the path. Jigsaw looks back and sees the academy, his old fencing master on the steps shaking his head. The maize turns to a muddy English lane in the rain, Bonesy's arm round Crumble. "I know this lane." A village below, a house with an open door, a woman singing inside. -->
 
 I opened my eyes and looked down. There was red earth under me. I was lying in a furrow between two rows of maize.
 
@@ -90,17 +90,19 @@ Crumble put his hand out to a leaf as he passed. It went through. He took the ha
 
 The row came out onto a path. It was beaten earth, red like the rest, running along the edge of the field.
 
-The path ran on to a house.
+The path ran on along the edge of the field.
 
-It had a thatched roof and a little yard. A dog lay by the door. A woman was kneeling in the doorway at a grinding stone. She was young. Her face was an English face, pale under the sun, with freckles across the nose and a mouth that turned up at one corner. Her black hair fell over one shoulder as she worked.
+Two children came running out of the maize ahead of us.
 
-She was singing.
+They were a boy and a girl, eight or nine years old, and they did not belong there. They had English faces, burnt red across the nose. The boy was barefoot and had a stick held up over his head like a cutlass. He was shouting that he was captain and she was to strike her colours. The girl ran after him with her black hair flying out behind her. She was laughing, and then she was singing at him.
 
-The rain comes over the hill. The rain goes over the hill. The maize stands. My man is late. The maize stands.
+*The rain comes over the hill. The rain goes over the hill. The corn stands. My love is late. The corn stands.*
 
-I did not know the language, but I understood every word.
+They ran across the path in front of us and into the maize on the other side. The stalks shook where they had gone in, and then stopped.
 
-Crumble quickened his pace until he was ahead of us. He could not take his eyes off her. His eyes were full of happiness and longing. There was regret in them too.
+Crumble had stopped in the path. He stood looking at the place where the maize had closed behind them.
+
+Then he went on, faster, ahead of us.
 
 Bonesy kept his eyes on the path and did not change his pace. I kept mine with him.
 
@@ -110,7 +112,7 @@ My old fencing master stood at the top of the steps with his cane under one arm,
 
 He looked down at me and shook his head.
 
-I blinked. There was only maize behind us. When I turned forward again, the house was still at the end of the path. Crumble was still walking toward her.
+I blinked. There was only maize behind us. When I turned forward again, Crumble was well ahead of us on the path. He was still looking into the maize where the children had gone.
 
 The path rose onto a low hill. Bonesy caught up with Crumble and put an arm round his shoulders as we walked.
 

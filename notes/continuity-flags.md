@@ -639,15 +639,20 @@ with the roots. *Invented:* the old man's objection, Amara's "on her head",
 the fisherman and the coral man's wife speaking up, the granddaughter with
 the coin. Aydin to say if "leads" should go further than this.
 
-## 6.3 Anne, invented details (2026-11-17)
+## 6.2 and 6.3, invented details (2026-11-17)
 
-Open to veto: the village with a church at the top of one street; Anne
-baking (flour to the wrists); Anne's song is the grinding song from 6.2; the
-parting follows the shape of Edward and Caroline in *Black Flag* in new
-words, sad rather than angry ("I look at you. Now. The way you are." / "Then
-go."); Crumble going over the wall to hold her, unseen; Tortuga the year they
-came to it; the one-eared quartermaster and the articles read at a barrel
-head (no prey no pay, shares, limb money, a vote, the captain chosen by the
-crew); the two boys signing one after the other and gripping hands, neither
-letting go first. Aydin asked (2026-11-17) to drop the rule that hands pass
-through what is not your own on the road; 6.2's cob passage still has it.
+6.2: Anne at Bonesy's grinding stone is cut on Aydin's note. In its place two
+English children run out of the maize, the boy playing captain with a stick
+and the black-haired girl singing after him. The song is now English ("The
+corn stands. My love is late."), and 6.3 picks it up.
+
+6.3, open to veto: the lane turning into the village a piece at a time; the
+church at the top of one street; Anne baking; the parting follows the shape
+of Edward and Caroline in *Black Flag* in new words, sad rather than angry
+("So you're going." / "I never asked for hats." / "I look at you. Now." /
+"Then go."); Crumble holding her unseen, and her going still with her hand
+over his; Tortuga the year they came to it; the one-eared quartermaster and
+the articles read at a barrel head; young Jigsaw signing fast with
+kicked-dog eyes; the two shaking once and going up the plank together.
+Aydin asked (2026-11-17) to drop the rule that hands pass through what is
+not your own on the road; 6.2's cob passage still has it.
