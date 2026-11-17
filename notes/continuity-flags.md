@@ -698,8 +698,8 @@ cupped hands). Student's face never seen.
 
 **Collides with the bible:** Balam's one real appearance was to be the hold
 vision in chapter 9. Here he walks over, knows Crumble and talks
-("I knew I'd see you here eventually"). Aydin to decide whether the hold
-conversation goes, changes, or Balam appears twice.
+("I knew I'd see you here eventually"). **Settled 2026-11-17: Balam appears
+twice,** here on the road and in the hold vision in chapter 9.
 
 ## 6.4 additions (2026-11-17)
 

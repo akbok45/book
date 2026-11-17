@@ -699,3 +699,10 @@ Still open:
   where and when.
 - The bell sits straight after Amara and straight before Balam. At the end
   of it Balam looks up through the smoke and knows Crumble.
+
+## Ruling, 2026-11-17 (Aydin)
+
+**Balam appears twice:** on the road at the end of 6.5, where he knows
+Crumble and talks to him, and in the hold vision in chapter 9. This
+overrules the 2026-10-28 second-round ruling that the ceremony Balam is
+only the past replaying.
