@@ -5,7 +5,7 @@ pov: Jigsaw, first person, past
 place: An English village in the rain, then Tortuga, on the road
 when: The road, Crumble's first two stops
 status: draft, for Aydin to confirm
-words: 2155
+words: 2171
 ---
 
 <!-- BEAT: They follow the lane down and it turns into the town a piece at a time: walls, a cart track, cobbles, chimney smoke, a church tower. The house with the low wall, and the song the girl sang in the maize coming out of the open door, older now. A boy comes down the lane at a run, sixteen, thin, a bag on his shoulder, his left foot turned out. Jigsaw knows him by his feet. Bonesy: "Skinny." Anne at the door with flour on her hands sees the bag. The parting, shaped on Edward and Caroline in Black Flag in new words, and sad: "So you're going." He has talked of the sea since they were small. He will come back with a share and men will take their hats off. "I never asked for hats." "I look at you. Now. The way you are." "When I'm worth coming back." "Then go." He nearly asks her to wait, and runs. Crumble goes over the wall and holds her from behind. She goes still, as if someone said her name in another room, and her hand comes up over his on her arm. Then she goes in. The singing does not start again. "Quick about everything." Jigsaw's shoulder against his. The lane goes down to Bonesy's skin thins like wet paper off his own ground. Looking back, the village goes grey and soft like wet ash and comes apart: you cannot go back to a stop. Tortuga the year they came to it, Bonesy's hand mostly bone. The articles read at a barrel head. The boy signs slow, and the ink runs red and draws back, leaving his name sharp; the names above, of the crew's dead, have run to blots. Young Jigsaw, shaved, an old Spanish rapier, kicked-dog eyes, signs without reading. They shake once and go up the plank together. -->
@@ -198,7 +198,7 @@ He was a year older than the boy, and taller. He had a white shirt that had been
 
 He took the pen from the boy and signed without reading a word of the articles.
 
-The ink ran out from my name in red threads, and drew back, and left it sharp.
+The ink ran out from my name in red threads, the way a drop of blood falls into clear water and turns it red. Then it drew back and left my name sharp.
 
 He put the pen down and looked at the boy. Then he put out his hand. The boy wiped his own on his slops and took it.
 

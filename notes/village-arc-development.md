@@ -682,5 +682,5 @@ Still open:
   A quiet limit on the journey.
 - **The ink on the articles** runs like blood in water and draws back; the
   boys' names stay sharp, the names of the crew's dead have run to blots.
-- Hands no longer pass through what is not yours on the road (6.2's cob
-  passage still says they do; open).
+- Hands no longer pass through what is not yours on the road. 6.2's cob
+  passage is cut.

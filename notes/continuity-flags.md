@@ -662,5 +662,19 @@ not your own on the road; 6.2's cob passage still has it.
 Aydin: at seventeen, signing at Tortuga, Jigsaw carries an old Spanish rapier
 and "hasn't gotten his sword yet". The bible says his twin arming swords are
 his own from his dueling youth, mended by the brotherhood blacksmith, so he
-would already have them at seventeen. Decide which holds, and if the rapier,
-where the twin swords come from.
+would already have them at seventeen. **Settled 2026-11-17:** the rapier holds. He gets the twin swords later;
+where and when is open. The bible's line that they are his own from his
+dueling youth needs changing.
+
+## 6.4 The Raid, invented details (2026-11-17)
+
+Open to veto: the raid is on a Spanish ship carrying chained Maya captives;
+the quartermaster's boarding axe breaks the chain; Amara bites young
+Crumble's hand and he carries her up with her teeth in it, leaving two white
+crescents below his thumb; young Jigsaw runs through a Spanish sailor who was
+opening his mouth to speak, and later holds his point at a kneeling man's
+throat while Amara watches (her "You still draw first" in 5.2); in the boat
+at dawn Amara names Balam and tells Crumble he is meant for more; crewmates
+named only by their deaths (a Dane lost off Cartagena, a boy from Bristol).
+The scene ends three summers on above Anne's village, now whole again: a
+returning stop is a new time, not the passed one.
