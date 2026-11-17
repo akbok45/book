@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The grey where Balam's village was, on the road
 when: The road, near morning
 status: draft, for Aydin to confirm
-words: 1102
+words: 1072
 ---
 
-<!-- BEAT: Crumble answers: yes, the codex. He draws the face with the curls in the grey. Balam looked for it twenty years: it is song, not breath, a stone on the south point of the long island that sings when the north wind comes; go in a norther. Amara will know the rest. Crumble asks what should have been in Balam's hands, and why he never taught it; Balam looks at the trees and does not answer. Balam to Jigsaw: "Your father walks this road. Further down than this. Where the water is deeper. I see him sometimes. He does not stop to talk. He never did." "You knew him." He does not say no. The drum, faint. The lilies are opening. Balam grips Crumble's shoulder, lets go first, walks into the grey and lifts his hand once. Bonesy is bones again. "There you are." "Here I am." The grey cracks like a mud flat and falls away. Jigsaw wakes at noon in the canoe, the lilies open all round, no drum, Crumble staring into the sun. -->
+<!-- BEAT: Crumble answers: yes, the codex. He draws the face with the curls in the grey. Balam looked for this map twenty years and never found even the first island: the curls are song, not breath, a stone on the south point of the long island that sings when the north wind comes; go in a norther. Amara will know the rest. Crumble asks what should have been in Balam's hands, and why he never taught it; Balam looks at the trees and does not answer. Balam to Jigsaw: "There's a man further down this road who holds a rope the way you do." "Who?" No answer. To Bonesy: "You're the first dead man I've met down here who looks worse than I do." "I had a long start." The drum, faint. The lilies are opening. Balam grips Crumble's shoulder, lets go first, walks into the grey and lifts his hand once. Bonesy is bones again. "There you are." "Here I am." The grey cracks like a mud flat and falls away. Jigsaw wakes at noon in the canoe, the lilies open all round, no drum, Crumble staring into the sun. -->
 
 Crumble did not answer him straight off.
 
@@ -28,7 +28,7 @@ Then he crouched and drew it in the grey with his finger. The grey took the line
 
 Balam looked down at it a long time.
 
-“I looked for that face for twenty years,” he said. “I never found it.” He crouched beside Crumble and put his finger on the curls. “That is not breath. That is song.”
+“I looked for this map for twenty years,” he said. “I never even found the first island.” He crouched beside Crumble and put his finger on the curls. “That is not breath. That is song.”
 
 “A place that sings.”
 
@@ -56,17 +56,19 @@ Crumble nodded slowly, the way a man nods when he has been handed something heav
 
 He turned to me.
 
-He looked at me the way he had before, at my face and then at my hands, as if he were reading a chart he had seen once a long time ago.
+He looked at my hands.
 
-“Your father walks this road,” he said.
+“There’s a man further down this road,” he said, “who holds a rope the way you do.”
 
-I did not say anything. I could not have.
+“Who?”
 
-“Further down than this. Where the water is deeper.” He looked past me into the grey, the way a man looks along a coast for a mark he knows is there. “I see him sometimes. He does not stop to talk. He never did.”
+Balam did not answer. He had already turned to Bonesy.
 
-“You knew him.”
+Bonesy was sitting in the middle of Crumble’s shirt with half a face and one eye, and the hat on.
 
-Balam looked back at me. He did not answer that. He did not say no.
+“You’re the first dead man I’ve met down here who looks worse than I do,” Balam said.
+
+“I had a long start,” Bonesy said.
 
 ⸻
 
