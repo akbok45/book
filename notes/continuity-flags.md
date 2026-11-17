@@ -704,3 +704,7 @@ Student's face never seen, per the 2026-10-28 rulings.
   to Balam. The words are not given on the page. When written, they are a
   number and a day name of the 260-day count (for example *Lahca Ix*,
   Twelve Ix, with Ix the jaguar day). Aydin to choose.
+- 6.4: half a year before the raid, nineteen days becalmed off the Mosquito
+  Coast; Jigsaw down with fever; the boy gives him his biscuit and water
+  every day and says he is not hungry. This is why young Jigsaw backs him.
+  Invented on Aydin's note asking for Jigsaw's humanity in the scene.

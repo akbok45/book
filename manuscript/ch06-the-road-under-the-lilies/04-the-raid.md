@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The quay at Tortuga, then a burning Spanish ship off Campeche, then a longboat at dawn
 when: The road, Crumble's third stop
 status: draft, for Aydin to confirm
-words: 2459
+words: 2639
 ---
 
-<!-- BEAT: The boys go up the brigantine's plank. The harbour water turns red like the ink and smells of smoke. Bonesy steps off the quay into it and they come up on a burning Spanish ship at night, two years on, off Campeche. They watch from the mainmast. "Had my looks for a morning." A Spanish sailor throws down his knife and surrenders; young Jigsaw runs him through and looks for the next. The dead man's head turns on the planking, finds grown Jigsaw, and smiles at him. Young Crumble goes down into the smoking hold; a girl's voice tells him the key is on the mate's belt. The captives come up, children first, the girl last; she counts twenty and lines them along the rail. The quartermaster keeps three Spaniards for ransom and says there is no room for the Maya. The boy says take them ashore, and the deck falls to shouting. Young Jigsaw draws his rapier slow and loud, and every man there has seen him gut more Spaniards with it than any man aboard. He runs the merchant through, smiling: now there's room, and anyone with a problem goes through him. The quartermaster laughs, "Let me teach you all something," cuts the backs of the officer's and the priest's knees and has every Spaniard put over the side. The Maya go in the hold. "You didn't have to kill them." The quartermaster: "Room is made. Not found." The boy and the young man stand at the rail together. In the longboat at dawn the girl names Balam: you went into the fire for twenty people who were nothing to you; a man like that is wasted on a ship of thieves. Go up the river and find him, and tell him two words, the day she was born. In the shallows the water goes red again with firelight. Bonesy wades in: "This way." -->
+<!-- BEAT: The boys go up the brigantine's plank. The harbour water turns red like the ink and smells of smoke. Bonesy steps off the quay into it and they come up on a burning Spanish ship at night, two years on, off Campeche. They watch from the mainmast. "Had my looks for a morning." A Spanish sailor throws down his knife and surrenders; young Jigsaw runs him through and looks for the next. The dead man's head turns on the planking, finds grown Jigsaw, and smiles at him. Young Crumble goes down into the smoking hold; a girl's voice tells him the key is on the mate's belt. The captives come up, children first, the girl last; she counts twenty and lines them along the rail. The quartermaster keeps three Spaniards for ransom and says there is no room for the Maya. The boy says take them ashore, and the deck falls to shouting. Young Jigsaw looks at the boy, and grown Jigsaw remembers why: nineteen days becalmed off the Mosquito Coast, the fever, and the boy giving him his biscuit and his water every day and saying he wasn't hungry. Young Jigsaw draws his rapier slow and loud, and every man there has seen him gut more Spaniards with it than any man aboard. He runs the merchant through, smiling: now there's room, and anyone with a problem goes through him. The quartermaster laughs, "Let me teach you all something," cuts the backs of the officer's and the priest's knees and has every Spaniard put over the side. The Maya go in the hold. "You didn't have to kill them." The quartermaster: "Room is made. Not found." The boy and the young man stand at the rail together. In the longboat at dawn the girl names Balam: you went into the fire for twenty people who were nothing to you; a man like that is wasted on a ship of thieves. Go up the river and find him, and tell him two words, the day she was born. In the shallows the water goes red again with firelight. Bonesy wades in: "This way." -->
 
 The boys went up the plank and over the brigantine’s rail.
 
@@ -142,7 +142,19 @@ The black-bearded man beside the quartermaster laughed in his face. “And where
 
 A good few laughed with him. A good few did not. Somebody said the boy was right. Somebody else told him to shut his mouth. Men began shouting across the deck at each other over the fire.
 
-The young man I had been walked out into the middle of it.
+The young man I had been was not shouting. He was looking at the boy.
+
+I knew what he was looking at.
+
+Half a year before that night we had lain becalmed off the Mosquito Coast for nineteen days, with the water gone green in the casks and the biscuit gone to weevils. I took the fever on the eighth day. I lay in my hammock and shook till the hammock shook with me, and I thought of my father and mother in their beds with the shutters closed, and of the bark that would have saved them, and I did not expect to get up.
+
+The boy came every day. He brought me his biscuit and his ration of water and put them in my hands. He said he was not hungry. He sat on the deck by my hammock and talked to me about nothing, about a girl and a village and the rain, till I slept.
+
+He was hungry. I could hear his belly from the hammock.
+
+I never thanked him. I did not know how.
+
+The young man I had been walked out into the middle of the shouting.
 
 He had put the rapier up after the fighting. He drew it again now, slow, and the steel came out of the scabbard with a long scrape that every man on that deck heard over the fire.
 
