@@ -678,3 +678,17 @@ at dawn Amara names Balam and tells Crumble he is meant for more; crewmates
 named only by their deaths (a Dane lost off Cartagena, a boy from Bristol).
 The scene ends three summers on above Anne's village, now whole again: a
 returning stop is a new time, not the passed one.
+
+## 6.5 The Bell, invented details (2026-11-17)
+
+Open to veto: Balam's village on a brown river under trees, thirty houses;
+young Balam about forty, mending a net; the student greeted by the village,
+a boy taking his hand, an old woman pinching his thin arm; three launches,
+about forty soldiers; the bell's note stays until it stops "the way a rope
+stops when it is cut"; a woman breathing at canoes, a turtle-backed man, a
+boy whose hands do nothing; Balam's own working is speech into cupped
+hands, left vague (2026-10-29 ruling: fire, breath or water, undecided);
+Balam's blade like Crumble's; Amara's mother killed defending the child
+with a fish spear; the student stops the pikes with a lifted hand; the
+skull speaking after the note stops; Balam knowing Crumble at the end.
+Student's face never seen, per the 2026-10-28 rulings.

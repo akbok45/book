@@ -684,3 +684,18 @@ Still open:
   boys' names stay sharp, the names of the crew's dead have run to blots.
 - Hands no longer pass through what is not yours on the road. 6.2's cob
   passage is cut.
+
+## Rulings, 2026-11-17 (Aydin), the shape of Crumble's road
+
+- **Anne married at nineteen is cut** from the road. It reveals too much of
+  Crumble too early. Crumble's road is now: Anne and the leaving, Tortuga
+  and the articles, the raid and Amara, the bell, Balam.
+- **The bell breaks Bonesy apart in the vision.** When the student rings it,
+  Bonesy drops and comes apart into bones on the road, and the brothers carry
+  him on to Balam. Plants the capture, where the same bell does the same.
+- **How the road moves (proposed by Claude, not objected to):** Bonesy opens
+  every door, by feel; every door costs him (the fading); every door is
+  water (rain-river, harbour, sea, river). After each jump Jigsaw names
+  where and when.
+- The bell sits straight after Amara and straight before Balam. At the end
+  of it Balam looks up through the smoke and knows Crumble.

@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The quay at Tortuga, then a burning Spanish ship off Campeche, then a longboat at dawn
 when: The road, Crumble's third stop
 status: draft, for Aydin to confirm
-words: 1959
+words: 2076
 ---
 
-<!-- BEAT: The boys go up the brigantine's plank. Crumble stays at the foot of it looking down at the strip of harbour water between quay and hull. Red comes up into it in threads, the way the ink ran, and spreads till the whole harbour is red and the smell of it is smoke. They are standing on a burning Spanish deck at night. Jigsaw knows the night: off Campeche, the second year. Eighty of their crew coming over the rail. Bonesy's teeth show through his cheek. Young Jigsaw, eighteen, draws first and runs through a sailor who was opening his mouth; grown Jigsaw had forgotten he did not let him speak. Young Crumble hears women below and goes down into the smoke; grown Crumble follows himself. Maya captives chained in the hold; a girl of seventeen kicks him; he breaks the chain with the quartermaster's axe; she bites his hand and he carries her up over his shoulder, and grown Crumble looks at the scar below his thumb. On deck the girl watches young Jigsaw hold his point at a kneeling man's throat. In the longboat at dawn she names Balam and tells the boy he is meant for more. Grown Crumble mouths every word. The captives go ashore. Crumble stands in the shallows, and the water round his legs goes red again: not blood, firelight, coming up from under the sea. -->
+<!-- BEAT: The boys go up the brigantine's plank. Crumble stays at the foot of it looking down at the strip of harbour water. Red comes up into it in threads, the way the ink ran, till the harbour is red and smells of smoke. Bonesy steps off the quay into it: "This way." They go under, hot and roaring, and come up on a burning Spanish deck at night. Jigsaw knows the night: off Campeche, the second year. Eighty of their crew coming over the rail. Bonesy's teeth show through his cheek. Young Jigsaw, eighteen, draws first and runs through a sailor who was opening his mouth; grown Jigsaw had forgotten he did not let him speak. Young Crumble hears women below and goes down into the smoke; grown Crumble follows himself. Maya captives chained in the hold; a girl of seventeen kicks him; he breaks the chain with the quartermaster's axe; she bites his hand and he carries her up over his shoulder, and grown Crumble looks at the scar below his thumb. On deck the girl watches young Jigsaw hold his point at a kneeling man's throat. In the longboat at dawn she names Balam and tells the boy he is meant for more. Grown Crumble mouths every word. The captives go ashore. Crumble stands in the shallows, and the water round his legs goes red again: firelight, coming up from under the sea. Bonesy, his face near clear, wades out into it. "This way." They follow him under. -->
 
 The boys went up the plank and over the brigantine’s rail and were gone.
 
@@ -22,9 +22,15 @@ It came up off the bottom in threads, red, the way the ink had gone out from our
 
 The smell of the harbour changed. The fish and the tar went out of it. It smelt of smoke.
 
-I looked up.
+Bonesy came to the edge of the quay beside Crumble. He looked down at the red water a moment.
 
-The quay was gone. The brigantine was gone. We were standing on a deck in the dark, and the deck was on fire.
+“This way,” he said, and stepped off.
+
+Crumble went after him. I went after Crumble.
+
+The water was hot. It closed over my head red and roaring, like going under in a burning harbour, and I could not tell up from down. Then my hands found a rail and my feet found planking, and I pulled myself up out of it.
+
+The quay was gone. The brigantine was gone. I was standing on a deck in the dark, and the deck was on fire.
 
 ⸻
 
@@ -182,4 +188,8 @@ It came up the same way it had come up at Tortuga, in threads off the bottom. On
 
 Crumble looked down at it.
 
-Then the sand went out from under my feet, and the sea went with it.
+Bonesy waded past him out into the red, to his waist, to his chest. In the light coming up off the water the skin of his face was gone near clear. He looked back at us once from under the hat.
+
+“This way,” he said.
+
+He went under. Crumble went after him. Then I did.
