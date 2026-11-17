@@ -20,7 +20,7 @@ I looked at him and then I looked away. There was next to nothing left of his fa
 
 ⸻
 
-There was a village at the top of it.
+There was a village at the top of the bank.
 
 It was bigger than Amara’s island. There were thirty houses or more, set back from the river under the trees, with smoke coming up through the thatch. Gardens behind them. Canoes pulled up along the bank below.
 
