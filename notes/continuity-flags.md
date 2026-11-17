@@ -714,3 +714,17 @@ twice,** here on the road and in the hold vision in chapter 9.
   Coast; Jigsaw down with fever; the boy gives him his biscuit and water
   every day and says he is not hungry. This is why young Jigsaw backs him.
   Invented on Aydin's note asking for Jigsaw's humanity in the scene.
+
+## 6.5 additions on Aydin's notes (2026-11-17)
+
+- The strange are hurt when the bell takes it out of them.
+- The student's line on control is now: "Who holds the rein on that? Not the
+  King. Not the Church. Not you. Nobody. And what nobody holds, nobody can
+  stop." It leans on his sister without naming her.
+- Balam to Jigsaw: he has seen his work with a blade (Crumble told him of the
+  raid), and "I knew a man once who read the water the way you do. Long ago,
+  on the coast. He had your eyes." *Invented:* a link between Balam and
+  Jigsaw's father, left as a hint.
+- Balam to Bonesy: the old men told of a farmer who carried jars to the
+  priests, went into the cellar and never came out, "and never stopped
+  coming back." Ties to the fourth-round ruling that Bonesy carried jars.

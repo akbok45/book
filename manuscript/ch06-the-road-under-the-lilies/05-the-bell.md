@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: A river below a Maya village, years before, on the road
 when: The road, the last stop, where Balam is
 status: draft, for Aydin to confirm
-words: 3575
+words: 3571
 ---
 
-<!-- BEAT: They come up in a brown river below a village Crumble does not know. Its strange people, going about an ordinary morning: a woman whose breath moves water, a man with a turtle's back, twin girls scaled to the elbow, a boy with a heron for a shadow, an old man grown over with moss that flowers. Balam, young, mending a net; Crumble knows his hands. A woman with a small girl on her hip who has Amara's look. A man comes out of the trees in a hooded cloak and the village greets him. His hands are the clean of a Spanish officer and his boots are the boots Jigsaw saw on generals at the academy. His face never turns. Jigsaw sees three launches under the far bank flying the red cross of Burgundy, soldiers in morions, and shouts, and nobody hears. "You brought them here." The bell: small, black, dull as charcoal, cold-looking. One low note that stays, felt in the teeth. The smoke stands straight up. Bonesy comes apart. The strange goes dead in everyone it is in: the heron shadow snaps back to a boy's, the scales go grey and slough, the turtle back cracks like a dried crust, the woman breathes on the river and nothing moves. The soldiers come up the bank. The village fights and kills some. Balam fights the soldiers with a blade, Crumble's forms done better. The man in the cloak draws and fights him, in the Spanish school Jigsaw learned, better than the master who taught it, and he knows every move Balam makes before he makes it; Balam gives him a hard fight. The woman dies over the child, and Balam breaks off to her, and the man in the cloak lets him. Six pikes; the lifted hand. "I taught you everything I knew. These people are innocent." The man in the cloak on control: nothing here answers to anyone, so somebody must hold the rein. He walks into the trees. The note stops. Bonesy's bones pull back together in Crumble's shirt, with patches of flesh. Everything fades but Balam. He walks over to Crumble: "I knew I'd see you here eventually." "Who was that?" Balam looks at Bonesy instead. "We don't have time, Crumble. This isn't another lesson. I have no more to teach you." "I've made many mistakes. You, my friend, are not one. Not yet, at least." "Let me guess. You're after the codex." -->
+<!-- BEAT: They come up in a brown river below a village full of the strange: a woman whose breath moves water, a turtle-backed man, scaled twins, a boy with a heron for a shadow, an old man in flowering moss. Young Balam mending a net; Crumble knows his hands. A woman with a small girl who has Amara's look. A man in a hooded cloak comes out of the trees and the village greets him: an officer's clean hands, a general's boots, his face never turned. Three launches under the far bank flying the cross of Burgundy, the flag Jigsaw served under; he shouts, unheard. "You brought them here." The black bell, dull as charcoal, one low note felt in the teeth. The smoke stands straight up, Bonesy comes apart, and the strange goes out of everyone it is in, and it hurts them. The soldiers come up the bank and the village fights. Balam's cupped hands give nothing; he fights with Crumble's forms done better. The man in the cloak fights him clean, in the Spanish school, and knows every move; Balam cuts him at the shoulder. A pike takes the woman under the ribs; Balam breaks off to her. Six pikes stop at a lifted hand. "I taught you everything I knew. These people are innocent." "Who holds the rein on that?... Nobody. And what nobody holds, nobody can stop." "That is not why you came." "No. That is why I will keep coming." The note stops; Bonesy pulls back together half skin and half bone. The village goes grey and is gone, all but Balam. He walks over: "I knew I'd see you here eventually." "Who was that?" No answer. "This isn't another lesson. I have no more to teach you." "You, my friend, are not one of them. Not yet, at least." To Jigsaw: he has seen his work with a blade, and knew a man once who read the water the same way, with his eyes. To Bonesy: the story of the farmer who carried jars to the priests and never stopped coming back. "Let me guess. You're after the codex." -->
 
 I came up in a river.
 
@@ -76,7 +76,7 @@ He did not look glad.
 
 Then I saw the boats.
 
-They were three launches, long and low, coming down the far bank of the river under the trees where the light did not reach. They were pulling slow and quiet with the oars muffled. Each one flew a small flag at the stern, white, with the red cross of Burgundy on it, the ragged cross. I had stood under that flag at morning muster for a year. There was a glint in the bow of each launch, and then another. Morions. Pike heads. The slow match of matchlocks, red in the green dark.
+They were three launches, long and low, coming down the far bank of the river under the trees where the light did not reach. They were pulling slow and quiet with the oars muffled. Each one flew a small flag at the stern, white, with the red cross of Burgundy on it, the ragged cross. I had stood under that flag at morning muster for a year, and served under it, and done what it told me. There was a glint in the bow of each launch, and then another. Morions. Pike heads. The slow match of matchlocks, red in the green dark.
 
 I knew how to come up on a village from the water. It is my trade. I had done it myself, coming up under a bank where the watch looks the wrong way, while the people in the village look at a man walking in out of the trees.
 
@@ -132,11 +132,11 @@ I watched the strange go out of the village.
 
 It did not go all at once. It went the way a fire goes out in rain, one place and then the next.
 
-The boy on the bank stopped running. His shadow lay on the water beside him, a heron’s. Then it shrank in on itself like a wet sail coming down, and it was a boy’s shadow. He looked down at it.
+The boy on the bank stopped running. He cried out and went down on his knees with both arms round his ribs, the way a man goes down when a pike shaft takes him in the belly. His shadow lay on the water beside him, a heron’s. Then it shrank in on itself like a wet sail coming down, and it was a boy’s shadow. He knelt there looking at it, with the tears running down his face.
 
-The twin girls in the doorway had dropped the beans. They were holding their arms out in front of them. The scales on their arms had gone grey and dull and were coming away in flakes, the way the scales come off a fish left too long in the sun.
+The twin girls in the doorway had dropped the beans. They were holding their arms out in front of them and crying. The scales on their arms had gone grey and dull and were coming away in flakes, the way the scales come off a fish left too long in the sun.
 
-The moss on the old man against the wall had gone brown. The white flowers fell off it all together, like snow off a branch.
+The moss on the old man against the wall had gone brown. The white flowers fell off it all together, like snow off a branch, and he bent over his knees and could not get his breath.
 
 The woman at the river was breathing on her canoe. She breathed hard, and harder, at the water. The canoe sat where it was. She breathed again till her face went dark. Nothing moved.
 
@@ -172,15 +172,11 @@ When the third soldier went down, he put his hand in under the cloak again and d
 
 Balam turned to face him.
 
-I knew the school in the first pass.
+He fought clean. It was the same clean as his hands and his boots. Every step was the proper step, the one I had been beaten into making in rows in the sun at the academy, and he made each of them better than the master who beat us.
 
-The man in the cloak stood the way the master at the academy had taught us to stand, side on, the body upright, the point always in the line of the other man’s face. He moved on the circle the master drew on the floor of the long room, stepping round it and across it in the proper steps. Everything he did, I had done a thousand times in rows in the sun, with the master walking behind us and the cane coming down on any boy who broke the line.
+And he knew Balam. Wherever Balam went, the long blade was there first.
 
-He did it better than the master ever had.
-
-And he knew Balam. Every move Balam made, he was already where it was going. Balam went low for the knee, the way Crumble goes low, and the long blade was there before him. Balam came in under the guard for the belly, and the man in the cloak had stepped off the line a breath before he started.
-
-Balam gave him a hard fight. I have seen few men fight like that. He drove the man in the cloak back across the open ground twice, and once his short blade went through the cloak at the shoulder and came out red. But the man in the cloak did not go down. He came back each time. He was younger, and he knew every step Balam was going to take before Balam took it, because Balam was the one who had taught him how to take them.
+Balam gave him a hard fight. Twice he drove the man in the cloak back across the open ground, and once his short blade went through the cloak at the shoulder and came out red. The man in the cloak only stepped back and came on again.
 
 Up on the bank the woman with the child had not got far. She was standing in front of a house with the child behind her legs and a fish spear in her hands.
 
@@ -188,7 +184,7 @@ A soldier came at her with a pike.
 
 She did not run. She put the fish spear into the meat of his arm, and he roared and dropped the pike, and another came up behind him.
 
-I will not set down the rest of it. She was a long time going down. The child stood behind her legs and watched.
+The second pike took her under the ribs. She went down slowly, still holding the fish spear. The child stood behind her legs and watched.
 
 Balam heard her.
 
@@ -210,7 +206,7 @@ Balam looked at the man in the cloak over the heads of the soldiers. I could see
 
 “I taught you everything I knew,” Balam said. “These people are innocent.”
 
-“Innocent.” The man in the cloak said it as if he were turning the word over to look at the underside. “A woman breathes and the river moves. A boy runs and a bird runs with him. Who holds the rein on that? Not the King. Not the Church. Not you.” He looked round at the burning houses. “Nothing in this place answered to anyone. I will not leave a world where nothing answers to anyone.”
+“Innocent,” the man in the cloak said. “A woman breathes and the river moves. A boy runs and a bird runs with him. Who holds the rein on that?” He looked round at the burning houses. “Not the King. Not the Church. Not you. Nobody. And what nobody holds, nobody can stop.”
 
 “That is not why you came.”
 
@@ -246,11 +242,9 @@ It was his voice, gone small as a cricket’s.
 
 ⸻
 
-The village was going.
+The village went grey and thin, like breath on a cold morning, and was gone.
 
-Not burning. Going. The houses went grey and soft at the edges, and the smoke went still, and the people standing in it went thin like breath on a cold morning and were not there. The soldiers went. The launches on the river went. The dead went, and the woman on the bank with the fish spear went, and the trees behind the houses went pale and far off like trees in a fog.
-
-Everything went but one man.
+All of it but one man.
 
 Balam was standing in the open ground where the village had been, in the grey, with nothing round him. The child was gone from his arms. He had let them fall to his sides.
 
@@ -282,6 +276,24 @@ He took the hand away.
 
 The corner of his mouth went up. I had seen that same corner go up on Crumble a thousand times and never known where he got it.
 
-Then he looked at the three of us, one after another. The skull in the hat. The one with the shaved head. The tall one with his shirt off.
+Then he looked at me.
+
+“I’ve seen your work with a blade,” he said. “On a Spanish deck, two summers before he came to me. He told me about it.” He tipped his head at Crumble. “He did not tell me it all. He didn’t have to.”
+
+I did not say anything.
+
+He looked at me a while longer. At my face, and my hands.
+
+“I knew a man once who read the water the way you do,” he said. “Long ago, on the coast. He had your eyes.”
+
+I opened my mouth. He had already turned away.
+
+He looked down at Bonesy, sitting in the grey in the middle of Crumble’s shirt with half a face and one eye.
+
+“And you,” Balam said. “The old men in my village told a story about a farmer who carried jars down to the priests. They said he went into the cellar one day and never came out, and never stopped coming back.” The corner of his mouth went up again. “I always thought it was a story for frightening children.”
+
+“It is,” Bonesy said.
+
+Balam looked at the three of us, one after another.
 
 “Let me guess,” he said. “You’re after the codex.”
