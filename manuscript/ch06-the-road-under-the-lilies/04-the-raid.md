@@ -2,35 +2,49 @@
 scene: 04-the-raid
 title: The Raid
 pov: Jigsaw, first person, past
-place: A burning Spanish ship off the coast, on the road, then a beach at dawn
+place: The old sloop out of Tortuga, a burning Spanish ship off Campeche, a beach at dawn, then an English hill
 when: The road, Crumble's third stop
 status: draft, for Aydin to confirm
-words: 1975
+words: 2531
 ---
 
-<!-- BEAT: Up the plank after the two boys, and the deck under their feet is a different deck: night, smoke, a Spanish ship grappled and burning, their old crew boarding her. Tortuga goes to ash behind them. Bonesy's face thinning; the teeth show through his cheek. Young Jigsaw comes over the rail with the old rapier and draws first, and cuts down a sailor before the man can open his mouth. Grown Jigsaw watches himself. Young Crumble hears a woman below and goes down into the smoke; grown Crumble goes after him and Jigsaw follows. In the hold, a girl chained to a stanchion with other Maya captives, kicking at anyone who comes near. The boy breaks the chain with a boarding axe and she bites him. He carries her up over his shoulder. On deck young Jigsaw is standing over a kneeling man with his blade up, and the girl watches him; years later she will tell him he still draws first. At dawn in the boat she says her father is Balam, and that a man who goes into a fire for a stranger is meant for more than this crew; go up the river and find him, if you have it in you. Grown Crumble mouths it with her. The beach under the boat's keel goes to grass, and the grass goes up a hill, and below is the English village again, built whole, three summers on. -->
+<!-- BEAT: They follow the two boys up the plank onto the old sloop. She casts off and Tortuga goes to ash behind her. The road runs on over the water: days go by like the shadows of birds over the deck, and the boys learn the sloop and grow two years in the time it takes to coil a line. Bonesy's teeth show through his cheek. It slows and stops on one night off Campeche: the sloop running dark up on a Spanish ship. Grapnels, a fire pot, the Spaniard's foresail burning. They go over the rail with the crew. Young Jigsaw, eighteen, draws first and runs through a sailor who was opening his mouth; grown Jigsaw had forgotten he did not let him speak. Young Crumble hears women below and goes down into the smoke; grown Crumble follows himself. Maya captives chained in the hold; a girl of seventeen kicks him; he breaks the chain with the quartermaster's axe; she bites his hand and he carries her up over his shoulder, and grown Crumble looks at the scar below his thumb. On deck the girl watches young Jigsaw hold his point at a kneeling man's throat. In the boat at dawn she names Balam and tells the boy he is meant for more. Grown Crumble mouths every word. They walk up the beach after her, and the forest above it turns cool and green and English a step at a time, until they come out on a hill above Anne's village, whole again three summers on. -->
 
-We went up the plank after them.
+We followed them up the plank.
 
-It was four steps. I felt the wood give under my boots, the way a plank gives. At the top I stepped down onto the deck.
+It was the old sloop. I would have known her blind. The tiller had the same split in it, bound round with marline. The same patch was in the mainsail, a lighter square of canvas near the head. The same smell came up out of her hold, bilge and tar and the onions the cook kept in a net by the hatch.
 
-It was night.
+The two boys stood by the mast with their bags at their feet. They did not know where to put themselves. Men went round them with casks and coils of line and did not look at them.
 
-The deck was not the deck of the sloop. It was wider and higher in the waist, and it was on fire.
+We stood by the lee rail. Nobody looked at us either.
 
-The smoke came across it in sheets. Through the smoke there was the red of a sail burning on the foremast, and men everywhere, and the noise of them. Pistols going off. Somebody screaming in Spanish for his mother. Grapnels lay over the rail with their lines bar taut, and on the other side of the rail, lower down, I could see our sloop lying alongside with her deck empty and her sweeps shipped. The crew had already come over.
+They cast off. Two men walked her off the quay with sweeps. The mainsail went up and filled, and she heeled and began to talk along her side, and the harbour opened up behind us.
 
-I turned round. Behind us there was no plank and no quay. There was a grey haze over the water where Tortuga had been, soft at the edges, and pieces of it going off in the wind like ash off a fire.
+I looked back at it.
 
-“Spanish,” Crumble said.
+Tortuga was going. The fort on the hill went first. It went grey and soft, the way the church tower had gone in the rain, and came apart and drifted off. The masts in the harbour went after it, and the roofs along the front, and the quay where the barrel had stood. By the time we had cleared the point there was nothing astern but grey on the water.
 
-He was standing beside me with the smoke going past his face. Bonesy was on his other side.
+Crumble watched it go. Then he turned round to face the bow.
 
-I looked at Bonesy and wished I had not.
+⸻
 
-His face was going. The skin was still on it, but it had gone thin over the cheekbones and the jaw, and in the red light off the burning sail I could see the shape of his teeth through his cheek. The two gaps at the front showed through it dark.
+The road went on, but it went on over the water now.
 
-He saw me look. He tipped the hat lower.
+The sun went down ahead of us and came up astern. It went down again and came up again, faster. Then the days went past over the deck the way the shadows of birds go past, one and then the next, quicker than I could count them.
+
+I saw the boys in pieces.
+
+The thin one at the pump, sick over the lee rail between strokes. The shaved one up on the yard in a blow, out at the end of it when the older men would not go. The thin one with a fish hook through his thumb, and the quartermaster pulling it out the other side while he bit a strap. The shaved one alone at the bow at night with the rapier, cutting at nothing till his arm would not lift it. The two of them asleep against the same cask in the sun, with their mouths open.
+
+The thin one filled out. His shoulders came. The coat that had been made for a bigger man came to fit him and then wore out, and he went in a shirt. The shaved one grew a beard and shaved it off and grew it again. A cut came on his forearm and closed and turned white.
+
+Two years went by on that deck in the time it takes to coil down a line.
+
+I looked round for Bonesy. He was sitting on the hatch with his hat in his lap.
+
+His face was going. The skin was still on it, but it had gone thin over the cheekbones and the jaw. In the light off the water I could see the shape of his teeth through his cheek, and the two gaps at the front showed through it dark.
+
+He saw me look. He put the hat back on and tipped it low.
 
 “Don’t,” he said.
 
@@ -38,63 +52,81 @@ I did not.
 
 ⸻
 
-Our crew were fighting their way aft. I knew most of them by their backs. The one-eared quartermaster with a boarding axe. A big Dane we lost the next year off Cartagena. A boy from Bristol with a pike, who never shaved in his life and never would.
+Then it slowed.
 
-Then a young man came over the rail beside us.
+The sun went down and did not come up again. It was night, and it stayed night. The sloop was running with no lights, the sails black against the stars, and every man in her was on deck and nobody was talking.
 
-It was me. Eighteen, or near it. The cut on my head had healed and the hair had been shaved again over it. I had the old rapier out before my feet touched the deck.
+I knew this night. It was off the Campeche coast in our second year, with a north wind and no moon.
 
-A Spanish sailor stood up out of the smoke in front of me with his hands empty. He was opening his mouth.
+Ahead of us there was a ship.
 
-I did not wait to hear what was in it. I put the rapier through him under the ribs and pulled it out and went on past him before he had finished falling.
+She was big and slow, a Spaniard, with lanterns burning at her stern and one on her bowsprit. She was low in the water and making heavy work of the swell. We came up on her from astern, out of the dark, where her lanterns could not show us.
 
-Beside me, I watched myself do it.
+The crew were along the rail with grapnels and pistols. The thin boy was among them with a cutlass in his hand. He held it the way the quartermaster had taught us, wrong, with the thumb on the back of the grip. The shaved one was beside him with the old rapier drawn.
 
-I had forgotten that one. I had not forgotten him. I had forgotten I did not let him speak.
+They were eighteen and seventeen. I had forgotten how young we were.
+
+Somebody on the Spaniard shouted. A musket went off from her stern gallery, and the ball went over us into the dark.
+
+Then we were alongside. The grapnels went over. The quartermaster threw a pot of fire up onto her deck, and it broke against her foremast and ran down in flames, and her foresail caught.
+
+Our crew went up her side.
+
+We went up with them. I put my hands on her rail and it was warm, and I pulled myself over onto her deck into the smoke.
+
+⸻
+
+Her deck was on fire forward. The foresail burned overhead and dropped pieces of itself onto the planking. Men were everywhere. Pistols going off. Somebody screaming in Spanish for his mother.
+
+I knew most of our men by their backs. The one-eared quartermaster with a boarding axe. A big Dane we lost the next year off Cartagena. A boy from Bristol with a pike, who never shaved in his life and never would.
+
+The young man I had been came over the rail beside me.
+
+A Spanish sailor stood up out of the smoke in front of him with his hands empty. He was opening his mouth.
+
+He did not wait to hear what was in it. He put the rapier through him under the ribs and pulled it out and went on past him before the man had finished falling.
+
+I watched myself do it.
+
+I had forgotten that one. I had not forgotten him. I had forgotten that I did not let him speak.
 
 Crumble did not say anything. Bonesy did not say anything. The sailor lay on the deck with his mouth still open round what he had meant to say.
 
 ⸻
 
-The boy came over the rail behind me.
+The thin boy came over the rail behind him and stopped.
 
-He had filled out some. There was a cutlass in his hand now and a pistol in his belt, and he held the cutlass the way the quartermaster had taught us, wrong, with the thumb on the back of the grip. He came down onto the deck and looked round for something to do with it.
+He had his head on one side. I heard it too. Under the noise of the deck and the fire there was another noise, coming up out of the open hatch in the waist. Women’s voices. Somebody beating on wood from underneath.
 
-Then he stopped. He had his head on one side.
-
-I heard it too. Under the noise of the deck and the fire there was another noise, coming up out of the open hatch in the waist. Women’s voices. Somebody was beating on wood from underneath.
-
-The boy went to the hatch and looked down into it. The smoke was coming up out of it thick and yellow.
+He went to the hatch and looked down. Smoke was coming up out of it thick and yellow.
 
 He went down.
 
-Crumble went after him. He did not wait for me or for Bonesy. He went down the ladder into the smoke after himself, and I heard his boots on the rungs and then I could not.
+Crumble went after him. He did not wait for me or for Bonesy. He went down the ladder into the smoke after himself.
 
 I went after Crumble. Bonesy came after me.
 
-⸻
+The hold was black and full of smoke, and hot as a bread oven with the door shut. The fire was in the deck over our heads. I could see it through the seams, red lines in the black. Pitch was dropping out of the seams in burning drops and hissing on the planks.
 
-The hold was black and full of smoke, and hot as an oven with the door shut. The fire was in the deck over our heads. I could see it through the seams, red lines in the black. Pitch was dropping out of the seams in burning drops and hissing on the planks.
+There were people chained along the ship’s side. Women, mostly, and some children, and two old men. They were Maya. They had iron round their ankles and a chain through the iron, and the chain was made fast to a stanchion with a lock on it. They were pulling at it and screaming.
 
-There were people chained along the ship’s side. Women, mostly, and some children, and two old men. They were Maya. They had iron round their ankles, and a chain through the iron, and the chain made fast to a stanchion with a lock on it. They were pulling at it and screaming.
+The boy was at the stanchion with the cutlass, hacking at the chain. Sparks came off it and the chain held.
 
-The boy was at the stanchion with the cutlass, hacking at the chain. It was doing nothing. Sparks came off it and the chain held.
+Crumble stood behind him and watched.
 
-Crumble stood behind him and watched him do it.
+The girl nearest the stanchion was not screaming. She was perhaps seventeen. She had her back to the ship’s side and her feet drawn up. Every time the boy leaned in to get at the chain she kicked at him. She caught him in the hip. Then the knee.
 
-The girl nearest the stanchion was not screaming. She was perhaps seventeen. She had her back to the ship’s side and her feet drawn up, and every time the boy leaned in to get at the chain she kicked at him. She caught him in the hip. Then the knee.
+“Hold still,” the boy said. “Hold still. I’m trying to help.”
 
-“Hold still,” the boy said in English. “Hold still. I’m trying to help.”
+She kicked him again.
 
-She did not have the English, or she did not care. She kicked him again.
-
-The boy threw down the cutlass. He went back up the ladder.
+The boy threw down the cutlass and went back up the ladder.
 
 For a breath I thought he had gone for good. The women along the side thought so too. The screaming went up.
 
-Then he came down again with the quartermaster’s boarding axe. He set his feet. He brought it down on the chain where it went round the stanchion, once, twice, and on the third stroke a link split and went across the hold like a pistol ball.
+Then he came down again with the quartermaster’s boarding axe. He set his feet. He brought it down on the chain where it went round the stanchion, once, twice. On the third stroke a link split and went across the hold like a pistol ball.
 
-The chain ran out through the rings. The women were up and pulling their feet free of it and going for the ladder.
+The chain ran out through the irons. The women were up and pulling their feet free and going for the ladder.
 
 The girl did not go for the ladder. She sat with her back to the planking and looked at the boy with the axe.
 
@@ -112,11 +144,11 @@ The fighting was done. The Spaniards who were left were on their knees by the ma
 
 The boy set the girl on her feet by the rail. She let go of his hand. There was blood on her mouth that was not hers.
 
-She looked round the deck. She looked at the burning mast and the men on their knees and the bodies.
+She looked round the deck at the burning mast and the men on their knees and the dead.
 
-Then she looked at me.
+Then she looked at the young man I had been.
 
-Not at me as I was. At the young man I had been, eighteen and shaved, standing over a Spaniard by the mainmast with the rapier up. The Spaniard was on his knees with his hands on his head. He was not doing anything. The young man had the point of the rapier at his throat and was waiting for him to.
+He was standing over a Spaniard by the mainmast with the rapier up. The Spaniard was on his knees with his hands on his head. He was not doing anything. The young man had the point at his throat and was waiting for him to.
 
 The girl looked at that a long time. Her face did not move.
 
@@ -130,7 +162,7 @@ Years after, on a lake shore with three spears on me, she would tell me I still 
 
 They put the captives ashore at first light.
 
-The sea had gone grey and flat. The burning ship was a long smudge of smoke behind us. The boat was full of women and children, and the boy was at the bow oar, and the girl sat on the thwart in front of him with her back to him.
+The sea had gone grey and flat. The Spanish ship was a long smudge of smoke behind us, going grey and soft at the edges the way everything on that road went once we had passed it. The longboat was full of women and children. The boy was at the bow oar, and the girl sat on the thwart in front of him with her back to him.
 
 We were in the boat too. Nobody had to make room for us.
 
@@ -142,9 +174,9 @@ Halfway to the beach she turned round on the thwart and looked at the boy.
 
 His hand was bound up in a strip of somebody’s shirt. The blood had come through it.
 
-“My father,” she said. Her English was slow and good. “My father would have liked you.”
+“My father would have liked you,” she said. Her English was slow and good.
 
-The boy kept rowing. He did not know what to say to that. He said, “Who’s your father?”
+The boy kept rowing. “Who’s your father?”
 
 “His name is Balam.”
 
@@ -152,7 +184,7 @@ The name meant nothing to him. I watched it mean nothing to him. Beside her, the
 
 “He is up a river,” she said. “A long way up. He teaches. He does not teach many.” She looked at the boy’s bound hand. “A man who goes down into a fire for a girl he does not know is meant for more than this.”
 
-She tipped her head back at the smoke on the sea. At the crew in the boat with rings on every finger.
+She tipped her head back at the smoke on the sea, and at the crew in the boat with rings on every finger.
 
 “If you have it in you,” she said, “go up the river and find him.”
 
@@ -168,15 +200,23 @@ Then she went in under the trees.
 
 The boy sat at his oar and watched the place where she had gone.
 
-I got out of the boat. The water came up round my boots, warm. Crumble got out after me, and Bonesy after him.
+Crumble got out of the boat. He waded ashore and went up the beach after her. I went after him, and Bonesy after me.
 
-I had my feet in the sea, and then I had them in grass.
+Her footprints went up the sand and in under the trees. We followed them.
 
-It was short grass, wet with dew, and it went up a hill. There was no beach behind us. There was no boat. There was a grey softness where the sea had been, coming apart in the air like the last of a fog.
+Under the trees it was dim and green and hot. The footprints went on along a path through the roots. Then they stopped, and the path went on without them.
 
-The sky was high and blue and cool. A lark went up off the hill singing.
+We kept to it.
 
-We went up. At the top of the hill there was a lane between hedges, and the hedges were green with summer and white with flower. Below, in a fold of the fields, there was a village. One street. A church tower at the top of it. Smoke going straight up out of the chimneys into the still air.
+The path climbed. The air got cooler as it climbed, a little at a time. The trees changed round us while we walked. The palms went first. Then the big buttressed trees with the vines on them. What came after had small leaves and grey bark, and light came down through them in the old way, slanting, the way it comes in a country where the sun sits low.
+
+I put my hand on one as I passed. It was an oak.
+
+The path came out of the trees onto short grass. The grass was wet with dew and went up a hill under a high blue sky. A lark went up off it singing.
+
+I looked back. The wood behind us was going grey at the edges, like the rest.
+
+We went up the hill. At the top of it there was a lane between hedges, and the hedges were green with summer and white with flower. Below, in a fold of the fields, there was a village. One street. A church tower at the top of it. Smoke going straight up out of the chimneys into the still air.
 
 It was whole. Every roof of it.
 
