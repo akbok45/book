@@ -639,12 +639,15 @@ with the roots. *Invented:* the old man's objection, Amara's "on her head",
 the fisherman and the coral man's wife speaking up, the granddaughter with
 the coin. Aydin to say if "leads" should go further than this.
 
-## 6.3 Anne, invented details (2026-11-16)
+## 6.3 Anne, invented details (2026-11-17)
 
 Open to veto: the village with a church at the top of one street; Anne
-baking (flour to the wrists); the ship at the river mouth bound for the
-Indies; "You've got you." / "That's not enough."; the boy letting go of her
-hand first (against 5.4, where Crumble has never let go first with Jigsaw,
-which is the point); "She'd have said yes. If I'd asked her."; the English
-song; Crumble able to touch the wall on his own road, as Bonesy touched his
-own earth; Jigsaw joining the same sloop at Tortuga by asking its mate.
+baking (flour to the wrists); Anne's song is the grinding song from 6.2; the
+parting follows the shape of Edward and Caroline in *Black Flag* in new
+words, sad rather than angry ("I look at you. Now. The way you are." / "Then
+go."); Crumble going over the wall to hold her, unseen; Tortuga the year they
+came to it; the one-eared quartermaster and the articles read at a barrel
+head (no prey no pay, shares, limb money, a vote, the captain chosen by the
+crew); the two boys signing one after the other and gripping hands, neither
+letting go first. Aydin asked (2026-11-17) to drop the rule that hands pass
+through what is not your own on the road; 6.2's cob passage still has it.
