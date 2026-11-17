@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The grey where Balam's village was, on the road
 when: The road, near morning
 status: draft, for Aydin to confirm
-words: 1072
+words: 907
 ---
 
-<!-- BEAT: Crumble answers: yes, the codex. He draws the face with the curls in the grey. Balam looked for this map twenty years and never found even the first island: the curls are song, not breath, a stone on the south point of the long island that sings when the north wind comes; go in a norther. Amara will know the rest. Crumble asks what should have been in Balam's hands, and why he never taught it; Balam looks at the trees and does not answer. Balam to Jigsaw: "There's a man further down this road who holds a rope the way you do." "Who?" No answer. To Bonesy: "You're the first dead man I've met down here who looks worse than I do." "I had a long start." The drum, faint. The lilies are opening. Balam grips Crumble's shoulder, lets go first, walks into the grey and lifts his hand once. Bonesy is bones again. "There you are." "Here I am." The grey cracks like a mud flat and falls away. Jigsaw wakes at noon in the canoe, the lilies open all round, no drum, Crumble staring into the sun. -->
+<!-- BEAT: Crumble answers: yes, the codex. He draws the face with the curls in the grey. Balam looked for this map twenty years: the curls are song, not breath, a stone on the south point of the long island that sings when the north wind comes; go in a norther. Amara will know the rest. Balam to Jigsaw: "And Jigsaw. Your father says hello." The drum, faint. The lilies are opening. Balam grips Crumble's shoulder, lets go first, walks into the grey. Nearly gone, he turns his head to Bonesy: "You're the first dead man I've met down here who looks worse than I do." Even Bonesy has no answer. Bonesy is bones again. "There you are." "Here I am." The grey cracks like a mud flat and falls away. Jigsaw wakes at noon in the canoe, the lilies open all round, no drum, Crumble staring into the sun. -->
 
 Crumble did not answer him straight off.
 
@@ -22,13 +22,11 @@ He stood there with his shirt off in the grey, and his arms at his sides, and lo
 
 “Show me.”
 
-Crumble did not have it. It was back in Amara’s house, on its oiled cloth. He looked at his empty hands as if it might be in them.
-
-Then he crouched and drew it in the grey with his finger. The grey took the line the way wet sand does. A face, side on, with its mouth open and curls coming out of it.
+Crumble crouched and drew it in the grey with his finger. The grey took the line the way wet sand does. A face, side on, with its mouth open and curls coming out of it.
 
 Balam looked down at it a long time.
 
-“I looked for this map for twenty years,” he said. “I never even found the first island.” He crouched beside Crumble and put his finger on the curls. “That is not breath. That is song.”
+“I looked for this map for twenty years,” he said. He crouched beside Crumble and put his finger on the curls. “That is not breath. That is song.”
 
 “A place that sings.”
 
@@ -40,35 +38,11 @@ Balam looked down at it a long time.
 
 Crumble stood up too.
 
-Crumble looked down at his own hands, and then up again.
+Balam turned to me.
 
-“There was something in your hands,” he said. “Before. When the bell rang. There was something that should have been in them, and it wasn’t there.”
+“And Jigsaw,” he said. “Your father says hello.”
 
-“Yes.”
-
-“You never taught me that.”
-
-Balam did not answer. He looked at the place in the grey where the trees had been, for a long time. Then he looked back at Crumble, and he did not say anything at all, and that was the answer.
-
-Crumble nodded slowly, the way a man nods when he has been handed something heavy and is finding where to hold it.
-
-⸻
-
-He turned to me.
-
-He looked at my hands.
-
-“There’s a man further down this road,” he said, “who holds a rope the way you do.”
-
-“Who?”
-
-Balam did not answer. He had already turned to Bonesy.
-
-Bonesy was sitting in the middle of Crumble’s shirt with half a face and one eye, and the hat on.
-
-“You’re the first dead man I’ve met down here who looks worse than I do,” Balam said.
-
-“I had a long start,” Bonesy said.
+Then he looked at Crumble again, as if he had said nothing at all.
 
 ⸻
 
@@ -94,7 +68,11 @@ He walked the way he had walked across the open ground to us, not hurrying. The 
 
 Crumble took a step after him and stopped.
 
-When Balam was nearly gone, he stopped too. He did not turn all the way round. He turned his head, and lifted his hand, the one that had held the net needle, and held it up.
+When Balam was nearly gone, he stopped too. He did not turn all the way round. He turned his head, and found Bonesy sitting in the middle of Crumble’s shirt with half a face and one eye, and the hat on.
+
+“You’re the first dead man I’ve met down here who looks worse than I do,” he said.
+
+Bonesy opened his jaw. Then he shut it again.
 
 Then the grey had all of him.
 

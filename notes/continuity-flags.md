@@ -731,17 +731,13 @@ twice,** here on the road and in the hold vision in chapter 9.
 
 ## 6.6 Balam, invented details (2026-11-17, revised)
 
-Open to veto: Balam looked for the map twenty years and never found even the
-first island; the curls are song; a
+Open to veto: Balam looked for the map twenty years; the curls are song; a
 stone on the south point of the long island sings only in a norther (from
-comparison C in the village arc plan); Balam does not answer why he never
-taught Crumble what should have been in his hands (saved for the hold);
-Balam tells Jigsaw there is a man further down the road who holds a rope the
-way he does, and will not say who (a hint at his father, kept a mystery);
-Balam's joke to Bonesy ("the first dead man I've met down here who looks
-worse than I do" / "I had a long start"); Balam
-grips and lets go first; Bonesy bones again; the grey cracking; they wake
-at noon with the lilies open and no drum. On Aydin's notes the student is
-not named even as "my first", and Amara's two words and the watch-his-back
-exchange are cut. Balam does not say what the codex does, per the bible.
+comparison C in the village arc plan); "And Jigsaw. Your father says hello."
+said in passing (Aydin's line); Balam's parting joke to Bonesy, which Bonesy
+cannot answer; Balam grips and lets go first; Bonesy bones again; the grey
+cracking; they wake at noon with the lilies open and no drum. Cut on Aydin's
+notes: the student named as "my first", Amara's two words, the
+watch-his-back exchange, "never found the first island", and Crumble asking
+about the magic in Balam's hands. Balam does not say what the codex does.
 
