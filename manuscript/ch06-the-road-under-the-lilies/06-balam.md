@@ -5,10 +5,10 @@ pov: Jigsaw, first person, past
 place: The grey where Balam's village was, on the road
 when: The road, near morning
 status: draft, for Aydin to confirm
-words: 1089
+words: 1102
 ---
 
-<!-- BEAT: Crumble answers: yes, the codex. The leaf out of the cave, the road north, the face with curls coming out of its mouth. Balam knows the face. A stone on the long island that sings when the north wind comes. Go in a norther, and only then. Amara will know the rest; she always did. Crumble asks again who the man in the cloak was. "A student. My first." "And me?" "My last." Crumble asks what should have been in his hands. Balam looks at the trees where the man in the cloak went and does not answer. Crumble says the two words Amara gave him to bring, the day she was born. Balam shuts his eyes. Is she well? She keeps the whole island. Balam asks Jigsaw to watch his back; Jigsaw says he already said he would. Far off, the drum. Bonesy is going again, the skin coming off in flakes like ash. The light is changing. The lilies are opening. Balam walks back into the grey and does not look back, and then he does, once, and lifts his hand. Bonesy takes Crumble's arm. "This way." -->
+<!-- BEAT: Crumble answers: yes, the codex. He draws the face with the curls in the grey. Balam looked for it twenty years: it is song, not breath, a stone on the south point of the long island that sings when the north wind comes; go in a norther. Amara will know the rest. Crumble asks what should have been in Balam's hands, and why he never taught it; Balam looks at the trees and does not answer. Balam to Jigsaw: "Your father walks this road. Further down than this. Where the water is deeper. I see him sometimes. He does not stop to talk. He never did." "You knew him." He does not say no. The drum, faint. The lilies are opening. Balam grips Crumble's shoulder, lets go first, walks into the grey and lifts his hand once. Bonesy is bones again. "There you are." "Here I am." The grey cracks like a mud flat and falls away. Jigsaw wakes at noon in the canoe, the lilies open all round, no drum, Crumble staring into the sun. -->
 
 Crumble did not answer him straight off.
 
@@ -40,19 +40,7 @@ Balam looked down at it a long time.
 
 Crumble stood up too.
 
-“Who was he?” he said.
-
-Balam did not pretend not to know who he meant. He looked away, toward the place in the grey where the trees had been, where the man in the cloak had walked in among them.
-
-“A student,” he said. “My first.”
-
-“And me?”
-
-Balam looked back at him.
-
-“My last,” he said.
-
-Crumble’s jaw worked. He looked down at his own hands, and then up again.
+Crumble looked down at his own hands, and then up again.
 
 “There was something in your hands,” he said. “Before. When the bell rang. There was something that should have been in them, and it wasn’t there.”
 
@@ -66,55 +54,25 @@ Crumble nodded slowly, the way a man nods when he has been handed something heav
 
 ⸻
 
-Then he said the two words.
-
-He said them quietly, in Maya, the way he says the day at dawn. A number, and a day.
-
-Balam’s face changed. He shut his eyes.
-
-“She sent you with that,” he said. “The first time. You came up the river in a canoe you could not paddle, with those two words, and you said them so badly I thought you were asking for water.”
-
-“You let me in.”
-
-“I let you in.” He opened his eyes. “Is she well?”
-
-“She keeps the whole island,” Crumble said. “All of them. Nobody tells anybody what to do, and they all go to her.”
-
-Balam did not say anything for a while.
-
-“That sounds like her mother,” he said.
-
-⸻
-
 He turned to me.
 
-“You,” he said.
+He looked at me the way he had before, at my face and then at my hands, as if he were reading a chart he had seen once a long time ago.
 
-I stood up straighter. I could not have said why.
+“Your father walks this road,” he said.
 
-“He asked you to watch his back.”
+I did not say anything. I could not have.
 
-I looked at Crumble. He had asked me that on the step, with the lilies in a basket at our feet. Balam could not have heard it. He had been dead a year and four months.
+“Further down than this. Where the water is deeper.” He looked past me into the grey, the way a man looks along a coast for a mark he knows is there. “I see him sometimes. He does not stop to talk. He never did.”
 
-“I said I would,” I said.
+“You knew him.”
 
-“Say it again.”
-
-“I’ll watch his back.”
-
-Balam looked at me a while longer, at my face and my hands, the way he had before. Then he nodded once, as if a bargain had been struck and he had got the better of it.
+Balam looked back at me. He did not answer that. He did not say no.
 
 ⸻
 
 Far off, so far I thought I had made it up, I heard the drum.
 
 It was one stroke, and then nothing, and then another. Slower than it had been on the lake. Fainter.
-
-Bonesy was sitting in Crumble’s shirt. When I looked at him, the skin on the back of his one good hand was coming away. It went off him in flakes, grey, like ash off a burned log when the wind gets at it. The cheek he had got back was going the same way.
-
-He saw me look.
-
-“Going off,” he said. “Like a fish left in the sun.”
 
 The grey round us was getting lighter. It was not the light of a sun coming up. It was a pale light with no place it came from, like the light under water in the morning when you look up from the bottom of a bay. And there was a smell in it, faint, sweet and heavy, that I knew.
 
@@ -140,6 +98,32 @@ Then the grey had all of him.
 
 Crumble stood looking at the place where he had been.
 
-Bonesy got up off the shirt. It took him two tries. He came and stood beside Crumble, half skin and half bone, with the flakes coming off him, and put his hand on Crumble’s arm.
+I looked round for Bonesy.
 
-“Come on, Crum,” he said. “This way.”
+He was standing in Crumble’s shirt, and he was bones again. All of him. The patches of skin were gone, and the brown eye, and the cheek. There was a skeleton in a black hat, the one I had known for a year, with his jaw hanging a little open.
+
+“There you are,” I said.
+
+“Here I am,” he said.
+
+Then the grey cracked.
+
+It cracked under our feet the way the glaze cracks on a pot left too near the fire, all at once, in a net of lines. Pieces of it went up at the edges and fell away into nothing. The pale light went out of it. The ground I was standing on went the way a sand cliff goes when the sea has been at the foot of it all winter, slow, and then all at once.
+
+I fell.
+
+⸻
+
+The sun was in my eyes.
+
+It was high and white and straight overhead. I was lying on my back on wet boards, and the boards were rocking. My mouth tasted of bark and old honey. There was a weight across my legs.
+
+I turned my head.
+
+The lake was all round us, flat and bright, and on every side of the canoe the lilies were open. Every one of them. White, with the yellow in the middle, wide as my two hands, from the canoe to the far shore.
+
+There was no drum.
+
+The weight on my legs was Bonesy’s arm bones. He was lying between us in the middle of the canoe with his hat over his face, the way he had lain down the night before. On his other side Crumble was lying on his back with his eyes open, looking straight up into the sun, and not blinking.
+
+It was noon.

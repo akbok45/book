@@ -729,14 +729,16 @@ twice,** here on the road and in the hold vision in chapter 9.
   priests, went into the cellar and never came out, "and never stopped
   coming back." Ties to the fourth-round ruling that Bonesy carried jars.
 
-## 6.6 Balam, invented details (2026-11-17)
+## 6.6 Balam, invented details (2026-11-17, revised)
 
-Open to veto: Balam looked for the face twenty years; the curls are song;
-a stone on the south point of the long island sings only in a norther (from
-comparison C in the village arc plan); his grandfather heard it; "A student.
-My first." / "My last."; Balam does not answer why he never taught Crumble
-what should have been in his hands (the answer is saved for the hold, as
-planned); Amara's two words were how young Crumble got in at the river;
-"That sounds like her mother."; Balam knows Jigsaw promised to watch
-Crumble's back; Balam grips and lets go first; "Crum". Balam does not say
-what the codex does, per the bible.
+Open to veto: Balam looked for the face twenty years; the curls are song; a
+stone on the south point of the long island sings only in a norther (from
+comparison C in the village arc plan); Balam does not answer why he never
+taught Crumble what should have been in his hands (saved for the hold);
+Balam says Jigsaw's father walks the road further down, where the water is
+deeper, and does not deny knowing him (a hint only, kept a mystery); Balam
+grips and lets go first; Bonesy bones again; the grey cracking; they wake
+at noon with the lilies open and no drum. On Aydin's notes the student is
+not named even as "my first", and Amara's two words and the watch-his-back
+exchange are cut. Balam does not say what the codex does, per the bible.
+
