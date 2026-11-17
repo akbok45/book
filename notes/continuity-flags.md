@@ -671,12 +671,15 @@ dueling youth needs changing.
 Open to veto: the raid is on a Spanish ship carrying twenty chained Maya
 captives; Amara directs young Crumble to the key on the mate's belt and
 brings her people up the ladder, herself last; young Jigsaw runs through a
-Spaniard who has thrown down his knife and surrendered ("Me rindo"); the
-crew votes to sell the captives at Port Royal; young Jigsaw turns the vote
-by offering to pay every man his ten pieces out of his own share, and the
-friendship starts at the rail after; Amara names Balam in the boat at dawn.
-The bite and the scar below Crumble's thumb are cut. Crewmates named only by
-their deaths (a Dane lost off Cartagena, a boy from Bristol).
+Spaniard who has thrown down his knife and surrendered ("Me rindo").
+Aydin's idea: the crew keeps three Spaniards for ransom and says there is no
+room for the Maya; young Jigsaw runs the merchant through to make room and
+holds his point toward the quartermaster; the quartermaster cuts the backs of
+the others' knees and has every Spaniard put over the side ("Room is made.
+Not found."), the same cut Jigsaw uses above the cay in 3.4. The friendship
+starts at the rail after. Amara names Balam in the boat at dawn. The bite and
+the scar below Crumble's thumb are cut. Crewmates named only by their deaths
+(a Dane lost off Cartagena, a boy from Bristol).
 
 ## 6.5 The Bell, invented details (2026-11-17)
 
