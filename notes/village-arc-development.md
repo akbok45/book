@@ -672,3 +672,15 @@ Still open:
   a second appearance (flag of 2026-11-16 in `notes/continuity-flags.md`).
 - Where the planned 6.3 to 6.6 go: Four Roads, the Student, the Burning, and
   Jigsaw's apothecary drawer.
+
+## Rulings, 2026-11-17 (Aydin), the road
+
+- **The road takes back what you have passed.** Behind them each stop goes
+  grey and soft like wet ash and comes apart. You cannot go back to a stop.
+- **Bonesy fades off his own ground.** Away from his field his skin thins
+  like wet paper; by Tortuga the bone shows through the back of his hand.
+  A quiet limit on the journey.
+- **The ink on the articles** runs like blood in water and draws back; the
+  boys' names stay sharp, the names of the crew's dead have run to blots.
+- Hands no longer pass through what is not yours on the road (6.2's cob
+  passage still says they do; open).
