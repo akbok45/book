@@ -3,7 +3,7 @@ from docx import Document
 from docx.shared import Pt, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 root=sys.argv[1]; out=sys.argv[2]
-chapters=[('ch01-the-temple',1,'The Temple'),('ch02-petit-goave',2,'Petit-Goâve'),('ch03-the-cay',3,'The Cay'),('ch04-the-half-moon',4,'The Half Moon'),('ch05-the-hidden-village',5,'The Hidden Village'),('ch07-the-patrol',7,'The Patrol')]
+chapters=[('ch01-the-temple',1,'The Temple'),('ch02-petit-goave',2,'Petit-Goâve'),('ch03-the-cay',3,'The Cay'),('ch04-the-half-moon',4,'The Half Moon'),('ch05-the-hidden-village',5,'The Hidden Village'),('ch06-the-road-under-the-lilies',6,'The Road Under the Lilies'),('ch07-the-patrol',7,'The Patrol')]
 doc=Document()
 st=doc.styles['Normal']; st.font.name='Times New Roman'; st.font.size=Pt(12)
 st.paragraph_format.space_after=Pt(0); st.paragraph_format.line_spacing=1.5
@@ -33,7 +33,7 @@ for folder,num,title in chapters:
     centered(f'Chapter {num}',14,before=72,after=6)
     centered(title,20,bold=True,after=36)
     if folder=='ch07-the-patrol':
-        centered('Drafted ahead of chapter 6. To be revised.',11,italic=True,after=24)
+        centered('Drafted ahead of the village arc rebuild. To be revised.',11,italic=True,after=24)
     for i,f in enumerate(files):
         t=open(f,encoding='utf-8').read()
         t=re.sub(r'^---\n.*?\n---\n','',t,flags=re.S)
@@ -62,7 +62,7 @@ def write_md(md_out):
         files=sorted(glob.glob(os.path.join(root,'manuscript',folders[n],'*.md')))
         if not files:
             out+=["*Undrafted.*",""]; continue
-        if n==7: out+=["*Drafted ahead of Chapter 6. To be revised.*",""]
+        if n==7: out+=["*Drafted ahead of the village arc rebuild. To be revised.*",""]
         for i,f in enumerate(files):
             t=open(f,encoding='utf-8').read()
             t=re.sub(r'^---\n.*?\n---\n','',t,flags=re.S)
