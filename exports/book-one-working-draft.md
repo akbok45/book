@@ -5630,7 +5630,7 @@ It was noon.
 
 ## Chapter 7 · The Patrol
 
-*Drafted ahead of Chapter 6. To be revised.*
+*Drafted ahead of the village arc rebuild. To be revised.*
 
 The boys came in at first light.
 
