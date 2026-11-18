@@ -4,7 +4,7 @@ title: Balam
 pov: Jigsaw, first person, past
 place: The grey where Balam's village was, on the road
 when: The road, near morning
-status: draft, for Aydin to confirm
+status: confirmed by Aydin 2026-11-18
 words: 907
 ---
 

@@ -4,13 +4,13 @@ title: Anne
 pov: Jigsaw, first person, past
 place: An English village in the rain, then Tortuga, on the road
 when: The road, Crumble's first two stops
-status: draft, for Aydin to confirm
-words: 2333
+status: confirmed by Aydin 2026-11-18
+words: 2192
 ---
 
 <!-- BEAT: They follow the lane down and it turns into the town a piece at a time: walls, a cart track, cobbles, chimney smoke, a church tower. The house with the low wall, and the song the girl sang in the maize coming out of the open door, older now. A boy comes down the lane at a run, sixteen, thin, a bag on his shoulder, his left foot turned out. Jigsaw knows him by his feet. Bonesy: "Skinny." Anne at the door with flour on her hands sees the bag. The parting, shaped on Edward and Caroline in Black Flag in new words, and sad: "So you're going." He has talked of the sea since they were small. He will come back with a share and men will take their hats off. "I never asked for hats." "I look at you. Now. The way you are." "When I'm worth coming back." "Then go." He nearly asks her to wait, and runs. Crumble goes over the wall and holds her from behind. She goes still, as if someone said her name in another room, and her hand comes up over his on her arm. Then she goes in. The singing does not start again. "Quick about everything." Jigsaw's shoulder against his. The lane goes down to Bonesy's skin thins like wet paper off his own ground. Looking back, the village goes grey and soft like wet ash and comes apart: you cannot go back to a stop. Tortuga the year they came to it, Bonesy's hand mostly bone. The articles read at a barrel head. The boy signs slow, and the ink runs red and draws back, leaving his name sharp; the names above, of the crew's dead, have run to blots. Young Jigsaw, shaved, an old Spanish rapier, kicked-dog eyes, signs without reading. They shake once and go up the plank together. -->
 
-We went on down the lane.
+We continued down the lane.
 
 The hedges thinned and the fields opened out, wet and green, and the lane went down toward the village between them. A wall came up beside it, low and grey, with moss in the joints. Then another wall on the other side. The mud under our feet turned to stone. Smoke came up out of the chimneys ahead and lay along the roofs. A church tower stood up out of the smoke at the top of the street.
 
@@ -25,6 +25,10 @@ It was the song the girl had sung in the maize. Her voice was older now.
 Crumble stopped at the wall.
 
 He put his hands on top of it. He stood with the rain running off his hair and down his face and looked at the open door.
+
+There was a dark window beside it. My reflection stood in the glass with long hair hanging over the collar of my academy coat. I was sixteen again, dressed for morning drill. The boy in the window was not looking at the house. He was looking at me.
+
+I turned away. When I looked back, he was gone. Rain moved across the empty glass.
 
 Bonesy stood at his shoulder. He did not take his arm away.
 
@@ -54,6 +58,8 @@ The singing stopped.
 
 She came to the door. She had flour on her hands to the wrists and she was wiping them on her apron. It was the girl from the maize grown up. Freckles across the nose, and the black hair pinned up and coming down, and a mouth that turned up at one corner.
 
+“Anne,” Crumble said.
+
 It turned up when she saw him. Then she saw the bag.
 
 She stopped wiping her hands.
@@ -76,7 +82,7 @@ She did not answer that. She looked past him up the street, toward the church, a
 
 “I never asked for hats.”
 
-“I’m asking it for you.”
+“I want to give you more than this.”
 
 She put her hand on the top bar of the gate, near his. She did not touch him.
 
@@ -94,11 +100,11 @@ She looked at him for a long time, with the rain coming down between them. Her e
 
 “Then go,” she said.
 
-She said it gently. She said it the way you let go of a line you can no longer hold.
+The words left her softly, like a line slipping overboard after the sea had taken the other end.
 
-The boy opened his mouth. I saw the words come up in him. I know what a man looks like when he is about to ask for something he wants more than his own breath.
+The boy opened his mouth. His hand tightened on the strap of the bag. He looked at the gate, then at the flour on her hands. For a moment he started to pull the bag off his shoulder.
 
-He shut it again.
+Then he closed his mouth and let the strap go.
 
 He turned round and ran. He ran back up past us and up the street, past the cart and the church. The bag bumped on his back. He did not look round once. Then the rain took him.
 
@@ -106,7 +112,7 @@ She stood at the gate.
 
 Crumble went past me.
 
-He did not go round by the gate. He went over the wall the way a boy goes over a wall, and across the little yard, and put his arms round her from behind.
+He did not go round by the gate. He went over the wall like a boy late for supper, one hand on the stones and both legs over before anyone could tell him to use the gate. He crossed the little yard and put his arms round her from behind.
 
 She did not know he was there.
 
@@ -130,17 +136,13 @@ She did not.
 
 ⸻
 
-We stood there a long time.
-
 Crumble came back over the wall. He stood beside me and looked at the open door. The rain ran down his face, and I could not have told you what else did. I did not look long enough to know.
 
 “Quick about everything,” he said.
 
-He said it to the door. It was what he had said to Bonesy in the boat off the cay, turning his leaf. He had said it then as if it cost him nothing.
+I moved over till my shoulder was against his. I did not say anything. A girl did not wait for me either, and I have never told him her name, and he has never asked. I put my shoulder into him and took a little of his weight, as I would brace a spar in rough water. He let me.
 
-I moved over till my shoulder was against his. I did not say anything. A girl did not wait for me either, and I have never told him her name, and he has never asked. I stood there with my shoulder against his and let that be the whole of it.
-
-Bonesy put his hand flat on Crumble’s back between the shoulders and left it there. The skin on the back of his hand had gone thin, the way wet paper goes. I could see the veins through it, and something pale under the veins. Then he took it away and started up the street after the boy.
+Bonesy put his hand flat on Crumble’s back between the shoulders and left it there. The tips of his fingers had become bone again. Only the last joints, white against Crumble’s coat. Bonesy looked at them when he took his hand away, then started up the street after the boy.
 
 After a while Crumble went after him. I went after Crumble.
 
@@ -150,7 +152,7 @@ The street went past the church and out of the village and down.
 
 Halfway down the hill I looked back.
 
-The village was going. The church tower had gone grey and soft at the top, like a log in a fire that has burned through and still holds its shape. While I watched, it sagged and came apart and drifted off in the rain like ash off a wet hearth. The roofs went after it, one at a time, from the top of the street down. Anne’s house was the last. Then there was only the lane behind us, and grey where the village had been.
+The village was going. The church tower had gone grey and soft at the top, like a log in a fire that has burned through and still holds its shape. While I watched, it sagged and came apart and drifted off in the rain like ash off a wet hearth. The roofs went after it, one at a time, from the top of the street down. The house where Anne had stood at the gate was the last. Then there was only the lane behind us, and grey where the village had been.
 
 Crumble had stopped and looked back too. He turned round again and kept walking.
 
@@ -158,29 +160,15 @@ Bonesy did not look back at all.
 
 The boy had gone to the river mouth, where the ship was. Bonesy went that way, and we went after him.
 
-The lane went down between the hedges to a river. It was wide and brown with the rain and running out hard on the ebb. Down where it met the sea a ship was dropping out on the tide with her topsails loosed. A boat was pulling out to her. There was a thin boy in the bow of it with a bag on his knees.
+The lane went down between the hedges to a river. It was wide and brown with the rain and running out hard on the ebb. Down where it met the sea, a boat was pulling toward a ship with her topsails loosed. The thin boy sat in the bow with the bag on his knees.
 
-Bonesy did not stop at the bank. He walked down into the river.
+Bonesy kept walking toward the river mouth. We followed.
 
-“Bonesy,” I said.
-
-“This way.”
-
-He went in to the knees, and the waist, and the chest. The hat went under last.
-
-Crumble went in after him. I went in after Crumble.
-
-The river was cold enough to stop my breath. Then it was not. It went warm round me, warm as the lake, and green, and I could see sun through it over my head.
-
-I came up.
-
-I was standing to my chest in a harbour, beside the stones of a quay, with the sun on my head. The air was thick and wet and smelt of tar and fish and rum. The harbour was full of masts. Sloops and brigantines and a big Dutch flute with her yards cockbilled, and boats going between them, and men shouting on every deck. A fort stood on the hill above it all with its colours hanging slack. The front was crowded with men and barrels and goats and a woman selling something out of a basket.
-
-We climbed out up the quay steps. My clothes were dry. So were Crumble’s.
+The mud hardened beneath us into fitted stone. The hedges drew back and became warehouse walls. The rain stopped. The brown river widened into a harbour full of masts, with sloops and brigantines and a big Dutch flute lying under the sun. Boats crossed between them. Men shouted from every deck. Tar, fish, and rum thickened the air. A fort stood on the hill with its colours hanging slack. The quay was crowded with barrels, goats, and a woman selling something from a basket.
 
 I knew the place before I had looked at it twice. It was Tortuga, the year I came to it.
 
-Bonesy came up the steps last with his hat off, fanning himself with it. The hand that held the brim was mostly bone now. The skin was still on it, but I could see the knuckles through it, white, the way you see the ribs of a boat through a sail held up against the sun. He saw me looking. He put the hat back on and put the hand behind his back.
+Bonesy took off his hat and fanned himself with it. The hand that held the brim was mostly bone now. He saw me looking, put the hat back on, and hid the hand behind him.
 
 There was a crowd on the quay at the foot of a brigantine’s plank. She was a big Dutch-built vessel with her gunports open to air her, and it would take eighty men to work her and fight her. A barrel stood on its end in the middle of them with a paper on its head, held down at the corners by four stones. A big man with one ear stood behind it and read the paper out loud.
 
@@ -192,9 +180,9 @@ The men round the barrel nodded along. Most of them had heard it before on other
 
 Then they went up one at a time and signed.
 
-The first boy up was the one from the lane. He had lost the coat. He was in a shirt gone grey and a pair of slops with the knees out, barefoot, with nothing in his hands and nothing at his hip. No sash, no plate, no blade. He was sixteen and he had nothing on him that a man would steal.
+First to the barrel was Crumble. He was sixteen, barefoot, and narrow enough that the grey shirt hung from his shoulders. His slops were worn through at the knees. He had no knife, no sash, and no coin that I could see.
 
-He took the pen. He bent over the barrel and wrote his name slowly, with his tongue between his teeth, the way a boy writes who has not done it much.
+He took the pen. He bent over the barrel and wrote his name one letter at a time, slow and careful, like a boy signing it for the first time.
 
 The ink ran.
 
@@ -202,20 +190,20 @@ It went out from his name into the paper in threads, red at the edges, the way b
 
 Above it the other names had not drawn back. They had run into blots and kept running. I could not read one of them. I did not need to. I had sewn some of those men into their hammocks with a shot at their feet, and seen others go over the side with nothing.
 
-The boy stood back and looked at his name.
+Crumble stood back and looked at his name.
 
-The next one up had his head shaved to the skin. There was a fresh cut on it where the razor had slipped. I knew that head. I had shaved it myself the night I left the academy.
+I came next. My head was shaved to the skin, with a fresh cut where the razor had slipped. I had done it myself the night my father died.
 
-He was a year older than the boy, and taller. He had a white shirt that had been good once and a pair of breeches that still had the shape of a tailor in them. There was no hide on him anywhere. An old Spanish rapier hung at his hip on a belt too long for him. His eyes were the eyes of a dog that has been kicked and means to bite the next hand it sees.
+I was a year older than Crumble and taller. My white shirt had been good once, and my breeches still had the shape of a tailor in them.  An old Spanish rapier hung at my hip on a belt too long for me. My eyes were the eyes of a dog that has been kicked and means to bite the next hand it sees.
 
-He took the pen from the boy and signed without reading a word of the articles.
+I took the pen from Crumble and signed without reading a word of the articles.
 
 The ink ran out from my name in red threads, the way a drop of blood falls into clear water and turns it red. Then it drew back and left my name sharp.
 
-He put the pen down and looked at the boy. Then he put out his hand. The boy wiped his own on his slops and took it.
+I put down the pen and held out my hand. Crumble looked at it, wiped his palm on his slops, and took it.
 
-They shook once. Then the quartermaster jerked his head at the plank, and the two of them went up it together, onto the first deck either of them had signed for.
+We shook once. Then the quartermaster jerked his head at the plank, and we went up it together, onto the first deck either of us had signed for.
 
-Beside me Crumble watched them go up. He did not say anything.
+Beside me Crumble watched us go up. He did not say anything.
 
 Neither did I.

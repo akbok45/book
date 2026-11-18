@@ -741,3 +741,18 @@ notes: the student named as "my first", Amara's two words, the
 watch-his-back exchange, "never found the first island", and Crumble asking
 about the magic in Balam's hands. Balam does not say what the codex does.
 
+
+## The road, final text (Aydin, 2026-11-18)
+
+Aydin's final 6.2 to 6.6 is in the scene files. Changes from the drafts to
+note: 6.4 is the first year, not the second; the captain, not the
+quartermaster, teaches the cut, and hands Jigsaw the knife for the priest;
+young Jigsaw no longer kills a man who surrendered; Balam in 6.5 is about
+thirty, wearing the red sash Crumble wears now. Open, for Aydin:
+- 6.4 says the raid is in their first year with Jigsaw eighteen, Crumble
+  "seventeen" on deck and "Crumble at sixteen" at the oar.
+- 6.4: "The boy came back up the ladder" just after "Crumble" goes down.
+- 6.5 ends with Balam speaking to Jigsaw ("He had your eyes") and Bonesy,
+  and 6.6 has "Your father says hello" as well.
+- 6.5: Balam about thirty there, while 6.6 has him looking for the map for
+  twenty years, and Amara (about two) is now twenty or twenty one.

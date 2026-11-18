@@ -4,8 +4,8 @@ title: The Bell
 pov: Jigsaw, first person, past
 place: A river below a Maya village, years before, on the road
 when: The road, the last stop, where Balam is
-status: draft, for Aydin to confirm
-words: 3571
+status: confirmed by Aydin 2026-11-18
+words: 3517
 ---
 
 <!-- BEAT: They come up in a brown river below a village full of the strange: a woman whose breath moves water, a turtle-backed man, scaled twins, a boy with a heron for a shadow, an old man in flowering moss. Young Balam mending a net; Crumble knows his hands. A woman with a small girl who has Amara's look. A man in a hooded cloak comes out of the trees and the village greets him: an officer's clean hands, a general's boots, his face never turned. Three launches under the far bank flying the cross of Burgundy, the flag Jigsaw served under; he shouts, unheard. "You brought them here." The black bell, dull as charcoal, one low note felt in the teeth. The smoke stands straight up, Bonesy comes apart, and the strange goes out of everyone it is in, and it hurts them. The soldiers come up the bank and the village fights. Balam's cupped hands give nothing; he fights with Crumble's forms done better. The man in the cloak fights him clean, in the Spanish school, and knows every move; Balam cuts him at the shoulder. A pike takes the woman under the ribs; Balam breaks off to her. Six pikes stop at a lifted hand. "I taught you everything I knew. These people are innocent." "Who holds the rein on that?... Nobody. And what nobody holds, nobody can stop." "That is not why you came." "No. That is why I will keep coming." The note stops; Bonesy pulls back together half skin and half bone. The village goes grey and is gone, all but Balam. He walks over: "I knew I'd see you here eventually." "Who was that?" No answer. "This isn't another lesson. I have no more to teach you." "You, my friend, are not one of them. Not yet, at least." To Jigsaw: he has seen his work with a blade, and knew a man once who read the water the same way, with his eyes. To Bonesy: the story of the farmer who carried jars to the priests and never stopped coming back. "Let me guess. You're after the codex." -->
@@ -32,7 +32,7 @@ None of them were frightening anybody. They were shelling beans and splitting wo
 
 On the bank, a little way along from us, a man was sitting on an upturned canoe mending a net.
 
-He had the net across his knees and a bone needle in his fingers. He worked fast, without looking, the way a man works who has mended a thousand nets. He was perhaps forty. He was broad in the shoulders and going grey at the temples. There was nothing about him to look at twice.
+He had the net across his knees and a bone needle in his fingers. He worked fast without looking. He was perhaps thirty, broad through the shoulders and lean everywhere else. The sun had leathered the skin of his face and arms and pulled it tight across his cheekbones. His black hair was tied at the back of his neck. A faded red sash was wound twice round his waist. I knew the knot and the frayed end hanging at his left hip. Crumble wore it now.
 
 Crumble had stopped breathing.
 
@@ -66,17 +66,17 @@ I could hear him laugh. I could not see his face. The hood was forward, and he k
 
 The hands were clean. Not the clean of a man who has washed. The clean of a man who has never had to do anything with them but hold a pen and a sword, and has had servants for the rest. I had seen hands like that on every Spanish officer who ever came to inspect us at the academy.
 
-The boots were the same. Black, to the knee, with the tops turned down. Under that plain cloak they were boots I had seen on generals, standing on the steps of the academy while we boys stood in rows in the sun below them.
+The boots were the same. Black, to the knee, with the tops turned down. I had seen the same boots on generals standing on the academy steps while we boys stood in rows below them.
 
 My hand had gone to my hilt before he had said a word.
 
 Balam had stood up on the bank with the child in his arms. He was looking at the man in the cloak.
 
-He did not look glad.
+His smile vanished. He drew the child closer. One foot shifted behind the other, though his hands stayed open.
 
 Then I saw the boats.
 
-They were three launches, long and low, coming down the far bank of the river under the trees where the light did not reach. They were pulling slow and quiet with the oars muffled. Each one flew a small flag at the stern, white, with the red cross of Burgundy on it, the ragged cross. I had stood under that flag at morning muster for a year, and served under it, and done what it told me. There was a glint in the bow of each launch, and then another. Morions. Pike heads. The slow match of matchlocks, red in the green dark.
+They were three launches, long and low, coming down the far bank of the river under the trees where the light did not reach. They were pulling slow and quiet with the oars muffled. Each one flew a small flag at the stern, white, with the red cross of Burgundy on it, the ragged cross. I had stood under that flag at morning muster for a year, and served under it, and did what it told me. There was a glint in the bow of each launch, and then another. Morions. Pike heads. The slow match of matchlocks, red in the green dark.
 
 I knew how to come up on a village from the water. It is my trade. I had done it myself, coming up under a bank where the watch looks the wrong way, while the people in the village look at a man walking in out of the trees.
 
@@ -116,11 +116,7 @@ It was low, lower than a bell that size had any business making. I did not hear 
 
 The smoke from the cook fires stopped leaning. It stood straight up into the trees, every column of it, as if the air had set hard round it.
 
-Beside me, Bonesy went down on his knees.
-
-He did not make a sound. He put his bone hands out on the ground in front of him, as if the ground had tipped. The last of the skin went off his face the way frost goes off a stone when the sun gets onto it. Then the bones of his arms came apart at the elbows, and he went down onto his face, and the rest of him came apart after.
-
-It was a heap of bones in the path with a hat on top.
+Beside me, Bonesy dropped to his knees. The last of the skin vanished from him. His arms came apart at the elbows, and the rest of him collapsed into a heap of bones. His hat landed on top.
 
 “Bonesy,” I said.
 
@@ -144,15 +140,15 @@ The big man with the turtle’s back stood in his yard with the axe in his hands
 
 Then the soldiers came up out of the launches.
 
-There were forty of them, perhaps more. Morions and breastplates, pikes and matchlocks, and two officers with swords. They came up the bank at a run and into the open ground, and the village came apart in front of them.
+More than forty soldiers came up the bank at a run, breastplates and pikeheads flashing between the trees. Two officers followed with their swords drawn. The village came apart in front of them.
 
 The big man planted himself in his doorway with the axe. The first pike went into him through the cracked plates as if he had been any man.
 
-They were not lambs. I want that set down. The village fought with what it had: digging sticks, stones, fish spears, an adze, a pot of boiling water off a fire. I saw a soldier go down with a fish spear through the gap under his arm where the breastplate does not reach, and another go down with his face broken in by a stone. I saw an old woman with a digging stick put a soldier on his back in the dirt.
+The Spaniards had caught them in a net, but the village tore holes in it. They fought with digging sticks, stones, fish spears, an adze, and a pot of boiling water off a fire. I saw a soldier go down with a fish spear through the gap under his arm where the breastplate does not reach, and another go down with his face broken in by a stone. I saw an old woman with a digging stick put a soldier on his back in the dirt.
 
-But there were forty of them, and they had pikes and powder, and the strange had gone out of everything.
+But the village was badly outnumbered. The soldiers had pikes and powder, and the strange had gone out of everything.
 
-Balam had not moved from the open ground. He put his two hands together in front of his mouth, cupped, and spoke into them. I did not hear the words. His mouth moved fast and sure, the way a man says something he has said a thousand times.
+Balam had not moved from the open ground. He put his two hands together in front of his mouth, cupped, and spoke into them. I did not hear the words. His mouth moved fast and sure. Whatever he said, he had said it a thousand times.
 
 He opened his hands. There was nothing in them.
 
@@ -172,7 +168,7 @@ When the third soldier went down, he put his hand in under the cloak again and d
 
 Balam turned to face him.
 
-He fought clean. It was the same clean as his hands and his boots. Every step was the proper step, the one I had been beaten into making in rows in the sun at the academy, and he made each of them better than the master who beat us.
+He fought with the forms the academy had beaten into me, but faster and without a wasted inch. Every step put him exactly where he needed to be. Every cut ended close enough to strike again. My old master would have looked clumsy beside him.
 
 And he knew Balam. Wherever Balam went, the long blade was there first.
 
@@ -254,7 +250,7 @@ He looked straight at Crumble. Not through him, the way the woman with the water
 
 Then he walked over.
 
-He walked the way a man walks across his own yard, not hurrying. He stopped in front of Crumble and looked up at him. Crumble was taller than him by half a head. I had never known that.
+He crossed the open ground at an easy pace and stopped in front of Crumble. Crumble was taller than him by half a head. I had never known that.
 
 “I knew I’d see you here eventually,” Balam said.
 
@@ -268,7 +264,7 @@ Balam did not answer. He looked past Crumble, down at Bonesy, who was sitting in
 
 Crumble’s jaw worked.
 
-“I’ve made a great many mistakes,” Balam said. He put his hand up and laid it on the side of Crumble’s face, the way a man lays his hand on a horse he has had for years. “You, my friend, are not one of them.”
+“I’ve made a great many mistakes,” Balam said. He put his hand against the side of Crumble’s face and held it there. “You, my friend, are not one of them.”
 
 He took the hand away.
 
