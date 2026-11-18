@@ -638,3 +638,121 @@ island answers her. At the fire she stands for the three against the old man
 with the roots. *Invented:* the old man's objection, Amara's "on her head",
 the fisherman and the coral man's wife speaking up, the granddaughter with
 the coin. Aydin to say if "leads" should go further than this.
+
+## 6.2 and 6.3, invented details (2026-11-17)
+
+6.2: Anne at Bonesy's grinding stone is cut on Aydin's note. In its place two
+English children run out of the maize, the boy playing captain with a stick
+and the black-haired girl singing after him. The song is now English ("The
+corn stands. My love is late."), and 6.3 picks it up.
+
+6.3, open to veto: the lane turning into the village a piece at a time; the
+church at the top of one street; Anne baking; the parting follows the shape
+of Edward and Caroline in *Black Flag* in new words, sad rather than angry
+("So you're going." / "I never asked for hats." / "I look at you. Now." /
+"Then go."); Crumble holding her unseen, and her going still with her hand
+over his; Tortuga the year they came to it; the one-eared quartermaster and
+the articles read at a barrel head; young Jigsaw signing fast with
+kicked-dog eyes; the two shaking once and going up the plank together.
+Aydin asked (2026-11-17) to drop the rule that hands pass through what is
+not your own on the road; 6.2's cob passage still has it.
+
+## Young Jigsaw's sword at Tortuga (Aydin, 2026-11-17)
+
+Aydin: at seventeen, signing at Tortuga, Jigsaw carries an old Spanish rapier
+and "hasn't gotten his sword yet". The bible says his twin arming swords are
+his own from his dueling youth, mended by the brotherhood blacksmith, so he
+would already have them at seventeen. **Settled 2026-11-17:** the rapier holds. He gets the twin swords later;
+where and when is open. The bible's line that they are his own from his
+dueling youth needs changing.
+
+## 6.4 The Raid, invented details (2026-11-17, revised)
+
+Open to veto: the raid is on a Spanish ship carrying four chained Maya
+captives (Aydin, 2026-11-17); Amara directs young Crumble to the key on the mate's belt and
+brings her people up the ladder, herself last; young Jigsaw runs through a
+Spaniard who has thrown down his knife and surrendered ("Me rindo").
+Aydin's idea: the crew keeps three Spaniards for ransom and says there is no
+room for the Maya; young Jigsaw runs the merchant through to make room and
+holds his point toward the quartermaster; the quartermaster cuts the backs of
+the others' knees and has every Spaniard put over the side ("Room is made.
+Not found."), the same cut Jigsaw uses above the cay in 3.4. The friendship
+starts at the rail after. Amara names Balam in the boat at dawn. The bite and
+the scar below Crumble's thumb are cut. Crewmates named only by their deaths
+(a Dane lost off Cartagena, a boy from Bristol).
+
+## 6.5 The Bell, invented details (2026-11-17, rewritten on Aydin's notes)
+
+Open to veto: the village's strange (a woman whose breath moves water, a
+turtle-backed man, scaled twins, a boy with a heron's shadow, an old man in
+flowering moss) and how each goes dead under the bell; the bell itself (fist
+size, dull black like charcoal, marks round the lip, a note felt in the
+teeth); the launches flying the cross of Burgundy; the student's officer's
+hands and general's boots; his duel with Balam in the Spanish school,
+knowing every move Balam makes, and Balam wounding him at the shoulder; his
+lines on control ("Who holds the rein on that?... I will not leave a world
+where nothing answers to anyone." / "That is not why you came." / "No. That
+is why I will keep coming."); Bonesy pulling back together half skin, half
+bone; everything fading but Balam. Balam's working stays vague (speech into
+cupped hands). Student's face never seen.
+
+**Collides with the bible:** Balam's one real appearance was to be the hold
+vision in chapter 9. Here he walks over, knows Crumble and talks
+("I knew I'd see you here eventually"). **Settled 2026-11-17: Balam appears
+twice,** here on the road and in the hold vision in chapter 9.
+
+## 6.4 additions (2026-11-17)
+
+- The dead Spaniard's head turns and smiles at grown Jigsaw. Aydin's note
+  said "the older Crumble"; written as Jigsaw, since Jigsaw killed him.
+  Aydin to say which.
+- Amara gives young Crumble two Maya words, the day she was born, to carry
+  to Balam. The words are not given on the page. When written, they are a
+  number and a day name of the 260-day count (for example *Lahca Ix*,
+  Twelve Ix, with Ix the jaguar day). Aydin to choose.
+- 6.4: half a year before the raid, nineteen days becalmed off the Mosquito
+  Coast; Jigsaw down with fever; the boy gives him his biscuit and water
+  every day and says he is not hungry. This is why young Jigsaw backs him.
+  Invented on Aydin's note asking for Jigsaw's humanity in the scene.
+
+## 6.5 additions on Aydin's notes (2026-11-17)
+
+- The strange are hurt when the bell takes it out of them.
+- The student's line on control is now: "Who holds the rein on that? Not the
+  King. Not the Church. Not you. Nobody. And what nobody holds, nobody can
+  stop." It leans on his sister without naming her.
+- Balam to Jigsaw: he has seen his work with a blade (Crumble told him of the
+  raid), and "I knew a man once who read the water the way you do. Long ago,
+  on the coast. He had your eyes." *Invented:* a link between Balam and
+  Jigsaw's father, left as a hint.
+- Balam to Bonesy: the old men told of a farmer who carried jars to the
+  priests, went into the cellar and never came out, "and never stopped
+  coming back." Ties to the fourth-round ruling that Bonesy carried jars.
+
+## 6.6 Balam, invented details (2026-11-17, revised)
+
+Open to veto: Balam looked for the map twenty years; the curls are song; a
+stone on the south point of the long island sings only in a norther (from
+comparison C in the village arc plan); "And Jigsaw. Your father says hello."
+said in passing (Aydin's line); Balam's parting joke to Bonesy, which Bonesy
+cannot answer; Balam grips and lets go first; Bonesy bones again; the grey
+cracking; they wake at noon with the lilies open and no drum. Cut on Aydin's
+notes: the student named as "my first", Amara's two words, the
+watch-his-back exchange, "never found the first island", and Crumble asking
+about the magic in Balam's hands. Balam does not say what the codex does.
+
+
+## The road, final text (Aydin, 2026-11-18)
+
+Aydin's final 6.2 to 6.6 is in the scene files. Changes from the drafts to
+note: 6.4 is the first year, not the second; the captain, not the
+quartermaster, teaches the cut, and hands Jigsaw the knife for the priest;
+young Jigsaw no longer kills a man who surrendered; Balam in 6.5 is about
+thirty, wearing the red sash Crumble wears now. Open, for Aydin:
+- 6.4 says the raid is in their first year with Jigsaw eighteen, Crumble
+  "seventeen" on deck and "Crumble at sixteen" at the oar.
+- 6.4: "The boy came back up the ladder" just after "Crumble" goes down.
+- 6.5 ends with Balam speaking to Jigsaw ("He had your eyes") and Bonesy,
+  and 6.6 has "Your father says hello" as well.
+- 6.5: Balam about thirty there, while 6.6 has him looking for the map for
+  twenty years, and Amara (about two) is now twenty or twenty one.

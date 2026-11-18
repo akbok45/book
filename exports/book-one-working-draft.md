@@ -4746,59 +4746,887 @@ It sat lower on him now. There was a head under it.
 
 ---
 
-He got up and went along the row. We went after him.
+We began walking out through the maize. Bonesy led, and Crumble and I followed.
 
-The maize brushed my shoulders on both sides and left them wet. A cob hung out into the row at the height of my face, fat and yellow at the end where the husk had split. I reached up to break it off.
-
-My hand closed on nothing.
-
-The cob was there. I could see the dew on it. My fingers went through it the way they go through the smoke over a fire, and came out the other side dry.
-
-I stood there with my hand up.
-
-Bonesy had stopped and was looking back at me.
-
-“Can’t,” he said.
-
-“You put your hands in the dirt.”
-
-“You’re only visiting.”
-
-Crumble put his hand out to a leaf as he passed. It went through. He took the hand back and put it on his sash.
+The maize brushed my shoulders on both sides and left them wet.
 
 The row came out onto a path. It was beaten earth, red like the rest, running along the edge of the field.
 
-The path ran on to a house.
+Two children came running out of the maize ahead of us.
 
-It had a thatched roof and a little yard. A dog lay by the door. A woman was kneeling in the doorway at a grinding stone. She was young. Her face was an English face, pale under the sun, with freckles across the nose and a mouth that turned up at one corner. Her black hair fell over one shoulder as she worked.
+They were a boy and a girl, eight or nine years old, and they did not belong there. They had English faces, burnt red across the nose. The boy was barefoot and had a stick held up over his head like a cutlass. He was shouting that he was captain and she was to strike her colours. The girl ran after him with her black hair flying out behind her. She was laughing, and then she was singing at him.
 
-She was singing.
+As the girl passed us, Crumble began singing with her, low enough that I almost missed it.
 
-The rain comes over the hill. The rain goes over the hill. The maize stands. My man is late. The maize stands.
+The children ran across the path and into the maize on the other side. The stalks shook where they had gone in, and then stopped.
 
-I did not know the language, but I understood every word.
+Crumble had stopped in the path. He stood looking at the place where the maize had closed behind them.
 
-Crumble quickened his pace until he was ahead of us. He could not take his eyes off her. His eyes were full of happiness and longing. There was regret in them too.
+He kept singing after she was gone.
+
+Then he went on faster, ahead of us.
 
 Bonesy kept his eyes on the path and did not change his pace. I kept mine with him.
 
 I turned and looked back across the field we had come through. Beyond the maize stood the academy.
 
-My old fencing master stood at the top of the steps with his cane under one arm, the way he stood every morning when I was a boy.
+My old fencing master stood at the top of the steps with his cane under one arm, exactly as he had every morning when I was a boy.
 
 He looked down at me and shook his head.
 
-I blinked. There was only maize behind us. When I turned forward again, the house was still at the end of the path. Crumble was still walking toward her.
+I blinked. There was only maize behind us. When I turned forward again, Crumble was well ahead of us on the path. He was still looking into the maize where the children had gone.
 
 The path rose onto a low hill. Bonesy caught up with Crumble and put an arm round his shoulders as we walked.
 
-I blinked. The maize was gone. The same path was now a muddy lane between two hedges. Rain was hitting my shoulders.
+The maize came apart around us in flecks of grey. The flecks drifted to either side of the path and gathered into hedges. Red earth darkened under our feet until it was mud. Then rain began hitting my shoulders.
 
 Bonesy still had his arm round Crumble. Crumble was looking down the lane.
 
 “I know this lane,” he said.
 
 The hedges thinned as we walked. Green fields spread out on either side, and a village came into view below us. The nearest house had a low stone wall round its yard. Its door was open. A woman was singing inside.
+
+---
+
+We continued down the lane.
+
+The hedges thinned and the fields opened out, wet and green, and the lane went down toward the village between them. A wall came up beside it, low and grey, with moss in the joints. Then another wall on the other side. The mud under our feet turned to stone. Smoke came up out of the chimneys ahead and lay along the roofs. A church tower stood up out of the smoke at the top of the street.
+
+By then we were in the street. I could not have said where the lane ended.
+
+Nobody was out. A cart stood in the street with no horse in the shafts, and the rain ran off the end of it.
+
+The house with the low wall was the last one before the fields. The door stood open. The singing came out of it.
+
+It was the song the girl had sung in the maize. Her voice was older now.
+
+Crumble stopped at the wall.
+
+He put his hands on top of it. He stood with the rain running off his hair and down his face and looked at the open door.
+
+There was a dark window beside it. My reflection stood in the glass with long hair hanging over the collar of my academy coat. I was sixteen again, dressed for morning drill. The boy in the window was not looking at the house. He was looking at me.
+
+I turned away. When I looked back, he was gone. Rain moved across the empty glass.
+
+Bonesy stood at his shoulder. He did not take his arm away.
+
+I stood on the other side of him. Nobody said anything.
+
+Then there were feet in the lane behind us, running.
+
+A boy came down out of the rain. He was thin, all wrists and neck, in a coat that had been made for a bigger man. He had a canvas bag over one shoulder that bumped his back as he ran. His hair was plastered flat. He could not have been more than sixteen.
+
+He came past us so close I could have touched him. He did not see us.
+
+I knew him by his feet. He set his left foot down turned out, the way it turned out every morning on the shore of the lake till Ah Pech pushed it straight.
+
+I looked at Crumble. Crumble was looking at the boy.
+
+“That you?” Bonesy said.
+
+Crumble did not answer.
+
+Bonesy looked the boy up and down.
+
+“Skinny,” he said.
+
+The boy stopped at the gate. He stood there with his chest going, and the rain coming down on him, and he did not knock. He put his hand on the gate and took it off again.
+
+The singing stopped.
+
+She came to the door. She had flour on her hands to the wrists and she was wiping them on her apron. It was the girl from the maize grown up. Freckles across the nose, and the black hair pinned up and coming down, and a mouth that turned up at one corner.
+
+“Anne,” Crumble said.
+
+It turned up when she saw him. Then she saw the bag.
+
+She stopped wiping her hands.
+
+She came down the path slowly and stood on her side of the gate. She did not open it. He stood on his side with the rain running off the end of his nose.
+
+She looked at the bag a long while.
+
+“So you’re going,” she said.
+
+“There’s a ship at the river mouth. Bound for the Indies.” He shifted the bag. “The mate says they’re short a hand. He’ll have me.”
+
+“You’ve been saying you’d go since we were small.”
+
+“I’m not saying it now.”
+
+She did not answer that. She looked past him up the street, toward the church, as if the ship might be standing at the top of it.
+
+“I’ll come back,” he said. “With a share. Enough of it that men take their hats off in the street when I go by.”
+
+“I never asked for hats.”
+
+“I want to give you more than this.”
+
+She put her hand on the top bar of the gate, near his. She did not touch him.
+
+“I look at you,” she said. “Now. The way you are.”
+
+He looked down at her hand on the bar. For a moment I thought he would put the bag down.
+
+He did not.
+
+“I’ll come back,” he said. “When I’m worth coming back.”
+
+She took her hand off the gate.
+
+She looked at him for a long time, with the rain coming down between them. Her eyes were wet, and she did not wipe them. She had flour on her hands.
+
+“Then go,” she said.
+
+The words left her softly, like a line slipping overboard after the sea had taken the other end.
+
+The boy opened his mouth. His hand tightened on the strap of the bag. He looked at the gate, then at the flour on her hands. For a moment he started to pull the bag off his shoulder.
+
+Then he closed his mouth and let the strap go.
+
+He turned round and ran. He ran back up past us and up the street, past the cart and the church. The bag bumped on his back. He did not look round once. Then the rain took him.
+
+She stood at the gate.
+
+Crumble went past me.
+
+He did not go round by the gate. He went over the wall like a boy late for supper, one hand on the stones and both legs over before anyone could tell him to use the gate. He crossed the little yard and put his arms round her from behind.
+
+She did not know he was there.
+
+She stood in his arms and looked up the empty street where the boy had gone. The rain came down on both of them. He had his face down against her hair. His shoulders were going.
+
+Then she went still.
+
+She stood the way you stand when you think somebody has said your name in another room. Her head came up a little. Her hand came up and rested on her own arm, just above the wrist, where his hand was.
+
+She stayed like that a while.
+
+Then she let her hand fall. She turned and went in, out of his arms.
+
+He stood in the yard with his arms still up round nobody.
+
+After a while he put them down.
+
+The door stayed open. We stood and waited for her to sing again.
+
+She did not.
+
+---
+
+Crumble came back over the wall. He stood beside me and looked at the open door. The rain ran down his face, and I could not have told you what else did. I did not look long enough to know.
+
+“Quick about everything,” he said.
+
+I moved over till my shoulder was against his. I did not say anything. A girl did not wait for me either, and I have never told him her name, and he has never asked. I put my shoulder into him and took a little of his weight, as I would brace a spar in rough water. He let me.
+
+Bonesy put his hand flat on Crumble’s back between the shoulders and left it there. The tips of his fingers had become bone again. Only the last joints, white against Crumble’s coat. Bonesy looked at them when he took his hand away, then started up the street after the boy.
+
+After a while Crumble went after him. I went after Crumble.
+
+---
+
+The street went past the church and out of the village and down.
+
+Halfway down the hill I looked back.
+
+The village was going. The church tower had gone grey and soft at the top, like a log in a fire that has burned through and still holds its shape. While I watched, it sagged and came apart and drifted off in the rain like ash off a wet hearth. The roofs went after it, one at a time, from the top of the street down. The house where Anne had stood at the gate was the last. Then there was only the lane behind us, and grey where the village had been.
+
+Crumble had stopped and looked back too. He turned round again and kept walking.
+
+Bonesy did not look back at all.
+
+The boy had gone to the river mouth, where the ship was. Bonesy went that way, and we went after him.
+
+The lane went down between the hedges to a river. It was wide and brown with the rain and running out hard on the ebb. Down where it met the sea, a boat was pulling toward a ship with her topsails loosed. The thin boy sat in the bow with the bag on his knees.
+
+Bonesy kept walking toward the river mouth. We followed.
+
+The mud hardened beneath us into fitted stone. The hedges drew back and became warehouse walls. The rain stopped. The brown river widened into a harbour full of masts, with sloops and brigantines and a big Dutch flute lying under the sun. Boats crossed between them. Men shouted from every deck. Tar, fish, and rum thickened the air. A fort stood on the hill with its colours hanging slack. The quay was crowded with barrels, goats, and a woman selling something from a basket.
+
+I knew the place before I had looked at it twice. It was Tortuga, the year I came to it.
+
+Bonesy took off his hat and fanned himself with it. The hand that held the brim was mostly bone now. He saw me looking, put the hat back on, and hid the hand behind him.
+
+There was a crowd on the quay at the foot of a brigantine’s plank. She was a big Dutch-built vessel with her gunports open to air her, and it would take eighty men to work her and fight her. A barrel stood on its end in the middle of them with a paper on its head, held down at the corners by four stones. A big man with one ear stood behind it and read the paper out loud.
+
+I knew the voice. He had been our quartermaster three years.
+
+He read the articles. No prey, no pay. A share each, and a share and a half to the captain. So much for a right arm, so much for a left, so much for an eye. Every man a vote. The captain chosen by the crew and put down by the crew. Every man to keep his piece clean and fit for service. No man to strike another aboard.
+
+The men round the barrel nodded along. Most of them had heard it before on other decks.
+
+Then they went up one at a time and signed.
+
+First to the barrel was Crumble. He was sixteen, barefoot, and narrow enough that the grey shirt hung from his shoulders. His slops were worn through at the knees. He had no knife, no sash, and no coin that I could see.
+
+He took the pen. He bent over the barrel and wrote his name one letter at a time, slow and careful, like a boy signing it for the first time.
+
+The ink ran.
+
+It went out from his name into the paper in threads, red at the edges, the way blood goes out into water from a cut hand. Then it drew back into the letters and lay still. His name stood black and sharp.
+
+Above it the other names had not drawn back. They had run into blots and kept running. I could not read one of them. I did not need to. I had sewn some of those men into their hammocks with a shot at their feet, and seen others go over the side with nothing.
+
+Crumble stood back and looked at his name.
+
+I came next. My head was shaved to the skin, with a fresh cut where the razor had slipped. I had done it myself the night my father died.
+
+I was a year older than Crumble and taller. My white shirt had been good once, and my breeches still had the shape of a tailor in them.  An old Spanish rapier hung at my hip on a belt too long for me. My eyes were the eyes of a dog that has been kicked and means to bite the next hand it sees.
+
+I took the pen from Crumble and signed without reading a word of the articles.
+
+The ink ran out from my name in red threads, the way a drop of blood falls into clear water and turns it red. Then it drew back and left my name sharp.
+
+I put down the pen and held out my hand. Crumble looked at it, wiped his palm on his slops, and took it.
+
+We shook once. Then the quartermaster jerked his head at the plank, and we went up it together, onto the first deck either of us had signed for.
+
+Beside me Crumble watched us go up. He did not say anything.
+
+Neither did I.
+
+---
+
+Crumble watched the two boys go over the brigantine’s rail. He did not follow them. He stayed at the foot of the plank, looking down at the water between the quay and the ship.
+
+It was turning red.
+
+It spread through the water the way the ink had spread on the barrel head. In a few breaths the whole harbour had gone red, from the quay to the point, and the air coming off it smelt of smoke.
+
+Behind us, the quartermaster was still reading the articles. No prey, no pay. His voice came from under the red water.
+
+Bonesy came and stood beside Crumble at the edge of the quay.
+
+“This way,” he said, and stepped off into it.
+
+Crumble jumped in after him. So did I.
+
+The water was hot. I went under, and it roared in my ears like a fire. When I came up I had my hands on the rail of a ship. I pulled myself over it.
+
+It was night, and the ship was burning.
+
+---
+
+There was no moon. A north wind was driving the smoke across the deck, and the foresail overhead was on fire, dropping pieces of itself onto the planking.
+
+She was a Spaniard, big and slow and low in the water. Our brigantine was the same Dutch-built ship we had boarded together at Tortuga. Now she was grappled to the Spaniard, iron hooks and taut lines holding the two hulls rail to rail. Our crew were pouring across, eighty of them near enough, with pistols going off and men shouting. The captain remained on our quarterdeck with a broad cutlass in his hand, watching the fight.
+
+I knew this night. It was off the Campeche coast, in our first year.
+
+Crumble stood beside me by the mainmast. Bonesy came and stood on his other side.
+
+I looked at Bonesy. His face had gone thin as the skin of an onion, and I could see his teeth through his cheek.
+
+He saw me look.
+
+“Had my looks for a morning,” he said. “More than most get.”
+
+---
+
+I knew most of our men by their backs. The one-eared quartermaster with a boarding axe. A big Dane we lost the next year off Cartagena. A boy from Bristol with a pike, who never shaved in his life and never would.
+
+Then I saw myself.
+
+I was eighteen. My head was shaved to the skin again over the old cut, and there was a white scar on my forearm I had not had at Tortuga. I had the old rapier out, and there was blood on it to the hilt.
+
+A Spanish sailor came out of the smoke with a hanger raised over his head. I caught the cut near the hilt, turned my wrist, and sent the hanger across the deck. I struck him in the mouth with the guard of my rapier, put him down, and stepped over him. Three movements. He never touched me.
+
+---
+
+Across the deck, Crumble turned toward the open hatch in the waist.
+
+“Crumble,” Bonesy said. “You’re supposed to be killing Spaniards.”
+
+Beside me, Crumble said nothing.
+
+I heard it too, under the shouting. Voices, coming up out of the hold with the smoke. A woman. A child crying. Somebody beating on wood from underneath.
+
+Crumble went to the hatch and looked down. Smoke came up out of it thick and yellow.
+
+He went down the ladder into it.
+
+We went to the edge of the hatch and looked down after him. I could see nothing but smoke and the red of the fire through the seams of the deck below.
+
+“There’s people,” Crumble shouted up. “There’s people chained down here!”
+
+Then another voice came up out of the hold. A girl’s. She was speaking Spanish, quick and hard, the way a bosun talks in a blow.
+
+“The key. The mate has the key. On his belt. The fat one, with the yellow sash.”
+
+The boy came back up the ladder with his eyes streaming. He looked round the deck.
+
+The mate was lying by the wheel with a pike through him. He was fat, and he had a yellow sash. Crumble ran to him, cut the key off his belt, and went back down the ladder.
+
+I heard the lock go.
+
+Then they came up.
+
+A small boy came first, coughing. Then a woman with her face black from the smoke. Then an old woman, slow, who could not climb, with the girl below her.
+
+The girl came up last.
+
+She was perhaps seventeen. She had both hands on the old woman’s back, and she pushed her up the ladder ahead of her rung by rung. Then she came up out of the smoke herself and stood on the deck.
+
+She did not look at the fire or the fighting. She looked at her people. There were three of them, and her. Then she said something in Maya, and they went where she pointed, out of the way of the fighting along the rail. She put the boy between the two women and stood in front of all three.
+
+She did all of that before she looked at Crumble.
+
+Crumble stood there with the key still in his hand.
+
+“Thank you,” she said, in English. Her English was slow and good.
+
+Beside me, Crumble watched her. He did not take his eyes off her.
+
+---
+
+By the time Crumble brought the last of them out, the Spaniards had surrendered. The fire had the whole of the ship forward. The men still alive were on their knees by the mainmast while our crew went round taking their knives and rings.
+
+The quartermaster walked along the kneeling men and picked out the ones worth something. An officer in a good coat. A fat man who said he was a merchant of Campeche and could pay. A priest. They were pulled out of the line and their hands tied, to be ransomed. The rest were left kneeling.
+
+Then he looked at the captives along the rail.
+
+“We’ve no room,” he said. “The hold’s full of what we took, and the ransoms go in the cable tier. Leave them. She’ll burn to the waterline but she won’t sink before the morning.”
+
+The girl by the rail understood him. I saw it in her face. She put her arm round the small boy who was coughing and held him against her.
+
+“No,” Crumble said.
+
+Everyone turned round.
+
+He went red to the ears. He was seventeen and the youngest man on that deck, and every one of them was looking at him. But he did not take it back.
+
+“We take them,” he said. “We put them ashore.”
+
+The black-bearded man beside the quartermaster laughed in his face. “And where do we put them? In your hammock?”
+
+A good few laughed with him. A good few did not. Somebody said Crumble was right. Somebody else told him to shut his mouth. Men began shouting across the deck at each other over the fire.
+
+I stood outside the shouting, looking at Crumble.
+
+My chest drew tight. Heat climbed my neck and went into my sword hand. They were laughing at him, and I wanted the laughter stopped.
+
+Half a year before that night we had lain becalmed off the Mosquito Coast for nineteen days, with the water gone green in the casks and the biscuit gone to weevils. I took the fever on the eighth day. I lay in my hammock and shook till the hammock shook with me, and I thought of my father and mother in their beds with the shutters closed, and of the bark that would have saved them, and I did not expect to get up.
+
+Crumble came every day. He brought me his biscuit and his ration of water and put them in my hands. He said he was not hungry. He sat on the deck by my hammock and talked about a girl, a village, and the rain until I slept.
+
+He was hungry. I could hear his belly from the hammock.
+
+I never thanked him. I did not know how.
+
+I had spent my life watching men under Spanish colours decide who got medicine, who got a commission, and who could be left in a burning hold. Crumble stood against them now. I knew which side of the deck I wanted.
+
+I walked into the middle of the shouting.
+
+I had put the rapier up after the fighting. I drew it again, slow, and the steel came out with a long scrape that every man on the deck heard over the fire.
+
+The shouting stopped.
+
+“We take them,” I said.
+
+I put the point toward the men around the quartermaster.
+
+“Anyone who has a problem with that can go through me.”
+
+The captain came down from the quarterdeck. He was past fifty, thick through the neck and shoulders, with a grey beard cut close to his jaw. Blue marks had been pricked into both forearms: a cross, three initials, and other shapes blurred by sun and age. His cutlass was broad through the belly and nicked all along its edge.
+
+He looked at Crumble, at the four Maya by the rail, and then at my rapier. His eyes went down to my feet.
+
+He raised the cutlass and pointed it at me.
+
+“I watch you practise with that Spanish needle every morning,” he said. “Same steps. Same pretty turns.”
+
+I kept the point on him.
+
+The captain almost smiled. “You’re still a soldier.”
+
+“I was never a soldier.”
+
+“You know how to beat the man in front of you. You still don’t know how to get what you want.”
+
+He looked at the prisoners.
+
+“A scoundrel changes the count.”
+
+He hooked the cutlass under his belt and drew a knife.
+
+“Let me teach you something.”
+
+He went behind the officer. One cut behind each knee. The officer screamed and fell onto his side. The captain did the same to the merchant, then held the knife out to me.
+
+He pointed at the priest.
+
+“Your turn.”
+
+I put away my rapier and took the knife. I went behind the priest. He began pleading before I touched him.
+
+My hand shook before I cut. I remember that now. When the blade pulled through the tendon, the backs of my own knees tightened and cold ran from my wrist to my shoulder. My fingers went numb round the handle. I had to lock my elbow to keep from dropping it. The priest screamed. I wiped the knife because the captain was watching. I did not look at Crumble.
+
+The captain pointed toward the rail. Our men dragged the officer, the merchant, and the priest across the deck and threw them over. None of the three came back up.
+
+He looked at the two boys, making sure we both heard him.
+
+“Room,” he said, “is made. Not found.”
+
+Crumble still had the key in his hand. He said nothing.
+
+The captain turned to the crew.
+
+“The Maya go in the cable tier. Any man wants to vote on it, vote now.”
+
+Nobody voted.
+
+Crumble went to the rail. After a moment I stood beside him. We watched the Spaniard burn without speaking.
+
+Behind us, the girl was watching me. She had seen me draw for Crumble. She had seen what I did when the captain handed me the knife. She looked at me a long time, and her face did not move.
+
+Years after, on a lake shore with three spears on me, she would tell me I still drew first. I had thought she meant that morning on the shore.
+
+---
+
+They put the captives ashore at first light.
+
+The sea lay flat and grey. Behind us, the Spanish ship burned low, her masts black against a roof of smoke. The smoke spread down across the hull until ship and water were hard to tell apart.
+
+The four Maya sat close in the longboat. The small boy slept across the old woman’s knees while the other woman held him steady. Crumble at sixteen pulled the bow oar. The girl sat on the thwart ahead of him with her back to him, watching the shore come nearer.
+
+We were in the boat too. Nobody had to make room for us.
+
+Bonesy sat in the stern sheets with his hands in his armpits. Beside me, Crumble stood with one hand on the gunwale. He was close enough to touch the girl. He did not.
+
+Halfway to the beach she turned round on the thwart and looked toward the bow.
+
+“My father would have liked you,” she said.
+
+At the bow, Crumble kept rowing. “Who’s your father?”
+
+“His name is Balam.”
+
+Neither of us knew the name then. The oar did not miss a stroke. Beside me, Crumble lowered his head.
+
+“He lives far upriver,” she said. “He does not teach men what to do. He shows them what they might become, if they are willing to see it. He turns most away.”
+
+She looked at Crumble over the oar.
+
+“You went into the fire for four people who were nothing to you. You can be more than another blade on a ship of thieves.”
+
+She tipped her head back at the smoke on the sea, and at the crew in the boat with rings on every finger.
+
+“If you want to know what else you can be, go upriver and find him. Tell him this.”
+
+She said two words in Maya. At the bow, Crumble said them back badly. She made him say them again till he had them.
+
+“The day I was born,” she said. “He will know you came from me.”
+
+They were the kind of words Crumble says under his breath every dawn with his face to the east. A number, and a day.
+
+At the bow, Crumble looked at her over the oar. He did not say he would.
+
+Beside me, Crumble’s lips moved with the words. He knew every one of them.
+
+The boat grounded. The woman went over the side into the shallows with the small boy, and the girl handed the old woman down to her. The girl went last. At the top of the beach, where the sand met the trees, she stopped and looked back once at the boat.
+
+Then she went in under the trees.
+
+---
+
+Crumble got out of the boat and stood in the shallows to his knees, looking at the place where she had gone in.
+
+The water round his legs went red again.
+
+It was not ink this time. It moved. It flickered. It was firelight, coming up through the sea from somewhere underneath, the way the light of a burning town comes up off its harbour at night.
+
+Bonesy waded past him out into it, to his waist, to his chest. He looked back at us from under the hat.
+
+“This way,” he said.
+
+He went under. Crumble went in after him. Then I did.
+
+---
+
+I came up in a river.
+
+It was brown and warm and slow, and it came to my chest. Trees leaned out over it from both banks and met overhead, and the light came down through them green. Somewhere upstream a woman was laughing.
+
+Crumble came up beside me. Bonesy was already standing in the shallows with the water running off his hat.
+
+I looked at him and then I looked away. There was next to nothing left of his face. The skin was over it still, but it had gone thin as a wet leaf, and the bone showed white through all of it. His hands were bone with a shine on them.
+
+---
+
+There was a village at the top of the bank.
+
+It was bigger than Amara’s island. There were thirty houses or more, set back from the river under the trees, with smoke coming up through the thatch. Gardens behind them. Canoes pulled up along the bank below.
+
+It was full of the strange.
+
+I had thought Amara’s island was the most of it I would ever see in one place. This was more. A woman knelt at the edge of the river with a canoe’s bow line in her hand, and she breathed out over the water, long and slow, and the canoe slid out from the bank against the current as if a man were pulling it. A big man was splitting wood in a yard, and his back was gone hard and ridged like a turtle’s, brown and gold in plates from his neck to his belt. Two girls, twins, sat in a doorway shelling beans. Their arms were scaled to the elbow like a mullet’s, and the scales took the light when they moved. A boy ran along the bank, and his shadow ran along the water beside him. It was the shadow of a heron, long legged, with its neck folded. An old man sat against a wall in the sun with green moss grown over his shoulders and down his arms like a coat, and the moss was in flower, small and white.
+
+None of them were frightening anybody. They were shelling beans and splitting wood.
+
+On the bank, a little way along from us, a man was sitting on an upturned canoe mending a net.
+
+He had the net across his knees and a bone needle in his fingers. He worked fast without looking. He was perhaps thirty, broad through the shoulders and lean everywhere else. The sun had leathered the skin of his face and arms and pulled it tight across his cheekbones. His black hair was tied at the back of his neck. A faded red sash was wound twice round his waist. I knew the knot and the frayed end hanging at his left hip. Crumble wore it now.
+
+Crumble had stopped breathing.
+
+“His hands,” he said.
+
+I looked at the hands. The needle went in and out.
+
+“That’s how he held the stick,” Crumble said. “When he hit my ankle. Every morning.” He took a step up the bank and stopped. “He’s young.”
+
+I had never seen Balam. I had seen Crumble wear his blade and say his name and stand in a lake at dawn for him. I looked at the man on the canoe for a long time and could not make him into any of that. He was a fisherman mending a net.
+
+A woman came down the bank to him with a child on her hip.
+
+The child was perhaps two. She had a fist in her mouth and her other hand in the woman’s hair. The woman said something to Balam and he laughed, and put the net down, and held his arms up. The child went to him.
+
+She looked over his shoulder, straight down the bank at the three of us. She had a long look for a child that size. She did not smile.
+
+Crumble made a sound.
+
+I knew that look. I had seen it over the top of a canoe on a lake, and across a burning deck, and across a leaf by lamplight. It was Amara’s.
+
+---
+
+Somebody called out in the village. A man had come out of the trees on the far side of the houses, walking.
+
+He was alone and on foot. He wore a plain brown cloak with the hood up, though the morning was warm. People turned to look at him, and when they saw who it was they called out to him. A boy ran to him and took his hand. An old woman came out of a doorway with her hands on her hips and said something to him, scolding, and pinched his arm through the cloak to show how thin it was. Everyone near her laughed.
+
+The man in the cloak laughed with them.
+
+I could hear him laugh. I could not see his face. The hood was forward, and he kept it turned away from us, and when he turned his head it was always away. I saw the back of the hood. I saw his hands, and his boots.
+
+The hands were clean. Not the clean of a man who has washed. The clean of a man who has never had to do anything with them but hold a pen and a sword, and has had servants for the rest. I had seen hands like that on every Spanish officer who ever came to inspect us at the academy.
+
+The boots were the same. Black, to the knee, with the tops turned down. I had seen the same boots on generals standing on the academy steps while we boys stood in rows below them.
+
+My hand had gone to my hilt before he had said a word.
+
+Balam had stood up on the bank with the child in his arms. He was looking at the man in the cloak.
+
+His smile vanished. He drew the child closer. One foot shifted behind the other, though his hands stayed open.
+
+Then I saw the boats.
+
+They were three launches, long and low, coming down the far bank of the river under the trees where the light did not reach. They were pulling slow and quiet with the oars muffled. Each one flew a small flag at the stern, white, with the red cross of Burgundy on it, the ragged cross. I had stood under that flag at morning muster for a year, and served under it, and did what it told me. There was a glint in the bow of each launch, and then another. Morions. Pike heads. The slow match of matchlocks, red in the green dark.
+
+I knew how to come up on a village from the water. It is my trade. I had done it myself, coming up under a bank where the watch looks the wrong way, while the people in the village look at a man walking in out of the trees.
+
+I shouted.
+
+I shouted it in English and in Spanish, and I put my arm out and pointed at the boats. A woman walked past me with a water jar on her head. She did not turn.
+
+“They can’t hear you,” Crumble said. He did not take his eyes off Balam.
+
+Balam had seen the boats too.
+
+He gave the child to the woman. He said one word to her, low, and she went white and went backward up the bank with the child held against her. Then he walked out into the open ground between the houses, toward the man in the cloak.
+
+He stopped a few paces from him.
+
+“You brought them here,” he said.
+
+I did not know his tongue, and I understood every word of it. The road gave it to me.
+
+The man in the cloak did not answer.
+
+He put his hand in under the cloak, and brought it out again.
+
+---
+
+There was a bell in it.
+
+It was small, no bigger than a man’s fist, with a short handle. It was black all over. It was not the black of iron that has been painted, or of bronze gone dark. It was dull, like charcoal, like the inside of a burned log, and it did not take the light. The sun was full on it and it did not shine. It looked cold, the way a stone at the bottom of a well looks cold.
+
+There were marks round the lip of it. I could not see what they were.
+
+He rang it once.
+
+It was one note.
+
+It was low, lower than a bell that size had any business making. I did not hear it so much as feel it, in my teeth and in the bones of my face, the way you feel a ship’s gun go off on the deck below you. It did not ring out and fall away the way a bell’s note goes. It went out and stayed.
+
+The smoke from the cook fires stopped leaning. It stood straight up into the trees, every column of it, as if the air had set hard round it.
+
+Beside me, Bonesy dropped to his knees. The last of the skin vanished from him. His arms came apart at the elbows, and the rest of him collapsed into a heap of bones. His hat landed on top.
+
+“Bonesy,” I said.
+
+The heap did not say anything. The note went on.
+
+---
+
+I watched the strange go out of the village.
+
+It did not go all at once. It went the way a fire goes out in rain, one place and then the next.
+
+The boy on the bank stopped running. He cried out and went down on his knees with both arms round his ribs, the way a man goes down when a pike shaft takes him in the belly. His shadow lay on the water beside him, a heron’s. Then it shrank in on itself like a wet sail coming down, and it was a boy’s shadow. He knelt there looking at it, with the tears running down his face.
+
+The twin girls in the doorway had dropped the beans. They were holding their arms out in front of them and crying. The scales on their arms had gone grey and dull and were coming away in flakes, the way the scales come off a fish left too long in the sun.
+
+The moss on the old man against the wall had gone brown. The white flowers fell off it all together, like snow off a branch, and he bent over his knees and could not get his breath.
+
+The woman at the river was breathing on her canoe. She breathed hard, and harder, at the water. The canoe sat where it was. She breathed again till her face went dark. Nothing moved.
+
+The big man with the turtle’s back stood in his yard with the axe in his hands. His back had cracked. It had gone dry and pale and split across the plates, the way a mud flat cracks in the sun.
+
+Then the soldiers came up out of the launches.
+
+More than forty soldiers came up the bank at a run, breastplates and pikeheads flashing between the trees. Two officers followed with their swords drawn. The village came apart in front of them.
+
+The big man planted himself in his doorway with the axe. The first pike went into him through the cracked plates as if he had been any man.
+
+The Spaniards had caught them in a net, but the village tore holes in it. They fought with digging sticks, stones, fish spears, an adze, and a pot of boiling water off a fire. I saw a soldier go down with a fish spear through the gap under his arm where the breastplate does not reach, and another go down with his face broken in by a stone. I saw an old woman with a digging stick put a soldier on his back in the dirt.
+
+But the village was badly outnumbered. The soldiers had pikes and powder, and the strange had gone out of everything.
+
+Balam had not moved from the open ground. He put his two hands together in front of his mouth, cupped, and spoke into them. I did not hear the words. His mouth moved fast and sure. Whatever he said, he had said it a thousand times.
+
+He opened his hands. There was nothing in them.
+
+He looked down at them.
+
+Crumble’s face had gone the colour of ash. I do not think he had known, until then, that there was anything that should have been in Balam’s hands.
+
+Then Balam had a blade. I did not see where it came from. It was short and broad and squared at the end, and he went into the soldiers with it, and I knew the way he went because I had watched Crumble go that way on a dozen decks. Only Balam did it better. Every step Crumble takes, Balam took first, and cleaner. He killed three of them before they could bring their pikes round.
+
+Beside me Crumble watched his own forms done better than he had ever done them.
+
+---
+
+The man in the cloak had not moved.
+
+When the third soldier went down, he put his hand in under the cloak again and drew a sword. It was a long Spanish blade with a cup hilt. He walked out into the open ground toward Balam without hurrying, and the soldiers stepped back to give him room.
+
+Balam turned to face him.
+
+He fought with the forms the academy had beaten into me, but faster and without a wasted inch. Every step put him exactly where he needed to be. Every cut ended close enough to strike again. My old master would have looked clumsy beside him.
+
+And he knew Balam. Wherever Balam went, the long blade was there first.
+
+Balam gave him a hard fight. Twice he drove the man in the cloak back across the open ground, and once his short blade went through the cloak at the shoulder and came out red. The man in the cloak only stepped back and came on again.
+
+Up on the bank the woman with the child had not got far. She was standing in front of a house with the child behind her legs and a fish spear in her hands.
+
+A soldier came at her with a pike.
+
+She did not run. She put the fish spear into the meat of his arm, and he roared and dropped the pike, and another came up behind him.
+
+The second pike took her under the ribs. She went down slowly, still holding the fish spear. The child stood behind her legs and watched.
+
+Balam heard her.
+
+He broke off. He turned his back on the long blade, in the middle of the fight, and ran for the bank.
+
+The man in the cloak let him go. He stood in the open ground with his point down and watched him run.
+
+Balam did not get there before it was done. He went past the soldier who had done it, and the soldier stepped back from him. He went down on his knees by the woman and put his hand on her face. Then he picked up the child.
+
+He stood up with the child against his chest and the blade still in his other hand, and the pikes came round to him. Six of them, from every side.
+
+The man in the cloak had walked up the bank behind them. He stood a little way off, with his back to us. Blood had come through the cloak at his shoulder.
+
+He lifted one clean hand.
+
+The pikes stopped. They stayed where they were, a hand’s width from Balam, and did not go in.
+
+Balam looked at the man in the cloak over the heads of the soldiers. I could see his face. I could not see the other one.
+
+“I taught you everything I knew,” Balam said. “These people are innocent.”
+
+“Innocent,” the man in the cloak said. “A woman breathes and the river moves. A boy runs and a bird runs with him. Who holds the rein on that?” He looked round at the burning houses. “Not the King. Not the Church. Not you. Nobody. And what nobody holds, nobody can stop.”
+
+“That is not why you came.”
+
+“No,” the man in the cloak said. “That is why I will keep coming.”
+
+He turned and walked away through the burning houses. He walked back into the trees the way he had come out of them, alone, on foot, with the hood up. The soldiers lowered their pikes and went after him.
+
+Nobody ever saw his face. Not the village, and not us.
+
+The note stopped.
+
+---
+
+It did not fade. It stopped, the way a rope stops when it is cut.
+
+The smoke leaned over again in the wind.
+
+At my feet the heap in the path moved.
+
+Crumble went down on his knees by it. He pulled his shirt off over his head and spread it on the ground and put the bones on it, quick, the long ones and the little ones. He had half of them on it when they moved under his hands.
+
+They were moving toward each other. A finger bone slid across the shirt to the hand it belonged to and fitted itself on. The arm bones found the elbows. The ribs came in round the spine like a hull coming together on the stocks.
+
+Then he was sitting up in the middle of Crumble’s shirt.
+
+He was not bones. He was not a man either. He was most of the way between. There was skin on him again in patches, brown, the way there are patches of snow left on a hillside in spring. One hand had a back to it. Half his face had a cheek. One brown eye looked out at us from under the hat, and the other socket was empty.
+
+“Fellas,” he said.
+
+It was his voice, gone small as a cricket’s.
+
+“Easy,” he said, when Crumble reached for him. “Easy. I’m in a lot of pieces.”
+
+---
+
+The village went grey and thin, like breath on a cold morning, and was gone.
+
+All of it but one man.
+
+Balam was standing in the open ground where the village had been, in the grey, with nothing round him. The child was gone from his arms. He had let them fall to his sides.
+
+He looked across the open ground at the three of us.
+
+He looked straight at Crumble. Not through him, the way the woman with the water jar had looked through me. At him.
+
+Then he walked over.
+
+He crossed the open ground at an easy pace and stopped in front of Crumble. Crumble was taller than him by half a head. I had never known that.
+
+“I knew I’d see you here eventually,” Balam said.
+
+Crumble did not say anything. He stood there with his shirt off and his arms at his sides, and his hands were shaking.
+
+“Who was that?” Crumble said.
+
+Balam did not answer. He looked past Crumble, down at Bonesy, who was sitting in the grey with half a face and his hat on. He looked at him a long time.
+
+“We don’t have time, Crumble,” he said. He said it gently. “This isn’t another lesson. I have no more to teach you.”
+
+Crumble’s jaw worked.
+
+“I’ve made a great many mistakes,” Balam said. He put his hand against the side of Crumble’s face and held it there. “You, my friend, are not one of them.”
+
+He took the hand away.
+
+“Not yet, at least.”
+
+The corner of his mouth went up. I had seen that same corner go up on Crumble a thousand times and never known where he got it.
+
+Then he looked at me.
+
+“I’ve seen your work with a blade,” he said. “On a Spanish deck, two summers before he came to me. He told me about it.” He tipped his head at Crumble. “He did not tell me it all. He didn’t have to.”
+
+I did not say anything.
+
+He looked at me a while longer. At my face, and my hands.
+
+“I knew a man once who read the water the way you do,” he said. “Long ago, on the coast. He had your eyes.”
+
+I opened my mouth. He had already turned away.
+
+He looked down at Bonesy, sitting in the grey in the middle of Crumble’s shirt with half a face and one eye.
+
+“And you,” Balam said. “The old men in my village told a story about a farmer who carried jars down to the priests. They said he went into the cellar one day and never came out, and never stopped coming back.” The corner of his mouth went up again. “I always thought it was a story for frightening children.”
+
+“It is,” Bonesy said.
+
+Balam looked at the three of us, one after another.
+
+“Let me guess,” he said. “You’re after the codex.”
+
+---
+
+Crumble did not answer him straight off.
+
+He stood there with his shirt off in the grey, and his arms at his sides, and looked at Balam the way I have seen men look at land after a long passage. As if he did not trust it to stay.
+
+“Yes,” he said.
+
+“Of course you are.” Balam did not sound surprised. He sounded tired. “What have you found?”
+
+“A leaf. Out of a cave on the half moon, behind a pool.” Crumble’s voice was steady. “A road painted on it, going north up the coast. Seven days. It stops by the long island. There’s a sign at the end of it.”
+
+“Show me.”
+
+Crumble crouched and drew it in the grey with his finger. The grey took the line the way wet sand does. A face, side on, with its mouth open and curls coming out of it.
+
+Balam looked down at it a long time.
+
+“I looked for this map for twenty years,” he said. He crouched beside Crumble and put his finger on the curls. “That is not breath. That is song.”
+
+“A place that sings.”
+
+“A stone that sings. On the long island, on the south point, where the old women went in their canoes to ask the goddess for children. My grandfather heard it once, when he was a boy.” He looked up at Crumble. “It sings when the north wind comes. Only then. Go in a norther.”
+
+“That’s all?”
+
+“That is all I have.” Balam stood up and wiped his finger on his thigh. “The rest of it you will have to find. Amara will know more than I do. She always did.”
+
+Crumble stood up too.
+
+Balam turned to me.
+
+“And Jigsaw,” he said. “Your father says hello.”
+
+Then he looked at Crumble again, as if he had said nothing at all.
+
+---
+
+Far off, so far I thought I had made it up, I heard the drum.
+
+It was one stroke, and then nothing, and then another. Slower than it had been on the lake. Fainter.
+
+The grey round us was getting lighter. It was not the light of a sun coming up. It was a pale light with no place it came from, like the light under water in the morning when you look up from the bottom of a bay. And there was a smell in it, faint, sweet and heavy, that I knew.
+
+The lilies.
+
+Balam smelt it too. He lifted his head.
+
+“They are opening,” he said.
+
+He looked at Crumble. He put his hand up once more, and this time he did not lay it on his face. He put it on his shoulder and gripped it, hard, the way Crumble grips. The way Crumble has gripped my hand across a leaf with his knuckles going white.
+
+He let go first.
+
+Then he turned round and walked away into the grey.
+
+He walked the way he had walked across the open ground to us, not hurrying. The grey took him a little at a time. His feet first, then his legs.
+
+Crumble took a step after him and stopped.
+
+When Balam was nearly gone, he stopped too. He did not turn all the way round. He turned his head, and found Bonesy sitting in the middle of Crumble’s shirt with half a face and one eye, and the hat on.
+
+“You’re the first dead man I’ve met down here who looks worse than I do,” he said.
+
+Bonesy opened his jaw. Then he shut it again.
+
+Then the grey had all of him.
+
+Crumble stood looking at the place where he had been.
+
+I looked round for Bonesy.
+
+He was standing in Crumble’s shirt, and he was bones again. All of him. The patches of skin were gone, and the brown eye, and the cheek. There was a skeleton in a black hat, the one I had known for a year, with his jaw hanging a little open.
+
+“There you are,” I said.
+
+“Here I am,” he said.
+
+Then the grey cracked.
+
+It cracked under our feet the way the glaze cracks on a pot left too near the fire, all at once, in a net of lines. Pieces of it went up at the edges and fell away into nothing. The pale light went out of it. The ground I was standing on went the way a sand cliff goes when the sea has been at the foot of it all winter, slow, and then all at once.
+
+I fell.
+
+---
+
+The sun was in my eyes.
+
+It was high and white and straight overhead. I was lying on my back on wet boards, and the boards were rocking. My mouth tasted of bark and old honey. There was a weight across my legs.
+
+I turned my head.
+
+The lake was all round us, flat and bright, and on every side of the canoe the lilies were open. Every one of them. White, with the yellow in the middle, wide as my two hands, from the canoe to the far shore.
+
+There was no drum.
+
+The weight on my legs was Bonesy’s arm bones. He was lying between us in the middle of the canoe with his hat over his face, the way he had lain down the night before. On his other side Crumble was lying on his back with his eyes open, looking straight up into the sun, and not blinking.
+
+It was noon.
 
 ## Chapter 7 · The Patrol
 

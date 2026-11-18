@@ -4,11 +4,11 @@ title: Bonesy's Field
 pov: Jigsaw, first person, past
 place: A maize field on the road, then an English lane
 when: Dawn on the road
-status: draft, confirmed by Aydin 2026-11-16
-words: 1066
+status: confirmed by Aydin 2026-11-18
+words: 996
 ---
 
-<!-- BEAT: Jigsaw wakes in a furrow between rows of maize. Nothing holds his wrist. The night in pieces: the torches, the fisherman's canoe, the gourd from Amara, sour, honey and bark and lilies, Crumble watching him drink, the antler on the shell, Bonesy's cold fingers. Crumble in the next furrow. A man with his back to them: "Fellas." They know the voice at once. Bonesy is a man: short, bowed, a bent nose, two teeth gone, brown eyes where Jigsaw has seen daylight. Crumble swears. He breathes. Jigsaw's hand on his shoulder: warm. "Don't get ideas." Hands in the earth. "Smaller than I remember." The hat came with him. Jigsaw's hand goes through a cob; they are only visiting. A house, a young woman with an English face grinding maize and singing, and Jigsaw understands every word. Crumble goes ahead toward her; Bonesy keeps his eyes on the path. Jigsaw looks back and sees the academy, his old fencing master on the steps shaking his head. The maize turns to a muddy English lane in the rain, Bonesy's arm round Crumble. "I know this lane." A village below, a house with an open door, a woman singing inside. -->
+<!-- BEAT: Jigsaw wakes in a furrow between rows of maize. Nothing holds his wrist. The night in pieces: the torches, the fisherman's canoe, the gourd from Amara, sour, honey and bark and lilies, Crumble watching him drink, the antler on the shell, Bonesy's cold fingers. Crumble in the next furrow. A man with his back to them: "Fellas." They know the voice at once. Bonesy is a man: short, bowed, a bent nose, two teeth gone, brown eyes where Jigsaw has seen daylight. Crumble swears. He breathes. Jigsaw's hand on his shoulder: warm. "Don't get ideas." Hands in the earth. "Smaller than I remember." The hat came with him. Two English children run out of the maize, a boy with a stick for a cutlass and a black-haired girl singing after him; Crumble stops, then goes on ahead, faster. Bonesy keeps his eyes on the path. Jigsaw looks back and sees the academy, his old fencing master on the steps shaking his head. The maize turns to a muddy English lane in the rain, Bonesy's arm round Crumble. "I know this lane." A village below, a house with an open door, a woman singing inside. -->
 
 I opened my eyes and looked down. There was red earth under me. I was lying in a furrow between two rows of maize.
 
@@ -68,53 +68,39 @@ It sat lower on him now. There was a head under it.
 
 ⸻
 
-He got up and went along the row. We went after him.
+We began walking out through the maize. Bonesy led, and Crumble and I followed.
 
-The maize brushed my shoulders on both sides and left them wet. A cob hung out into the row at the height of my face, fat and yellow at the end where the husk had split. I reached up to break it off.
-
-My hand closed on nothing.
-
-The cob was there. I could see the dew on it. My fingers went through it the way they go through the smoke over a fire, and came out the other side dry.
-
-I stood there with my hand up.
-
-Bonesy had stopped and was looking back at me.
-
-“Can’t,” he said.
-
-“You put your hands in the dirt.”
-
-“You’re only visiting.”
-
-Crumble put his hand out to a leaf as he passed. It went through. He took the hand back and put it on his sash.
+The maize brushed my shoulders on both sides and left them wet.
 
 The row came out onto a path. It was beaten earth, red like the rest, running along the edge of the field.
 
-The path ran on to a house.
+Two children came running out of the maize ahead of us.
 
-It had a thatched roof and a little yard. A dog lay by the door. A woman was kneeling in the doorway at a grinding stone. She was young. Her face was an English face, pale under the sun, with freckles across the nose and a mouth that turned up at one corner. Her black hair fell over one shoulder as she worked.
+They were a boy and a girl, eight or nine years old, and they did not belong there. They had English faces, burnt red across the nose. The boy was barefoot and had a stick held up over his head like a cutlass. He was shouting that he was captain and she was to strike her colours. The girl ran after him with her black hair flying out behind her. She was laughing, and then she was singing at him.
 
-She was singing.
+As the girl passed us, Crumble began singing with her, low enough that I almost missed it.
 
-The rain comes over the hill. The rain goes over the hill. The maize stands. My man is late. The maize stands.
+The children ran across the path and into the maize on the other side. The stalks shook where they had gone in, and then stopped.
 
-I did not know the language, but I understood every word.
+Crumble had stopped in the path. He stood looking at the place where the maize had closed behind them.
 
-Crumble quickened his pace until he was ahead of us. He could not take his eyes off her. His eyes were full of happiness and longing. There was regret in them too.
+He kept singing after she was gone.
+
+Then he went on faster, ahead of us.
 
 Bonesy kept his eyes on the path and did not change his pace. I kept mine with him.
 
 I turned and looked back across the field we had come through. Beyond the maize stood the academy.
 
-My old fencing master stood at the top of the steps with his cane under one arm, the way he stood every morning when I was a boy.
+My old fencing master stood at the top of the steps with his cane under one arm, exactly as he had every morning when I was a boy.
 
 He looked down at me and shook his head.
 
-I blinked. There was only maize behind us. When I turned forward again, the house was still at the end of the path. Crumble was still walking toward her.
+I blinked. There was only maize behind us. When I turned forward again, Crumble was well ahead of us on the path. He was still looking into the maize where the children had gone.
 
 The path rose onto a low hill. Bonesy caught up with Crumble and put an arm round his shoulders as we walked.
 
-I blinked. The maize was gone. The same path was now a muddy lane between two hedges. Rain was hitting my shoulders.
+The maize came apart around us in flecks of grey. The flecks drifted to either side of the path and gathered into hedges. Red earth darkened under our feet until it was mud. Then rain began hitting my shoulders.
 
 Bonesy still had his arm round Crumble. Crumble was looking down the lane.
 

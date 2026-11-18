@@ -672,3 +672,37 @@ Still open:
   a second appearance (flag of 2026-11-16 in `notes/continuity-flags.md`).
 - Where the planned 6.3 to 6.6 go: Four Roads, the Student, the Burning, and
   Jigsaw's apothecary drawer.
+
+## Rulings, 2026-11-17 (Aydin), the road
+
+- **The road takes back what you have passed.** Behind them each stop goes
+  grey and soft like wet ash and comes apart. You cannot go back to a stop.
+- **Bonesy fades off his own ground.** Away from his field his skin thins
+  like wet paper; by Tortuga the bone shows through the back of his hand.
+  A quiet limit on the journey.
+- **The ink on the articles** runs like blood in water and draws back; the
+  boys' names stay sharp, the names of the crew's dead have run to blots.
+- Hands no longer pass through what is not yours on the road. 6.2's cob
+  passage is cut.
+
+## Rulings, 2026-11-17 (Aydin), the shape of Crumble's road
+
+- **Anne married at nineteen is cut** from the road. It reveals too much of
+  Crumble too early. Crumble's road is now: Anne and the leaving, Tortuga
+  and the articles, the raid and Amara, the bell, Balam.
+- **The bell breaks Bonesy apart in the vision.** When the student rings it,
+  Bonesy drops and comes apart into bones on the road, and the brothers carry
+  him on to Balam. Plants the capture, where the same bell does the same.
+- **How the road moves (proposed by Claude, not objected to):** Bonesy opens
+  every door, by feel; every door costs him (the fading); every door is
+  water (rain-river, harbour, sea, river). After each jump Jigsaw names
+  where and when.
+- The bell sits straight after Amara and straight before Balam. At the end
+  of it Balam looks up through the smoke and knows Crumble.
+
+## Ruling, 2026-11-17 (Aydin)
+
+**Balam appears twice:** on the road at the end of 6.5, where he knows
+Crumble and talks to him, and in the hold vision in chapter 9. This
+overrules the 2026-10-28 second-round ruling that the ceremony Balam is
+only the past replaying.

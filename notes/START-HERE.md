@@ -30,7 +30,7 @@ Eleven chapters, about 115,000 words planned.
 3. The Cay, drafted
 4. The Half Moon, drafted
 5. The Hidden Village, drafted through 5.4 The Sign
-6. The Road Under the Lilies (the ceremony), drafting: 6.1 Honey and 6.2 Bonesy's Field done
+6. The Road Under the Lilies (the ceremony), drafting: 6.1 to 6.6 done (Honey, and the road through Bonesy's field, Anne, the raid, the bell, Balam); 6.7, waking and Ah Pech, next
 7. The Patrol, drafted ahead, to revise
 8. The Singing Shrine
 9. The Hold
